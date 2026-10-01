@@ -672,7 +672,24 @@ def main():
     urls = "".join(f"<url><loc>{SITE_URL}{p}</loc><lastmod>{today}</lastmod></url>" for p in sorted(pages) if not p.endswith(".html"))
     open(os.path.join(OUT, "sitemap.xml"), "w").write(f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>')
     open(os.path.join(OUT, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")
+    # RSS feed of recently added films
+    from email.utils import format_datetime
+    def _rfc(d):
+        try:
+            y, m, dd = (int(x) for x in d[:10].split("-"))
+            return format_datetime(datetime.datetime(y, m, dd, 9, 0, tzinfo=datetime.timezone.utc))
+        except Exception:
+            return format_datetime(datetime.datetime.now(datetime.timezone.utc))
+    items = "".join(
+        f"<item><title>{esc(f['title'])} ({f['year']})</title><link>{SITE_URL}{f['url']}</link>"
+        f"<guid>{SITE_URL}{f['url']}</guid><pubDate>{_rfc(f['added'])}</pubDate>"
+        f"<description>{esc(f['excerpt'])}</description></item>"
+        for f in by_added(FILMS)[:20])
+    open(os.path.join(OUT, "feed.xml"), "w", encoding="utf-8").write(
+        f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>What Algo Missed</title>'
+        f'<link>{SITE_URL}/</link><description>Films the algorithm missed</description>{items}</channel></rss>')
     redirects = {
+        "/feed": "/feed.xml",
         "/danish-cinema-a-personal-map/": "/lists/danish-cinema/",
         "/italia-bel-paese-brutte-storie/": "/lists/italian-cinema/",
         "/iranian-cinema-against-the-wall/": "/lists/iranian-cinema/",
