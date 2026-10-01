@@ -451,11 +451,13 @@ def build_film(f):
     awards = "".join(f"<li>{esc(a)}</li>" for a in f["awards"])
     trailer = ""
     if f["yt"]:
-        trailer = f"""<div class="trailer" onclick="this.innerHTML='&lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/{f['yt']}?autoplay=1&amp;rel=0&quot; allow=&quot;autoplay; encrypted-media; picture-in-picture; fullscreen&quot; allowfullscreen title=&quot;Trailer&quot;&gt;&lt;/iframe&gt;'">
-  {img_tag(f['img_fb'] if f.get('image') else f['img'], f['img_fb'], f['title'] + ' trailer')}
-  <button class="play" aria-label="Play trailer"></button>
-  <span class="trailer-label">Watch the trailer</span>
-</div>"""
+        yurl = f"https://www.youtube.com/watch?v={f['yt']}"
+        still = f"https://i.ytimg.com/vi/{f['yt']}/maxres2.jpg"
+        still_fb = f"https://i.ytimg.com/vi/{f['yt']}/hq2.jpg"
+        trailer = f"""<figure class="still">
+  <a href="{yurl}" target="_blank" rel="noopener">{img_tag(still, still_fb, f['title'] + ' — still')}</a>
+</figure>
+<p class="trailer-link"><a href="{yurl}" target="_blank" rel="noopener">▶ Watch the trailer on YouTube ↗</a></p>"""
     # related: same first list, closest rating, excluding self
     rel = []
     if f["lists"]:
