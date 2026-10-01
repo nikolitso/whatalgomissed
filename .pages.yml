@@ -1,0 +1,129 @@
+# Editing screen for whatalgomissed.com — open https://app.pagescms.org and pick this repository.
+media:
+  input: static/images
+  output: /images
+
+content:
+  - name: films
+    label: Films
+    type: collection
+    path: content/films
+    filename: "{primary}.md"
+    view:
+      primary: title
+      fields: [title, year, rating]
+      sort: added
+      order: desc
+    fields:
+      - name: title
+        label: Title (English)
+        type: string
+        required: true
+      - name: original_title
+        label: Original title
+        type: string
+      - name: year
+        label: Year
+        type: number
+        required: true
+      - name: director
+        label: Director
+        type: string
+      - name: country
+        label: Country
+        description: "One country, e.g. Denmark. For co-productions: Germany/Turkey"
+        type: string
+        required: true
+      - name: rating
+        label: My rating
+        type: select
+        options:
+          values: ["5", "4.5", "4", "3.5", "3", "2.5", "2"]
+      - name: lists
+        label: Lists
+        description: The first one is the main list.
+        type: select
+        options:
+          multiple: true
+          values:
+          - "Danish Cinema"
+          - "Italian Cinema"
+          - "Greek Cinema"
+          - "Iranian Cinema"
+          - "Middle Eastern Cinema"
+          - "Nordic Cinema"
+          - "Europa"
+          - "World Cinema"
+          - "Sport Cinema"
+          - "On Cinobo"
+      - name: festivals
+        label: Festivals & awards (for categories)
+        type: select
+        options:
+          multiple: true
+          values:
+          - Cannes
+          - Berlinale
+          - Venice
+          - Oscars
+          - Sundance
+          - Toronto
+          - Thessaloniki
+          - Tribeca
+      - name: awards
+        label: Awards (shown on the page)
+        description: "e.g. Palme d'Or · Cannes"
+        type: string
+        list: true
+      - name: trailer
+        label: YouTube trailer link
+        type: string
+      - name: image
+        label: Still image (optional — otherwise the trailer still is used)
+        type: image
+      - name: added
+        label: Date added
+        type: date
+      - name: body
+        label: Review
+        type: rich-text
+
+  - name: lists
+    label: Lists
+    type: collection
+    path: content/lists
+    view:
+      primary: title
+      sort: order
+      order: asc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: subtitle
+        label: Subtitle
+        type: string
+      - name: tagline
+        label: One-line tagline
+        type: string
+      - name: order
+        label: Order on the site
+        type: number
+      - name: link
+        label: Letterboxd / Cinobo link
+        type: string
+      - name: body
+        label: Introduction
+        type: rich-text
+
+  - name: about
+    label: About page
+    type: file
+    path: content/pages/about.md
+    fields:
+      - name: title
+        type: string
+      - name: body
+        label: Text
+        type: rich-text

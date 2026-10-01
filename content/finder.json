@@ -1,0 +1,1083 @@
+[
+ {
+  "film": "the-sons-room",
+  "mood": [
+   "devastating"
+  ],
+  "region": [
+   "south"
+  ],
+  "theme": [
+   "family"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow",
+   "any"
+  ],
+  "protagonist": [
+   "man",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "any"
+  ]
+ },
+ {
+  "film": "the-best-of-youth",
+  "mood": [
+   "devastating",
+   "warm"
+  ],
+  "region": [
+   "south"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow",
+   "any"
+  ],
+  "protagonist": [
+   "ensemble",
+   "man",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "any"
+  ]
+ },
+ {
+  "film": "the-hunt",
+  "mood": [
+   "tense",
+   "devastating",
+   "political"
+  ],
+  "region": [
+   "north"
+  ],
+  "theme": [
+   "society",
+   "identity"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "man",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "any"
+  ]
+ },
+ {
+  "film": "the-celebration",
+  "mood": [
+   "tense",
+   "devastating"
+  ],
+  "region": [
+   "north"
+  ],
+  "theme": [
+   "family"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "ensemble",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "any"
+  ]
+ },
+ {
+  "film": "another-round",
+  "mood": [
+   "warm",
+   "devastating"
+  ],
+  "region": [
+   "north"
+  ],
+  "theme": [
+   "identity",
+   "family"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "medium",
+   "light"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "ensemble",
+   "man",
+   "any"
+  ],
+  "recognition": [
+   "oscar",
+   "any"
+  ]
+ },
+ {
+  "film": "brothers",
+  "mood": [
+   "devastating",
+   "tense"
+  ],
+  "region": [
+   "north"
+  ],
+  "theme": [
+   "family",
+   "identity"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "man",
+   "ensemble",
+   "any"
+  ],
+  "recognition": [
+   "hidden",
+   "any"
+  ]
+ },
+ {
+  "film": "a-separation",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "region": [
+   "middle-east"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow",
+   "any"
+  ],
+  "protagonist": [
+   "ensemble",
+   "woman",
+   "any"
+  ],
+  "recognition": [
+   "oscar",
+   "any"
+  ]
+ },
+ {
+  "film": "omar",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "region": [
+   "middle-east"
+  ],
+  "theme": [
+   "identity",
+   "crime"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "man",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "any"
+  ]
+ },
+ {
+  "film": "capernaum",
+  "mood": [
+   "devastating",
+   "political"
+  ],
+  "region": [
+   "middle-east"
+  ],
+  "theme": [
+   "society",
+   "identity"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow",
+   "any"
+  ],
+  "protagonist": [
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "oscar",
+   "any"
+  ]
+ },
+ {
+  "film": "parasite",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "region": [
+   "world"
+  ],
+  "theme": [
+   "society",
+   "crime"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "ensemble",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "oscar",
+   "any"
+  ]
+ },
+ {
+  "film": "shoplifters",
+  "mood": [
+   "devastating",
+   "warm"
+  ],
+  "region": [
+   "world"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow",
+   "any"
+  ],
+  "protagonist": [
+   "ensemble",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "any"
+  ]
+ },
+ {
+  "film": "perfect-strangers",
+  "mood": [
+   "tense",
+   "warm"
+  ],
+  "region": [
+   "south"
+  ],
+  "theme": [
+   "family",
+   "identity"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "ensemble",
+   "any"
+  ],
+  "recognition": [
+   "hidden",
+   "any"
+  ]
+ },
+ {
+  "film": "human-capital",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "region": [
+   "south"
+  ],
+  "theme": [
+   "society",
+   "crime"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "medium",
+   "hard"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "ensemble",
+   "any"
+  ],
+  "recognition": [
+   "hidden",
+   "any"
+  ]
+ },
+ {
+  "film": "suburra",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "region": [
+   "south"
+  ],
+  "theme": [
+   "crime",
+   "society"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "man",
+   "any"
+  ],
+  "recognition": [
+   "hidden",
+   "any"
+  ]
+ },
+ {
+  "film": "holy-spider",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "region": [
+   "middle-east"
+  ],
+  "theme": [
+   "society",
+   "crime"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "woman",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "any"
+  ]
+ },
+ {
+  "film": "the-seed-of-the-sacred-fig",
+  "mood": [
+   "political",
+   "devastating",
+   "tense"
+  ],
+  "region": [
+   "middle-east"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow",
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "ensemble",
+   "woman",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "any"
+  ]
+ },
+ {
+  "film": "romanzo-criminale",
+  "mood": [
+   "tense",
+   "devastating"
+  ],
+  "region": [
+   "south"
+  ],
+  "theme": [
+   "crime",
+   "society"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "ensemble",
+   "man",
+   "any"
+  ],
+  "recognition": [
+   "hidden",
+   "any"
+  ]
+ },
+ {
+  "film": "force-majeure",
+  "mood": [
+   "tense",
+   "devastating"
+  ],
+  "region": [
+   "north"
+  ],
+  "theme": [
+   "family",
+   "identity"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow",
+   "any"
+  ],
+  "protagonist": [
+   "man",
+   "ensemble",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "any"
+  ]
+ },
+ {
+  "film": "woman-at-war",
+  "mood": [
+   "warm",
+   "political"
+  ],
+  "region": [
+   "north"
+  ],
+  "theme": [
+   "identity",
+   "society"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "medium",
+   "light"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "woman",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "any"
+  ]
+ },
+ {
+  "film": "all-we-imagine-as-light",
+  "mood": [
+   "warm",
+   "devastating"
+  ],
+  "region": [
+   "world"
+  ],
+  "theme": [
+   "identity",
+   "family"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow",
+   "any"
+  ],
+  "protagonist": [
+   "woman",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "any"
+  ]
+ },
+ {
+  "film": "the-hand-of-god",
+  "mood": [
+   "devastating",
+   "warm"
+  ],
+  "region": [
+   "south"
+  ],
+  "theme": [
+   "family",
+   "identity"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow",
+   "any"
+  ],
+  "protagonist": [
+   "man",
+   "any"
+  ],
+  "recognition": [
+   "hidden",
+   "any"
+  ]
+ },
+ {
+  "film": "chevalier",
+  "mood": [
+   "warm",
+   "tense"
+  ],
+  "region": [
+   "south"
+  ],
+  "theme": [
+   "identity",
+   "society"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "medium",
+   "light"
+  ],
+  "pace": [
+   "slow",
+   "any"
+  ],
+  "protagonist": [
+   "man",
+   "ensemble",
+   "any"
+  ],
+  "recognition": [
+   "hidden",
+   "any"
+  ]
+ },
+ {
+  "film": "a-man-of-integrity",
+  "mood": [
+   "political",
+   "tense"
+  ],
+  "region": [
+   "middle-east"
+  ],
+  "theme": [
+   "society",
+   "identity"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow",
+   "any"
+  ],
+  "protagonist": [
+   "man",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "any"
+  ]
+ },
+ {
+  "film": "the-secret-in-their-eyes",
+  "mood": [
+   "tense",
+   "devastating"
+  ],
+  "region": [
+   "world"
+  ],
+  "theme": [
+   "crime",
+   "identity"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "medium",
+   "hard"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "man",
+   "any"
+  ],
+  "recognition": [
+   "oscar",
+   "any"
+  ]
+ },
+ {
+  "film": "caramel",
+  "mood": [
+   "warm"
+  ],
+  "region": [
+   "middle-east"
+  ],
+  "theme": [
+   "identity",
+   "family"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "slow",
+   "any"
+  ],
+  "protagonist": [
+   "woman",
+   "ensemble",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "hidden",
+   "any"
+  ]
+ },
+ {
+  "film": "asia",
+  "mood": [
+   "devastating"
+  ],
+  "region": [
+   "middle-east"
+  ],
+  "theme": [
+   "family",
+   "identity"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow",
+   "any"
+  ],
+  "protagonist": [
+   "woman",
+   "any"
+  ],
+  "recognition": [
+   "hidden",
+   "any"
+  ]
+ },
+ {
+  "film": "working-woman",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "region": [
+   "middle-east"
+  ],
+  "theme": [
+   "society",
+   "identity"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "woman",
+   "any"
+  ],
+  "recognition": [
+   "hidden",
+   "any"
+  ]
+ },
+ {
+  "film": "soul-kitchen",
+  "mood": [
+   "warm"
+  ],
+  "region": [
+   "north"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "man",
+   "any"
+  ],
+  "recognition": [
+   "hidden",
+   "any"
+  ]
+ },
+ {
+  "film": "the-traitor",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "region": [
+   "south"
+  ],
+  "theme": [
+   "crime",
+   "identity"
+  ],
+  "era": [
+   "recent",
+   "any"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "man",
+   "any"
+  ],
+  "recognition": [
+   "cannes",
+   "any"
+  ]
+ },
+ {
+  "film": "the-great-beauty",
+  "mood": [
+   "devastating",
+   "warm"
+  ],
+  "region": [
+   "south"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow",
+   "any"
+  ],
+  "protagonist": [
+   "man",
+   "any"
+  ],
+  "recognition": [
+   "oscar",
+   "any"
+  ]
+ },
+ {
+  "film": "diaz",
+  "mood": [
+   "political",
+   "devastating"
+  ],
+  "region": [
+   "south"
+  ],
+  "theme": [
+   "society"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive",
+   "any"
+  ],
+  "protagonist": [
+   "ensemble",
+   "any"
+  ],
+  "recognition": [
+   "hidden",
+   "any"
+  ]
+ },
+ {
+  "film": "where-do-we-go-now",
+  "mood": [
+   "warm",
+   "political"
+  ],
+  "region": [
+   "middle-east"
+  ],
+  "theme": [
+   "society",
+   "identity"
+  ],
+  "era": [
+   "classic",
+   "any"
+  ],
+  "intensity": [
+   "medium",
+   "light"
+  ],
+  "pace": [
+   "any"
+  ],
+  "protagonist": [
+   "woman",
+   "ensemble",
+   "any"
+  ],
+  "recognition": [
+   "hidden",
+   "any"
+  ]
+ }
+]
