@@ -318,7 +318,6 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
     </div>
     <nav class="foot-nav">{nav}<a href="{LETTERBOXD}">Letterboxd</a></nav>
   </div>
-  <div class="wrap foot-base">© {year} Antonis Nikolitsopoulos · Thessaloniki</div>
 </footer>
 </body>
 </html>"""
