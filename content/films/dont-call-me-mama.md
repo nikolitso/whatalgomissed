@@ -2,7 +2,8 @@
 title: Don't Call Me Mama
 original_title: Se meg
 year: 2025
-country: " Nina Knag"
+director: "Nina Knag"
+country: "Norway"
 rating: "4.5"
 lists:
   - Nordic Cinema
@@ -11,8 +12,6 @@ trailer: https://youtu.be/5kH3148Xrq8?si=hk2ane243pzqVHY4
 image: /images/m29441zmur3o.jpg
 added: 2026-10-02
 ---
-## Don’t Call Me Mama (Se Meg) — Nina Knag, 2025
-
 Nina Knag’s *Don’t Call Me Mama* takes an initially familiar premise — a middle-aged woman becoming involved with a young asylum seeker — and turns it into something considerably more uncomfortable and unpredictable. What begins as a story about compassion, loneliness and integration gradually mutates into a tense psychosexual thriller about desire, power and self-interest.
 
 Eva, played with considerable vulnerability and volatility by Pia Tjelta, is a volunteer teacher helping asylum seekers navigate the Norwegian system. Her marriage to Jonstein, a politically ambitious mayor played by Kristoffer Joner, has effectively collapsed, leaving her emotionally and sexually frustrated. When she develops a fascination with Amir, an intelligent 18-year-old Syrian refugee, the film deliberately refuses to offer an easy explanation for what follows. Is Eva trying to save him, replace something missing in her marriage, or simply satisfy a desire she has been suppressing?
@@ -32,5 +31,3 @@ There are moments when the film pushes its symbolism a little too clearly, and s
 Ultimately, *Don’t Call Me Mama* is less interested in asking whether its characters are good or bad than in asking **what they are willing to sacrifice to get what they want**. Compassion can become manipulation. Hospitality can become political theatre. Marriage can become a negotiation. Desire can become destructive.
 
 Knag's debut is therefore an unexpectedly sharp blend of social drama, dark comedy and psychosexual thriller. It leaves you with an uncomfortable idea: perhaps the most dangerous thing about helping someone is discovering how much you expect in return.
-
-**★★★★☆**
