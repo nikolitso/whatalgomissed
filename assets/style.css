@@ -241,7 +241,7 @@ a{color:inherit}
 .still a:hover img{transform:scale(1.64)}
 .hero-bg{object-position:center 30%}
 /* Awards page */
-.card-award{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--gold);line-height:1.5;margin:-4px 0 10px}
+.card-award{display:flex;gap:8px;align-items:baseline;font-family:var(--display);font-style:italic;font-size:15px;letter-spacing:0;text-transform:none;color:#8a6a1c;line-height:1.4;margin:-2px 0 12px;padding-top:10px;border-top:1px solid var(--rule)}.card-award::before{content:"";flex:none;width:14px;height:14px;transform:translateY(2px);opacity:.85;background:no-repeat center/contain url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23a8862a' stroke-width='1.6' stroke-linecap='round'%3E%3Cpath d='M7 4c-3 3-3.5 8 0 12M17 4c3 3 3.5 8 0 12M7 16c1.6 1.8 3.2 2.6 5 2.6s3.4-.8 5-2.6M12 18.6V21M9 21h6'/%3E%3C/svg%3E")}
 .sec-n{font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2)}
 section[id]{scroll-margin-top:80px}
 .page-head .chips{margin-top:22px}
