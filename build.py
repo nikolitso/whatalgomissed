@@ -575,7 +575,8 @@ AWARD_GROUPS = [
     ("cannes", "Cannes", r"Cannes|Palme|Caméra"),
     ("berlin", "Berlin", r"Berlin|Bear|Teddy"),
     ("venice", "Venice", r"Venice"),
-    ("festivals", "Festivals worldwide", r"Sundance|Tribeca|Toronto|TIFF|BFI|Jerusalem|Thessaloniki|Pula|Karlovy|San Sebasti|Locarno|Göteborg"),
+    ("thessaloniki", "Thessaloniki", r"Thessaloniki"),
+    ("festivals", "Festivals worldwide", r"Sundance|Tribeca|Toronto|TIFF|BFI|Jerusalem|Pula|Karlovy|San Sebasti|Locarno|Göteborg"),
     ("national", "National film awards", r"."),
 ]
 _NOT_WIN = r"Nominat|Nominee|Selection|Official|Opening Film|Submission|Entry|Co-production|Guinness|Budapest|Critics' Week|Directors' Fortnight"
