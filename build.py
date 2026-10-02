@@ -599,19 +599,22 @@ def build_awards():
                 continue
             for k, _, rx in AWARD_GROUPS:
                 if re.search(rx, a):
-                    groups[k].append((f, a)); winners.add(f["slug"]); break
+                    if all(g[0]["slug"] != f["slug"] for g in groups[k]):
+                        groups[k].append((f, a))
+                    winners.add(f["slug"]); break
     chips = "".join(f'<a class="chip" href="#{k}">{esc(n)}<span class="chip-n">{len(groups[k])}</span></a>'
                     for k, n, _ in AWARD_GROUPS if groups[k])
-    secs = ""
+    secs = ""; si = 0
     for k, n, _ in AWARD_GROUPS:
         items = groups[k]
         if not items:
             continue
+        si += 1
         items.sort(key=lambda x: (-x[0]["rating"], -x[0]["year"]))
         cards = "\n".join(card(f, True, a) for f, a in items)
-        secs += f"""<section class="section{' section-alt' if len(secs) % 2 else ''}" id="{k}">
+        secs += f"""<section class="section{' section-alt' if si % 2 == 0 else ''}" id="{k}">
   <div class="wrap">
-    <div class="sec-head"><h2>{esc(n)}</h2><span class="sec-n">{len(items)} award{'s' if len(items) != 1 else ''}</span></div>
+    <div class="sec-head"><h2>{esc(n)}</h2><span class="sec-n">{len(items)} film{'s' if len(items) != 1 else ''}</span></div>
     <div class="grid">{cards}</div>
   </div>
 </section>"""
