@@ -9,6 +9,8 @@ from collections import defaultdict, Counter
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "_site")
 SITE_URL = "https://whatalgomissed.com"
+import hashlib as _h
+CSS_V = _h.md5(open(__import__("os").path.join(__import__("os").path.dirname(__import__("os").path.abspath(__file__)),"assets","style.css"),"rb").read()).hexdigest()[:8]
 SITE_NAME = "The Films the Algorithm Missed"
 GA_ID = "G-7FZWVPCVL4"
 LETTERBOXD = "https://letterboxd.com/nikolitso/"
@@ -242,10 +244,18 @@ def by_added(fs):
 
 FILMS = by_year(FILMS)
 
+_used_covers = set()
 for l in LISTS:
     l["films"] = by_year([f for f in FILMS if l["title"].lower() in [x.lower() for x in f["lists"]]])
     l["url"] = f"/lists/{l['slug']}/"
-    hero = by_rating(l["films"])[:1]
+    # cover: top-rated film with a trailer frame (no uploaded posters, which often carry title text),
+    # and never the same film on two list covers
+    ranked = by_rating(l["films"])
+    pool = [f for f in ranked if f["yt"] and not (f.get("image") or "").strip() and f["slug"] not in _used_covers] \
+        or [f for f in ranked if f["slug"] not in _used_covers] or ranked
+    hero = pool[:1]
+    if hero:
+        _used_covers.add(hero[0]["slug"])
     l["img"], l["img_fb"] = (hero[0]["img"], hero[0]["img_fb"]) if hero else ("/assets/placeholder.svg",) * 2
 
 COUNTRIES = defaultdict(list)
@@ -293,7 +303,7 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,400;0,700;0,800;1,400;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="/assets/style.css?v={CSS_V}">
 <script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','{GA_ID}');</script>
 <script>function fbimg(i,e){{if(i.dataset.done)return;if(e||(i.naturalWidth&&i.naturalWidth<=120)){{i.dataset.done=1;i.src=i.dataset.fb;}}}}</script>

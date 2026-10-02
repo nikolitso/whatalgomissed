@@ -234,11 +234,9 @@ a{color:inherit}
 .trailer-link{margin:18px 0 0;font-family:var(--mono);font-size:13px;letter-spacing:.14em;text-transform:uppercase}
 .trailer-link a{color:var(--gold);text-decoration:none;border-bottom:1px solid var(--gold);padding-bottom:3px}
 .trailer-link a:hover{color:var(--ink);border-color:var(--ink)}
-/* Crop trailer-frame edges so corner logos (Netflix, CANAL+, distributors) fall outside the frame */
-.card-img img{transform:scale(1.22)}
-.card:hover .card-img img{transform:scale(1.27)}
-.list-img img{transform:scale(1.22)}
-.list-card:hover .list-img img{transform:scale(1.26)}
-.fh-img,.hero-bg{transform:scale(1.2)}
-.still img{transform:scale(1.22)}
-.still a:hover img{transform:scale(1.25)}
+/* Crop trailer frames: strong zoom anchored high, so letterbox bars, corner logos and burned-in subtitles fall outside */
+.card-img img,.list-img img,.still img,.fh-img,.hero-bg{transform:scale(1.6);transform-origin:50% 35%}
+.card:hover .card-img img{transform:scale(1.65)}
+.list-card:hover .list-img img{transform:scale(1.64)}
+.still a:hover img{transform:scale(1.64)}
+.hero-bg{object-position:center 30%}
