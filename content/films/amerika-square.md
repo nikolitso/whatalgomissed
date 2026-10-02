@@ -4,7 +4,7 @@ original_title: "Πλατεία Αμερικής"
 year: 2016
 director: "Yannis Sakaridis"
 country: "Greece"
-rating: 4
+rating: 4.5
 lists:
   - "Greece"
   - "The World"

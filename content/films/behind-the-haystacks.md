@@ -4,7 +4,7 @@ original_title: "Πίσω από τις Θημωνιές"
 year: 2021
 director: "Asimina Proedrou"
 country: "Greece"
-rating: 4
+rating: 4.5
 lists:
   - "Greece"
   - "The World"
