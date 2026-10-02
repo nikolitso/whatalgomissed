@@ -6,7 +6,7 @@ director: "Yannis Economides"
 country: "Greece"
 rating: 4
 lists:
-  - "Ellada"
+  - "Greece"
   - "The World"
   - "On Cinobo"
 awards:

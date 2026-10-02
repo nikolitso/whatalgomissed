@@ -6,7 +6,7 @@ director: "Nikos Pastras"
 country: "Greece"
 rating: 4.5
 lists:
-  - "Ellada"
+  - "Greece"
   - "The Game"
 festivals:
   - "Berlinale"

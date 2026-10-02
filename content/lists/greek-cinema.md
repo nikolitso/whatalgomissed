@@ -1,6 +1,6 @@
 ---
-title: "Ellada"
-subtitle: "Greek Cinema"
+title: "Greece"
+subtitle: "Greek Cinema · Ελλάδα"
 tagline: "Small country. No shortcuts. No comfort."
 order: 3
 link: "https://letterboxd.com/nikolitso/list/greek-cinema/"

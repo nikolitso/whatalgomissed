@@ -6,7 +6,7 @@ director: "Costa-Gavras"
 country: "Greece"
 rating: 4
 lists:
-  - "Ellada"
+  - "Greece"
 trailer: "https://www.youtube.com/watch?v=adlunG3nxds"
 image: ""
 added: 2026-05-14
