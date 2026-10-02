@@ -240,3 +240,8 @@ a{color:inherit}
 .list-card:hover .list-img img{transform:scale(1.64)}
 .still a:hover img{transform:scale(1.64)}
 .hero-bg{object-position:center 30%}
+/* Awards page */
+.card-award{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--gold);line-height:1.5;margin:-4px 0 10px}
+.sec-n{font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2)}
+section[id]{scroll-margin-top:80px}
+.page-head .chips{margin-top:22px}

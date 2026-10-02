@@ -281,7 +281,7 @@ MUST_SEE = by_rating([f for f in FILMS if f["must_see"]])
 # ───────────────────────── templates ─────────────────────────
 
 NAV = [("Films", "/films/"), ("Lists", "/lists/"), ("Browse", "/browse/"),
-       ("Film Finder", "/finder/"), ("By Year", "/by-year/"), ("About", "/about/")]
+       ("Film Finder", "/finder/"), ("By Year", "/by-year/"), ("Awards", "/awards/"), ("About", "/about/")]
 
 def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=False):
     full_title = f"{title} — {SITE_NAME}" if title and title != SITE_NAME else SITE_NAME
@@ -344,7 +344,7 @@ def img_tag(src, fb, alt="", cls="", eager=False):
     return (f'<img class="{cls}" src="{esc(src)}" data-fb="{esc(fb)}" alt="{esc(alt)}" '
             f'{"" if eager else "loading=lazy "}decoding="async" onload="fbimg(this)" onerror="fbimg(this,1)">')
 
-def card(f, show_list=True):
+def card(f, show_list=True, note=""):
     lst = f["lists"][0] if f["lists"] and show_list else ""
     data = (f'data-title="{esc(f["title"].lower())} {esc((f.get("original_title") or "").lower())} {esc(str(f.get("director") or "").lower())}" '
             f'data-lists="{esc("|".join(slugify(x) for x in f["lists"]))}" '
@@ -356,6 +356,7 @@ def card(f, show_list=True):
   <div class="card-body">
     <div class="card-meta">{esc(f['country'])} · {f['year']}</div>
     <h3 class="card-title">{esc(f['title'])}</h3>
+    {f'<div class="card-award">{esc(note)}</div>' if note else ''}
     <div class="card-foot"><span class="stars">{stars(f['rating'])}</span>{f'<span class="card-list">{esc(lst)}</span>' if lst else ''}</div>
   </div>
 </a>"""
@@ -568,6 +569,58 @@ def build_taxonomies():
     build_category("Start here", "Must See", "/must-see/", MUST_SEE,
                    "My highest-rated films — four and a half stars and above.", sort=by_rating)
 
+
+AWARD_GROUPS = [
+    ("oscars", "Oscars & Golden Globes", r"^Oscar\b(?! Nominat)|^\d+ Oscar Nominations · Won|^\d+ Academy Awards|Golden Globe"),
+    ("cannes", "Cannes", r"Cannes|Palme|Caméra"),
+    ("berlin", "Berlin", r"Berlin|Bear|Teddy"),
+    ("venice", "Venice", r"Venice"),
+    ("festivals", "Festivals worldwide", r"Sundance|Tribeca|Toronto|TIFF|BFI|Jerusalem|Thessaloniki|Pula|Karlovy|San Sebasti|Locarno|Göteborg"),
+    ("national", "National film awards", r"."),
+]
+_NOT_WIN = r"Nominat|Nominee|Selection|Official|Opening Film|Submission|Entry|Co-production|Guinness|Budapest|Critics' Week|Directors' Fortnight"
+
+def is_award_win(s):
+    parts = [p.strip() for p in s.split("·")]
+    if any(re.search(r"\bWon\b|^\d+ Wins?$", p) for p in parts):
+        return True
+    if any(re.match(r"^\d+ .*Awards?$", p) and "Nominat" not in p for p in parts):
+        return True
+    if re.search(_NOT_WIN, s) or s.strip() in ("Cannes · Un Certain Regard", "Un Certain Regard · Cannes"):
+        return False
+    return True
+
+def build_awards():
+    groups = {k: [] for k, _, _ in AWARD_GROUPS}
+    winners = set()
+    for f in FILMS:
+        for a in f["awards"]:
+            if not is_award_win(a):
+                continue
+            for k, _, rx in AWARD_GROUPS:
+                if re.search(rx, a):
+                    groups[k].append((f, a)); winners.add(f["slug"]); break
+    chips = "".join(f'<a class="chip" href="#{k}">{esc(n)}<span class="chip-n">{len(groups[k])}</span></a>'
+                    for k, n, _ in AWARD_GROUPS if groups[k])
+    secs = ""
+    for k, n, _ in AWARD_GROUPS:
+        items = groups[k]
+        if not items:
+            continue
+        items.sort(key=lambda x: (-x[0]["rating"], -x[0]["year"]))
+        cards = "\n".join(card(f, True, a) for f, a in items)
+        secs += f"""<section class="section{' section-alt' if len(secs) % 2 else ''}" id="{k}">
+  <div class="wrap">
+    <div class="sec-head"><h2>{esc(n)}</h2><span class="sec-n">{len(items)} award{'s' if len(items) != 1 else ''}</span></div>
+    <div class="grid">{cards}</div>
+  </div>
+</section>"""
+    body = page_head("Recognition", "Awards", "", len(winners),
+                     "<p>Films in this collection that took home a prize: from the Palme d'Or and the Oscars to the national academies that know their own cinema best.</p>",
+                     f'<div class="chips">{chips}</div>') + secs
+    write("/awards/", layout("Awards", body, "/awards/", "Award-winning world cinema: Oscars, Cannes, Berlin, Venice and national film awards."))
+    return len(winners)
+
 def build_browse():
     def section(h, items):
         return f'<div class="browse-sec"><div class="side-label">{h}</div><div class="chips">{"".join(items)}</div></div>'
@@ -673,7 +726,7 @@ def main():
         shutil.rmtree(OUT)
     os.makedirs(OUT)
     build_home(); build_all_films(); build_lists(); build_taxonomies(); build_browse()
-    build_by_year(); build_finder(); build_pages(); build_404()
+    build_by_year(); build_finder(); build_pages(); build_404(); build_awards()
     for f in FILMS:
         build_film(f)
     for path, content in pages.items():
