@@ -16,7 +16,7 @@ except FileNotFoundError:
     FRAMES = {}
 import hashlib as _h
 CSS_V = _h.md5(open(__import__("os").path.join(__import__("os").path.dirname(__import__("os").path.abspath(__file__)),"assets","style.css"),"rb").read()).hexdigest()[:8]
-SITE_NAME = "The Films the Algorithm Missed"
+SITE_NAME = "What Algo Missed"
 GA_ID = "G-7FZWVPCVL4"
 LETTERBOXD = "https://letterboxd.com/nikolitso/"
 
@@ -285,7 +285,7 @@ NAV = [("Films", "/films/"), ("Lists", "/lists/"), ("Browse", "/browse/"),
 
 def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=False):
     full_title = f"{title} — {SITE_NAME}" if title and title != SITE_NAME else SITE_NAME
-    desc = desc or "A personal map of world cinema — Greek, Italian, Danish, Iranian, Middle Eastern and beyond. Curated lists with write-ups and trailers for every film. No algorithm involved."
+    desc = desc or "A personal map of world cinema — Greek, Italian, Danish, Iranian, Middle Eastern and beyond. Curated lists with a write-up and a trailer for every film."
     image = image or (SITE_URL + "/assets/og.jpg")
     if image.startswith("/"):
         image = SITE_URL + image
@@ -320,7 +320,7 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
 <body{' class="has-dark-hero"' if dark_hero else ''}>
 <header class="site-head">
   <div class="wrap head-inner">
-    <a class="logo" href="/">The Films <em>the Algorithm</em> Missed</a>
+    <a class="logo" href="/">What Algo <em>Missed</em></a>
     <button class="menu-btn" aria-label="Menu" onclick="document.body.classList.toggle('menu-open')"><span></span><span></span></button>
     <nav class="nav">{nav}</nav>
   </div>
@@ -331,7 +331,7 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
 <footer class="site-foot">
   <div class="wrap foot-inner">
     <div>
-      <div class="foot-logo">The Films the Algorithm Missed</div>
+      <div class="foot-logo">What Algo Missed</div>
       <p class="foot-note">A personal map of world cinema. The write-ups are my own; the ratings come from my <a href="{LETTERBOXD}">Letterboxd</a>.</p>
     </div>
     <nav class="foot-nav">{nav}<a href="{LETTERBOXD}">Letterboxd</a></nav>
@@ -413,9 +413,9 @@ def build_home():
   <div class="hero-shade"></div>
   <div class="wrap hero-inner">
     <div class="rule"></div>
-    <div class="kicker">Film curation · No algorithm involved</div>
-    <h1 class="hero-title">The Films the Algorithm Missed</h1>
-    <p class="hero-sub">Some films take years to find you. Others never do. A personal map of world cinema — with a write-up and a trailer for every film.</p>
+    <div class="kicker">World cinema · Curated film by film</div>
+    <h1 class="hero-title">Great films, chosen with care.</h1>
+    <p class="hero-sub">Some films take years to find you. These are worth the search: a personal map of world cinema, with a write-up and a trailer for every film.</p>
     <div class="hero-stats"><span><b>{len(FILMS)}</b> films</span><span><b>{countries}</b> countries</span><span><b>{len([l for l in LISTS if l['films']])}</b> lists</span></div>
     <div class="hero-cta"><a class="btn btn-gold" href="/finder/">Find your next film</a><a class="btn btn-ghost" href="/films/">Browse all films</a></div>
   </div>
@@ -706,7 +706,7 @@ def main():
         for f in by_added(FILMS)[:20])
     open(os.path.join(OUT, "feed.xml"), "w", encoding="utf-8").write(
         f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>What Algo Missed</title>'
-        f'<link>{SITE_URL}/</link><description>Films the algorithm missed</description>{items}</channel></rss>')
+        f'<link>{SITE_URL}/</link><description>World cinema, chosen with care</description>{items}</channel></rss>')
     redirects = {
         "/feed": "/feed.xml",
         "/danish-cinema-a-personal-map/": "/lists/danish-cinema/",
