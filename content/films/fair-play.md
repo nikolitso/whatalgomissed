@@ -10,7 +10,7 @@ festivals:
   - "Oscars"
 awards:
   - "Czech Oscar Submission · 2015"
-trailer: "https://www.youtube.com/watch?v=qCGJvS4F8Ok"
+trailer: "https://www.youtube.com/watch?v=MxDfyw_dHOs"
 image: ""
 added: 2026-05-14
 ---
