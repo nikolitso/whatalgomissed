@@ -5,7 +5,7 @@ director: "Andrea Sedláčková"
 country: "Czech Republic"
 rating: 4
 lists:
-  - "Sport Cinema"
+  - "The Game"
 festivals:
   - "Oscars"
 awards:

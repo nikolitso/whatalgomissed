@@ -6,7 +6,7 @@ director: "Michael Radford"
 country: "Italy"
 rating: 4
 lists:
-  - "Italian Cinema"
+  - "Italia"
   - "Europa"
 festivals:
   - "Oscars"

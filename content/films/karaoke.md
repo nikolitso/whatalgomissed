@@ -5,7 +5,7 @@ director: "Moshe Rosenthal"
 country: "Israel"
 rating: 4
 lists:
-  - "Middle Eastern Cinema"
+  - "The Middle East"
 awards:
   - "Best Film · Jerusalem Film Festival"
 trailer: "https://www.youtube.com/watch?v=T58guT7TWQE"

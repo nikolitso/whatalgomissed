@@ -5,8 +5,8 @@ director: "Abbe Hassan"
 country: "Sweden"
 rating: 4
 lists:
-  - "Nordic Cinema"
-  - "World Cinema"
+  - "Norden"
+  - "The World"
   - "On Cinobo"
 awards:
   - "Göteborg Film Festival · Opening Film"

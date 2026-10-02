@@ -6,7 +6,7 @@ director: "Benedikt Erlingsson"
 country: "Iceland"
 rating: 4.5
 lists:
-  - "Nordic Cinema"
+  - "Norden"
   - "Europa"
 festivals:
   - "Cannes"

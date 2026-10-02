@@ -6,7 +6,7 @@ director: "Giuseppe Capotondi"
 country: "Italy"
 rating: 4
 lists:
-  - "Italian Cinema"
+  - "Italia"
 festivals:
   - "Venice"
 awards:

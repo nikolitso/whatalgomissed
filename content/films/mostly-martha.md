@@ -6,7 +6,7 @@ director: "Sandra Nettelbeck"
 country: "Germany"
 rating: 4
 lists:
-  - "World Cinema"
+  - "The World"
   - "On Cinobo"
 awards:
   - "German Film Award · Best Actor"

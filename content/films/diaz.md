@@ -6,7 +6,7 @@ director: "Daniele Vicari"
 country: "Italy"
 rating: 4
 lists:
-  - "Italian Cinema"
+  - "Italia"
   - "Europa"
 trailer: "https://www.youtube.com/watch?v=KVysTs75mBI"
 image: ""

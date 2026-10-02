@@ -6,7 +6,7 @@ director: "Daniele Vicari"
 country: "Italy"
 rating: 4
 lists:
-  - "Italian Cinema"
+  - "Italia"
 trailer: "https://www.youtube.com/watch?v=toofvAuaozk"
 image: ""
 added: 2026-05-14

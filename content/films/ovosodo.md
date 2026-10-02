@@ -5,7 +5,7 @@ director: "Paolo Virzì"
 country: "Italy"
 rating: 4.5
 lists:
-  - "Italian Cinema"
+  - "Italia"
 festivals:
   - "Venice"
 awards:

@@ -6,7 +6,7 @@ director: "Jorge Furtado"
 country: "Brazil"
 rating: 4
 lists:
-  - "World Cinema"
+  - "The World"
 awards:
   - "11 Brazilian Academy Awards"
 trailer: "https://www.youtube.com/watch?v=W-kIOdqvg1c"

@@ -6,7 +6,7 @@ director: "Jesper W. Nielsen"
 country: "Denmark"
 rating: 4
 lists:
-  - "Danish Cinema"
+  - "Danmark"
 trailer: "https://www.youtube.com/watch?v=Wdw2ztXh9EI"
 image: ""
 added: 2026-05-14

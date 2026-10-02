@@ -6,7 +6,7 @@ director: "Micaela Ramazzotti"
 country: "Italy"
 rating: 4
 lists:
-  - "Italian Cinema"
+  - "Italia"
 trailer: "https://www.youtube.com/watch?v=_MpUsK69_V0"
 image: ""
 added: 2026-05-14

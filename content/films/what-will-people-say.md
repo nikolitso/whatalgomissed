@@ -6,8 +6,8 @@ director: "Iram Haq"
 country: "Norway"
 rating: 4
 lists:
-  - "Nordic Cinema"
-  - "World Cinema"
+  - "Norden"
+  - "The World"
 awards:
   - "Amanda Award · Best Film"
 trailer: "https://www.youtube.com/watch?v=CSrVQVzmXKY"

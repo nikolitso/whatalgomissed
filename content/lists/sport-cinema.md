@@ -1,6 +1,6 @@
 ---
-title: "Sport Cinema"
-subtitle: "The Game Is Never Just the Game"
+title: "The Game"
+subtitle: "Sport Cinema · The Game Is Never Just the Game"
 tagline: "Films where sport is the arena but winning is never the point."
 order: 9
 link: "https://letterboxd.com/nikolitso/list/the-game-is-never-just-the-game/"

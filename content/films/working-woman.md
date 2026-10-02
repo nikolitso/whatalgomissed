@@ -6,8 +6,8 @@ director: "Michal Aviad"
 country: "Israel"
 rating: 4
 lists:
-  - "Middle Eastern Cinema"
-  - "World Cinema"
+  - "The Middle East"
+  - "The World"
 festivals:
   - "Toronto"
 awards:

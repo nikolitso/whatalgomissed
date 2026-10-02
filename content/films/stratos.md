@@ -6,8 +6,8 @@ director: "Yannis Economides"
 country: "Greece"
 rating: 4
 lists:
-  - "Greek Cinema"
-  - "World Cinema"
+  - "Ellada"
+  - "The World"
   - "On Cinobo"
 festivals:
   - "Berlinale"

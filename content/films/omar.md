@@ -5,7 +5,7 @@ director: "Hany Abu-Assad"
 country: "Palestine"
 rating: 4
 lists:
-  - "Middle Eastern Cinema"
+  - "The Middle East"
 festivals:
   - "Cannes"
   - "Oscars"

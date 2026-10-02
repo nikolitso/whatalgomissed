@@ -1,6 +1,6 @@
 ---
-title: "Iranian Cinema"
-subtitle: "Against the Wall"
+title: "Iran"
+subtitle: "Iranian Cinema · Against the Wall"
 tagline: "No cinema works harder under pressure."
 order: 4
 link: "https://letterboxd.com/nikolitso/list/iranian-cinema/"

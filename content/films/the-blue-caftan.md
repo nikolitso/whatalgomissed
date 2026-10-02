@@ -6,7 +6,7 @@ director: "Maryam Touzani"
 country: "Morocco"
 rating: 4
 lists:
-  - "World Cinema"
+  - "The World"
 festivals:
   - "Cannes"
 awards:

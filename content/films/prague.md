@@ -6,7 +6,7 @@ director: "Ole Christian Madsen"
 country: "Denmark"
 rating: 4
 lists:
-  - "Danish Cinema"
+  - "Danmark"
 trailer: "https://www.youtube.com/watch?v=9zIaKRIcio0"
 image: ""
 added: 2026-05-14

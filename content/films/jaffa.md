@@ -5,7 +5,7 @@ director: "Keren Yedaya"
 country: "Israel"
 rating: 4
 lists:
-  - "Middle Eastern Cinema"
+  - "The Middle East"
 trailer: "https://www.youtube.com/watch?v=iNeXNVQpKqE"
 image: ""
 added: 2026-05-14

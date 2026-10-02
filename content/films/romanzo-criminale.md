@@ -5,7 +5,7 @@ director: "Michele Placido"
 country: "Italy"
 rating: 4.5
 lists:
-  - "Italian Cinema"
+  - "Italia"
   - "Europa"
 trailer: "https://www.youtube.com/watch?v=yl-47r89IsI"
 image: ""

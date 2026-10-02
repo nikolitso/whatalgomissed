@@ -6,7 +6,7 @@ director: "Paolo Virzì"
 country: "Italy"
 rating: 4.5
 lists:
-  - "Italian Cinema"
+  - "Italia"
 awards:
   - "3 David di Donatello Awards"
 trailer: "https://www.youtube.com/watch?v=WWEuMIljt_E"

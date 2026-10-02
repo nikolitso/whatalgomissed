@@ -5,7 +5,7 @@ director: "Ofir Raul Graizer"
 country: "Israel"
 rating: 4
 lists:
-  - "Middle Eastern Cinema"
+  - "The Middle East"
 awards:
   - "7 Israeli Academy Awards"
 trailer: "https://www.youtube.com/watch?v=JQ7144Mc2lw"

@@ -5,7 +5,7 @@ director: "Levan Akin"
 country: "Georgia"
 rating: 4
 lists:
-  - "World Cinema"
+  - "The World"
   - "On Cinobo"
 festivals:
   - "Berlinale"

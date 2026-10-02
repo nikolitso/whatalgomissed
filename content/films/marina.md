@@ -5,7 +5,7 @@ director: "Stijn Coninx"
 country: "Italy"
 rating: 4.5
 lists:
-  - "Italian Cinema"
+  - "Italia"
 trailer: "https://www.youtube.com/watch?v=i2A87iNexUM"
 image: ""
 added: 2026-05-14

@@ -6,7 +6,7 @@ director: "Susanne Bier"
 country: "Denmark"
 rating: 5
 lists:
-  - "Danish Cinema"
+  - "Danmark"
   - "Europa"
 trailer: "https://www.youtube.com/watch?v=P5e2IM4QAMY"
 image: ""

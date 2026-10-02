@@ -6,7 +6,7 @@ director: "Ariel Escalante Meza"
 country: "Panama"
 rating: 4
 lists:
-  - "World Cinema"
+  - "The World"
 trailer: "https://www.youtube.com/watch?v=TsOmsfT7j0w"
 image: ""
 added: 2026-05-14

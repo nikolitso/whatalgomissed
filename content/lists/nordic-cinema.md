@@ -1,6 +1,6 @@
 ---
-title: "Nordic Cinema"
-subtitle: "Norden"
+title: "Norden"
+subtitle: "Nordic Cinema"
 tagline: "The North doesn't do comfortable. It does honest."
 order: 6
 link: "https://letterboxd.com/nikolitso/list/norden/"

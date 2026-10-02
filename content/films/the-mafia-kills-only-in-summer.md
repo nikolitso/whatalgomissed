@@ -6,7 +6,7 @@ director: "Pif"
 country: "Italy"
 rating: 4
 lists:
-  - "Italian Cinema"
+  - "Italia"
 awards:
   - "David di Donatello · Best New Director"
 trailer: "https://www.youtube.com/watch?v=i7SfARhL9ws"

@@ -5,7 +5,7 @@ director: "Muayad Alayan"
 country: "Palestine"
 rating: 4
 lists:
-  - "Middle Eastern Cinema"
+  - "The Middle East"
 trailer: "https://www.youtube.com/watch?v=YCULFEL2dJw"
 image: ""
 added: 2026-05-14

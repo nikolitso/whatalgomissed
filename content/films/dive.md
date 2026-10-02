@@ -5,7 +5,7 @@ director: "Lucía Puenzo"
 country: "Argentina"
 rating: 4
 lists:
-  - "Sport Cinema"
+  - "The Game"
 trailer: "https://www.youtube.com/watch?v=O-Mq7m3qVro"
 image: ""
 added: 2026-05-14

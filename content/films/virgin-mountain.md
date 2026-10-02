@@ -6,7 +6,7 @@ director: "Dagur Kári"
 country: "Iceland"
 rating: 4
 lists:
-  - "Nordic Cinema"
+  - "Norden"
   - "Europa"
 festivals:
   - "Tribeca"

@@ -6,7 +6,7 @@ director: "Thomas Vinterberg"
 country: "Denmark"
 rating: 5
 lists:
-  - "Danish Cinema"
+  - "Danmark"
   - "Europa"
 festivals:
   - "Cannes"

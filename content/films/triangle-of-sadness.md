@@ -5,9 +5,9 @@ director: "Ruben Östlund"
 country: "Sweden"
 rating: 4.5
 lists:
-  - "Nordic Cinema"
+  - "Norden"
   - "Europa"
-  - "World Cinema"
+  - "The World"
   - "On Cinobo"
 festivals:
   - "Cannes"

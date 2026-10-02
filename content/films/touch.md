@@ -5,7 +5,7 @@ director: "Baltasar Kormákur"
 country: "Iceland"
 rating: 4.5
 lists:
-  - "Nordic Cinema"
+  - "Norden"
   - "Europa"
 awards:
   - "6 Edda Award Nominations"

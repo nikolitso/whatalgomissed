@@ -6,7 +6,7 @@ director: "Asghar Farhadi"
 country: "Iran"
 rating: 4
 lists:
-  - "Iranian Cinema"
+  - "Iran"
 festivals:
   - "Berlinale"
   - "Oscars"

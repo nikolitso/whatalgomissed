@@ -1,6 +1,6 @@
 ---
-title: "World Cinema"
-subtitle: "Everything Else"
+title: "The World"
+subtitle: "World Cinema · Everything Else"
 tagline: "The world is larger than any algorithm will show you."
 order: 8
 link: ""

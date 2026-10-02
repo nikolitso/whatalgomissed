@@ -6,7 +6,7 @@ director: "Hirokazu Koreeda"
 country: "Japan"
 rating: 4
 lists:
-  - "World Cinema"
+  - "The World"
   - "On Cinobo"
 festivals:
   - "Cannes"

@@ -6,7 +6,7 @@ director: "Paolo Virzì"
 country: "Italy"
 rating: 4.5
 lists:
-  - "Italian Cinema"
+  - "Italia"
 trailer: "https://www.youtube.com/watch?v=v5_Hr1tAuU0"
 image: ""
 added: 2026-05-14

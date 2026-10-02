@@ -6,7 +6,7 @@ director: "Ivano De Matteo"
 country: "Italy"
 rating: 5
 lists:
-  - "Italian Cinema"
+  - "Italia"
 trailer: "https://www.youtube.com/watch?v=LW_xGu0nt9Y"
 image: ""
 added: 2026-05-14

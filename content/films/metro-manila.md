@@ -5,7 +5,7 @@ director: "Sean Ellis"
 country: "Philippines"
 rating: 4
 lists:
-  - "World Cinema"
+  - "The World"
 awards:
   - "BAFTA Nominated · Best Foreign Film"
 trailer: "https://www.youtube.com/watch?v=Orkhhr1lI74"

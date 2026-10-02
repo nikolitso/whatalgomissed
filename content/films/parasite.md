@@ -6,7 +6,7 @@ director: "Bong Joon-ho"
 country: "South Korea"
 rating: 4.5
 lists:
-  - "World Cinema"
+  - "The World"
   - "On Cinobo"
 festivals:
   - "Cannes"

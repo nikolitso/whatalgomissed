@@ -5,7 +5,7 @@ director: "Birgitte Stærmose"
 country: "Denmark"
 rating: 3.5
 lists:
-  - "Danish Cinema"
+  - "Danmark"
 trailer: "https://www.youtube.com/watch?v=raS3NhyWxHo"
 image: ""
 added: 2026-05-14

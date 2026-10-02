@@ -6,7 +6,7 @@ director: "Eran Kolirin"
 country: "Israel"
 rating: 4
 lists:
-  - "World Cinema"
+  - "The World"
 festivals:
   - "Cannes"
 awards:

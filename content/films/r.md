@@ -5,7 +5,7 @@ director: "Tobias Lindholm"
 country: "Denmark"
 rating: 4
 lists:
-  - "Danish Cinema"
+  - "Danmark"
 trailer: "https://www.youtube.com/watch?v=eckqi7BaKT4"
 image: ""
 added: 2026-05-14

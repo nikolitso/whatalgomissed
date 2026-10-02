@@ -6,7 +6,7 @@ director: "Krisztina Goda"
 country: "Hungary"
 rating: 4
 lists:
-  - "Sport Cinema"
+  - "The Game"
 awards:
   - "Budapest 1956 · The Blood in the Water Match"
 trailer: "https://www.youtube.com/watch?v=hsT2Oyibr7U"

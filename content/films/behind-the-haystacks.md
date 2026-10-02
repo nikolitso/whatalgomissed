@@ -6,8 +6,8 @@ director: "Asimina Proedrou"
 country: "Greece"
 rating: 4
 lists:
-  - "Greek Cinema"
-  - "World Cinema"
+  - "Ellada"
+  - "The World"
   - "On Cinobo"
 festivals:
   - "Thessaloniki"

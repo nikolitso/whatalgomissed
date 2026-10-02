@@ -6,7 +6,7 @@ director: "Yannis Economides"
 country: "Greece"
 rating: 4
 lists:
-  - "Greek Cinema"
+  - "Ellada"
 trailer: "https://www.youtube.com/watch?v=fkiaInSkWfA"
 image: ""
 added: 2026-05-14

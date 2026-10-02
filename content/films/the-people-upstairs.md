@@ -6,7 +6,7 @@ director: "Cesc Gay"
 country: "Spain"
 rating: 4
 lists:
-  - "World Cinema"
+  - "The World"
   - "On Cinobo"
 awards:
   - "1 Goya Award · 5 Nominations"

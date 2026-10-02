@@ -6,7 +6,7 @@ director: "Nadine Labaki"
 country: "Lebanon"
 rating: 4
 lists:
-  - "Middle Eastern Cinema"
+  - "The Middle East"
 festivals:
   - "Cannes"
 awards:

@@ -6,7 +6,7 @@ director: "Cristina Comencini"
 country: "Italy"
 rating: 3.5
 lists:
-  - "Italian Cinema"
+  - "Italia"
 awards:
   - "David di Donatello · Best Film"
 trailer: "https://www.youtube.com/watch?v=TyAIbUtx3WQ"

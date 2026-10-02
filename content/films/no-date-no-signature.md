@@ -6,7 +6,7 @@ director: "Vahid Jalilvand"
 country: "Iran"
 rating: 4
 lists:
-  - "Iranian Cinema"
+  - "Iran"
 festivals:
   - "Venice"
 awards:

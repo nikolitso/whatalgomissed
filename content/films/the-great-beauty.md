@@ -6,7 +6,7 @@ director: "Paolo Sorrentino"
 country: "Italy"
 rating: 4
 lists:
-  - "Italian Cinema"
+  - "Italia"
 festivals:
   - "Oscars"
 awards:

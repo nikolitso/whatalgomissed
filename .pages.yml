@@ -46,15 +46,15 @@ content:
         options:
           multiple: true
           values:
-          - "Danish Cinema"
-          - "Italian Cinema"
-          - "Greek Cinema"
-          - "Iranian Cinema"
-          - "Middle Eastern Cinema"
-          - "Nordic Cinema"
+          - "Danmark"
+          - "Italia"
+          - "Ellada"
+          - "Iran"
+          - "The Middle East"
+          - "Norden"
           - "Europa"
-          - "World Cinema"
-          - "Sport Cinema"
+          - "The World"
+          - "The Game"
           - "On Cinobo"
       - name: festivals
         label: Festivals & awards (for categories)

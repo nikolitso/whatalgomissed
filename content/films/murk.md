@@ -6,7 +6,7 @@ director: "Jannik Johansen"
 country: "Denmark"
 rating: 4
 lists:
-  - "Danish Cinema"
+  - "Danmark"
 trailer: "https://www.youtube.com/watch?v=c9A_n5U3qb8"
 image: ""
 added: 2026-05-14

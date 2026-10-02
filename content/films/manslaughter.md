@@ -6,7 +6,7 @@ director: "Per Fly"
 country: "Denmark"
 rating: 4
 lists:
-  - "Danish Cinema"
+  - "Danmark"
 awards:
   - "Nordic Council Film Prize"
 trailer: "https://www.youtube.com/watch?v=B9l5Z8iWSyU"

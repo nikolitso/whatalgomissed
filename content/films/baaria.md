@@ -5,7 +5,7 @@ director: "Giuseppe Tornatore"
 country: "Italy"
 rating: 4
 lists:
-  - "Italian Cinema"
+  - "Italia"
 festivals:
   - "Venice"
 awards:

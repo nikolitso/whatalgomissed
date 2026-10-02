@@ -5,7 +5,7 @@ director: "Fatih Akin"
 country: "Germany"
 rating: 4.5
 lists:
-  - "World Cinema"
+  - "The World"
   - "On Cinobo"
 festivals:
   - "Venice"

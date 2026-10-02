@@ -6,8 +6,8 @@ director: "Ísold Uggadóttir"
 country: "Iceland"
 rating: 4.5
 lists:
-  - "Nordic Cinema"
-  - "World Cinema"
+  - "Norden"
+  - "The World"
   - "On Cinobo"
 festivals:
   - "Sundance"

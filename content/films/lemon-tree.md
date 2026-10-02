@@ -6,7 +6,7 @@ director: "Eran Riklis"
 country: "Israel"
 rating: 4
 lists:
-  - "Middle Eastern Cinema"
+  - "The Middle East"
 festivals:
   - "Berlinale"
 awards:

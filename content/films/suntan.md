@@ -5,8 +5,8 @@ director: "Argyris Papadimitropoulos"
 country: "Greece"
 rating: 4
 lists:
-  - "Greek Cinema"
-  - "World Cinema"
+  - "Ellada"
+  - "The World"
   - "On Cinobo"
 awards:
   - "Hellenic Film Academy · Best Film · Best Director"

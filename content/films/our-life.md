@@ -6,7 +6,7 @@ director: "Daniele Luchetti"
 country: "Italy"
 rating: 4
 lists:
-  - "Italian Cinema"
+  - "Italia"
 festivals:
   - "Cannes"
 awards:

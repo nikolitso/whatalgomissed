@@ -6,7 +6,7 @@ director: "Milad Alami"
 country: "Denmark"
 rating: 3.5
 lists:
-  - "Danish Cinema"
+  - "Danmark"
 trailer: "https://www.youtube.com/watch?v=yTdDr75pzgA"
 image: ""
 added: 2026-05-14

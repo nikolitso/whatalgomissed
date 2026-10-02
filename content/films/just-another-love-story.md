@@ -6,7 +6,7 @@ director: "Ole Bornedal"
 country: "Denmark"
 rating: 4
 lists:
-  - "Danish Cinema"
+  - "Danmark"
 trailer: "https://www.youtube.com/watch?v=2HH0HN2ebcM"
 image: ""
 added: 2026-05-14

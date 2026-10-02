@@ -6,7 +6,7 @@ director: "May el-Toukhy"
 country: "Denmark"
 rating: 4.5
 lists:
-  - "Danish Cinema"
+  - "Danmark"
 awards:
   - "Nordic Council Film Prize"
 trailer: "https://www.youtube.com/watch?v=Ckz353-ZtpY"

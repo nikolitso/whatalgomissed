@@ -6,7 +6,7 @@ director: "Fabián Bielinsky"
 country: "Argentina"
 rating: 4
 lists:
-  - "World Cinema"
+  - "The World"
 awards:
   - "7 Argentine Film Critics Association Awards"
 trailer: "https://www.youtube.com/watch?v=6svbO5QLzuc"

@@ -6,7 +6,7 @@ director: "Mohammad Rasoulof"
 country: "Iran"
 rating: 4.5
 lists:
-  - "Iranian Cinema"
+  - "Iran"
 festivals:
   - "Cannes"
 awards:

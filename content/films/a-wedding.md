@@ -6,7 +6,7 @@ director: "Stephan Streker"
 country: "Belgium"
 rating: 4
 lists:
-  - "World Cinema"
+  - "The World"
 trailer: "https://www.youtube.com/watch?v=_6Vq62Y1DPQ"
 image: ""
 added: 2026-05-14

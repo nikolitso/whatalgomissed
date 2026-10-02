@@ -6,7 +6,7 @@ director: "Tobias Lindholm"
 country: "Denmark"
 rating: 4
 lists:
-  - "Danish Cinema"
+  - "Danmark"
   - "Europa"
 trailer: "https://www.youtube.com/watch?v=IyMegiVnYwM"
 image: ""

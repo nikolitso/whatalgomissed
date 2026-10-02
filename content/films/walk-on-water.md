@@ -5,7 +5,7 @@ director: "Eytan Fox"
 country: "Israel"
 rating: 4
 lists:
-  - "Middle Eastern Cinema"
+  - "The Middle East"
 festivals:
   - "Berlinale"
 awards:

@@ -5,7 +5,7 @@ director: "Walter Salles"
 country: "Brazil"
 rating: 4
 lists:
-  - "Sport Cinema"
+  - "The Game"
 festivals:
   - "Cannes"
 awards:

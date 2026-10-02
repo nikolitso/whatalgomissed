@@ -6,7 +6,7 @@ director: "Rúnar Rúnarsson"
 country: "Iceland"
 rating: 4
 lists:
-  - "Nordic Cinema"
+  - "Norden"
   - "Europa"
 awards:
   - "5 Edda Awards"

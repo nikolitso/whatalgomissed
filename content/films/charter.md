@@ -5,8 +5,8 @@ director: "Amanda Kernell"
 country: "Denmark"
 rating: 4
 lists:
-  - "Danish Cinema"
-  - "Nordic Cinema"
+  - "Danmark"
+  - "Norden"
 awards:
   - "4 Guldbagge Awards · Inc. Best Director"
 trailer: "https://www.youtube.com/watch?v=KwQAqW9GW0k"

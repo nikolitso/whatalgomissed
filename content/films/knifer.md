@@ -6,7 +6,7 @@ director: "Yannis Economides"
 country: "Greece"
 rating: 4
 lists:
-  - "Greek Cinema"
+  - "Ellada"
 awards:
   - "7 Hellenic Film Academy Awards"
 trailer: "https://www.youtube.com/watch?v=Rb0UbE_Afnw"

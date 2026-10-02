@@ -6,7 +6,7 @@ director: "Paolo Sorrentino"
 country: "Italy"
 rating: 3.5
 lists:
-  - "Italian Cinema"
+  - "Italia"
 awards:
   - "Nastro d'Argento · Best New Director"
 trailer: "https://www.youtube.com/watch?v=UTDNw8RC39E"

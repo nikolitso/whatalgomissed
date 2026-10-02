@@ -6,7 +6,7 @@ director: "Niels Arden Oplev"
 country: "Denmark"
 rating: 4
 lists:
-  - "Danish Cinema"
+  - "Danmark"
 trailer: "https://www.youtube.com/watch?v=ITrKVVnSaAc"
 image: ""
 added: 2026-05-14

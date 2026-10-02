@@ -6,7 +6,7 @@ director: "Andrea Molaioli"
 country: "Italy"
 rating: 4
 lists:
-  - "Italian Cinema"
+  - "Italia"
 awards:
   - "David di Donatello · Best Film"
 trailer: "https://www.youtube.com/watch?v=G-11J4ZpiQ8"

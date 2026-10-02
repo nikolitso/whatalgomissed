@@ -6,7 +6,7 @@ director: "Paolo Sorrentino"
 country: "Italy"
 rating: 4
 lists:
-  - "Italian Cinema"
+  - "Italia"
 awards:
   - "5 David di Donatello Awards"
 trailer: "https://www.youtube.com/watch?v=uDE9J0zPd00"

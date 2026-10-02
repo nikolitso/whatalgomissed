@@ -6,7 +6,7 @@ director: "Henrik Ruben Genz"
 country: "Denmark"
 rating: 3.5
 lists:
-  - "Danish Cinema"
+  - "Danmark"
 trailer: "https://www.youtube.com/watch?v=4Xyl4l7bnJM"
 image: ""
 added: 2026-05-14

@@ -6,7 +6,7 @@ director: "Gianni Amelio"
 country: "Italy"
 rating: 4
 lists:
-  - "Italian Cinema"
+  - "Italia"
 trailer: "https://www.youtube.com/watch?v=bNQ0ZYKyvRg"
 image: ""
 added: 2026-05-14

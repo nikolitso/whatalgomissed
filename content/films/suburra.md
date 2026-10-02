@@ -5,7 +5,7 @@ director: "Stefano Sollima"
 country: "Italy"
 rating: 4.5
 lists:
-  - "Italian Cinema"
+  - "Italia"
 trailer: "https://www.youtube.com/watch?v=ZSiRXm4TOIE"
 image: ""
 added: 2026-05-14

@@ -5,8 +5,8 @@ director: "Zar Amir Ebrahimi"
 country: "Iran"
 rating: 4
 lists:
-  - "Iranian Cinema"
-  - "Sport Cinema"
+  - "Iran"
+  - "The Game"
 awards:
   - "Iranian-Israeli Co-production"
 trailer: "https://www.youtube.com/watch?v=iXLa1gh6LWk"

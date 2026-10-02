@@ -6,7 +6,7 @@ director: "Marios Piperides"
 country: "Cyprus"
 rating: 4
 lists:
-  - "Greek Cinema"
+  - "Ellada"
 awards:
   - "Hellenic Film Academy · Best Screenplay"
 trailer: "https://www.youtube.com/watch?v=9ACqXDktph0"

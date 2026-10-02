@@ -6,7 +6,7 @@ director: "Per Fly"
 country: "Denmark"
 rating: 4
 lists:
-  - "Danish Cinema"
+  - "Danmark"
 trailer: "https://www.youtube.com/watch?v=r1tWA2TpV0w"
 image: ""
 added: 2026-05-14

@@ -6,7 +6,7 @@ director: "Susanne Bier"
 country: "Denmark"
 rating: 4
 lists:
-  - "Danish Cinema"
+  - "Danmark"
   - "Europa"
 festivals:
   - "Oscars"

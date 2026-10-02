@@ -1,5 +1,5 @@
 ---
-title: "Middle Eastern Cinema"
+title: "The Middle East"
 subtitle: "Palestine · Israel · Lebanon"
 tagline: "Not films about the conflict. Films about the people living inside it."
 order: 5

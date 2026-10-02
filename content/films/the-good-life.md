@@ -6,7 +6,7 @@ director: "Andrés Wood"
 country: "Chile"
 rating: 4
 lists:
-  - "World Cinema"
+  - "The World"
 awards:
   - "Goya · Best Spanish Language Foreign Film"
 trailer: "https://www.youtube.com/watch?v=r73-d1eg8_M"

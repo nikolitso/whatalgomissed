@@ -6,7 +6,7 @@ director: "Éric Gravel"
 country: "France"
 rating: 3.5
 lists:
-  - "World Cinema"
+  - "The World"
   - "On Cinobo"
 festivals:
   - "Venice"

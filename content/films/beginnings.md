@@ -6,7 +6,7 @@ director: "Jeanette Nordahl"
 country: "Denmark"
 rating: 4.5
 lists:
-  - "Danish Cinema"
+  - "Danmark"
 festivals:
   - "Berlinale"
 awards:

@@ -5,7 +5,7 @@ director: "Alejandro González Iñárritu"
 country: "Mexico"
 rating: 4
 lists:
-  - "World Cinema"
+  - "The World"
 festivals:
   - "Cannes"
   - "Oscars"

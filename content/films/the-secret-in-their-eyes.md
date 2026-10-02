@@ -6,7 +6,7 @@ director: "Juan José Campanella"
 country: "Argentina"
 rating: 4
 lists:
-  - "World Cinema"
+  - "The World"
 festivals:
   - "Oscars"
 awards:

@@ -1,6 +1,6 @@
 ---
-title: "Danish Cinema"
-subtitle: "A Personal Map"
+title: "Danmark"
+subtitle: "Danish Cinema · A Personal Map"
 tagline: "Nobody does comfortable suffering like the Danes."
 order: 1
 link: ""

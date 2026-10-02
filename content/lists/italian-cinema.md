@@ -1,6 +1,6 @@
 ---
-title: "Italian Cinema"
-subtitle: "Bel Paese, Brutte Storie"
+title: "Italia"
+subtitle: "Italian Cinema · Bel Paese, Brutte Storie"
 tagline: "Beautiful country. Films that refuse to look away."
 order: 2
 link: ""

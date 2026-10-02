@@ -6,7 +6,7 @@ director: "Paolo Genovese"
 country: "Italy"
 rating: 5
 lists:
-  - "Italian Cinema"
+  - "Italia"
 awards:
   - "Most Remade Film in History · Guinness Record"
 trailer: "https://www.youtube.com/watch?v=WZzdVlBZwPI"

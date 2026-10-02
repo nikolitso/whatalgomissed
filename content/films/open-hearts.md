@@ -6,7 +6,7 @@ director: "Susanne Bier"
 country: "Denmark"
 rating: 4.5
 lists:
-  - "Danish Cinema"
+  - "Danmark"
 trailer: "https://www.youtube.com/watch?v=JyFbSMfEOhA"
 image: ""
 added: 2026-05-14

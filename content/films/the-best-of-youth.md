@@ -6,7 +6,7 @@ director: "Marco Tullio Giordana"
 country: "Italy"
 rating: 5
 lists:
-  - "Italian Cinema"
+  - "Italia"
 festivals:
   - "Cannes"
 awards:

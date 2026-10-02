@@ -5,8 +5,8 @@ director: "Athina Rachel Tsangari"
 country: "Greece"
 rating: 4
 lists:
-  - "Greek Cinema"
-  - "World Cinema"
+  - "Ellada"
+  - "The World"
   - "On Cinobo"
 awards:
   - "Best Film · Hellenic Film Academy"
