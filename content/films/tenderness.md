@@ -7,7 +7,7 @@ country: "Italy"
 rating: 4.5
 lists:
   - "Italia"
-trailer: "https://www.youtube.com/watch?v=O7vPuqZmZA8"
+trailer: "https://www.youtube.com/watch?v=5DXjpFdDoMs"
 image: ""
 added: 2026-05-14
 ---

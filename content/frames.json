@@ -1,0 +1,110 @@
+{
+  "_note": "Image overrides for trailer frames. card/still = YouTube auto-frame 1, 2 or 3 (about 25%, 50%, 75% into the video). yt = use a different YouTube video for the images only (trailer link unchanged).",
+  "a-wedding": {
+    "card": 3,
+    "still": 2
+  },
+  "beginnings": {
+    "yt": "Qb0tKJdT3Ok",
+    "card": 1,
+    "still": 2
+  },
+  "chevalier": {
+    "card": 2,
+    "still": 3
+  },
+  "children-of-glory": {
+    "card": 2,
+    "still": 3
+  },
+  "diaz": {
+    "card": 2,
+    "still": 3
+  },
+  "full-time": {
+    "yt": "rPrc-CZf0RE",
+    "card": 3,
+    "still": 2
+  },
+  "in-a-better-world": {
+    "card": 2,
+    "still": 2
+  },
+  "last-night-of-amore": {
+    "card": 2,
+    "still": 3
+  },
+  "linha-de-passe": {
+    "card": 2,
+    "still": 2
+  },
+  "parasite": {
+    "card": 3,
+    "still": 2
+  },
+  "queen-of-hearts": {
+    "yt": "RrbeFab5EAE",
+    "card": 2,
+    "still": 1
+  },
+  "the-bands-visit": {
+    "card": 2,
+    "still": 3
+  },
+  "the-blue-caftan": {
+    "card": 3,
+    "still": 3
+  },
+  "the-consequences-of-love": {
+    "card": 2,
+    "still": 3
+  },
+  "the-man-who-copied": {
+    "card": 2,
+    "still": 2
+  },
+  "the-people-upstairs": {
+    "card": 2,
+    "still": 3
+  },
+  "human-capital": {
+    "card": 1,
+    "still": 3
+  },
+  "marina": {
+    "card": 1,
+    "still": 3
+  },
+  "murina": {
+    "card": 1,
+    "still": 3
+  },
+  "my-brother-is-an-only-child": {
+    "card": 1,
+    "still": 3
+  },
+  "romanzo-criminale": {
+    "card": 1,
+    "still": 1
+  },
+  "smuggling-hendrix": {
+    "card": 1,
+    "still": 3
+  },
+  "tenderness": {
+    "card": 2,
+    "still": 3
+  },
+  "the-charmer": {
+    "card": 1,
+    "still": 3
+  },
+  "the-right-distance": {
+    "card": 1,
+    "still": 3
+  },
+  "the-salesman": {
+    "card": 1,
+    "still": 1
+  }
+}

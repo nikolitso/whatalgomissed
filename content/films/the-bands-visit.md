@@ -12,7 +12,7 @@ festivals:
 awards:
   - "Un Certain Regard · Cannes"
   - "8 Israeli Academy Awards"
-trailer: "https://www.youtube.com/watch?v=gIs5O3pI2zM"
+trailer: "https://www.youtube.com/watch?v=lihIFrH3LFc"
 image: ""
 added: 2026-05-14
 ---

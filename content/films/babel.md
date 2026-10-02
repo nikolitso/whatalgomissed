@@ -12,7 +12,7 @@ festivals:
 awards:
   - "Best Director · Cannes"
   - "Oscar Nominated · Best Picture"
-trailer: "https://www.youtube.com/watch?v=5mZ8sywikyI"
+trailer: "https://www.youtube.com/watch?v=yDNa6t-TDrQ"
 image: ""
 added: 2026-05-14
 ---

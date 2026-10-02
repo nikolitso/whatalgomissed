@@ -9,6 +9,11 @@ from collections import defaultdict, Counter
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "_site")
 SITE_URL = "https://whatalgomissed.com"
+import json as _json
+try:
+    FRAMES = _json.load(open(__import__("os").path.join(__import__("os").path.dirname(__import__("os").path.abspath(__file__)),"content","frames.json"),encoding="utf-8"))
+except FileNotFoundError:
+    FRAMES = {}
 import hashlib as _h
 CSS_V = _h.md5(open(__import__("os").path.join(__import__("os").path.dirname(__import__("os").path.abspath(__file__)),"assets","style.css"),"rb").read()).hexdigest()[:8]
 SITE_NAME = "The Films the Algorithm Missed"
@@ -224,8 +229,11 @@ for f in load_dir("content/films"):
     if img:
         f["img"] = img; f["img_fb"] = img
     elif f["yt"]:
-        f["img"] = f"https://i.ytimg.com/vi/{f['yt']}/maxres1.jpg"
-        f["img_fb"] = f"https://i.ytimg.com/vi/{f['yt']}/hq1.jpg"
+        fr = FRAMES.get(f["slug"], {})
+        f["img_yt"] = fr.get("yt") or f["yt"]
+        f["frame_card"] = int(fr.get("card", 1)); f["frame_still"] = int(fr.get("still", 2))
+        f["img"] = f"https://i.ytimg.com/vi/{f['img_yt']}/maxres{f['frame_card']}.jpg"
+        f["img_fb"] = f"https://i.ytimg.com/vi/{f['img_yt']}/hq{f['frame_card']}.jpg"
     else:
         f["img"] = f["img_fb"] = "/assets/placeholder.svg"
     f["added"] = str(f.get("added") or "2000-01-01")
@@ -462,8 +470,9 @@ def build_film(f):
     trailer = ""
     if f["yt"]:
         yurl = f"https://www.youtube.com/watch?v={f['yt']}"
-        still = f"https://i.ytimg.com/vi/{f['yt']}/maxres2.jpg"
-        still_fb = f"https://i.ytimg.com/vi/{f['yt']}/hq2.jpg"
+        _sy = f.get("img_yt") or f["yt"]; _sn = f.get("frame_still", 2)
+        still = f"https://i.ytimg.com/vi/{_sy}/maxres{_sn}.jpg"
+        still_fb = f"https://i.ytimg.com/vi/{_sy}/hq{_sn}.jpg"
         trailer = f"""<figure class="still">
   <a href="{yurl}" target="_blank" rel="noopener">{img_tag(still, still_fb, f['title'] + ' — still')}</a>
 </figure>
