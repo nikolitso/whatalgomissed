@@ -314,7 +314,7 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
   <div class="wrap foot-inner">
     <div>
       <div class="foot-logo">The Films the Algorithm Missed</div>
-      <p class="foot-note">A personal map of world cinema. The write-ups are my own; the ratings come from my <a href="{LETTERBOXD}">Letterboxd</a>. Nothing is sponsored.</p>
+      <p class="foot-note">A personal map of world cinema. The write-ups are my own; the ratings come from my <a href="{LETTERBOXD}">Letterboxd</a>.</p>
     </div>
     <nav class="foot-nav">{nav}<a href="{LETTERBOXD}">Letterboxd</a></nav>
   </div>
