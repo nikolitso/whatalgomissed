@@ -222,8 +222,8 @@ for f in load_dir("content/films"):
     if img:
         f["img"] = img; f["img_fb"] = img
     elif f["yt"]:
-        f["img"] = f"https://i.ytimg.com/vi/{f['yt']}/maxresdefault.jpg"
-        f["img_fb"] = f"https://i.ytimg.com/vi/{f['yt']}/hqdefault.jpg"
+        f["img"] = f"https://i.ytimg.com/vi/{f['yt']}/maxres1.jpg"
+        f["img_fb"] = f"https://i.ytimg.com/vi/{f['yt']}/hq1.jpg"
     else:
         f["img"] = f["img_fb"] = "/assets/placeholder.svg"
     f["added"] = str(f.get("added") or "2000-01-01")
