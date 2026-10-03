@@ -12,7 +12,7 @@ festivals:
 awards:
   - "Oscar · Best International Film"
 trailer: "https://www.youtube.com/watch?v=40X5EX6Us7c"
-image: ""
+image: "/images/another-round.jpg"
 added: 2026-05-14
 ---
 Four teachers at a Copenhagen high school, worn out and quietly disappointed, test a theory borrowed from a Norwegian psychiatrist: that humans are born with a blood-alcohol level 0.05% too low. The rules are borrowed from Hemingway. Never after eight in the evening, never at weekends. Breathalysers keep it looking like science. For a while it works. Martin, Mads Mikkelsen's history teacher, whose own pupils have complained that he is boring, comes alive in the classroom. Then the dose creeps up, and the film does what Danish cinema does best: it stays with the consequences.

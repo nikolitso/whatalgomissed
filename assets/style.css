@@ -245,3 +245,6 @@ a{color:inherit}
 .sec-n{font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2)}
 section[id]{scroll-margin-top:80px}
 .page-head .chips{margin-top:22px}
+/* Uploaded stills are clean: no zoom-crop */
+img.own,.card:hover .card-img img.own,.list-card:hover .list-img img.own,.still a:hover img.own{transform:none!important}
+.card:hover .card-img img.own{transform:scale(1.04)!important}

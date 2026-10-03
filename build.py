@@ -252,14 +252,15 @@ def by_added(fs):
 
 FILMS = by_year(FILMS)
 
-_used_covers = {str(l.get("cover")).strip() for l in LISTS if l.get("cover")}
+_used_covers = {slugify(str(l.get("cover")).strip()) for l in LISTS if l.get("cover")}
 for l in sorted(LISTS, key=lambda l: 0 if l.get("cover") else 1):
     l["films"] = by_year([f for f in FILMS if l["title"].lower() in [x.lower() for x in f["lists"]]])
     l["url"] = f"/lists/{l['slug']}/"
     # cover: top-rated film with a trailer frame (no uploaded posters, which often carry title text),
     # and never the same film on two list covers
     ranked = by_rating(l["films"])
-    chosen = [f for f in l["films"] if f["slug"] == str(l.get("cover") or "").strip()]
+    _cv = str(l.get("cover") or "").strip()
+    chosen = [f for f in l["films"] if _cv and (f["slug"] == _cv or f["title"].lower() == _cv.lower() or f["slug"] == slugify(_cv))]
     pool = chosen or [f for f in ranked if f["yt"] and not (f.get("image") or "").strip() and f["slug"] not in _used_covers] \
         or [f for f in ranked if f["slug"] not in _used_covers] or ranked
     hero = pool[:1]
@@ -342,6 +343,8 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
 </html>"""
 
 def img_tag(src, fb, alt="", cls="", eager=False):
+    if "ytimg.com" not in src:
+        cls = (cls + " own").strip()   # uploaded stills: show whole frame, no logo/subtitle crop
     return (f'<img class="{cls}" src="{esc(src)}" data-fb="{esc(fb)}" alt="{esc(alt)}" '
             f'{"" if eager else "loading=lazy "}decoding="async" onload="fbimg(this)" onerror="fbimg(this,1)">')
 
