@@ -248,3 +248,8 @@ section[id]{scroll-margin-top:80px}
 /* Uploaded stills are clean: no zoom-crop */
 img.own,.card:hover .card-img img.own,.list-card:hover .list-img img.own,.still a:hover img.own{transform:none!important}
 .card:hover .card-img img.own{transform:scale(1.04)!important}
+/* Brighter list covers; gradient only behind the text */
+.list-img img{opacity:.88}
+.list-card:hover .list-img img{opacity:1}
+.list-card::after{background:linear-gradient(180deg,rgba(14,13,11,0) 45%,rgba(14,13,11,.55) 70%,rgba(14,13,11,.9) 100%)}
+.list-body h3,.list-body p,.list-body .list-n{text-shadow:0 1px 12px rgba(0,0,0,.55)}
