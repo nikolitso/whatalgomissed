@@ -501,7 +501,7 @@ function showResults() {
   document.getElementById('resultsSub').textContent = `Chosen for ${moodMap[answers[0]] || 'you'} — based on all eight answers.`;
 
   document.getElementById('filmCards').innerHTML = top.map(f => `
-    <div class="film-card"><a class="ff-frame" href="${f.url}"><img class="ff-img${f.img.includes('ytimg')?'':' own'}" src="${f.img}" data-fb="${f.fb}" onload="fbimg(this)" onerror="fbimg(this,1)" alt=""></a>
+    <div class="film-card"><a class="ff-frame" href="${f.url}"><img class="ff-img${(f.img.includes('ytimg')&&!f.img.endsWith('#own'))?'':' own'}" src="${f.img}" data-fb="${f.fb}" onload="fbimg(this)" onerror="fbimg(this,1)" alt=""></a>
       <div class="film-meta">
         <span class="film-year">${f.year}</span>
         <span class="film-country">${f.country}</span>

@@ -106,5 +106,11 @@
   "the-salesman": {
     "card": 1,
     "still": 1
+  },
+  "dont-call-me-mama": {
+    "yt": "e4kYlt9n1E4",
+    "card": 1,
+    "still": 2,
+    "crop": false
   }
 }

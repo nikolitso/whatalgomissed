@@ -232,7 +232,8 @@ for f in load_dir("content/films"):
         fr = FRAMES.get(f["slug"], {})
         f["img_yt"] = fr.get("yt") or f["yt"]
         f["frame_card"] = int(fr.get("card", 1)); f["frame_still"] = int(fr.get("still", 2))
-        f["img"] = f"https://i.ytimg.com/vi/{f['img_yt']}/maxres{f['frame_card']}.jpg"
+        f["nocrop"] = fr.get("crop") is False
+        f["img"] = f"https://i.ytimg.com/vi/{f['img_yt']}/maxres{f['frame_card']}.jpg" + ("#own" if f["nocrop"] else "")
         f["img_fb"] = f"https://i.ytimg.com/vi/{f['img_yt']}/hq{f['frame_card']}.jpg"
     else:
         f["img"] = f["img_fb"] = "/assets/placeholder.svg"
@@ -343,7 +344,7 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
 </html>"""
 
 def img_tag(src, fb, alt="", cls="", eager=False):
-    if "ytimg.com" not in src:
+    if "ytimg.com" not in src or src.endswith("#own"):
         cls = (cls + " own").strip()   # uploaded stills: show whole frame, no logo/subtitle crop
     return (f'<img class="{cls}" src="{esc(src)}" data-fb="{esc(fb)}" alt="{esc(alt)}" '
             f'{"" if eager else "loading=lazy "}decoding="async" onload="fbimg(this)" onerror="fbimg(this,1)">')
