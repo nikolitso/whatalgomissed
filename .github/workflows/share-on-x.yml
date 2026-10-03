@@ -1,0 +1,29 @@
+name: Share new films on X
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/films/*.md"
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  share:
+    runs-on: ubuntu-latest
+    if: github.event.before != '0000000000000000000000000000000000000000'
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Email a one-tap "Post on X" link for each new film
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          NEW=$(git diff --name-only --diff-filter=A ${{ github.event.before }} ${{ github.sha }} -- 'content/films/*.md' || true)
+          if [ -n "$NEW" ]; then python scripts/share_on_x.py $NEW; else echo "no new films"; fi

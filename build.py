@@ -461,6 +461,16 @@ def build_home():
     write("/", layout(SITE_NAME, body, "/", dark_hero=True))
 
 # ── film pages ──
+X_ICON = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>'
+
+
+def share_x(f):
+    import urllib.parse
+    d = f" by {f['director']}" if f.get("director") else ""
+    text = f"{f['title']} ({f['year']}){d}"
+    return "https://x.com/intent/post?" + urllib.parse.urlencode({"text": text, "url": SITE_URL + f["url"], "via": "nikolitso"})
+
+
 def build_film(f):
     lists_links = " ".join(chip(x, list_url(x), strong=True) for x in f["lists"])
     tags = []
@@ -483,6 +493,7 @@ def build_film(f):
   <a href="{yurl}" target="_blank" rel="noopener">{img_tag(still, still_fb, f['title'] + ' — still')}</a>
 </figure>
 <p class="trailer-link"><a href="{yurl}" target="_blank" rel="noopener">▶ Watch the trailer on YouTube ↗</a></p>"""
+    trailer += f'<p class="share-row"><a class="share-x" href="{esc(share_x(f))}" target="_blank" rel="noopener">{X_ICON}Share on X</a></p>'
     # related: same first list, closest rating, excluding self
     rel = []
     if f["lists"]:

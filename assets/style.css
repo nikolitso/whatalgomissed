@@ -253,3 +253,8 @@ img.own,.card:hover .card-img img.own,.list-card:hover .list-img img.own,.still 
 .list-card:hover .list-img img{opacity:1}
 .list-card::after{background:linear-gradient(180deg,rgba(14,13,11,0) 45%,rgba(14,13,11,.55) 70%,rgba(14,13,11,.9) 100%)}
 .list-body h3,.list-body p,.list-body .list-n{text-shadow:0 1px 12px rgba(0,0,0,.55)}
+/* Share on X */
+.share-row{margin:14px 0 0}
+.share-x{display:inline-flex;align-items:center;gap:8px;font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;color:var(--ink);border:1px solid var(--rule);padding:9px 16px;transition:background .2s,color .2s,border-color .2s}
+.share-x svg{width:14px;height:14px;fill:currentColor}
+.share-x:hover{background:var(--dark);color:var(--cream);border-color:var(--dark)}
