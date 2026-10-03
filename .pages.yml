@@ -110,6 +110,10 @@ content:
       - name: order
         label: Order on the site
         type: number
+      - name: cover
+        label: Cover film
+        description: Optional. The film whose image is the list cover, written like its file name, e.g. woman-at-war. Leave empty to use the top-rated film.
+        type: string
       - name: link
         label: Letterboxd / Cinobo link
         type: string

@@ -3,6 +3,7 @@ title: "Europa"
 subtitle: "European Cinema"
 tagline: "Europe doesn't do comfortable. It does honest."
 order: 7
+cover: "woman-at-war"
 link: "https://letterboxd.com/nikolitso/list/europa/"
 ---
 A personal map of the films that stayed with me — from Danish family dinners that turn into confessions, to Italian men trying to protect their children from the worst of history, to Icelandic women quietly declaring war on the world around them.

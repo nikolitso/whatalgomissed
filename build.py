@@ -252,14 +252,15 @@ def by_added(fs):
 
 FILMS = by_year(FILMS)
 
-_used_covers = set()
-for l in LISTS:
+_used_covers = {str(l.get("cover")).strip() for l in LISTS if l.get("cover")}
+for l in sorted(LISTS, key=lambda l: 0 if l.get("cover") else 1):
     l["films"] = by_year([f for f in FILMS if l["title"].lower() in [x.lower() for x in f["lists"]]])
     l["url"] = f"/lists/{l['slug']}/"
     # cover: top-rated film with a trailer frame (no uploaded posters, which often carry title text),
     # and never the same film on two list covers
     ranked = by_rating(l["films"])
-    pool = [f for f in ranked if f["yt"] and not (f.get("image") or "").strip() and f["slug"] not in _used_covers] \
+    chosen = [f for f in l["films"] if f["slug"] == str(l.get("cover") or "").strip()]
+    pool = chosen or [f for f in ranked if f["yt"] and not (f.get("image") or "").strip() and f["slug"] not in _used_covers] \
         or [f for f in ranked if f["slug"] not in _used_covers] or ranked
     hero = pool[:1]
     if hero:
