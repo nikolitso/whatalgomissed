@@ -3,7 +3,7 @@ title: "Darling"
 year: 2017
 director: "Birgitte Stærmose"
 country: "Denmark"
-rating: 3.5
+rating: 4
 lists:
   - "Danmark"
 trailer: "https://www.youtube.com/watch?v=raS3NhyWxHo"
