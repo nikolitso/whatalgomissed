@@ -3,9 +3,10 @@ title: "Crossing"
 year: 2024
 director: "Levan Akin"
 country: "Georgia"
-rating: 4
+rating: 4.5
 lists:
   - "The World"
+  - "Europa"
   - "On Cinobo"
 festivals:
   - "Berlinale"
