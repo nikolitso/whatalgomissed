@@ -17,7 +17,7 @@ except FileNotFoundError:
 import hashlib as _h
 CSS_V = _h.md5(open(__import__("os").path.join(__import__("os").path.dirname(__import__("os").path.abspath(__file__)),"assets","style.css"),"rb").read()).hexdigest()[:8]
 SITE_NAME = "What Algo Missed"
-GA_ID = "G-7FZWVPCVL4"
+CF_BEACON = "02d54d6d37374701a4b0e12e45d52850"  # Cloudflare Web Analytics (cookieless)
 LETTERBOXD = "https://letterboxd.com/nikolitso/"
 
 # ───────────────────────── helpers ─────────────────────────
@@ -315,8 +315,7 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,400;0,700;0,800;1,400;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/style.css?v={CSS_V}">
-<script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','{GA_ID}');</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{{"token": "{CF_BEACON}"}}'></script>
 <script>function fbimg(i,e){{if(i.dataset.done)return;if(e||(i.naturalWidth&&i.naturalWidth<=120)){{i.dataset.done=1;i.src=i.dataset.fb;}}}}</script>
 {extra_head}
 </head>
