@@ -5,6 +5,6 @@ tagline: Everyone is from somewhere else.
 order: 10
 cover: terraferma
 ---
-Boats in the dark off Lampedusa. A wall cutting through a West Bank village. A Turkish-German family split between Hamburg and Istanbul. A Kurdish refugee in Athens, a Pakistani girl in Oslo, a Greek shepherd who decides he has had enough of "foreigners". These are films about people who cross borders and the borders that cross them: the ones who leave, the ones who stay behind, and the ones who have to decide whether to open the door.
+Boats in the dark off the Sicilian coast. A wall that cuts a family in two. Lives split between Hamburg and Istanbul. An asylum seeker stopped at an Icelandic airport, a Norwegian-Pakistani girl sent away from Oslo, an Athenian who decides his square has too many "foreigners". These are films about people who cross borders and the borders that cross them: the ones who leave, the ones who stay behind, and the ones who have to decide whether to open the door.
 
 None of them is a lecture. They are thrillers, love stories, comedies and family dramas, and what they share is a simple question: **what do we owe a stranger?**
