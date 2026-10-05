@@ -7,7 +7,6 @@ country: "Greece"
 rating: 4
 lists:
   - "Greece"
-  - "Europa"
 awards:
   - "18 Hellenic Film Academy Nominations · 1 Win"
   - "Hellenic Film Academy · 1 Win · 18 Nominations"

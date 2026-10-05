@@ -7,7 +7,6 @@ country: "Iceland"
 rating: 4.5
 lists:
   - "Norden"
-  - "Europa"
 festivals:
   - "Cannes"
 awards:

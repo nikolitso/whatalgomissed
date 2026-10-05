@@ -7,7 +7,6 @@ country: "Greece"
 rating: 4
 lists:
   - "Greece"
-  - "Europa"
 festivals:
   - "Cannes"
 awards:

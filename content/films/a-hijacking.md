@@ -7,7 +7,6 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
-  - "Europa"
 trailer: "https://www.youtube.com/watch?v=IyMegiVnYwM"
 image: ""
 added: 2026-05-14

@@ -7,7 +7,6 @@ country: "Denmark"
 rating: 5
 lists:
   - "Danmark"
-  - "Europa"
 festivals:
   - "Cannes"
 awards:

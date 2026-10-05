@@ -7,7 +7,6 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
-  - "Europa"
 trailer: "https://www.youtube.com/watch?v=KVysTs75mBI"
 image: ""
 added: 2026-05-14

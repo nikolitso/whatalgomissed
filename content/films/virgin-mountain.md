@@ -7,7 +7,6 @@ country: "Iceland"
 rating: 4
 lists:
   - "Norden"
-  - "Europa"
 festivals:
   - "Tribeca"
 awards:

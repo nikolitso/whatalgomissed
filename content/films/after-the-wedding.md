@@ -7,7 +7,6 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
-  - "Europa"
 festivals:
   - "Oscars"
 awards:

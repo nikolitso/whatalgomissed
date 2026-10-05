@@ -6,7 +6,6 @@ country: "Iceland"
 rating: 4.5
 lists:
   - "Norden"
-  - "Europa"
 awards:
   - "6 Edda Award Nominations"
 trailer: "https://www.youtube.com/watch?v=y5fXuZ3ns_c"

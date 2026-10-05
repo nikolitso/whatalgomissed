@@ -7,7 +7,6 @@ country: "Greece"
 rating: 4.5
 lists:
   - "Greece"
-  - "Europa"
 awards:
   - "Hellenic Film Academy · Best Film"
   - "Greek State Film Awards · Best New Director"

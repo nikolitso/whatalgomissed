@@ -7,7 +7,6 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
-  - "Europa"
 festivals:
   - "Oscars"
 awards:

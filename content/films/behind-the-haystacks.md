@@ -7,7 +7,6 @@ country: "Greece"
 rating: 4.5
 lists:
   - "Greece"
-  - "Europa"
 festivals:
   - "Thessaloniki"
 awards:

@@ -7,7 +7,6 @@ country: "Norway"
 rating: 4
 lists:
   - "Norden"
-  - "Europa"
 awards:
   - "Amanda Award · Best Film"
 trailer: "https://www.youtube.com/watch?v=CSrVQVzmXKY"
