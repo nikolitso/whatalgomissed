@@ -7,7 +7,7 @@ country: "Greece"
 rating: 4
 lists:
   - "Greece"
-  - "The World"
+  - "Europa"
 festivals:
   - "Berlinale"
 awards:

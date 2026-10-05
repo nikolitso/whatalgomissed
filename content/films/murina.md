@@ -6,7 +6,6 @@ country: "Croatia"
 rating: 4.5
 lists:
   - "Europa"
-  - "The World"
 festivals:
   - "Cannes"
 awards:

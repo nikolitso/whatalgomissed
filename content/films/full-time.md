@@ -7,7 +7,6 @@ country: "France"
 rating: 3.5
 lists:
   - "Europa"
-  - "The World"
 festivals:
   - "Venice"
 awards:

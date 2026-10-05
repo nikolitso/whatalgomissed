@@ -5,7 +5,7 @@ director: "Roman Polanski"
 country: "France"
 rating: 4
 lists:
-  - "The World"
+  - "Europa"
 festivals:
   - "Berlinale"
 awards:

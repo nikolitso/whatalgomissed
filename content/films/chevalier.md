@@ -6,7 +6,7 @@ country: "Greece"
 rating: 4
 lists:
   - "Greece"
-  - "The World"
+  - "Europa"
 awards:
   - "Best Film · Hellenic Film Academy"
   - "Best Film · BFI London Film Festival"

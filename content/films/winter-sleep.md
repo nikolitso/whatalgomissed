@@ -6,7 +6,7 @@ director: "Nuri Bilge Ceylan"
 country: "Turkey"
 rating: 4.5
 lists:
-  - "The World"
+  - "Europa"
 festivals:
   - "Cannes"
 awards:

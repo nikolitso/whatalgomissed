@@ -6,7 +6,7 @@ director: "Çagan Irmak"
 country: "Turkey"
 rating: 4.5
 lists:
-  - "The World"
+  - "Europa"
 trailer: "https://www.youtube.com/watch?v=eFkKOG0uzpo"
 image: ""
 added: 2026-05-14

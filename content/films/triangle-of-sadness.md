@@ -7,7 +7,6 @@ rating: 4.5
 lists:
   - "Norden"
   - "Europa"
-  - "The World"
 festivals:
   - "Cannes"
   - "Oscars"

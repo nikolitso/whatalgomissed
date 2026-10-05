@@ -5,7 +5,6 @@ director: "Levan Akin"
 country: "Georgia"
 rating: 4.5
 lists:
-  - "The World"
   - "Europa"
 festivals:
   - "Berlinale"

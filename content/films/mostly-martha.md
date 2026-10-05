@@ -7,7 +7,6 @@ country: "Germany"
 rating: 4
 lists:
   - "Europa"
-  - "The World"
 awards:
   - "German Film Award · Best Actor"
 trailer: "https://www.youtube.com/watch?v=cf-9-dI9h5U"

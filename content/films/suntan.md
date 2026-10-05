@@ -6,7 +6,7 @@ country: "Greece"
 rating: 4
 lists:
   - "Greece"
-  - "The World"
+  - "Europa"
 awards:
   - "Hellenic Film Academy · Best Film · Best Director"
   - "6 Hellenic Film Academy Awards · Won Best Film"

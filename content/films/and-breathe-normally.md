@@ -7,7 +7,7 @@ country: "Iceland"
 rating: 4.5
 lists:
   - "Norden"
-  - "The World"
+  - "Europa"
 festivals:
   - "Sundance"
 awards:
