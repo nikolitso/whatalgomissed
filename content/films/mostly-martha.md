@@ -6,6 +6,7 @@ director: "Sandra Nettelbeck"
 country: "Germany"
 rating: 4
 lists:
+  - "Europa"
   - "The World"
 awards:
   - "German Film Award · Best Actor"
