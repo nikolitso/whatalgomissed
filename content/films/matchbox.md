@@ -8,7 +8,6 @@ rating: 4.5
 lists:
   - "Greece"
   - "The World"
-  - "On Cinobo"
 awards:
   - "Hellenic Film Academy · Best Film"
   - "Greek State Film Awards · Best New Director"

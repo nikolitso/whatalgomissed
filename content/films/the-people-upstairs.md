@@ -7,7 +7,6 @@ country: "Spain"
 rating: 4
 lists:
   - "The World"
-  - "On Cinobo"
 awards:
   - "1 Goya Award · 5 Nominations"
 trailer: "https://www.youtube.com/watch?v=HrqZJI25pkU"

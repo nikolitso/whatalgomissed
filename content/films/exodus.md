@@ -7,7 +7,6 @@ rating: 4
 lists:
   - "Norden"
   - "The World"
-  - "On Cinobo"
 awards:
   - "Göteborg Film Festival · Opening Film"
 trailer: "https://www.youtube.com/watch?v=GzR5IOuZrG8"

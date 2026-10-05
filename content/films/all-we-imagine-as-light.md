@@ -6,7 +6,6 @@ country: "India"
 rating: 4
 lists:
   - "The World"
-  - "On Cinobo"
 festivals:
   - "Cannes"
 awards:

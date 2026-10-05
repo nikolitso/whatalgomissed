@@ -8,7 +8,6 @@ rating: 4
 lists:
   - "Greece"
   - "The World"
-  - "On Cinobo"
 festivals:
   - "Berlinale"
 awards:

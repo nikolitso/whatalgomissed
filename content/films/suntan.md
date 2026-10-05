@@ -7,7 +7,6 @@ rating: 4
 lists:
   - "Greece"
   - "The World"
-  - "On Cinobo"
 awards:
   - "Hellenic Film Academy · Best Film · Best Director"
   - "6 Hellenic Film Academy Awards · Won Best Film"

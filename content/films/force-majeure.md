@@ -8,7 +8,6 @@ rating: 4.5
 lists:
   - "Norden"
   - "The World"
-  - "On Cinobo"
 festivals:
   - "Cannes"
 awards:

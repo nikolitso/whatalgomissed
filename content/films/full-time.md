@@ -7,7 +7,6 @@ country: "France"
 rating: 3.5
 lists:
   - "The World"
-  - "On Cinobo"
 festivals:
   - "Venice"
 awards:

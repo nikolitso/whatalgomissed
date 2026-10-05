@@ -8,7 +8,6 @@ lists:
   - "Norden"
   - "Europa"
   - "The World"
-  - "On Cinobo"
 festivals:
   - "Cannes"
   - "Oscars"

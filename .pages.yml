@@ -55,7 +55,6 @@ content:
           - "Europa"
           - "The World"
           - "The Game"
-          - "On Cinobo"
       - name: festivals
         label: Festivals & awards (for categories)
         type: select

@@ -7,7 +7,6 @@ country: "Japan"
 rating: 4
 lists:
   - "The World"
-  - "On Cinobo"
 festivals:
   - "Cannes"
   - "Oscars"

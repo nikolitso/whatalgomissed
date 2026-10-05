@@ -7,7 +7,6 @@ rating: 4.5
 lists:
   - "The World"
   - "Europa"
-  - "On Cinobo"
 festivals:
   - "Berlinale"
 awards:
