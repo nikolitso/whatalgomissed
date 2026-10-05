@@ -7,7 +7,7 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
-  - "The Other Shore"
+  - "Strangers"
 trailer: "https://www.youtube.com/watch?v=Zzz9z5eiQ2s"
 image: ""
 added: 2026-10-05

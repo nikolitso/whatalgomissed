@@ -6,7 +6,7 @@ country: "Palestine"
 rating: 4
 lists:
   - "The Middle East"
-  - "The Other Shore"
+  - "Strangers"
 festivals:
   - "Venice"
 awards:

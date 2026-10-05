@@ -791,6 +791,7 @@ def main():
         "/the-game-is-never-just-the-game/": "/lists/sport-cinema/",
         "/cinobo-whats-worth-watching/": "/lists/world-cinema/",
         "/lists/on-cinobo/": "/lists/world-cinema/",
+        "/lists/the-other-shore/": "/lists/strangers/",
         "/norden-nordic-cinema/": "/lists/nordic-cinema/",
         "/film-finder/": "/finder/",
         "/films-by-year/": "/by-year/",

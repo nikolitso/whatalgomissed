@@ -7,7 +7,7 @@ country: "Norway"
 rating: 4
 lists:
   - "Norden"
-  - "The Other Shore"
+  - "Strangers"
 awards:
   - "Amanda Award · Best Film"
 trailer: "https://www.youtube.com/watch?v=CSrVQVzmXKY"

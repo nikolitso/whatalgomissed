@@ -6,7 +6,7 @@ country: "USA"
 rating: 4
 lists:
   - "The World"
-  - "The Other Shore"
+  - "Strangers"
 trailer: "https://www.youtube.com/watch?v=VvGvWHHjK2o"
 image: ""
 added: 2026-10-05

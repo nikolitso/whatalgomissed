@@ -7,7 +7,7 @@ country: "Germany"
 rating: 4
 lists:
   - "Europa"
-  - "The Other Shore"
+  - "Strangers"
 festivals:
   - "Cannes"
 awards:

@@ -6,7 +6,7 @@ country: "Palestine"
 rating: 4
 lists:
   - "The Middle East"
-  - "The Other Shore"
+  - "Strangers"
 trailer: "https://www.youtube.com/watch?v=YCULFEL2dJw"
 image: ""
 added: 2026-05-14

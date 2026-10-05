@@ -1,7 +1,7 @@
 ---
-title: The Other Shore
+title: Strangers
 subtitle: Refugee & Migration Cinema
-tagline: Everyone is from somewhere else.
+tagline: Everyone is a foreigner somewhere.
 order: 10
 cover: dont-call-me-mama
 ---
