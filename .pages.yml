@@ -55,6 +55,7 @@ content:
           - "Europa"
           - "The World"
           - "The Game"
+          - "The Other Shore"
       - name: festivals
         label: Festivals & awards (for categories)
         type: select

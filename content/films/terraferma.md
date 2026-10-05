@@ -6,6 +6,7 @@ country: "Italy"
 rating: 4.5
 lists:
   - "Italia"
+  - "The Other Shore"
 festivals:
   - "Venice"
 awards:

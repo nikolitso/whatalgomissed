@@ -7,6 +7,7 @@ country: "Greece"
 rating: 4.5
 lists:
   - "Greece"
+  - "The Other Shore"
 festivals:
   - "Thessaloniki"
 awards:

@@ -7,7 +7,7 @@ country: "Norway"
 rating: "4.5"
 lists:
   - Norden
-  - The World
+  - "The Other Shore"
 trailer: https://youtu.be/5kH3148Xrq8?si=hk2ane243pzqVHY4
 image: ""
 added: 2026-10-02

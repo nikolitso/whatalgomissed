@@ -7,6 +7,7 @@ country: "Iceland"
 rating: 4.5
 lists:
   - "Norden"
+  - "The Other Shore"
 festivals:
   - "Sundance"
 awards:

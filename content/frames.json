@@ -180,5 +180,13 @@
   "winter-sleep": {
     "card": 3,
     "still": 3
+  },
+  "the-last-resort": {
+    "card": 2,
+    "still": 3
+  },
+  "i-was-a-stranger": {
+    "card": 1,
+    "still": 3
   }
 }
