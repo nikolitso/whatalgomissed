@@ -258,3 +258,6 @@ img.own,.card:hover .card-img img.own,.list-card:hover .list-img img.own,.still 
 .share-x{display:inline-flex;align-items:center;gap:8px;font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;color:var(--ink);border:1px solid var(--rule);padding:9px 16px;transition:background .2s,color .2s,border-color .2s}
 .share-x svg{width:14px;height:14px;fill:currentColor}
 .share-x:hover{background:var(--dark);color:var(--cream);border-color:var(--dark)}
+
+/* Owner-only controls stay hidden unless revealed by script */
+[data-owner][hidden]{display:none!important}
