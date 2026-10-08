@@ -971,6 +971,18 @@
       "Vladimir Vdovichenkov"
     ]
   },
+  "life-in-a-fishbowl": {
+    "id": 268618,
+    "title": "Life in a Fishbowl",
+    "year": "2014",
+    "cast": [
+      "Hera Hilmar",
+      "Þorsteinn Bachmann",
+      "Thorvaldur Kristjansson"
+    ],
+    "backdrop": "/assets/backdrops/life-in-a-fishbowl.jpg",
+    "poster": "/assets/posters/life-in-a-fishbowl.jpg"
+  },
   "linha-de-passe": {
     "id": 8902,
     "title": "Linha de Passe",
@@ -1042,6 +1054,18 @@
       "Althea Vega",
       "John Arcilla"
     ]
+  },
+  "mondays-in-the-sun": {
+    "id": 54580,
+    "title": "Mondays in the Sun",
+    "year": "2002",
+    "cast": [
+      "Javier Bardem",
+      "Luis Tosar",
+      "José Ángel Egido"
+    ],
+    "backdrop": "/assets/backdrops/mondays-in-the-sun.jpg",
+    "poster": "/assets/posters/mondays-in-the-sun.jpg"
   },
   "mostly-martha": {
     "id": 3640,
