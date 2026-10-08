@@ -192,5 +192,9 @@
   "left-handed-girl": {
     "card": 3,
     "still": 3
+  },
+  "animal": {
+    "card": 2,
+    "still": 3
   }
 }
