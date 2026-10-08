@@ -1767,6 +1767,18 @@
       "Adriano Giannini"
     ]
   },
+  "the-deep": {
+    "id": 127913,
+    "title": "The Deep",
+    "year": "2012",
+    "cast": [
+      "Ólafur Darri Ólafsson",
+      "Joi Johannsson",
+      "Þorbjörg Helga Þorgilsdóttir"
+    ],
+    "backdrop": "/assets/backdrops/the-deep.jpg",
+    "poster": "/assets/posters/the-deep.jpg"
+  },
   "the-double-hour": {
     "id": 42571,
     "title": "The Double Hour",
