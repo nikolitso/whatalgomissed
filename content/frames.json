@@ -200,5 +200,9 @@
   "valeria-is-getting-married": {
     "card": 2,
     "still": 2
+  },
+  "after-love": {
+    "card": 2,
+    "still": 3
   }
 }
