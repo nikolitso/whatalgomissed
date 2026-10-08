@@ -7,6 +7,7 @@ country: "Israel/Ukraine"
 rating: 4
 lists:
   - "Europa"
+  - "Strangers"
 festivals:
   - "Venice"
   - "Toronto"
