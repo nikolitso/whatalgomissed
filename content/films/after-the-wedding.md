@@ -8,7 +8,7 @@ actors:
   - "Stine Fischer Christensen"
   - "Sidse Babett Knudsen"
 country: "Denmark"
-rating: 4
+rating: 4.5
 lists:
   - "Danmark"
 festivals:
