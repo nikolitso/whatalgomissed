@@ -1379,6 +1379,19 @@
       "Stefano Accorsi"
     ]
   },
+  "saturn-in-opposition": {
+    "id": 22373,
+    "title": "Saturn in Opposition",
+    "year": "2007",
+    "cast": [
+      "Pierfrancesco Favino",
+      "Stefano Accorsi",
+      "Margherita Buy"
+    ],
+    "backdrop": "/assets/backdrops/saturn-in-opposition.jpg",
+    "poster": "/assets/posters/saturn-in-opposition.jpg",
+    "pin": "/amUw14nOfrGZZpcbRS99MCcv1bB.jpg"
+  },
   "secrets-and-lies": {
     "id": 11159,
     "title": "Secrets & Lies",
@@ -1390,6 +1403,19 @@
       "Marianne Jean-Baptiste",
       "Timothy Spall"
     ]
+  },
+  "sentimental-value": {
+    "id": 1124566,
+    "title": "Sentimental Value",
+    "year": "2025",
+    "cast": [
+      "Renate Reinsve",
+      "Stellan Skarsgård",
+      "Inga Ibsdotter Lilleaas"
+    ],
+    "backdrop": "/assets/backdrops/sentimental-value.jpg",
+    "poster": "/assets/posters/sentimental-value.jpg",
+    "pin": "/z9ADBXZ9rTj4Mg1kdXwKQPfACiE.jpg"
   },
   "shoplifters": {
     "id": 505192,
