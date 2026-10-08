@@ -642,7 +642,7 @@ def build_awards():
         if not items:
             continue
         si += 1
-        items.sort(key=lambda x: (-x[0]["rating"], -x[0]["year"]))
+        items.sort(key=lambda x: (-x[0]["year"], -x[0]["rating"], x[0]["title"]))
         cards = "\n".join(card(f, True, a) for f, a in items)
         secs += f"""<section class="section{' section-alt' if si % 2 == 0 else ''}" id="{k}">
   <div class="wrap">
