@@ -14,6 +14,10 @@ try:
     FRAMES = _json.load(open(__import__("os").path.join(__import__("os").path.dirname(__import__("os").path.abspath(__file__)),"content","frames.json"),encoding="utf-8"))
 except FileNotFoundError:
     FRAMES = {}
+try:  # TMDB stills and posters fetched by scripts/tmdb_fetch.py
+    TMDB = _json.load(open(__import__("os").path.join(__import__("os").path.dirname(__import__("os").path.abspath(__file__)),"content","tmdb.json"),encoding="utf-8"))
+except FileNotFoundError:
+    TMDB = {}
 import hashlib as _h
 CSS_V = _h.md5(open(__import__("os").path.join(__import__("os").path.dirname(__import__("os").path.abspath(__file__)),"assets","style.css"),"rb").read()).hexdigest()[:8]
 SITE_NAME = "What Algo Missed"
@@ -339,6 +343,7 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
     </div>
     <nav class="foot-nav">{nav}<a href="{LETTERBOXD}">Letterboxd</a></nav>
   </div>
+  <div class="wrap foot-base">Film images from <a href="https://www.themoviedb.org/" style="color:inherit">TMDB</a>. This product uses the TMDB API but is not endorsed or certified by TMDB.</div>
 </footer>
 </body>
 </html>"""
@@ -517,8 +522,9 @@ def build_film(f):
         "reviewBody": plain(f["body"]),
     }
     if f["slug"] in BACKDROP_HERO:
+        backdrop = (TMDB.get(f["slug"]) or {}).get("backdrop") or f["img"]
         hero_open = f"""<section class="film-hero lb">
-  <div class="lb-backdrop">{img_tag(f['img'], f['img_fb'], f['title'], 'fh-img', eager=True)}</div>
+  <div class="lb-backdrop">{img_tag(backdrop, f['img_fb'], f['title'], 'fh-img', eager=True)}</div>
   <div class="wrap fh-inner lb-inner">"""
     else:
         hero_open = f"""<section class="film-hero">

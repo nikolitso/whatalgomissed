@@ -1,3 +1,7 @@
 _site/
 __pycache__/
 .DS_Store
+
+# local secrets
+tmdb_key.txt
+.tmdb_key

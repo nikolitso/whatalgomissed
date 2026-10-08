@@ -1,0 +1,1296 @@
+{
+  "200-meters": {
+    "id": 727012,
+    "title": "200 Meters",
+    "year": "2020",
+    "backdrop": "/assets/backdrops/200-meters.jpg",
+    "poster": "/assets/posters/200-meters.jpg"
+  },
+  "a-family": {
+    "id": 58483,
+    "title": "A Family",
+    "year": "2011",
+    "backdrop": "/assets/backdrops/a-family.jpg",
+    "poster": "/assets/posters/a-family.jpg"
+  },
+  "a-hijacking": {
+    "id": 127846,
+    "title": "A Hijacking",
+    "year": "2012",
+    "backdrop": "/assets/backdrops/a-hijacking.jpg",
+    "poster": "/assets/posters/a-hijacking.jpg"
+  },
+  "a-man-of-integrity": {
+    "id": 452013,
+    "title": "A Man of Integrity",
+    "year": "2017",
+    "backdrop": "/assets/backdrops/a-man-of-integrity.jpg",
+    "poster": "/assets/posters/a-man-of-integrity.jpg"
+  },
+  "a-perfect-day": {
+    "id": 12432,
+    "title": "A Perfect Day",
+    "year": "2008",
+    "backdrop": "/assets/backdrops/a-perfect-day.jpg",
+    "poster": "/assets/posters/a-perfect-day.jpg"
+  },
+  "a-quiet-life": {
+    "id": 49850,
+    "title": "A Quiet Life",
+    "year": "2010",
+    "backdrop": "/assets/backdrops/a-quiet-life.jpg",
+    "poster": "/assets/posters/a-quiet-life.jpg"
+  },
+  "a-separation": {
+    "id": 60243,
+    "title": "A Separation",
+    "year": "2011",
+    "backdrop": "/assets/backdrops/a-separation.jpg",
+    "poster": "/assets/posters/a-separation.jpg"
+  },
+  "a-wedding": {
+    "id": 413837,
+    "title": "A Wedding",
+    "year": "2017",
+    "backdrop": "/assets/backdrops/a-wedding.jpg",
+    "poster": "/assets/posters/a-wedding.jpg"
+  },
+  "a-whole-life-ahead": {
+    "id": 51917,
+    "title": "A Whole Life Ahead",
+    "year": "2008",
+    "backdrop": "/assets/backdrops/a-whole-life-ahead.jpg",
+    "poster": "/assets/posters/a-whole-life-ahead.jpg"
+  },
+  "a-worthy-man": {
+    "id": 546161,
+    "title": "A Worthy Man",
+    "year": "2018",
+    "poster": "/assets/posters/a-worthy-man.jpg"
+  },
+  "about-elly": {
+    "id": 37181,
+    "title": "About Elly",
+    "year": "2009",
+    "backdrop": "/assets/backdrops/about-elly.jpg",
+    "poster": "/assets/posters/about-elly.jpg"
+  },
+  "acab-all-cops-are-bastards": {
+    "id": 85739,
+    "title": "A.C.A.B. - All Cops Are Bastards",
+    "year": "2012",
+    "backdrop": "/assets/backdrops/acab-all-cops-are-bastards.jpg",
+    "poster": "/assets/posters/acab-all-cops-are-bastards.jpg"
+  },
+  "accused": {
+    "id": 15822,
+    "title": "Accused",
+    "year": "2005",
+    "backdrop": "/assets/backdrops/accused.jpg",
+    "poster": "/assets/posters/accused.jpg"
+  },
+  "after-the-wedding": {
+    "id": 3549,
+    "title": "After the Wedding",
+    "year": "2006",
+    "backdrop": "/assets/backdrops/after-the-wedding.jpg",
+    "poster": "/assets/posters/after-the-wedding.jpg"
+  },
+  "all-about-my-mother": {
+    "id": 99,
+    "title": "All About My Mother",
+    "year": "1999",
+    "backdrop": "/assets/backdrops/all-about-my-mother.jpg",
+    "poster": "/assets/posters/all-about-my-mother.jpg"
+  },
+  "all-we-imagine-as-light": {
+    "id": 927547,
+    "title": "All We Imagine as Light",
+    "year": "2024",
+    "backdrop": "/assets/backdrops/all-we-imagine-as-light.jpg",
+    "poster": "/assets/posters/all-we-imagine-as-light.jpg"
+  },
+  "alone": {
+    "id": 27952,
+    "title": "Alone",
+    "year": "2008",
+    "backdrop": "/assets/backdrops/alone.jpg",
+    "poster": "/assets/posters/alone.jpg"
+  },
+  "along-the-ridge": {
+    "id": 30535,
+    "title": "Along the Ridge",
+    "year": "2006",
+    "backdrop": "/assets/backdrops/along-the-ridge.jpg",
+    "poster": "/assets/posters/along-the-ridge.jpg"
+  },
+  "amerika-square": {
+    "id": 421247,
+    "title": "Amerika Square",
+    "year": "2016",
+    "backdrop": "/assets/backdrops/amerika-square.jpg",
+    "poster": "/assets/posters/amerika-square.jpg"
+  },
+  "amores-perros": {
+    "id": 55,
+    "title": "Amores Perros",
+    "year": "2000",
+    "backdrop": "/assets/backdrops/amores-perros.jpg",
+    "poster": "/assets/posters/amores-perros.jpg"
+  },
+  "and-breathe-normally": {
+    "id": 489982,
+    "title": "And Breathe Normally",
+    "year": "2018",
+    "backdrop": "/assets/backdrops/and-breathe-normally.jpg",
+    "poster": "/assets/posters/and-breathe-normally.jpg"
+  },
+  "another-round": {
+    "id": 580175,
+    "title": "Another Round",
+    "year": "2020",
+    "backdrop": "/assets/backdrops/another-round.jpg",
+    "poster": "/assets/posters/another-round.jpg"
+  },
+  "armand": {
+    "id": 1144681,
+    "title": "Armand",
+    "year": "2024",
+    "backdrop": "/assets/backdrops/armand.jpg",
+    "poster": "/assets/posters/armand.jpg"
+  },
+  "asia": {
+    "id": 694843,
+    "title": "Asia",
+    "year": "2021",
+    "backdrop": "/assets/backdrops/asia.jpg",
+    "poster": "/assets/posters/asia.jpg"
+  },
+  "baaria": {
+    "id": 25846,
+    "title": "Baaria",
+    "year": "2009",
+    "backdrop": "/assets/backdrops/baaria.jpg",
+    "poster": "/assets/posters/baaria.jpg"
+  },
+  "babel": {
+    "id": 1164,
+    "title": "Babel",
+    "year": "2006",
+    "backdrop": "/assets/backdrops/babel.jpg",
+    "poster": "/assets/posters/babel.jpg"
+  },
+  "ballad-for-a-pierced-heart": {
+    "id": 691853,
+    "title": "Ballad for a Pierced Heart",
+    "year": "2020",
+    "backdrop": "/assets/backdrops/ballad-for-a-pierced-heart.jpg",
+    "poster": "/assets/posters/ballad-for-a-pierced-heart.jpg"
+  },
+  "beginnings": {
+    "id": 1239478,
+    "title": "Beginnings",
+    "year": "2025",
+    "backdrop": "/assets/backdrops/beginnings.jpg",
+    "poster": "/assets/posters/beginnings.jpg"
+  },
+  "behind-the-haystacks": {
+    "id": 1030564,
+    "title": "Behind the Haystacks",
+    "year": "2023",
+    "backdrop": "/assets/backdrops/behind-the-haystacks.jpg",
+    "poster": "/assets/posters/behind-the-haystacks.jpg"
+  },
+  "birthday-boy": {
+    "id": 1018881,
+    "title": "Birthday Boy",
+    "year": "2022",
+    "backdrop": "/assets/backdrops/birthday-boy.jpg",
+    "poster": "/assets/posters/birthday-boy.jpg"
+  },
+  "blue-is-the-warmest-colour": {
+    "id": 152584,
+    "title": "Blue Is the Warmest Color",
+    "year": "2013",
+    "backdrop": "/assets/backdrops/blue-is-the-warmest-colour.jpg",
+    "poster": "/assets/posters/blue-is-the-warmest-colour.jpg"
+  },
+  "broken-vein": {
+    "id": 1324836,
+    "title": "Broken Vein",
+    "year": "2025",
+    "backdrop": "/assets/backdrops/broken-vein.jpg",
+    "poster": "/assets/posters/broken-vein.jpg"
+  },
+  "brothers": {
+    "id": 3875,
+    "title": "Brothers",
+    "year": "2004",
+    "backdrop": "/assets/backdrops/brothers.jpg",
+    "poster": "/assets/posters/brothers.jpg"
+  },
+  "capernaum": {
+    "id": 517814,
+    "title": "Capernaum",
+    "year": "2018",
+    "backdrop": "/assets/backdrops/capernaum.jpg",
+    "poster": "/assets/posters/capernaum.jpg"
+  },
+  "caramel": {
+    "id": 7973,
+    "title": "Caramel",
+    "year": "2007",
+    "backdrop": "/assets/backdrops/caramel.jpg",
+    "poster": "/assets/posters/caramel.jpg"
+  },
+  "charter": {
+    "id": 653580,
+    "title": "Charter",
+    "year": "2020",
+    "backdrop": "/assets/backdrops/charter.jpg",
+    "poster": "/assets/posters/charter.jpg"
+  },
+  "chefs-special": {
+    "id": 15953,
+    "title": "Chef's Special",
+    "year": "2008",
+    "backdrop": "/assets/backdrops/chefs-special.jpg",
+    "poster": "/assets/posters/chefs-special.jpg"
+  },
+  "chevalier": {
+    "id": 314220,
+    "title": "Chevalier",
+    "year": "2015",
+    "backdrop": "/assets/backdrops/chevalier.jpg",
+    "poster": "/assets/posters/chevalier.jpg"
+  },
+  "chiko": {
+    "id": 8064,
+    "title": "Chiko",
+    "year": "2008",
+    "backdrop": "/assets/backdrops/chiko.jpg",
+    "poster": "/assets/posters/chiko.jpg"
+  },
+  "children-of-glory": {
+    "id": 13616,
+    "title": "Children of Glory",
+    "year": "2006",
+    "backdrop": "/assets/backdrops/children-of-glory.jpg",
+    "poster": "/assets/posters/children-of-glory.jpg"
+  },
+  "cinema-paradiso": {
+    "id": 11216,
+    "title": "Cinema Paradiso",
+    "year": "1988",
+    "backdrop": "/assets/backdrops/cinema-paradiso.jpg",
+    "poster": "/assets/posters/cinema-paradiso.jpg"
+  },
+  "city-of-god": {
+    "id": 598,
+    "title": "City of God",
+    "year": "2002",
+    "backdrop": "/assets/backdrops/city-of-god.jpg",
+    "poster": "/assets/posters/city-of-god.jpg"
+  },
+  "crossing": {
+    "id": 765421,
+    "title": "Crossing",
+    "year": "2024",
+    "backdrop": "/assets/backdrops/crossing.jpg",
+    "poster": "/assets/posters/crossing.jpg"
+  },
+  "darling": {
+    "id": 472152,
+    "title": "Darling",
+    "year": "2017",
+    "backdrop": "/assets/backdrops/darling.jpg",
+    "poster": "/assets/posters/darling.jpg"
+  },
+  "dear-diary": {
+    "id": 25403,
+    "title": "Caro diario",
+    "year": "1993",
+    "backdrop": "/assets/backdrops/dear-diary.jpg",
+    "poster": "/assets/posters/dear-diary.jpg"
+  },
+  "der-tunnel": {
+    "id": 3577,
+    "title": "The Tunnel",
+    "year": "2001",
+    "backdrop": "/assets/backdrops/der-tunnel.jpg",
+    "poster": "/assets/posters/der-tunnel.jpg"
+  },
+  "diaz": {
+    "id": 96714,
+    "title": "Diaz - Don't Clean Up This Blood",
+    "year": "2012",
+    "backdrop": "/assets/backdrops/diaz.jpg",
+    "poster": "/assets/posters/diaz.jpg"
+  },
+  "dive": {
+    "id": 1037603,
+    "title": "DIVE",
+    "year": "2022",
+    "backdrop": "/assets/backdrops/dive.jpg",
+    "poster": "/assets/posters/dive.jpg"
+  },
+  "dont-call-me-mama": {
+    "id": 1479178,
+    "title": "Don't Call Me Mama",
+    "year": "2025",
+    "backdrop": "/assets/backdrops/dont-call-me-mama.jpg",
+    "poster": "/assets/posters/dont-call-me-mama.jpg"
+  },
+  "dont-tell": {
+    "id": 18219,
+    "title": "Don't Tell",
+    "year": "2006",
+    "backdrop": "/assets/backdrops/dont-tell.jpg",
+    "poster": "/assets/posters/dont-tell.jpg"
+  },
+  "eden-is-west": {
+    "id": 15036,
+    "title": "Eden Is West",
+    "year": "2009",
+    "backdrop": "/assets/backdrops/eden-is-west.jpg",
+    "poster": "/assets/posters/eden-is-west.jpg"
+  },
+  "exodus": {
+    "id": 1063249,
+    "title": "Exodus",
+    "year": "2023",
+    "backdrop": "/assets/backdrops/exodus.jpg",
+    "poster": "/assets/posters/exodus.jpg"
+  },
+  "facing-windows": {
+    "id": 29987,
+    "title": "Facing Windows",
+    "year": "2003",
+    "backdrop": "/assets/backdrops/facing-windows.jpg",
+    "poster": "/assets/posters/facing-windows.jpg"
+  },
+  "fair-play": {
+    "id": 282113,
+    "title": "Fair Play",
+    "year": "2014",
+    "backdrop": "/assets/backdrops/fair-play.jpg",
+    "poster": "/assets/posters/fair-play.jpg"
+  },
+  "fireworks-wednesday": {
+    "id": 43766,
+    "title": "Fireworks Wednesday",
+    "year": "2006",
+    "backdrop": "/assets/backdrops/fireworks-wednesday.jpg",
+    "poster": "/assets/posters/fireworks-wednesday.jpg"
+  },
+  "force-majeure": {
+    "id": 265189,
+    "title": "Force Majeure",
+    "year": "2014",
+    "backdrop": "/assets/backdrops/force-majeure.jpg",
+    "poster": "/assets/posters/force-majeure.jpg"
+  },
+  "full-time": {
+    "id": 833417,
+    "title": "Full Time",
+    "year": "2022",
+    "backdrop": "/assets/backdrops/full-time.jpg",
+    "poster": "/assets/posters/full-time.jpg"
+  },
+  "gomorrah": {
+    "id": 8882,
+    "title": "Gomorrah",
+    "year": "2008",
+    "backdrop": "/assets/backdrops/gomorrah.jpg",
+    "poster": "/assets/posters/gomorrah.jpg"
+  },
+  "good-bye-lenin": {
+    "id": 338,
+    "title": "Good Bye, Lenin!",
+    "year": "2003",
+    "backdrop": "/assets/backdrops/good-bye-lenin.jpg",
+    "poster": "/assets/posters/good-bye-lenin.jpg"
+  },
+  "happiness": {
+    "id": 1084571,
+    "title": "Happiness",
+    "year": "2023",
+    "backdrop": "/assets/backdrops/happiness.jpg",
+    "poster": "/assets/posters/happiness.jpg"
+  },
+  "head-on": {
+    "id": 363,
+    "title": "Head-On",
+    "year": "2004",
+    "backdrop": "/assets/backdrops/head-on.jpg",
+    "poster": "/assets/posters/head-on.jpg"
+  },
+  "heartstone": {
+    "id": 350060,
+    "title": "Heartstone",
+    "year": "2016",
+    "backdrop": "/assets/backdrops/heartstone.jpg",
+    "poster": "/assets/posters/heartstone.jpg"
+  },
+  "holy-spider": {
+    "id": 889699,
+    "title": "Holy Spider",
+    "year": "2022",
+    "backdrop": "/assets/backdrops/holy-spider.jpg",
+    "poster": "/assets/posters/holy-spider.jpg"
+  },
+  "human-capital": {
+    "id": 244088,
+    "title": "Human Capital",
+    "year": "2013",
+    "backdrop": "/assets/backdrops/human-capital.jpg",
+    "poster": "/assets/posters/human-capital.jpg"
+  },
+  "i-daniel-blake": {
+    "id": 374473,
+    "title": "I, Daniel Blake",
+    "year": "2016",
+    "backdrop": "/assets/backdrops/i-daniel-blake.jpg",
+    "poster": "/assets/posters/i-daniel-blake.jpg"
+  },
+  "i-was-a-stranger": {
+    "id": 1193128,
+    "title": "I Was a Stranger",
+    "year": "2025",
+    "backdrop": "/assets/backdrops/i-was-a-stranger.jpg",
+    "poster": "/assets/posters/i-was-a-stranger.jpg"
+  },
+  "il-postino": {
+    "id": 11010,
+    "title": "The Postman",
+    "year": "1994",
+    "backdrop": "/assets/backdrops/il-postino.jpg",
+    "poster": "/assets/posters/il-postino.jpg"
+  },
+  "im-still-here": {
+    "id": 1000837,
+    "title": "I'm Still Here",
+    "year": "2024",
+    "backdrop": "/assets/backdrops/im-still-here.jpg",
+    "poster": "/assets/posters/im-still-here.jpg"
+  },
+  "in-a-better-world": {
+    "id": 44716,
+    "title": "In a Better World",
+    "year": "2010",
+    "backdrop": "/assets/backdrops/in-a-better-world.jpg",
+    "poster": "/assets/posters/in-a-better-world.jpg"
+  },
+  "in-syria": {
+    "id": 441646,
+    "title": "In Syria",
+    "year": "2017",
+    "backdrop": "/assets/backdrops/in-syria.jpg",
+    "poster": "/assets/posters/in-syria.jpg"
+  },
+  "jaffa": {
+    "id": 74666,
+    "title": "Jaffa",
+    "year": "2009",
+    "backdrop": "/assets/backdrops/jaffa.jpg",
+    "poster": "/assets/posters/jaffa.jpg"
+  },
+  "just-another-love-story": {
+    "id": 14898,
+    "title": "Just Another Love Story",
+    "year": "2007",
+    "backdrop": "/assets/backdrops/just-another-love-story.jpg",
+    "poster": "/assets/posters/just-another-love-story.jpg"
+  },
+  "karaoke": {
+    "id": 958301,
+    "title": "Karaoke",
+    "year": "2022",
+    "backdrop": "/assets/backdrops/karaoke.jpg",
+    "poster": "/assets/posters/karaoke.jpg"
+  },
+  "kiss-me-again": {
+    "id": 40817,
+    "title": "Kiss Me Again",
+    "year": "2010",
+    "backdrop": "/assets/backdrops/kiss-me-again.jpg",
+    "poster": "/assets/posters/kiss-me-again.jpg"
+  },
+  "knifer": {
+    "id": 132390,
+    "title": "Knifer",
+    "year": "2010",
+    "backdrop": "/assets/backdrops/knifer.jpg",
+    "poster": "/assets/posters/knifer.jpg"
+  },
+  "last-night-of-amore": {
+    "id": 978870,
+    "title": "Last Night of Amore",
+    "year": "2023",
+    "backdrop": "/assets/backdrops/last-night-of-amore.jpg",
+    "poster": "/assets/posters/last-night-of-amore.jpg"
+  },
+  "lemon-tree": {
+    "id": 7860,
+    "title": "Lemon Tree",
+    "year": "2008",
+    "backdrop": "/assets/backdrops/lemon-tree.jpg",
+    "poster": "/assets/posters/lemon-tree.jpg"
+  },
+  "leviathan": {
+    "id": 265180,
+    "title": "Leviathan",
+    "year": "2014",
+    "backdrop": "/assets/backdrops/leviathan.jpg",
+    "poster": "/assets/posters/leviathan.jpg"
+  },
+  "linha-de-passe": {
+    "id": 8902,
+    "title": "Linha de Passe",
+    "year": "2008",
+    "backdrop": "/assets/backdrops/linha-de-passe.jpg",
+    "poster": "/assets/posters/linha-de-passe.jpg"
+  },
+  "love-is-all-you-need": {
+    "id": 126250,
+    "title": "Love Is All You Need",
+    "year": "2012",
+    "backdrop": "/assets/backdrops/love-is-all-you-need.jpg",
+    "poster": "/assets/posters/love-is-all-you-need.jpg"
+  },
+  "manslaughter": {
+    "id": 15840,
+    "title": "Manslaughter",
+    "year": "2005",
+    "backdrop": "/assets/backdrops/manslaughter.jpg",
+    "poster": "/assets/posters/manslaughter.jpg"
+  },
+  "marina": {
+    "id": 229582,
+    "title": "Marina",
+    "year": "2013",
+    "backdrop": "/assets/backdrops/marina.jpg",
+    "poster": "/assets/posters/marina.jpg"
+  },
+  "matchbox": {
+    "id": 47106,
+    "title": "Matchbox",
+    "year": "2003",
+    "backdrop": "/assets/backdrops/matchbox.jpg",
+    "poster": "/assets/posters/matchbox.jpg"
+  },
+  "metro-manila": {
+    "id": 158091,
+    "title": "Metro Manila",
+    "year": "2013",
+    "backdrop": "/assets/backdrops/metro-manila.jpg",
+    "poster": "/assets/posters/metro-manila.jpg"
+  },
+  "mostly-martha": {
+    "id": 3640,
+    "title": "Mostly Martha",
+    "year": "2001",
+    "backdrop": "/assets/backdrops/mostly-martha.jpg",
+    "poster": "/assets/posters/mostly-martha.jpg"
+  },
+  "murina": {
+    "id": 838148,
+    "title": "Murina",
+    "year": "2022",
+    "backdrop": "/assets/backdrops/murina.jpg",
+    "poster": "/assets/posters/murina.jpg"
+  },
+  "murk": {
+    "id": 15962,
+    "title": "Murk",
+    "year": "2005",
+    "backdrop": "/assets/backdrops/murk.jpg",
+    "poster": "/assets/posters/murk.jpg"
+  },
+  "my-brother-is-an-only-child": {
+    "id": 9789,
+    "title": "My Brother Is an Only Child",
+    "year": "2007",
+    "backdrop": "/assets/backdrops/my-brother-is-an-only-child.jpg",
+    "poster": "/assets/posters/my-brother-is-an-only-child.jpg"
+  },
+  "nine-queens": {
+    "id": 18079,
+    "title": "Nine Queens",
+    "year": "2000",
+    "backdrop": "/assets/backdrops/nine-queens.jpg",
+    "poster": "/assets/posters/nine-queens.jpg"
+  },
+  "no-date-no-signature": {
+    "id": 468205,
+    "title": "No Date, No Signature",
+    "year": "2017",
+    "backdrop": "/assets/backdrops/no-date-no-signature.jpg",
+    "poster": "/assets/posters/no-date-no-signature.jpg"
+  },
+  "nostalgia": {
+    "id": 541724,
+    "title": "Nostalgia",
+    "year": "2022",
+    "backdrop": "/assets/backdrops/nostalgia.jpg",
+    "poster": "/assets/posters/nostalgia.jpg"
+  },
+  "omar": {
+    "id": 187028,
+    "title": "Omar",
+    "year": "2013",
+    "backdrop": "/assets/backdrops/omar.jpg",
+    "poster": "/assets/posters/omar.jpg"
+  },
+  "one-man-up": {
+    "id": 53482,
+    "title": "One Man Up",
+    "year": "2001",
+    "backdrop": "/assets/backdrops/one-man-up.jpg",
+    "poster": "/assets/posters/one-man-up.jpg"
+  },
+  "only-when-i-laugh": {
+    "id": 1159809,
+    "title": "Only When I Laugh",
+    "year": "2023",
+    "backdrop": "/assets/backdrops/only-when-i-laugh.jpg",
+    "poster": "/assets/posters/only-when-i-laugh.jpg"
+  },
+  "open-hearts": {
+    "id": 102,
+    "title": "Open Hearts",
+    "year": "2002",
+    "backdrop": "/assets/backdrops/open-hearts.jpg",
+    "poster": "/assets/posters/open-hearts.jpg"
+  },
+  "our-children": {
+    "id": 286301,
+    "title": "The Dinner",
+    "year": "2014",
+    "backdrop": "/assets/backdrops/our-children.jpg",
+    "poster": "/assets/posters/our-children.jpg"
+  },
+  "our-life": {
+    "id": 46920,
+    "title": "Our Life",
+    "year": "2010",
+    "backdrop": "/assets/backdrops/our-life.jpg",
+    "poster": "/assets/posters/our-life.jpg"
+  },
+  "ovosodo": {
+    "id": 48254,
+    "title": "Ovosodo",
+    "year": "1997",
+    "backdrop": "/assets/backdrops/ovosodo.jpg",
+    "poster": "/assets/posters/ovosodo.jpg"
+  },
+  "paradise-now": {
+    "id": 67,
+    "title": "Paradise Now",
+    "year": "2005",
+    "backdrop": "/assets/backdrops/paradise-now.jpg",
+    "poster": "/assets/posters/paradise-now.jpg"
+  },
+  "parasite": {
+    "id": 496243,
+    "title": "Parasite",
+    "year": "2019",
+    "backdrop": "/assets/backdrops/parasite.jpg",
+    "poster": "/assets/posters/parasite.jpg"
+  },
+  "patty-is-a-very-girly-name": {
+    "id": 1550933,
+    "title": "Patty Is Such a Girly Name",
+    "year": "2025",
+    "backdrop": "/assets/backdrops/patty-is-a-very-girly-name.jpg",
+    "poster": "/assets/posters/patty-is-a-very-girly-name.jpg"
+  },
+  "perfect-strangers": {
+    "id": 381341,
+    "title": "Perfect Strangers",
+    "year": "2016",
+    "backdrop": "/assets/backdrops/perfect-strangers.jpg",
+    "poster": "/assets/posters/perfect-strangers.jpg"
+  },
+  "prague": {
+    "id": 16017,
+    "title": "Prague",
+    "year": "2006",
+    "backdrop": "/assets/backdrops/prague.jpg",
+    "poster": "/assets/posters/prague.jpg"
+  },
+  "queen-of-hearts": {
+    "id": 519465,
+    "title": "Queen of Hearts",
+    "year": "2019",
+    "backdrop": "/assets/backdrops/queen-of-hearts.jpg",
+    "poster": "/assets/posters/queen-of-hearts.jpg"
+  },
+  "quiet-chaos": {
+    "id": 22274,
+    "title": "Quiet Chaos",
+    "year": "2008",
+    "backdrop": "/assets/backdrops/quiet-chaos.jpg",
+    "poster": "/assets/posters/quiet-chaos.jpg"
+  },
+  "r": {
+    "id": 49207,
+    "title": "R",
+    "year": "2010",
+    "backdrop": "/assets/backdrops/r.jpg",
+    "poster": "/assets/posters/r.jpg"
+  },
+  "rabat": {
+    "id": 71090,
+    "title": "Rabat",
+    "year": "2011",
+    "backdrop": "/assets/backdrops/rabat.jpg",
+    "poster": "/assets/posters/rabat.jpg"
+  },
+  "romanzo-criminale": {
+    "id": 14375,
+    "title": "Crime Novel",
+    "year": "2005",
+    "backdrop": "/assets/backdrops/romanzo-criminale.jpg",
+    "poster": "/assets/posters/romanzo-criminale.jpg"
+  },
+  "secrets-and-lies": {
+    "id": 11159,
+    "title": "Secrets & Lies",
+    "year": "1996",
+    "backdrop": "/assets/backdrops/secrets-and-lies.jpg",
+    "poster": "/assets/posters/secrets-and-lies.jpg"
+  },
+  "shoplifters": {
+    "id": 505192,
+    "title": "Shoplifters",
+    "year": "2018",
+    "backdrop": "/assets/backdrops/shoplifters.jpg",
+    "poster": "/assets/posters/shoplifters.jpg"
+  },
+  "shun-li-and-the-poet": {
+    "id": 75562,
+    "title": "Shun Li and the Poet",
+    "year": "2011",
+    "backdrop": "/assets/backdrops/shun-li-and-the-poet.jpg",
+    "poster": "/assets/posters/shun-li-and-the-poet.jpg"
+  },
+  "sideways": {
+    "id": 9675,
+    "title": "Sideways",
+    "year": "2004",
+    "backdrop": "/assets/backdrops/sideways.jpg",
+    "poster": "/assets/posters/sideways.jpg",
+    "pin": "/NvAVEtjNoZXvDav6Gk5pwo89Hn.jpg"
+  },
+  "smuggling-hendrix": {
+    "id": 512092,
+    "title": "Smuggling Hendrix",
+    "year": "2019",
+    "backdrop": "/assets/backdrops/smuggling-hendrix.jpg",
+    "poster": "/assets/posters/smuggling-hendrix.jpg"
+  },
+  "so-damn-easy-going": {
+    "id": 860709,
+    "title": "So Damn Easy Going",
+    "year": "2022",
+    "backdrop": "/assets/backdrops/so-damn-easy-going.jpg",
+    "poster": "/assets/posters/so-damn-easy-going.jpg"
+  },
+  "soul-kicking": {
+    "id": 75867,
+    "title": "Soul Kicking",
+    "year": "2006",
+    "backdrop": "/assets/backdrops/soul-kicking.jpg",
+    "poster": "/assets/posters/soul-kicking.jpg"
+  },
+  "soul-kitchen": {
+    "id": 31175,
+    "title": "Soul Kitchen",
+    "year": "2009",
+    "backdrop": "/assets/backdrops/soul-kitchen.jpg",
+    "poster": "/assets/posters/soul-kitchen.jpg"
+  },
+  "stratos": {
+    "id": 254166,
+    "title": "Stratos",
+    "year": "2014",
+    "backdrop": "/assets/backdrops/stratos.jpg",
+    "poster": "/assets/posters/stratos.jpg"
+  },
+  "submarino": {
+    "id": 46789,
+    "title": "Submarino",
+    "year": "2010",
+    "backdrop": "/assets/backdrops/submarino.jpg",
+    "poster": "/assets/posters/submarino.jpg"
+  },
+  "suburra": {
+    "id": 356296,
+    "title": "Suburra",
+    "year": "2015",
+    "backdrop": "/assets/backdrops/suburra.jpg",
+    "poster": "/assets/posters/suburra.jpg"
+  },
+  "suntan": {
+    "id": 378483,
+    "title": "Suntan",
+    "year": "2016",
+    "backdrop": "/assets/backdrops/suntan.jpg",
+    "poster": "/assets/posters/suntan.jpg"
+  },
+  "superclasico": {
+    "id": 74674,
+    "title": "Superclasico",
+    "year": "2011",
+    "backdrop": "/assets/backdrops/superclasico.jpg",
+    "poster": "/assets/posters/superclasico.jpg"
+  },
+  "talk-to-her": {
+    "id": 64,
+    "title": "Talk to Her",
+    "year": "2002",
+    "backdrop": "/assets/backdrops/talk-to-her.jpg",
+    "poster": "/assets/posters/talk-to-her.jpg"
+  },
+  "tatami": {
+    "id": 1084066,
+    "title": "Tatami",
+    "year": "2024",
+    "backdrop": "/assets/backdrops/tatami.jpg",
+    "poster": "/assets/posters/tatami.jpg"
+  },
+  "tenderness": {
+    "id": 439552,
+    "title": "Tenderness",
+    "year": "2017",
+    "backdrop": "/assets/backdrops/tenderness.jpg",
+    "poster": "/assets/posters/tenderness.jpg"
+  },
+  "terraferma": {
+    "id": 73872,
+    "title": "Terraferma",
+    "year": "2011",
+    "backdrop": "/assets/backdrops/terraferma.jpg",
+    "poster": "/assets/posters/terraferma.jpg"
+  },
+  "the-attack": {
+    "id": 121791,
+    "title": "The Attack",
+    "year": "2012",
+    "backdrop": "/assets/backdrops/the-attack.jpg",
+    "poster": "/assets/posters/the-attack.jpg"
+  },
+  "the-bands-visit": {
+    "id": 5259,
+    "title": "The Band's Visit",
+    "year": "2007",
+    "backdrop": "/assets/backdrops/the-bands-visit.jpg",
+    "poster": "/assets/posters/the-bands-visit.jpg"
+  },
+  "the-bench": {
+    "id": 15830,
+    "title": "The Bench",
+    "year": "2000",
+    "backdrop": "/assets/backdrops/the-bench.jpg",
+    "poster": "/assets/posters/the-bench.jpg"
+  },
+  "the-best-of-youth": {
+    "id": 11659,
+    "title": "The Best of Youth",
+    "year": "2003",
+    "backdrop": "/assets/backdrops/the-best-of-youth.jpg",
+    "poster": "/assets/posters/the-best-of-youth.jpg"
+  },
+  "the-blue-caftan": {
+    "id": 958279,
+    "title": "The Blue Caftan",
+    "year": "2023",
+    "backdrop": "/assets/backdrops/the-blue-caftan.jpg",
+    "poster": "/assets/posters/the-blue-caftan.jpg"
+  },
+  "the-cakemaker": {
+    "id": 464825,
+    "title": "The Cakemaker",
+    "year": "2017",
+    "backdrop": "/assets/backdrops/the-cakemaker.jpg",
+    "poster": "/assets/posters/the-cakemaker.jpg"
+  },
+  "the-celebration": {
+    "id": 309,
+    "title": "The Celebration",
+    "year": "1998",
+    "backdrop": "/assets/backdrops/the-celebration.jpg",
+    "poster": "/assets/posters/the-celebration.jpg"
+  },
+  "the-charmer": {
+    "id": 476243,
+    "title": "The Charmer",
+    "year": "2018",
+    "backdrop": "/assets/backdrops/the-charmer.jpg",
+    "poster": "/assets/posters/the-charmer.jpg"
+  },
+  "the-class": {
+    "id": 8841,
+    "title": "The Class",
+    "year": "2008",
+    "backdrop": "/assets/backdrops/the-class.jpg",
+    "poster": "/assets/posters/the-class.jpg"
+  },
+  "the-commune": {
+    "id": 308409,
+    "title": "The Commune",
+    "year": "2016",
+    "backdrop": "/assets/backdrops/the-commune.jpg",
+    "poster": "/assets/posters/the-commune.jpg"
+  },
+  "the-consequences-of-love": {
+    "id": 24653,
+    "title": "The Consequences of Love",
+    "year": "2004",
+    "backdrop": "/assets/backdrops/the-consequences-of-love.jpg",
+    "poster": "/assets/posters/the-consequences-of-love.jpg"
+  },
+  "the-double-hour": {
+    "id": 42571,
+    "title": "The Double Hour",
+    "year": "2009",
+    "backdrop": "/assets/backdrops/the-double-hour.jpg",
+    "poster": "/assets/posters/the-double-hour.jpg"
+  },
+  "the-easy-life": {
+    "id": 58518,
+    "title": "La vita facile",
+    "year": "2011",
+    "backdrop": "/assets/backdrops/the-easy-life.jpg",
+    "poster": "/assets/posters/the-easy-life.jpg"
+  },
+  "the-edge-of-heaven": {
+    "id": 2014,
+    "title": "The Edge of Heaven",
+    "year": "2007",
+    "backdrop": "/assets/backdrops/the-edge-of-heaven.jpg",
+    "poster": "/assets/posters/the-edge-of-heaven.jpg"
+  },
+  "the-entrepreneur": {
+    "id": 82662,
+    "title": "The Entrepreneur",
+    "year": "2011",
+    "backdrop": "/assets/backdrops/the-entrepreneur.jpg",
+    "poster": "/assets/posters/the-entrepreneur.jpg"
+  },
+  "the-first-beautiful-thing": {
+    "id": 36940,
+    "title": "The First Beautiful Thing",
+    "year": "2010",
+    "backdrop": "/assets/backdrops/the-first-beautiful-thing.jpg",
+    "poster": "/assets/posters/the-first-beautiful-thing.jpg"
+  },
+  "the-ghost-writer": {
+    "id": 11439,
+    "title": "The Ghost Writer",
+    "year": "2010",
+    "backdrop": "/assets/backdrops/the-ghost-writer.jpg",
+    "poster": "/assets/posters/the-ghost-writer.jpg"
+  },
+  "the-girl-by-the-lake": {
+    "id": 42411,
+    "title": "The Girl by the Lake",
+    "year": "2007",
+    "backdrop": "/assets/backdrops/the-girl-by-the-lake.jpg",
+    "poster": "/assets/posters/the-girl-by-the-lake.jpg"
+  },
+  "the-good-life": {
+    "id": 196324,
+    "title": "The Good Life",
+    "year": "2008",
+    "poster": "/assets/posters/the-good-life.jpg"
+  },
+  "the-great-beauty": {
+    "id": 179144,
+    "title": "The Great Beauty",
+    "year": "2013",
+    "backdrop": "/assets/backdrops/the-great-beauty.jpg",
+    "poster": "/assets/posters/the-great-beauty.jpg"
+  },
+  "the-hand-of-god": {
+    "id": 722778,
+    "title": "The Hand of God",
+    "year": "2021",
+    "backdrop": "/assets/backdrops/the-hand-of-god.jpg",
+    "poster": "/assets/posters/the-hand-of-god.jpg"
+  },
+  "the-hummingbird": {
+    "id": 807986,
+    "title": "The Hummingbird",
+    "year": "2022",
+    "backdrop": "/assets/backdrops/the-hummingbird.jpg",
+    "poster": "/assets/posters/the-hummingbird.jpg"
+  },
+  "the-hunt": {
+    "id": 103663,
+    "title": "The Hunt",
+    "year": "2012",
+    "backdrop": "/assets/backdrops/the-hunt.jpg",
+    "poster": "/assets/posters/the-hunt.jpg"
+  },
+  "the-inheritance": {
+    "id": 15824,
+    "title": "The Inheritance",
+    "year": "2003",
+    "backdrop": "/assets/backdrops/the-inheritance.jpg",
+    "poster": "/assets/posters/the-inheritance.jpg"
+  },
+  "the-keys-to-the-house": {
+    "id": 42420,
+    "title": "The Keys to the House",
+    "year": "2004",
+    "backdrop": "/assets/backdrops/the-keys-to-the-house.jpg",
+    "poster": "/assets/posters/the-keys-to-the-house.jpg"
+  },
+  "the-kid-with-a-bike": {
+    "id": 63831,
+    "title": "The Kid with a Bike",
+    "year": "2011",
+    "backdrop": "/assets/backdrops/the-kid-with-a-bike.jpg",
+    "poster": "/assets/posters/the-kid-with-a-bike.jpg"
+  },
+  "the-kindergarten-teacher": {
+    "id": 270646,
+    "title": "The Kindergarten Teacher",
+    "year": "2014",
+    "backdrop": "/assets/backdrops/the-kindergarten-teacher.jpg",
+    "poster": "/assets/posters/the-kindergarten-teacher.jpg"
+  },
+  "the-last-resort": {
+    "id": 1120382,
+    "title": "The Last Resort",
+    "year": "2026",
+    "backdrop": "/assets/backdrops/the-last-resort.jpg",
+    "poster": "/assets/posters/the-last-resort.jpg"
+  },
+  "the-lives-of-others": {
+    "id": 582,
+    "title": "The Lives of Others",
+    "year": "2006",
+    "backdrop": "/assets/backdrops/the-lives-of-others.jpg",
+    "poster": "/assets/posters/the-lives-of-others.jpg"
+  },
+  "the-mafia-kills-only-in-summer": {
+    "id": 239877,
+    "title": "The Mafia Kills Only in Summer",
+    "year": "2013",
+    "backdrop": "/assets/backdrops/the-mafia-kills-only-in-summer.jpg",
+    "poster": "/assets/posters/the-mafia-kills-only-in-summer.jpg"
+  },
+  "the-man-who-copied": {
+    "id": 40823,
+    "title": "The Man Who Copied",
+    "year": "2003",
+    "backdrop": "/assets/backdrops/the-man-who-copied.jpg",
+    "poster": "/assets/posters/the-man-who-copied.jpg"
+  },
+  "the-man-who-loves": {
+    "id": 24191,
+    "title": "The Man Who Loves",
+    "year": "2008",
+    "backdrop": "/assets/backdrops/the-man-who-loves.jpg",
+    "poster": "/assets/posters/the-man-who-loves.jpg"
+  },
+  "the-manual-of-love": {
+    "id": 20068,
+    "title": "The Manual of Love",
+    "year": "2005",
+    "backdrop": "/assets/backdrops/the-manual-of-love.jpg",
+    "poster": "/assets/posters/the-manual-of-love.jpg"
+  },
+  "the-olive-tree": {
+    "id": 366505,
+    "title": "The Olive Tree",
+    "year": "2016",
+    "backdrop": "/assets/backdrops/the-olive-tree.jpg",
+    "poster": "/assets/posters/the-olive-tree.jpg"
+  },
+  "the-past-is-a-foreign-land": {
+    "id": 58086,
+    "title": "The Past Is a Foreign Land",
+    "year": "2008",
+    "backdrop": "/assets/backdrops/the-past-is-a-foreign-land.jpg",
+    "poster": "/assets/posters/the-past-is-a-foreign-land.jpg"
+  },
+  "the-people-upstairs": {
+    "id": 717675,
+    "title": "The People Upstairs",
+    "year": "2020",
+    "backdrop": "/assets/backdrops/the-people-upstairs.jpg",
+    "poster": "/assets/posters/the-people-upstairs.jpg"
+  },
+  "the-reports-on-sarah-and-saleem": {
+    "id": 498517,
+    "title": "The Reports on Sarah and Saleem",
+    "year": "2018",
+    "backdrop": "/assets/backdrops/the-reports-on-sarah-and-saleem.jpg",
+    "poster": "/assets/posters/the-reports-on-sarah-and-saleem.jpg"
+  },
+  "the-right-distance": {
+    "id": 57052,
+    "title": "The Right Distance",
+    "year": "2007",
+    "backdrop": "/assets/backdrops/the-right-distance.jpg",
+    "poster": "/assets/posters/the-right-distance.jpg"
+  },
+  "the-salesman": {
+    "id": 375315,
+    "title": "The Salesman",
+    "year": "2016",
+    "backdrop": "/assets/backdrops/the-salesman.jpg",
+    "poster": "/assets/posters/the-salesman.jpg"
+  },
+  "the-secret-in-their-eyes": {
+    "id": 25376,
+    "title": "The Secret in Their Eyes",
+    "year": "2009",
+    "backdrop": "/assets/backdrops/the-secret-in-their-eyes.jpg",
+    "poster": "/assets/posters/the-secret-in-their-eyes.jpg"
+  },
+  "the-secret-of-the-grain": {
+    "id": 8280,
+    "title": "The Secret of the Grain",
+    "year": "2007",
+    "backdrop": "/assets/backdrops/the-secret-of-the-grain.jpg",
+    "poster": "/assets/posters/the-secret-of-the-grain.jpg"
+  },
+  "the-seed-of-the-sacred-fig": {
+    "id": 1278263,
+    "title": "The Seed of the Sacred Fig",
+    "year": "2024",
+    "backdrop": "/assets/backdrops/the-seed-of-the-sacred-fig.jpg",
+    "poster": "/assets/posters/the-seed-of-the-sacred-fig.jpg"
+  },
+  "the-sons-room": {
+    "id": 11447,
+    "title": "The Son's Room",
+    "year": "2001",
+    "backdrop": "/assets/backdrops/the-sons-room.jpg",
+    "poster": "/assets/posters/the-sons-room.jpg"
+  },
+  "the-traitor": {
+    "id": 575452,
+    "title": "The Traitor",
+    "year": "2019",
+    "backdrop": "/assets/backdrops/the-traitor.jpg",
+    "poster": "/assets/posters/the-traitor.jpg"
+  },
+  "the-trap": {
+    "id": 4352,
+    "title": "The Trap",
+    "year": "2007",
+    "backdrop": "/assets/backdrops/the-trap.jpg",
+    "poster": "/assets/posters/the-trap.jpg"
+  },
+  "things-we-dont-say": {
+    "id": 1473635,
+    "title": "Things We Don't Say",
+    "year": "2026",
+    "backdrop": "/assets/backdrops/things-we-dont-say.jpg",
+    "poster": "/assets/posters/things-we-dont-say.jpg"
+  },
+  "touch": {
+    "id": 1032472,
+    "title": "Touch",
+    "year": "2024",
+    "backdrop": "/assets/backdrops/touch.jpg",
+    "poster": "/assets/posters/touch.jpg"
+  },
+  "triangle-of-sadness": {
+    "id": 497828,
+    "title": "Triangle of Sadness",
+    "year": "2022",
+    "backdrop": "/assets/backdrops/triangle-of-sadness.jpg",
+    "poster": "/assets/posters/triangle-of-sadness.jpg"
+  },
+  "under-the-tree": {
+    "id": 472640,
+    "title": "Under the Tree",
+    "year": "2017",
+    "backdrop": "/assets/backdrops/under-the-tree.jpg",
+    "poster": "/assets/posters/under-the-tree.jpg"
+  },
+  "victoria": {
+    "id": 320007,
+    "title": "Victoria",
+    "year": "2015",
+    "backdrop": "/assets/backdrops/victoria.jpg",
+    "poster": "/assets/posters/victoria.jpg"
+  },
+  "virgin-mountain": {
+    "id": 320736,
+    "title": "Virgin Mountain",
+    "year": "2015",
+    "backdrop": "/assets/backdrops/virgin-mountain.jpg",
+    "poster": "/assets/posters/virgin-mountain.jpg"
+  },
+  "volcano": {
+    "id": 91913,
+    "title": "Volcano",
+    "year": "2011",
+    "backdrop": "/assets/backdrops/volcano.jpg",
+    "poster": "/assets/posters/volcano.jpg"
+  },
+  "volver": {
+    "id": 219,
+    "title": "Volver",
+    "year": "2006",
+    "backdrop": "/assets/backdrops/volver.jpg",
+    "poster": "/assets/posters/volver.jpg"
+  },
+  "walk-on-water": {
+    "id": 26,
+    "title": "Walk on Water",
+    "year": "2004",
+    "backdrop": "/assets/backdrops/walk-on-water.jpg",
+    "poster": "/assets/posters/walk-on-water.jpg"
+  },
+  "what-will-people-say": {
+    "id": 469651,
+    "title": "What Will People Say",
+    "year": "2017",
+    "backdrop": "/assets/backdrops/what-will-people-say.jpg",
+    "poster": "/assets/posters/what-will-people-say.jpg"
+  },
+  "where-do-we-go-now": {
+    "id": 77461,
+    "title": "Where Do We Go Now?",
+    "year": "2011",
+    "backdrop": "/assets/backdrops/where-do-we-go-now.jpg",
+    "poster": "/assets/posters/where-do-we-go-now.jpg"
+  },
+  "winter-sleep": {
+    "id": 265169,
+    "title": "Winter Sleep",
+    "year": "2014",
+    "backdrop": "/assets/backdrops/winter-sleep.jpg",
+    "poster": "/assets/posters/winter-sleep.jpg"
+  },
+  "woman-at-war": {
+    "id": 348657,
+    "title": "Woman at War",
+    "year": "2018",
+    "backdrop": "/assets/backdrops/woman-at-war.jpg",
+    "poster": "/assets/posters/woman-at-war.jpg"
+  },
+  "working-woman": {
+    "id": 544392,
+    "title": "Working Woman",
+    "year": "2019",
+    "backdrop": "/assets/backdrops/working-woman.jpg",
+    "poster": "/assets/posters/working-woman.jpg"
+  },
+  "worlds-apart": {
+    "id": 16015,
+    "title": "Worlds Apart",
+    "year": "2008",
+    "backdrop": "/assets/backdrops/worlds-apart.jpg",
+    "poster": "/assets/posters/worlds-apart.jpg"
+  }
+}
