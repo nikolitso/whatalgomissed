@@ -6,9 +6,12 @@ country: "Greece"
 rating: 4
 lists:
   - "Greece"
+festivals:
+  - "Thessaloniki"
 awards:
   - "Best Film · Hellenic Film Academy"
   - "Best Film · BFI London Film Festival"
+  - "Audience Award · Thessaloniki"
 trailer: "https://www.youtube.com/watch?v=oxAkbc2_vds"
 image: ""
 added: 2026-05-14
