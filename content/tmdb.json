@@ -89,6 +89,13 @@
     "backdrop": "/assets/backdrops/accused.jpg",
     "poster": "/assets/posters/accused.jpg"
   },
+  "after-love": {
+    "id": 714011,
+    "title": "After Love",
+    "year": "2021",
+    "backdrop": "/assets/backdrops/after-love.jpg",
+    "poster": "/assets/posters/after-love.jpg"
+  },
   "after-the-wedding": {
     "id": 3549,
     "title": "After the Wedding",
@@ -144,6 +151,13 @@
     "year": "2018",
     "backdrop": "/assets/backdrops/and-breathe-normally.jpg",
     "poster": "/assets/posters/and-breathe-normally.jpg"
+  },
+  "animal": {
+    "id": 889821,
+    "title": "Animal",
+    "year": "2024",
+    "backdrop": "/assets/backdrops/animal.jpg",
+    "poster": "/assets/posters/animal.jpg"
   },
   "another-round": {
     "id": 580175,
@@ -531,6 +545,13 @@
     "backdrop": "/assets/backdrops/last-night-of-amore.jpg",
     "poster": "/assets/posters/last-night-of-amore.jpg"
   },
+  "left-handed-girl": {
+    "id": 999075,
+    "title": "Left-Handed Girl",
+    "year": "2025",
+    "backdrop": "/assets/backdrops/left-handed-girl.jpg",
+    "poster": "/assets/posters/left-handed-girl.jpg"
+  },
   "lemon-tree": {
     "id": 7860,
     "title": "Lemon Tree",
@@ -747,6 +768,13 @@
     "year": "2011",
     "backdrop": "/assets/backdrops/rabat.jpg",
     "poster": "/assets/posters/rabat.jpg"
+  },
+  "rams": {
+    "id": 336222,
+    "title": "Rams",
+    "year": "2015",
+    "backdrop": "/assets/backdrops/rams.jpg",
+    "poster": "/assets/posters/rams.jpg"
   },
   "romanzo-criminale": {
     "id": 14375,
@@ -1126,6 +1154,13 @@
     "backdrop": "/assets/backdrops/the-people-upstairs.jpg",
     "poster": "/assets/posters/the-people-upstairs.jpg"
   },
+  "the-priests-children": {
+    "id": 165463,
+    "title": "The Priest's Children",
+    "year": "2013",
+    "backdrop": "/assets/backdrops/the-priests-children.jpg",
+    "poster": "/assets/posters/the-priests-children.jpg"
+  },
   "the-reports-on-sarah-and-saleem": {
     "id": 498517,
     "title": "The Reports on Sarah and Saleem",
@@ -1216,6 +1251,13 @@
     "year": "2017",
     "backdrop": "/assets/backdrops/under-the-tree.jpg",
     "poster": "/assets/posters/under-the-tree.jpg"
+  },
+  "valeria-is-getting-married": {
+    "id": 961816,
+    "title": "Valeria Is Getting Married",
+    "year": "2023",
+    "backdrop": "/assets/backdrops/valeria-is-getting-married.jpg",
+    "poster": "/assets/posters/valeria-is-getting-married.jpg"
   },
   "victoria": {
     "id": 320007,
