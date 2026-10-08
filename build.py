@@ -282,7 +282,10 @@ for l in sorted(LISTS, key=lambda l: 0 if l.get("cover") else 1):
 COUNTRIES = defaultdict(list)
 DECADES = defaultdict(list)
 FESTIVALS = defaultdict(list)
+DIRECTORS = defaultdict(list)
 for f in FILMS:
+    if f.get("director"):
+        DIRECTORS[str(f["director"]).strip()].append(f)
     for c in f["countries"]:
         COUNTRIES[c].append(f)
     if f["decade"]:
@@ -406,6 +409,15 @@ def write(path, content):
 def country_url(c): return f"/country/{slugify(c)}/"
 def decade_url(d): return f"/decade/{d}/"
 def festival_url(fe): return f"/festival/{slugify(fe)}/"
+def ascii_slug(t):
+    t = str(t).translate(str.maketrans({"ð": "d", "Ð": "d", "þ": "th", "Þ": "th", "ø": "o", "Ø": "o", "æ": "ae", "Æ": "ae",
+                                        "ß": "ss", "ł": "l", "Ł": "l", "ı": "i", "đ": "d", "Đ": "d"}))
+    t = "".join(ch for ch in __import__("unicodedata").normalize("NFKD", t) if not __import__("unicodedata").combining(ch))
+    return slugify(t.encode("ascii", "ignore").decode())
+def director_url(d): return f"/director/{ascii_slug(d)}/"
+def director_link(f):
+    d = str(f.get("director") or "").strip()
+    return f'<a href="{director_url(d)}">{esc(d)}</a>' if d else ""
 def list_url(name):
     l = LIST_BY_NAME.get(name.lower())
     return l["url"] if l else f"/lists/{slugify(name)}/"
@@ -536,7 +548,7 @@ def build_film(f):
     <div class="kicker">{' · '.join(esc(x) for x in f['lists'])}</div>
     <h1 class="fh-title">{esc(f['title'])}</h1>
     {orig}
-    <div class="fh-meta"><span>{esc(f.get('director') or '')}</span><span>{esc(f['country'])}</span><span>{f['year']}</span><span class="stars">{stars(f['rating'])}</span></div>
+    <div class="fh-meta"><span>{director_link(f)}</span><span>{esc(f['country'])}</span><span>{f['year']}</span><span class="stars">{stars(f['rating'])}</span></div>
     </div>
     </div>
   </div>
@@ -548,7 +560,7 @@ def build_film(f):
   </div>
   <aside class="film-side">
     <dl class="facts">
-      <dt>Director</dt><dd>{esc(f.get('director') or '—')}</dd>
+      <dt>Director</dt><dd>{director_link(f) or '—'}</dd>
       <dt>Country</dt><dd>{' / '.join(f'<a href="{country_url(c)}">{esc(c)}</a>' for c in f['countries']) or '—'}</dd>
       <dt>Year</dt><dd><a href="{decade_url(f['decade'])}">{f['year']}</a></dd>
       <dt>My rating</dt><dd class="stars big">{stars(f['rating'])}</dd>
@@ -595,6 +607,8 @@ def build_taxonomies():
         build_category("Country", c, country_url(c), fs)
     for d, fs in DECADES.items():
         build_category("Decade", d, decade_url(d), fs)
+    for d, fs in DIRECTORS.items():
+        build_category("Director", d, director_url(d), fs, f"{len(fs)} film{'s' if len(fs) != 1 else ''} by {d} in this collection.")
     for fe, fs in FESTIVALS.items():
         build_category("Festivals & Awards", fe, festival_url(fe), fs, f"Films recognised at {fe}.", sort=by_year)
     build_category("Start here", "Must See", "/must-see/", MUST_SEE,
