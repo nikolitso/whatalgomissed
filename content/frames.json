@@ -188,5 +188,9 @@
   "i-was-a-stranger": {
     "card": 1,
     "still": 3
+  },
+  "left-handed-girl": {
+    "card": 3,
+    "still": 3
   }
 }
