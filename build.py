@@ -23,7 +23,6 @@ CSS_V = _h.md5(open(__import__("os").path.join(__import__("os").path.dirname(__i
 SITE_NAME = "What Algo Missed"
 CF_BEACON = "02d54d6d37374701a4b0e12e45d52850"  # Cloudflare Web Analytics (cookieless)
 LETTERBOXD = "https://letterboxd.com/nikolitso/"
-BACKDROP_HERO = {"200-meters"}  # films using the faded-backdrop hero (trial before rolling out)
 
 # ───────────────────────── helpers ─────────────────────────
 
@@ -521,16 +520,11 @@ def build_film(f):
         "reviewRating": {"@type": "Rating", "ratingValue": f["rating"], "bestRating": 5, "worstRating": 0.5},
         "reviewBody": plain(f["body"]),
     }
-    if f["slug"] in BACKDROP_HERO:
-        backdrop = (TMDB.get(f["slug"]) or {}).get("backdrop") or f["img"]
-        hero_open = f"""<section class="film-hero lb">
+    # Faded-backdrop hero: the TMDB still when we have one, else the trailer frame
+    backdrop = (TMDB.get(f["slug"]) or {}).get("backdrop") or f["img"]
+    hero_open = f"""<section class="film-hero lb">
   <div class="lb-backdrop">{img_tag(backdrop, f['img_fb'], f['title'], 'fh-img', eager=True)}</div>
   <div class="wrap fh-inner lb-inner">"""
-    else:
-        hero_open = f"""<section class="film-hero">
-  {img_tag(f['img'], f['img_fb'], f['title'], 'fh-img', eager=True)}
-  <div class="fh-shade"></div>
-  <div class="wrap fh-inner">"""
     body = f"""<article>
 {hero_open}
     <div class="kicker">{' · '.join(esc(x) for x in f['lists'])}</div>
