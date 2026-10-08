@@ -9,8 +9,11 @@ lists:
   - "Iran"
 festivals:
   - "Venice"
+  - "Thessaloniki"
 awards:
   - "Best Director · Venice"
+  - "Silver Alexander · Thessaloniki"
+  - "FIPRESCI Prize · Thessaloniki"
 trailer: "https://www.youtube.com/watch?v=RpgV-T955Yg"
 image: ""
 added: 2026-05-14
