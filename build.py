@@ -596,7 +596,7 @@ def build_taxonomies():
     for d, fs in DECADES.items():
         build_category("Decade", d, decade_url(d), fs)
     for fe, fs in FESTIVALS.items():
-        build_category("Festivals & Awards", fe, festival_url(fe), fs, f"Films recognised at {fe}.", sort=by_rating)
+        build_category("Festivals & Awards", fe, festival_url(fe), fs, f"Films recognised at {fe}.", sort=by_year)
     build_category("Start here", "Must See", "/must-see/", MUST_SEE,
                    "My highest-rated films — four and a half stars and above.", sort=by_rating)
 
