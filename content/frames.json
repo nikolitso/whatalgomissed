@@ -204,5 +204,9 @@
   "after-love": {
     "card": 2,
     "still": 3
+  },
+  "rams": {
+    "card": 1,
+    "still": 2
   }
 }
