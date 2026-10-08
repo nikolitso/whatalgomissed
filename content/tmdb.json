@@ -35,6 +35,18 @@
       "Dar Salim"
     ]
   },
+  "a-house-on-fire": {
+    "id": 1218193,
+    "title": "A House on Fire",
+    "year": "2024",
+    "cast": [
+      "Emma Vilarasau",
+      "Enric Auquer",
+      "Maria Rodríguez Soto"
+    ],
+    "backdrop": "/assets/backdrops/a-house-on-fire.jpg",
+    "poster": "/assets/posters/a-house-on-fire.jpg"
+  },
   "a-man-of-integrity": {
     "id": 452013,
     "title": "A Man of Integrity",
@@ -1631,6 +1643,18 @@
       "Saleh Bakri",
       "Ayoub Messioui"
     ]
+  },
+  "the-boy-with-pink-pants": {
+    "id": 1280941,
+    "title": "The Boy with Pink Pants",
+    "year": "2024",
+    "cast": [
+      "Samuele Carrino",
+      "Claudia Pandolfi",
+      "Corrado Fortuna"
+    ],
+    "backdrop": "/assets/backdrops/the-boy-with-pink-pants.jpg",
+    "poster": "/assets/posters/the-boy-with-pink-pants.jpg"
   },
   "the-cakemaker": {
     "id": 464825,
