@@ -7,6 +7,10 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
+festivals:
+  - "Thessaloniki"
+awards:
+  - "Golden Alexander · Thessaloniki"
 trailer: "https://www.youtube.com/watch?v=IyMegiVnYwM"
 image: ""
 added: 2026-05-14

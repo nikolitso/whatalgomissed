@@ -208,5 +208,9 @@
   "rams": {
     "card": 1,
     "still": 2
+  },
+  "the-priests-children": {
+    "card": 2,
+    "still": 1
   }
 }
