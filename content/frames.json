@@ -196,5 +196,9 @@
   "animal": {
     "card": 2,
     "still": 3
+  },
+  "valeria-is-getting-married": {
+    "card": 2,
+    "still": 2
   }
 }
