@@ -7,9 +7,11 @@ rating: 4.5
 lists:
   - "Europa"
 festivals:
+  - "Thessaloniki"
   - "Venice"
 awards:
   - "BAFTA · Best Actress (Joanna Scanlan)"
+  - "Best Actress · Thessaloniki"
 trailer: "https://www.youtube.com/watch?v=3ZJN3ubwKek"
 image: ""
 added: 2026-10-09

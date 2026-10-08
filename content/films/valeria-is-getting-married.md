@@ -9,11 +9,13 @@ lists:
   - "Europa"
   - "Strangers"
 festivals:
+  - "Thessaloniki"
   - "Venice"
   - "Toronto"
 awards:
   - "Ophir Award · Best Screenplay"
   - "Best Film · Haifa Film Festival"
+  - "Silver Alexander · Thessaloniki"
 trailer: "https://www.youtube.com/watch?v=m4c0IsgJPmc"
 image: ""
 added: 2026-10-09

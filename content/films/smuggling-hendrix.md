@@ -7,8 +7,14 @@ country: "Cyprus"
 rating: 4
 lists:
   - "Greece"
+  - "Europa"
+festivals:
+  - "Tribeca"
+  - "Thessaloniki"
 awards:
+  - "Best International Narrative Feature · Tribeca"
   - "Hellenic Film Academy · Best Screenplay"
+  - "Special Mention · Thessaloniki"
 trailer: "https://www.youtube.com/watch?v=9ACqXDktph0"
 image: ""
 added: 2026-05-14

@@ -11,6 +11,7 @@ festivals:
 awards:
   - "Best Actress · Locarno"
   - "Golden Alexander · Thessaloniki"
+  - "Best Actress · Thessaloniki"
 trailer: "https://www.youtube.com/watch?v=iB3454EPtgw"
 image: ""
 added: 2026-10-09
