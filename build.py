@@ -496,7 +496,7 @@ def build_film(f):
     trailer = ""
     if f["yt"]:
         yurl = f"https://www.youtube.com/watch?v={f['yt']}"
-        trailer = f"""<p class="trailer-link"><a href="{yurl}" target="_blank" rel="noopener">▶ Watch the trailer on YouTube ↗</a></p>"""
+        trailer = f"""<p class="trailer-link"><a href="{yurl}" target="_blank" rel="noopener">▶ Watch the trailer</a></p>"""
     trailer += f'<p class="share-row" data-owner hidden><a class="share-x" href="{esc(share_x(f))}" target="_blank" rel="noopener">{X_ICON}Share on X</a></p><script>(function(){{try{{var k="owner";if(location.hash==="#me")localStorage.setItem(k,"1");if(location.hash==="#notme")localStorage.removeItem(k);if(localStorage.getItem(k)==="1")document.querySelectorAll("[data-owner]").forEach(function(e){{e.hidden=false}});}}catch(e){{}}}})();</script>'
     # related: same first list, closest rating, excluding self
     rel = []
