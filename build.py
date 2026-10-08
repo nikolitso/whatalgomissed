@@ -241,6 +241,12 @@ for f in load_dir("content/films"):
         f["img_fb"] = f"https://i.ytimg.com/vi/{f['img_yt']}/hq{f['frame_card']}.jpg"
     else:
         f["img"] = f["img_fb"] = "/assets/placeholder.svg"
+    # Sharp TMDB still beats the trailer frame (an uploaded image still wins)
+    bd = (TMDB.get(f["slug"]) or {}).get("backdrop")
+    if bd and not img:
+        f["img"] = bd
+        if not f["yt"]:
+            f["img_fb"] = bd
     f["added"] = str(f.get("added") or "2000-01-01")
     f["url"] = f"/films/{f['slug']}/"
     f["excerpt"] = first_sentence(f["body"])
@@ -521,7 +527,7 @@ def build_film(f):
         "reviewBody": plain(f["body"]),
     }
     # Faded-backdrop hero: the TMDB still when we have one, else the trailer frame
-    backdrop = (TMDB.get(f["slug"]) or {}).get("backdrop") or f["img"]
+    backdrop = f["img"]
     hero_open = f"""<section class="film-hero lb">
   <div class="lb-backdrop">{img_tag(backdrop, f['img_fb'], f['title'], 'fh-img', eager=True)}</div>
   <div class="wrap fh-inner lb-inner">"""
@@ -554,7 +560,8 @@ def build_film(f):
 {rel_html}"""
     extra = f'<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>'
     desc = f"{f['title']} ({f['year']}, {f.get('director') or ''}) — {f['excerpt']}"
-    write(f["url"], layout(f"{f['title']} ({f['year']})", body, f["url"], plain(desc, 300), f["img_fb"], extra, dark_hero=True))
+    share_img = SITE_URL + f["img"] if f["img"].startswith("/assets/backdrops/") else f["img_fb"]
+    write(f["url"], layout(f"{f['title']} ({f['year']})", body, f["url"], plain(desc, 300), share_img, extra, dark_hero=True))
 
 # ── category pages ──
 def build_category(kicker, title, path, films, sub="", intro_html="", sort=by_year, extra=""):
