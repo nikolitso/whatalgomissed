@@ -9,8 +9,10 @@ lists:
   - "The Middle East"
 festivals:
   - "Berlinale"
+  - "Thessaloniki"
 awards:
   - "Panorama Audience Award · Berlin"
+  - "Audience Award · Thessaloniki"
 trailer: "https://www.youtube.com/watch?v=OEtw3C2nUSw"
 image: ""
 added: 2026-10-05
