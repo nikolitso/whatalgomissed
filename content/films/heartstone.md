@@ -9,8 +9,10 @@ lists:
   - "Norden"
 festivals:
   - "Venice"
+  - "Thessaloniki"
 awards:
   - "Queer Lion · Venice"
+  - "Silver Alexander · Thessaloniki"
 trailer: "https://www.youtube.com/watch?v=EIolgEvMAJ8"
 image: ""
 added: 2026-10-05
