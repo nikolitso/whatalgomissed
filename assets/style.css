@@ -261,3 +261,19 @@ img.own,.card:hover .card-img img.own,.list-card:hover .list-img img.own,.still 
 
 /* Owner-only controls stay hidden unless revealed by script */
 [data-owner][hidden]{display:none!important}
+
+/* Faded-backdrop film hero: a centred still that melts into the dark, title beneath it */
+.film-hero.lb{display:block;min-height:0;padding-bottom:56px}
+.lb-backdrop{position:relative;max-width:1280px;height:clamp(240px,46vw,600px);margin:0 auto;overflow:hidden;
+  -webkit-mask-image:linear-gradient(90deg,transparent 0,#000 14%,#000 86%,transparent 100%),linear-gradient(180deg,#000 45%,transparent 100%);
+  -webkit-mask-composite:source-in;
+  mask-image:linear-gradient(90deg,transparent 0,#000 14%,#000 86%,transparent 100%),linear-gradient(180deg,#000 45%,transparent 100%);
+  mask-composite:intersect}
+.lb-backdrop .fh-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.lb-inner{margin-top:-72px;padding-top:0;padding-bottom:0}
+@media (max-width:760px){
+  .lb-backdrop{height:58vw;
+    -webkit-mask-image:linear-gradient(180deg,#000 50%,transparent 100%);mask-image:linear-gradient(180deg,#000 50%,transparent 100%)}
+  .lb-inner{margin-top:-28px}
+  .film-hero.lb{padding-bottom:40px}
+}
