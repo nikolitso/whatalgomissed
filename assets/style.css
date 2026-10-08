@@ -279,3 +279,18 @@ img.own,.card:hover .card-img img.own,.list-card:hover .list-img img.own,.still 
   .lb-inner{margin-top:-28px}
   .film-hero.lb{padding-bottom:40px}
 }
+
+/* Poster beside the title, overlapping the faded backdrop */
+.lb-head{display:flex;align-items:flex-end;gap:clamp(20px,3vw,40px)}
+.lb-text{min-width:0;flex:1}
+.lb-poster{flex:none;width:clamp(150px,15vw,210px);height:auto;aspect-ratio:2/3;object-fit:cover;border-radius:4px;
+  box-shadow:0 0 0 1px rgba(236,228,212,.12),0 18px 40px -12px rgba(0,0,0,.8)}
+.has-poster .fh-title{font-size:clamp(36px,5.2vw,76px)}
+@media (max-width:760px){
+  .lb-head{gap:16px}
+  .lb-poster{width:96px;border-radius:3px}
+  .has-poster .fh-title{font-size:clamp(28px,8vw,40px);margin-top:8px}
+  .has-poster .kicker{font-size:10px;letter-spacing:.18em}
+  .has-poster .fh-meta{font-size:11px;letter-spacing:.1em}
+  .has-poster .fh-meta span:not(:last-child)::after{margin:0 8px}
+}

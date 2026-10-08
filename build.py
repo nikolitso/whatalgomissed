@@ -525,12 +525,20 @@ def build_film(f):
     hero_open = f"""<section class="film-hero lb">
   <div class="lb-backdrop">{img_tag(backdrop, f['img_fb'], f['title'], 'fh-img', eager=True)}</div>
   <div class="wrap fh-inner lb-inner">"""
+    poster = (TMDB.get(f["slug"]) or {}).get("poster")
+    poster_html = (f'<img class="lb-poster" src="{esc(poster)}" width="500" height="750" alt="{esc(f["title"])} poster">'
+                   if poster else "")
     body = f"""<article>
 {hero_open}
+    <div class="lb-head{' has-poster' if poster else ''}">
+    {poster_html}
+    <div class="lb-text">
     <div class="kicker">{' · '.join(esc(x) for x in f['lists'])}</div>
     <h1 class="fh-title">{esc(f['title'])}</h1>
     {orig}
     <div class="fh-meta"><span>{esc(f.get('director') or '')}</span><span>{esc(f['country'])}</span><span>{f['year']}</span><span class="stars">{stars(f['rating'])}</span></div>
+    </div>
+    </div>
   </div>
 </section>
 <div class="wrap film-layout">
