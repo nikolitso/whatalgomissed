@@ -3,6 +3,10 @@ title: "A Separation"
 original_title: "Jodāyi-e Nāder az Simin"
 year: 2011
 director: "Asghar Farhadi"
+actors:
+  - "Payman Maadi"
+  - "Leila Hatami"
+  - "Shahab Hosseini"
 country: "Iran"
 rating: 4
 lists:

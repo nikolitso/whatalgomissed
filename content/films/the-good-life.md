@@ -3,6 +3,10 @@ title: "The Good Life"
 original_title: "La Buena Vida"
 year: 2008
 director: "Andrés Wood"
+actors:
+  - "Aline Küppenheim"
+  - "Eduardo Paxeco"
+  - "Roberto Farías"
 country: "Chile"
 rating: 4
 lists:

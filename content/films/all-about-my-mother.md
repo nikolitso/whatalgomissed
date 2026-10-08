@@ -3,6 +3,10 @@ title: "All About My Mother"
 original_title: "Todo Sobre Mi Madre"
 year: 1999
 director: "Pedro Almodóvar"
+actors:
+  - "Cecilia Roth"
+  - "Marisa Paredes"
+  - "Candela Peña"
 country: "Spain"
 rating: 4.5
 lists:

@@ -3,6 +3,10 @@ title: "After the Wedding"
 original_title: "Efter Brylluppet"
 year: 2006
 director: "Susanne Bier"
+actors:
+  - "Mads Mikkelsen"
+  - "Stine Fischer Christensen"
+  - "Sidse Babett Knudsen"
 country: "Denmark"
 rating: 4
 lists:

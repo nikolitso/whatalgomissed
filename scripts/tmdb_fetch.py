@@ -3,10 +3,12 @@
 Run locally:  python scripts/tmdb_fetch.py          (only films not fetched yet)
               python scripts/tmdb_fetch.py --all    (refetch everything)
               python scripts/tmdb_fetch.py SLUG     (one film; add "id=12345" to force a TMDB id)
+              python scripts/tmdb_fetch.py --cast   (only fill in missing actors for already-matched films)
 
 Reads the TMDB API Read Access Token from tmdb_key.txt (git-ignored) or the TMDB_TOKEN env var.
 To choose a specific still, set "pin": "/<tmdb file path>.jpg" for the film in content/tmdb.json and rerun.
-Writes assets/backdrops/<slug>.jpg (1280px), assets/posters/<slug>.jpg (500px) and content/tmdb.json.
+Writes assets/backdrops/<slug>.jpg (1280px), assets/posters/<slug>.jpg (500px) and content/tmdb.json,
+and adds the top 3 billed actors as "actors:" to a film's front matter when it has none (never overwrites edits).
 This product uses the TMDB API but is not endorsed or certified by TMDB.
 """
 import json
@@ -93,6 +95,28 @@ def director_matches(ours, crew):
     return False
 
 
+def top_cast(credits, n=3):
+    cast = sorted(credits.get("cast", []), key=lambda c: c.get("order", 999))
+    return [c["name"] for c in cast[:n]]
+
+
+def write_actors(path, names):
+    """Insert an actors: list after director: (or year:) unless the film already has one."""
+    if not names:
+        return False
+    raw = path.read_bytes().decode("utf-8")
+    nl = "\r\n" if "\r\n" in raw else "\n"
+    s = raw.replace("\r\n", "\n")
+    head, sep, rest = s[4:].partition("\n---")
+    if re.search(r"^actors:", head, re.M):
+        return False
+    block = "actors:\n" + "".join(f'  - "{n.replace(chr(34), chr(39))}"\n' for n in names)
+    anchor = re.search(r"^director:.*\n", head, re.M) or re.search(r"^year:.*\n", head, re.M)
+    head = head[:anchor.end()] + block + head[anchor.end():] if anchor else head + "\n" + block.rstrip("\n")
+    path.write_bytes(("---\n" + head + sep + rest).replace("\n", nl).encode("utf-8"))
+    return True
+
+
 def candidates(meta):
     seen = []
     year = int(meta.get("year", 0) or 0)
@@ -151,7 +175,8 @@ def fetch(slug, meta, force_id=None, pin=None):
             if pin:
                 paths = [pin]
             poster = d.get("poster_path")
-            rec = {"id": d["id"], "title": d.get("title"), "year": (d.get("release_date") or "")[:4]}
+            rec = {"id": d["id"], "title": d.get("title"), "year": (d.get("release_date") or "")[:4],
+                   "cast": top_cast(d.get("credits", {}))}
             if paths and save_backdrop(paths, BACKDROPS / f"{slug}.jpg"):
                 rec["backdrop"] = f"/assets/backdrops/{slug}.jpg"
             if poster:
@@ -169,6 +194,20 @@ def main():
     only = [a for a in args if not a.startswith("id=")]
     data = json.loads(OUT_JSON.read_text(encoding="utf-8")) if OUT_JSON.exists() else {}
     files = sorted(FILMS.glob("*.md"))
+    if "--cast" in sys.argv:
+        added = 0
+        for p in files:
+            rec = data.get(p.stem)
+            if not rec or re.search(r"^actors:", p.read_text(encoding="utf-8"), re.M):
+                continue
+            rec["cast"] = top_cast(get(f"/movie/{rec['id']}/credits"))
+            if write_actors(p, rec["cast"]):
+                added += 1
+                print(f"{p.stem}: {', '.join(rec['cast'])}")
+            time.sleep(0.05)
+        OUT_JSON.write_text(json.dumps(dict(sorted(data.items())), indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        print(f"\nDone. Added actors to {added} films.")
+        return
     if only:
         files = [f for f in files if f.stem in only]
     elif "--all" not in sys.argv:
@@ -182,6 +221,8 @@ def main():
             rec = None
             print(f"  error {p.stem}: {e}")
         data[p.stem] = rec
+        if rec:
+            write_actors(p, rec.get("cast"))
         if not rec:
             missing.append(f"{p.stem} ({meta.get('title')}, {meta.get('year')}, {meta.get('director')})")
         print(f"[{i}/{len(files)}] {p.stem}: " + (f"TMDB {rec['id']} {rec['title']} ({rec['year']})" if rec else "NOT MATCHED"))

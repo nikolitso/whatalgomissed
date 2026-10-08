@@ -3,6 +3,10 @@ title: "Brothers"
 original_title: "Brødre"
 year: 2004
 director: "Susanne Bier"
+actors:
+  - "Connie Nielsen"
+  - "Ulrich Thomsen"
+  - "Nikolaj Lie Kaas"
 country: "Denmark"
 rating: 5
 lists:

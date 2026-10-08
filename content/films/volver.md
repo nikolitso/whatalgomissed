@@ -2,6 +2,10 @@
 title: "Volver"
 year: 2006
 director: "Pedro Almodóvar"
+actors:
+  - "Penélope Cruz"
+  - "Carmen Maura"
+  - "Lola Dueñas"
 country: "Spain"
 rating: 4
 lists:

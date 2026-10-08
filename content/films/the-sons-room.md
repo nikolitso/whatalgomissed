@@ -3,6 +3,10 @@ title: "The Son's Room"
 original_title: "La Stanza del Figlio"
 year: 2001
 director: "Nanni Moretti"
+actors:
+  - "Nanni Moretti"
+  - "Laura Morante"
+  - "Jasmine Trinca"
 country: "Italy"
 rating: 4
 lists:

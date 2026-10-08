@@ -3,6 +3,10 @@ title: "Patty Is a Very Girly Name"
 original_title: "Πολύ Κοριτσίστικο Όνομα το Πάττυ"
 year: 2025
 director: "Nikos Pastras"
+actors:
+  - "Mort Klonaraki"
+  - "Vangelis Mourikis"
+  - "Filippa Kaye"
 country: "Greece"
 rating: 4.5
 lists:

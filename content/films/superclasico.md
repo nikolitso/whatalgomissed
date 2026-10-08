@@ -2,6 +2,10 @@
 title: "Superclasico"
 year: 2011
 director: "Ole Christian Madsen"
+actors:
+  - "Paprika Steen"
+  - "Anders W. Berthelsen"
+  - "Sebastián Estevanez"
 country: "Denmark"
 rating: 4
 lists:

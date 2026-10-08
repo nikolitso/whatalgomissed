@@ -2,6 +2,10 @@
 title: "Sideways"
 year: 2004
 director: "Alexander Payne"
+actors:
+  - "Paul Giamatti"
+  - "Thomas Haden Church"
+  - "Virginia Madsen"
 country: "USA"
 rating: 4
 lists:

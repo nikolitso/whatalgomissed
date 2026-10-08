@@ -3,6 +3,10 @@ title: "Our Life"
 original_title: "La Nostra Vita"
 year: 2010
 director: "Daniele Luchetti"
+actors:
+  - "Elio Germano"
+  - "Isabella Ragonese"
+  - "Raoul Bova"
 country: "Italy"
 rating: 4
 lists:

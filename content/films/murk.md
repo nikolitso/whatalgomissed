@@ -3,6 +3,10 @@ title: "Murk"
 original_title: "Mørke"
 year: 2005
 director: "Jannik Johansen"
+actors:
+  - "Nikolaj Lie Kaas"
+  - "Laura Drasbæk"
+  - "Nicolas Bro"
 country: "Denmark"
 rating: 4
 lists:

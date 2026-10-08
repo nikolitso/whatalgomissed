@@ -3,6 +3,10 @@ title: "Tenderness"
 original_title: "La Tenerezza"
 year: 2017
 director: "Gianni Amelio"
+actors:
+  - "Renato Carpentieri"
+  - "Elio Germano"
+  - "Giovanna Mezzogiorno"
 country: "Italy"
 rating: 4.5
 lists:

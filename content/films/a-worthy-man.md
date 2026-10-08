@@ -3,6 +3,10 @@ title: "A Worthy Man"
 original_title: "En Rigtig Mand"
 year: 2018
 director: "Jesper W. Nielsen"
+actors:
+  - "Troels Lyby"
+  - "Milo Campanale"
+  - "Marina Bouras"
 country: "Denmark"
 rating: 4
 lists:

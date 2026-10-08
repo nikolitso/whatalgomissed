@@ -3,6 +3,10 @@ title: "About Elly"
 original_title: "Darbāre-ye Ellī"
 year: 2009
 director: "Asghar Farhadi"
+actors:
+  - "Taraneh Alidoosti"
+  - "Golshifteh Farahani"
+  - "Shahab Hosseini"
 country: "Iran"
 rating: 4
 lists:

@@ -3,6 +3,10 @@ title: "Ballad for a Pierced Heart"
 original_title: "Η Μπαλάντα της Τρύπιας Καρδιάς"
 year: 2019
 director: "Yannis Economides"
+actors:
+  - "Vasilis Bisbikis"
+  - "Vicky Papadopoulou"
+  - "Yannis Tsortekis"
 country: "Greece"
 rating: 4
 lists:

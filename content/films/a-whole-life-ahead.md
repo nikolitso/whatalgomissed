@@ -3,6 +3,10 @@ title: "A Whole Life Ahead"
 original_title: "Tutta la Vita Davanti"
 year: 2008
 director: "Paolo Virzì"
+actors:
+  - "Isabella Ragonese"
+  - "Massimo Ghini"
+  - "Valerio Mastandrea"
 country: "Italy"
 rating: 4.5
 lists:

@@ -3,6 +3,10 @@ title: "The Charmer"
 original_title: "Charmøren"
 year: 2017
 director: "Milad Alami"
+actors:
+  - "Ardalan Esmaili"
+  - "Soho Rezanejad"
+  - "Lars Brygmann"
 country: "Denmark"
 rating: 3.5
 lists:

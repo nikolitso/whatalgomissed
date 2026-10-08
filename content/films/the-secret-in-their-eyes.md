@@ -3,6 +3,10 @@ title: "The Secret in Their Eyes"
 original_title: "El Secreto de Sus Ojos"
 year: 2009
 director: "Juan José Campanella"
+actors:
+  - "Ricardo Darín"
+  - "Soledad Villamil"
+  - "Pablo Rago"
 country: "Argentina"
 rating: 4
 lists:

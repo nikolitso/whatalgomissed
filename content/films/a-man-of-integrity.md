@@ -3,6 +3,10 @@ title: "A Man of Integrity"
 original_title: "Lerd"
 year: 2017
 director: "Mohammad Rasoulof"
+actors:
+  - "Reza Akhlaghirad"
+  - "Soudabeh Bayzai"
+  - "Nasim Adabi"
 country: "Iran"
 rating: 4.5
 lists:

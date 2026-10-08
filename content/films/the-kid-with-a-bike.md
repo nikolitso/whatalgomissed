@@ -3,6 +3,10 @@ title: "The Kid with a Bike"
 original_title: "Le Gamin au Vélo"
 year: 2011
 director: "Jean-Pierre & Luc Dardenne"
+actors:
+  - "Cécile de France"
+  - "Thomas Doret"
+  - "Jérémie Renier"
 country: "Belgium"
 rating: 4.5
 lists:

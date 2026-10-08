@@ -2,6 +2,10 @@
 title: "Good Bye, Lenin!"
 year: 2003
 director: "Wolfgang Becker"
+actors:
+  - "Daniel Brühl"
+  - "Katrin Sass"
+  - "Chulpan Khamatova"
 country: "Germany"
 rating: 4.5
 lists:

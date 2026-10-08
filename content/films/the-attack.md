@@ -3,6 +3,10 @@ title: "The Attack"
 original_title: "L'Attentat"
 year: 2012
 director: "Ziad Doueiri"
+actors:
+  - "Ali Suliman"
+  - "Evgenia Dodena"
+  - "Reymonde Amsallem"
 country: "Lebanon"
 rating: 4
 lists:

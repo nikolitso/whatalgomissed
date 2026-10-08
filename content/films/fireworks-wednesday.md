@@ -3,6 +3,10 @@ title: "Fireworks Wednesday"
 original_title: "Chaharshanbe-Soori"
 year: 2006
 director: "Asghar Farhadi"
+actors:
+  - "Hedie Tehrani"
+  - "Taraneh Alidoosti"
+  - "Hamid Farrokhnejad"
 country: "Iran"
 rating: 4
 lists:

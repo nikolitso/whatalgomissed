@@ -3,6 +3,10 @@ title: "The Mafia Kills Only in Summer"
 original_title: "La Mafia Uccide Solo d'Estate"
 year: 2013
 director: "Pif"
+actors:
+  - "Pif"
+  - "Cristiana Capotondi"
+  - "Rosario Lisma"
 country: "Italy"
 rating: 4
 lists:

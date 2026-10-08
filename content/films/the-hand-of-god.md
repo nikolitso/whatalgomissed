@@ -3,6 +3,10 @@ title: "The Hand of God"
 original_title: "È Stata la Mano di Dio"
 year: 2021
 director: "Paolo Sorrentino"
+actors:
+  - "Filippo Scotti"
+  - "Toni Servillo"
+  - "Teresa Saponangelo"
 country: "Italy"
 rating: 4.5
 lists:

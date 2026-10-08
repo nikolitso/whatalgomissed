@@ -3,6 +3,10 @@ title: "The Easy Life"
 original_title: "La Vita Facile"
 year: 2011
 director: "Lucio Pellegrini"
+actors:
+  - "Pierfrancesco Favino"
+  - "Stefano Accorsi"
+  - "Vittoria Puccini"
 country: "Italy"
 rating: 4
 lists:

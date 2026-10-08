@@ -3,6 +3,10 @@ title: "The Traitor"
 original_title: "Il Traditore"
 year: 2019
 director: "Marco Bellocchio"
+actors:
+  - "Pierfrancesco Favino"
+  - "Maria Fernanda Cândido"
+  - "Fabrizio Ferracane"
 country: "Italy"
 rating: 4
 lists:

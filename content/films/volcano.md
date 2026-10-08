@@ -3,6 +3,10 @@ title: "Volcano"
 original_title: "Eldfjall"
 year: 2011
 director: "Rúnar Rúnarsson"
+actors:
+  - "Theodór Júlíusson"
+  - "Margrét Helga Jóhannsdóttir"
+  - "Auður Drauma Bachmann"
 country: "Iceland"
 rating: 4
 lists:

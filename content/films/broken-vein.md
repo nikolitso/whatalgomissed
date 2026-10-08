@@ -3,6 +3,10 @@ title: "Broken Vein"
 original_title: "Σπασμένη Φλέβα"
 year: 2025
 director: "Yannis Economides"
+actors:
+  - "Vasilis Bisbikis"
+  - "Maria Kehayioglou"
+  - "Betty Arvaniti"
 country: "Greece"
 rating: 4
 lists:

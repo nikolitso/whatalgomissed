@@ -3,6 +3,10 @@ title: Don't Call Me Mama
 original_title: Se meg
 year: 2025
 director: "Nina Knag"
+actors:
+  - "Pia Tjelta"
+  - "Tarek Zayat"
+  - "Kristoffer Joner"
 country: "Norway"
 rating: "4.5"
 lists:

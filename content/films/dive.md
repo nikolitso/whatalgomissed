@@ -2,6 +2,10 @@
 title: "DIVE"
 year: 2022
 director: "Lucía Puenzo"
+actors:
+  - "Karla Souza"
+  - "Hernán Mendoza"
+  - "Dèja Ebergenyi"
 country: "Argentina"
 rating: 4
 lists:

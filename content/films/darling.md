@@ -2,6 +2,10 @@
 title: "Darling"
 year: 2017
 director: "Birgitte Stærmose"
+actors:
+  - "Danica Ćurčić"
+  - "Gustaf Skarsgård"
+  - "Astrid Grarup Elbo"
 country: "Denmark"
 rating: 4
 lists:

@@ -3,6 +3,10 @@ title: "Eden Is West"
 original_title: "Εδέμ στη Δύση"
 year: 2009
 director: "Costa-Gavras"
+actors:
+  - "Riccardo Scamarcio"
+  - "Éric Caravaca"
+  - "Juliane Köhler"
 country: "Greece"
 rating: 4
 lists:

@@ -2,6 +2,10 @@
 title: "Karaoke"
 year: 2022
 director: "Moshe Rosenthal"
+actors:
+  - "Lior Ashkenazi"
+  - "Sasson Gabai"
+  - "Rita Shukrun"
 country: "Israel"
 rating: 4
 lists:

@@ -3,6 +3,10 @@ title: "Kiss Me Again"
 original_title: "Baciami Ancora"
 year: 2010
 director: "Gabriele Muccino"
+actors:
+  - "Stefano Accorsi"
+  - "Vittoria Puccini"
+  - "Pierfrancesco Favino"
 country: "Italy"
 rating: 4
 lists:

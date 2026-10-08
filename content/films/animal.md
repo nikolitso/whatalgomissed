@@ -2,6 +2,10 @@
 title: "Animal"
 year: 2023
 director: "Sofia Exarchou"
+actors:
+  - "Dimitra Vlagopoulou"
+  - "Flomaria Papadaki"
+  - "Ahilleas Hariskos"
 country: "Greece"
 rating: 4
 lists:

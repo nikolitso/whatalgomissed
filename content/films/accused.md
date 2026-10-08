@@ -3,6 +3,10 @@ title: "Accused"
 original_title: "Anklaget"
 year: 2005
 director: "Henrik Ruben Genz"
+actors:
+  - "Troels Lyby"
+  - "Sofie Gråbøl"
+  - "Paw Henriksen"
 country: "Denmark"
 rating: 3.5
 lists:

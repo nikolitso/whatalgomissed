@@ -2,6 +2,10 @@
 title: "200 Meters"
 year: 2020
 director: "Ameen Nayfeh"
+actors:
+  - "Ali Suliman"
+  - "Anna Unterberger"
+  - "Motaz Malhees"
 country: "Palestine"
 rating: 4
 lists:

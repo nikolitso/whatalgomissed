@@ -2,6 +2,10 @@
 title: "Fair Play"
 year: 2014
 director: "Andrea Sedláčková"
+actors:
+  - "Judit Pecháček"
+  - "Anna Geislerová"
+  - "Roman Luknár"
 country: "Czech Republic"
 rating: 4
 lists:

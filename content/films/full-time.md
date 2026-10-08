@@ -3,6 +3,10 @@ title: "Full Time"
 original_title: "À Plein Temps"
 year: 2021
 director: "Éric Gravel"
+actors:
+  - "Laure Calamy"
+  - "Anne Suarez"
+  - "Geneviève Mnich"
 country: "France"
 rating: 3.5
 lists:

@@ -3,6 +3,10 @@ title: "Talk to Her"
 original_title: "Hable con Ella"
 year: 2002
 director: "Pedro Almodóvar"
+actors:
+  - "Javier Cámara"
+  - "Darío Grandinetti"
+  - "Leonor Watling"
 country: "Spain"
 rating: 4.5
 lists:

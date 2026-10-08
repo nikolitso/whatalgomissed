@@ -3,6 +3,10 @@ title: "Another Round"
 original_title: "Druk"
 year: 2020
 director: "Thomas Vinterberg"
+actors:
+  - "Mads Mikkelsen"
+  - "Thomas Bo Larsen"
+  - "Magnus Millang"
 country: "Denmark"
 rating: 5
 lists:

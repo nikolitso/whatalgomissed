@@ -3,6 +3,10 @@ title: "The Seed of the Sacred Fig"
 original_title: "Dane-ye Anjir-e Ma'abed"
 year: 2024
 director: "Mohammad Rasoulof"
+actors:
+  - "Soheila Golestani"
+  - "Misagh Zare"
+  - "Mahsa Rostami"
 country: "Iran"
 rating: 4
 lists:

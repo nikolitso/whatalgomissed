@@ -3,6 +3,10 @@ title: "Nine Queens"
 original_title: "Nueve Reinas"
 year: 2000
 director: "Fabián Bielinsky"
+actors:
+  - "Ricardo Darín"
+  - "Gastón Pauls"
+  - "Leticia Brédice"
 country: "Argentina"
 rating: 4
 lists:

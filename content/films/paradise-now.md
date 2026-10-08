@@ -2,6 +2,10 @@
 title: "Paradise Now"
 year: 2005
 director: "Hany Abu-Assad"
+actors:
+  - "Qais Nashif"
+  - "Ali Suliman"
+  - "Lubna Azabal"
 country: "Palestine"
 rating: 4
 lists:

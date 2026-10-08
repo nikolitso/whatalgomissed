@@ -2,6 +2,10 @@
 title: "Romanzo Criminale"
 year: 2005
 director: "Michele Placido"
+actors:
+  - "Kim Rossi Stuart"
+  - "Anna Mouglalis"
+  - "Stefano Accorsi"
 country: "Italy"
 rating: 4.5
 lists:

@@ -3,6 +3,10 @@ title: "The Best of Youth"
 original_title: "La Meglio Gioventù"
 year: 2003
 director: "Marco Tullio Giordana"
+actors:
+  - "Luigi Lo Cascio"
+  - "Alessio Boni"
+  - "Adriana Asti"
 country: "Italy"
 rating: 5
 lists:

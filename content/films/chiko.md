@@ -2,6 +2,10 @@
 title: "Chiko"
 year: 2008
 director: "Özgür Yıldırım"
+actors:
+  - "Denis Moschitto"
+  - "Volkan Özcan"
+  - "Moritz Bleibtreu"
 country: "Germany"
 rating: 4
 lists:

@@ -3,6 +3,10 @@ title: "The Man Who Copied"
 original_title: "O Homem que Copiava"
 year: 2003
 director: "Jorge Furtado"
+actors:
+  - "Lázaro Ramos"
+  - "Leandra Leal"
+  - "Luana Piovani"
 country: "Brazil"
 rating: 4
 lists:

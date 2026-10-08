@@ -2,6 +2,10 @@
 title: "Exodus"
 year: 2023
 director: "Abbe Hassan"
+actors:
+  - "Jwan Alqatami"
+  - "Ashraf Barhom"
+  - "Isa Aouifia"
 country: "Sweden"
 rating: 4
 lists:

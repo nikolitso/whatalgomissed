@@ -3,6 +3,10 @@ title: "The Lives of Others"
 original_title: "Das Leben der Anderen"
 year: 2006
 director: "Florian Henckel von Donnersmarck"
+actors:
+  - "Martina Gedeck"
+  - "Ulrich Mühe"
+  - "Sebastian Koch"
 country: "Germany"
 rating: 4.5
 lists:

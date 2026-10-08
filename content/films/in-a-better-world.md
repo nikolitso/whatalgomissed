@@ -3,6 +3,10 @@ title: "In a Better World"
 original_title: "Hævnen"
 year: 2010
 director: "Susanne Bier"
+actors:
+  - "Mikael Persbrandt"
+  - "Trine Dyrholm"
+  - "Ulrich Thomsen"
 country: "Denmark"
 rating: 4
 lists:

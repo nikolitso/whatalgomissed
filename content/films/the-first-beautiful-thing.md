@@ -3,6 +3,10 @@ title: "The First Beautiful Thing"
 original_title: "La Prima Cosa Bella"
 year: 2010
 director: "Paolo Virzì"
+actors:
+  - "Valerio Mastandrea"
+  - "Micaela Ramazzotti"
+  - "Stefania Sandrelli"
 country: "Italy"
 rating: 4.5
 lists:

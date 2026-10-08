@@ -3,6 +3,10 @@ title: "The Kindergarten Teacher"
 original_title: "Haganenet"
 year: 2014
 director: "Nadav Lapid"
+actors:
+  - "Sarit Larry"
+  - "Avi Shnaidman"
+  - "Lior Raz"
 country: "Israel"
 rating: 4
 lists:

@@ -3,6 +3,10 @@ title: "Stratos"
 original_title: "Το Μικρό Ψάρι"
 year: 2014
 director: "Yannis Economides"
+actors:
+  - "Vangelis Mourikis"
+  - "Petros Zervos"
+  - "Vicky Papadopoulou"
 country: "Greece"
 rating: 4
 lists:

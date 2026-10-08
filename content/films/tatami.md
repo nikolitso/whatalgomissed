@@ -2,6 +2,10 @@
 title: "Tatami"
 year: 2023
 director: "Zar Amir Ebrahimi"
+actors:
+  - "Arienne Mandi"
+  - "Zar Amir Ebrahimi"
+  - "Jaime Ray Newman"
 country: "Iran"
 rating: 4
 lists:

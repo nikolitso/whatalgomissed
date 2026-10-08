@@ -3,6 +3,10 @@ title: "A Hijacking"
 original_title: "Kapringen"
 year: 2012
 director: "Tobias Lindholm"
+actors:
+  - "Pilou Asbæk"
+  - "Søren Malling"
+  - "Dar Salim"
 country: "Denmark"
 rating: 4
 lists:

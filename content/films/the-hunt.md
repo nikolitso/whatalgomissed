@@ -3,6 +3,10 @@ title: "The Hunt"
 original_title: "Jagten"
 year: 2012
 director: "Thomas Vinterberg"
+actors:
+  - "Mads Mikkelsen"
+  - "Thomas Bo Larsen"
+  - "Annika Wedderkopp"
 country: "Denmark"
 rating: 5
 lists:

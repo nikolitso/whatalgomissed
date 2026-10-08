@@ -3,6 +3,10 @@ title: "City of God"
 original_title: "Cidade de Deus"
 year: 2002
 director: "Fernando Meirelles & Kátia Lund"
+actors:
+  - "Alexandre Rodrigues"
+  - "Leandro Firmino"
+  - "Phellipe Haagensen"
 country: "Brazil"
 rating: 5
 lists:

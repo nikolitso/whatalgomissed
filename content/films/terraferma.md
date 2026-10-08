@@ -2,6 +2,10 @@
 title: "Terraferma"
 year: 2011
 director: "Emanuele Crialese"
+actors:
+  - "Filippo Pucillo"
+  - "Donatella Finocchiaro"
+  - "Giuseppe Fiorello"
 country: "Italy"
 rating: 4.5
 lists:

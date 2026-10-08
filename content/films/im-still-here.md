@@ -3,6 +3,10 @@ title: "I'm Still Here"
 original_title: "Ainda Estou Aqui"
 year: 2024
 director: "Walter Salles"
+actors:
+  - "Fernanda Torres"
+  - "Fernanda Montenegro"
+  - "Selton Mello"
 country: "Brazil"
 rating: 4
 lists:

@@ -3,6 +3,10 @@ title: "Lemon Tree"
 original_title: "Etz Limon"
 year: 2008
 director: "Eran Riklis"
+actors:
+  - "Hiam Abbass"
+  - "Tarik Kopty"
+  - "Ali Suliman"
 country: "Israel"
 rating: 4
 lists:

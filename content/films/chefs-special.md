@@ -3,6 +3,10 @@ title: "Chef's Special"
 original_title: "Fuera de Carta"
 year: 2008
 director: "Nacho G. Velilla"
+actors:
+  - "Javier Cámara"
+  - "Lola Dueñas"
+  - "Fernando Tejero"
 country: "Spain"
 rating: 4
 lists:

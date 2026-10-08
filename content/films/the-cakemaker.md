@@ -2,6 +2,10 @@
 title: "The Cakemaker"
 year: 2017
 director: "Ofir Raul Graizer"
+actors:
+  - "Tim Kalkhof"
+  - "Sarah Adler"
+  - "Roi Miller"
 country: "Israel"
 rating: 4
 lists:

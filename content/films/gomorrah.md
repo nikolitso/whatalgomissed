@@ -3,6 +3,10 @@ title: "Gomorrah"
 original_title: "Gomorra"
 year: 2008
 director: "Matteo Garrone"
+actors:
+  - "Toni Servillo"
+  - "Gianfelice Imparato"
+  - "Maria Nazionale"
 country: "Italy"
 rating: 4
 lists:

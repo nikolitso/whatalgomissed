@@ -3,6 +3,10 @@ title: "Il Postino"
 original_title: "The Postman"
 year: 1994
 director: "Michael Radford"
+actors:
+  - "Massimo Troisi"
+  - "Philippe Noiret"
+  - "Maria Grazia Cucinotta"
 country: "Italy"
 rating: 4
 lists:

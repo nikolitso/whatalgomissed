@@ -3,6 +3,10 @@ title: "The Class"
 original_title: "Entre les Murs"
 year: 2008
 director: "Laurent Cantet"
+actors:
+  - "François Bégaudeau"
+  - "Arthur Fogel"
+  - "Damien Gomes"
 country: "France"
 rating: 4
 lists:

@@ -3,6 +3,10 @@ title: "Amerika Square"
 original_title: "Πλατεία Αμερικής"
 year: 2016
 director: "Yannis Sakaridis"
+actors:
+  - "Yannis Stankoglou"
+  - "Makis Papadimitriou"
+  - "Vassilis Koukalani"
 country: "Greece"
 rating: 4.5
 lists:

@@ -3,6 +3,10 @@ title: "Prague"
 original_title: "Prag"
 year: 2006
 director: "Ole Christian Madsen"
+actors:
+  - "Mads Mikkelsen"
+  - "Stine Stengade"
+  - "Jana Plodková"
 country: "Denmark"
 rating: 4
 lists:

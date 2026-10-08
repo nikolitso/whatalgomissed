@@ -3,6 +3,10 @@ title: "Don't Tell"
 original_title: "La Bestia nel Cuore"
 year: 2005
 director: "Cristina Comencini"
+actors:
+  - "Giovanna Mezzogiorno"
+  - "Alessio Boni"
+  - "Stefania Rocca"
 country: "Italy"
 rating: 3.5
 lists:

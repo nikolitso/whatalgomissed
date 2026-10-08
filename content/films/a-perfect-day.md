@@ -3,6 +3,10 @@ title: "A Perfect Day"
 original_title: "Un Giorno Perfetto"
 year: 2008
 director: "Ferzan Özpetek"
+actors:
+  - "Isabella Ferrari"
+  - "Valerio Mastandrea"
+  - "Valerio Binasco"
 country: "Italy"
 rating: 4
 lists:

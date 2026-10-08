@@ -3,6 +3,10 @@ title: "A Quiet Life"
 original_title: "Una Vita Tranquilla"
 year: 2010
 director: "Claudio Cupellini"
+actors:
+  - "Toni Servillo"
+  - "Marco D'Amore"
+  - "Francesco Di Leva"
 country: "Italy"
 rating: 4
 lists:

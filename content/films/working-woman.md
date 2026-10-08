@@ -3,6 +3,10 @@ title: "Working Woman"
 original_title: "Isha Ovedet"
 year: 2018
 director: "Michal Aviad"
+actors:
+  - "Liron Ben-Shlush"
+  - "Menashe Noy"
+  - "Oshri Cohen"
 country: "Israel"
 rating: 4
 lists:

@@ -3,6 +3,10 @@ title: "Happiness"
 original_title: "Felicità"
 year: 2023
 director: "Micaela Ramazzotti"
+actors:
+  - "Micaela Ramazzotti"
+  - "Max Tortora"
+  - "Anna Galiena"
 country: "Italy"
 rating: 4
 lists:

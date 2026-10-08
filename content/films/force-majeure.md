@@ -3,6 +3,10 @@ title: "Force Majeure"
 original_title: "Turist"
 year: 2014
 director: "Ruben Östlund"
+actors:
+  - "Johannes Bah Kuhnke"
+  - "Lisa Loven Kongsli"
+  - "Clara Wettergren"
 country: "Sweden"
 rating: 4.5
 lists:

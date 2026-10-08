@@ -3,6 +3,10 @@ title: "Alone"
 original_title: "Issiz Adam"
 year: 2008
 director: "Çagan Irmak"
+actors:
+  - "Cemal Hünal"
+  - "Melis Birkan"
+  - "Yıldız Kültür"
 country: "Turkey"
 rating: 4.5
 lists:

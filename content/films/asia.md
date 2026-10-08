@@ -2,6 +2,10 @@
 title: "Asia"
 year: 2020
 director: "Ruthy Pribar"
+actors:
+  - "Alena Yiv"
+  - "Shira Haas"
+  - "Tamir Mula"
 country: "Israel"
 rating: 4
 lists:

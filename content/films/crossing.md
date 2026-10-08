@@ -2,6 +2,10 @@
 title: "Crossing"
 year: 2024
 director: "Levan Akin"
+actors:
+  - "Mzia Arabuli"
+  - "Luke Kankava"
+  - "Deniz Dumanlı"
 country: "Georgia"
 rating: 4.5
 lists:

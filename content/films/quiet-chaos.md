@@ -3,6 +3,10 @@ title: "Quiet Chaos"
 original_title: "Caos Calmo"
 year: 2008
 director: "Antonello Grimaldi"
+actors:
+  - "Nanni Moretti"
+  - "Alessandro Gassmann"
+  - "Valeria Golino"
 country: "Italy"
 rating: 4
 lists:

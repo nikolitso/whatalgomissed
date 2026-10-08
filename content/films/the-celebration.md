@@ -3,6 +3,10 @@ title: "The Celebration"
 original_title: "Festen"
 year: 1998
 director: "Thomas Vinterberg"
+actors:
+  - "Ulrich Thomsen"
+  - "Henning Moritzen"
+  - "Thomas Bo Larsen"
 country: "Denmark"
 rating: 5
 lists:

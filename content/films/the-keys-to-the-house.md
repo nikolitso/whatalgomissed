@@ -3,6 +3,10 @@ title: "The Keys to the House"
 original_title: "Le Chiavi di Casa"
 year: 2004
 director: "Gianni Amelio"
+actors:
+  - "Kim Rossi Stuart"
+  - "Andrea Rossi"
+  - "Alla Faerovich"
 country: "Italy"
 rating: 4
 lists:

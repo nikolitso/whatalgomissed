@@ -3,6 +3,10 @@ title: "In Syria"
 original_title: "Insyriated"
 year: 2017
 director: "Philippe Van Leeuw"
+actors:
+  - "Hiam Abbass"
+  - "Diamand Abou Abboud"
+  - "Juliette Navis"
 country: "Belgium"
 rating: 4
 lists:

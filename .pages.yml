@@ -29,6 +29,10 @@ content:
       - name: director
         label: Director
         type: string
+      - name: actors
+        label: Main actors (up to 3)
+        type: string
+        list: true
       - name: country
         label: Country
         description: "One country, e.g. Denmark. For co-productions: Germany/Turkey"

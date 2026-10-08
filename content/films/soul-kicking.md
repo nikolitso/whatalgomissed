@@ -3,6 +3,10 @@ title: "Soul Kicking"
 original_title: "Η Ψυχή στο Στόμα"
 year: 2006
 director: "Yannis Economides"
+actors:
+  - "Errikos Litsis"
+  - "Vangelis Mourikis"
+  - "Maria Kehayioglou"
 country: "Greece"
 rating: 4
 lists:

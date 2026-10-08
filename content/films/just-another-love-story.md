@@ -3,6 +3,10 @@ title: "Just Another Love Story"
 original_title: "Kærlighed på Film"
 year: 2007
 director: "Ole Bornedal"
+actors:
+  - "Anders W. Berthelsen"
+  - "Rebecka Hemse"
+  - "Nikolaj Lie Kaas"
 country: "Denmark"
 rating: 4
 lists:

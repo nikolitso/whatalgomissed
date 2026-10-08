@@ -2,6 +2,10 @@
 title: "Jaffa"
 year: 2009
 director: "Keren Yedaya"
+actors:
+  - "Dana Ivgy"
+  - "Moni Moshonov"
+  - "Ronit Elkabetz"
 country: "Israel"
 rating: 4
 lists:

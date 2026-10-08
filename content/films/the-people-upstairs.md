@@ -3,6 +3,10 @@ title: "The People Upstairs"
 original_title: "Los Vecinos de Arriba"
 year: 2020
 director: "Cesc Gay"
+actors:
+  - "Javier Cámara"
+  - "Belén Cuesta"
+  - "Alberto San Juan"
 country: "Spain"
 rating: 4
 lists:

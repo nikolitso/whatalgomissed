@@ -3,6 +3,10 @@ title: "So Damn Easy Going"
 original_title: "Så Jävla Easy Going"
 year: 2022
 director: "Christoffer Sandler"
+actors:
+  - "Nikki Hanseblad"
+  - "Melina Benett Paukkonen"
+  - "Shanti Roney"
 country: "Sweden"
 rating: 4
 lists:

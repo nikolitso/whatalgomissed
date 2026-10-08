@@ -2,6 +2,10 @@
 title: "Metro Manila"
 year: 2013
 director: "Sean Ellis"
+actors:
+  - "Jake Macapagal"
+  - "Althea Vega"
+  - "John Arcilla"
 country: "Philippines"
 rating: 4
 lists:

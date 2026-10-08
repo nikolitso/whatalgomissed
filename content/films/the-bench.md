@@ -3,6 +3,10 @@ title: "The Bench"
 original_title: "Bænken"
 year: 2000
 director: "Per Fly"
+actors:
+  - "Jesper Christensen"
+  - "Nicolaj Kopernikus"
+  - "Jens Albinus"
 country: "Denmark"
 rating: 4
 lists:

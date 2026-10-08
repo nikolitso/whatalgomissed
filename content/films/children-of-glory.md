@@ -3,6 +3,10 @@ title: "Children of Glory"
 original_title: "Szabadság, Szerelem"
 year: 2006
 director: "Krisztina Goda"
+actors:
+  - "Kata Dobó"
+  - "Iván Fenyő"
+  - "Sándor Csányi"
 country: "Hungary"
 rating: 4
 lists:

@@ -3,6 +3,10 @@ title: "The Hummingbird"
 original_title: "Il Colibrì"
 year: 2022
 director: "Francesca Archibugi"
+actors:
+  - "Pierfrancesco Favino"
+  - "Kasia Smutniak"
+  - "Bérénice Bejo"
 country: "Italy"
 rating: 4
 lists:

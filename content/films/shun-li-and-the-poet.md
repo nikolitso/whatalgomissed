@@ -3,6 +3,10 @@ title: "Shun Li and the Poet"
 original_title: "Io Sono Li"
 year: 2011
 director: "Andrea Segre"
+actors:
+  - "Zhao Tao"
+  - "Rade Šerbedžija"
+  - "Marco Paolini"
 country: "Italy"
 rating: 4
 lists:

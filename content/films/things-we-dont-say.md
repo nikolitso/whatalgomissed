@@ -3,6 +3,10 @@ title: "Things We Don't Say"
 original_title: "Le Cose Non Dette"
 year: 2026
 director: "Gabriele Muccino"
+actors:
+  - "Stefano Accorsi"
+  - "Carolina Crescentini"
+  - "Miriam Leone"
 country: "Italy"
 rating: 4
 lists:

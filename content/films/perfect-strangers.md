@@ -3,6 +3,10 @@ title: "Perfect Strangers"
 original_title: "Perfetti Sconosciuti"
 year: 2016
 director: "Paolo Genovese"
+actors:
+  - "Giuseppe Battiston"
+  - "Anna Foglietta"
+  - "Marco Giallini"
 country: "Italy"
 rating: 5
 lists:

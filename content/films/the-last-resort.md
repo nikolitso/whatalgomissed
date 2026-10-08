@@ -3,6 +3,10 @@ title: "The Last Resort"
 original_title: "Paradis"
 year: 2026
 director: "Maria Sødahl"
+actors:
+  - "Esben Smed"
+  - "Danica Ćurčić"
+  - "Sif Lucca Gersby"
 country: "Denmark"
 rating: 4
 lists:

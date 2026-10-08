@@ -3,6 +3,10 @@ title: "Dear Diary"
 original_title: "Caro Diario"
 year: 1993
 director: "Nanni Moretti"
+actors:
+  - "Nanni Moretti"
+  - "Renato Carpentieri"
+  - "Antonio Neiwiller"
 country: "Italy"
 rating: 4
 lists:

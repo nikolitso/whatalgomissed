@@ -2,6 +2,10 @@
 title: "After Love"
 year: 2020
 director: "Aleem Khan"
+actors:
+  - "Joanna Scanlan"
+  - "Nathalie Richard"
+  - "Nasser Memarzia"
 country: "United Kingdom"
 rating: 4.5
 lists:

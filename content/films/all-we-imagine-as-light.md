@@ -2,6 +2,10 @@
 title: "All We Imagine as Light"
 year: 2024
 director: "Payal Kapadia"
+actors:
+  - "Kani Kusruti"
+  - "Divya Prabha"
+  - "Chhaya Kadam"
 country: "India"
 rating: 4
 lists:

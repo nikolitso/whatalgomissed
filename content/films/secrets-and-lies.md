@@ -2,6 +2,10 @@
 title: "Secrets & Lies"
 year: 1996
 director: "Mike Leigh"
+actors:
+  - "Brenda Blethyn"
+  - "Marianne Jean-Baptiste"
+  - "Timothy Spall"
 country: "United Kingdom"
 rating: 4.5
 lists:

@@ -2,6 +2,10 @@
 title: "I, Daniel Blake"
 year: 2016
 director: "Ken Loach"
+actors:
+  - "Dave Johns"
+  - "Hayley Squires"
+  - "Briana Shann"
 country: "United Kingdom"
 rating: 4
 lists:

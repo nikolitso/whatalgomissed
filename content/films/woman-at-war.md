@@ -3,6 +3,10 @@ title: "Woman at War"
 original_title: "Kona fer í stríð"
 year: 2018
 director: "Benedikt Erlingsson"
+actors:
+  - "Halldóra Geirharðsdóttir"
+  - "Jóhann Sigurðarson"
+  - "Davíð Þór Jónsson"
 country: "Iceland"
 rating: 4.5
 lists:

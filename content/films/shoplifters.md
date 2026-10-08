@@ -3,6 +3,10 @@ title: "Shoplifters"
 original_title: "万引き家族"
 year: 2018
 director: "Hirokazu Koreeda"
+actors:
+  - "Lily Franky"
+  - "Sakura Ando"
+  - "Mayu Matsuoka"
 country: "Japan"
 rating: 4
 lists:

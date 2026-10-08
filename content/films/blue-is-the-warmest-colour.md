@@ -3,6 +3,10 @@ title: "Blue Is the Warmest Colour"
 original_title: "La Vie d'Adèle"
 year: 2013
 director: "Abdellatif Kechiche"
+actors:
+  - "Léa Seydoux"
+  - "Adèle Exarchopoulos"
+  - "Salim Kéchiouche"
 country: "France"
 rating: 4
 lists:

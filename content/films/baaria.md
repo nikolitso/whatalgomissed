@@ -2,6 +2,10 @@
 title: "Baaria"
 year: 2009
 director: "Giuseppe Tornatore"
+actors:
+  - "Francesco Scianna"
+  - "Margareth Madè"
+  - "Lina Sastri"
 country: "Italy"
 rating: 4
 lists:

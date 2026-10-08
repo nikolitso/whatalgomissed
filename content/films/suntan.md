@@ -2,6 +2,10 @@
 title: "Suntan"
 year: 2016
 director: "Argyris Papadimitropoulos"
+actors:
+  - "Makis Papadimitriou"
+  - "Elli Tringou"
+  - "Hara Kotsali"
 country: "Greece"
 rating: 4
 lists:

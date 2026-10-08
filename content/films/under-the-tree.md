@@ -3,6 +3,10 @@ title: "Under the Tree"
 original_title: "Undir Trénu"
 year: 2017
 director: "Hafsteinn Gunnar Sigurðsson"
+actors:
+  - "Steinþór Hróar Steinþórsson"
+  - "Edda Björgvinsdóttir"
+  - "Sigurður Sigurjónsson"
 country: "Iceland"
 rating: 4
 lists:

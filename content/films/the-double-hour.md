@@ -3,6 +3,10 @@ title: "The Double Hour"
 original_title: "La Doppia Ora"
 year: 2009
 director: "Giuseppe Capotondi"
+actors:
+  - "Kseniya Rappoport"
+  - "Filippo Timi"
+  - "Antonia Truppo"
 country: "Italy"
 rating: 4
 lists:

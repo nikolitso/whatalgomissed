@@ -2,6 +2,10 @@
 title: "Where Do We Go Now?"
 year: 2011
 director: "Nadine Labaki"
+actors:
+  - "Claude Msawbaa"
+  - "Leyla Hakim"
+  - "Nadine Labaki"
 country: "Lebanon"
 rating: 4
 lists:

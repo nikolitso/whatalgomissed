@@ -4,209 +4,359 @@
     "title": "200 Meters",
     "year": "2020",
     "backdrop": "/assets/backdrops/200-meters.jpg",
-    "poster": "/assets/posters/200-meters.jpg"
+    "poster": "/assets/posters/200-meters.jpg",
+    "cast": [
+      "Ali Suliman",
+      "Anna Unterberger",
+      "Motaz Malhees"
+    ]
   },
   "a-family": {
     "id": 58483,
     "title": "A Family",
     "year": "2011",
     "backdrop": "/assets/backdrops/a-family.jpg",
-    "poster": "/assets/posters/a-family.jpg"
+    "poster": "/assets/posters/a-family.jpg",
+    "cast": [
+      "Lene Maria Christensen",
+      "Jesper Christensen",
+      "Pilou Asbæk"
+    ]
   },
   "a-hijacking": {
     "id": 127846,
     "title": "A Hijacking",
     "year": "2012",
     "backdrop": "/assets/backdrops/a-hijacking.jpg",
-    "poster": "/assets/posters/a-hijacking.jpg"
+    "poster": "/assets/posters/a-hijacking.jpg",
+    "cast": [
+      "Pilou Asbæk",
+      "Søren Malling",
+      "Dar Salim"
+    ]
   },
   "a-man-of-integrity": {
     "id": 452013,
     "title": "A Man of Integrity",
     "year": "2017",
     "backdrop": "/assets/backdrops/a-man-of-integrity.jpg",
-    "poster": "/assets/posters/a-man-of-integrity.jpg"
+    "poster": "/assets/posters/a-man-of-integrity.jpg",
+    "cast": [
+      "Reza Akhlaghirad",
+      "Soudabeh Bayzai",
+      "Nasim Adabi"
+    ]
   },
   "a-perfect-day": {
     "id": 12432,
     "title": "A Perfect Day",
     "year": "2008",
     "backdrop": "/assets/backdrops/a-perfect-day.jpg",
-    "poster": "/assets/posters/a-perfect-day.jpg"
+    "poster": "/assets/posters/a-perfect-day.jpg",
+    "cast": [
+      "Isabella Ferrari",
+      "Valerio Mastandrea",
+      "Valerio Binasco"
+    ]
   },
   "a-quiet-life": {
     "id": 49850,
     "title": "A Quiet Life",
     "year": "2010",
     "backdrop": "/assets/backdrops/a-quiet-life.jpg",
-    "poster": "/assets/posters/a-quiet-life.jpg"
+    "poster": "/assets/posters/a-quiet-life.jpg",
+    "cast": [
+      "Toni Servillo",
+      "Marco D'Amore",
+      "Francesco Di Leva"
+    ]
   },
   "a-separation": {
     "id": 60243,
     "title": "A Separation",
     "year": "2011",
     "backdrop": "/assets/backdrops/a-separation.jpg",
-    "poster": "/assets/posters/a-separation.jpg"
+    "poster": "/assets/posters/a-separation.jpg",
+    "cast": [
+      "Payman Maadi",
+      "Leila Hatami",
+      "Shahab Hosseini"
+    ]
   },
   "a-wedding": {
     "id": 413837,
     "title": "A Wedding",
     "year": "2017",
     "backdrop": "/assets/backdrops/a-wedding.jpg",
-    "poster": "/assets/posters/a-wedding.jpg"
+    "poster": "/assets/posters/a-wedding.jpg",
+    "cast": [
+      "Lina El Arabi",
+      "Sébastien Houbani",
+      "Babak Karimi"
+    ]
   },
   "a-whole-life-ahead": {
     "id": 51917,
     "title": "A Whole Life Ahead",
     "year": "2008",
     "backdrop": "/assets/backdrops/a-whole-life-ahead.jpg",
-    "poster": "/assets/posters/a-whole-life-ahead.jpg"
+    "poster": "/assets/posters/a-whole-life-ahead.jpg",
+    "cast": [
+      "Isabella Ragonese",
+      "Massimo Ghini",
+      "Valerio Mastandrea"
+    ]
   },
   "a-worthy-man": {
     "id": 546161,
     "title": "A Worthy Man",
     "year": "2018",
-    "poster": "/assets/posters/a-worthy-man.jpg"
+    "poster": "/assets/posters/a-worthy-man.jpg",
+    "cast": [
+      "Troels Lyby",
+      "Milo Campanale",
+      "Marina Bouras"
+    ]
   },
   "about-elly": {
     "id": 37181,
     "title": "About Elly",
     "year": "2009",
     "backdrop": "/assets/backdrops/about-elly.jpg",
-    "poster": "/assets/posters/about-elly.jpg"
+    "poster": "/assets/posters/about-elly.jpg",
+    "cast": [
+      "Taraneh Alidoosti",
+      "Golshifteh Farahani",
+      "Shahab Hosseini"
+    ]
   },
   "acab-all-cops-are-bastards": {
     "id": 85739,
     "title": "A.C.A.B. - All Cops Are Bastards",
     "year": "2012",
     "backdrop": "/assets/backdrops/acab-all-cops-are-bastards.jpg",
-    "poster": "/assets/posters/acab-all-cops-are-bastards.jpg"
+    "poster": "/assets/posters/acab-all-cops-are-bastards.jpg",
+    "cast": [
+      "Pierfrancesco Favino",
+      "Filippo Nigro",
+      "Marco Giallini"
+    ]
   },
   "accused": {
     "id": 15822,
     "title": "Accused",
     "year": "2005",
     "backdrop": "/assets/backdrops/accused.jpg",
-    "poster": "/assets/posters/accused.jpg"
+    "poster": "/assets/posters/accused.jpg",
+    "cast": [
+      "Troels Lyby",
+      "Sofie Gråbøl",
+      "Paw Henriksen"
+    ]
   },
   "after-love": {
     "id": 714011,
     "title": "After Love",
     "year": "2021",
     "backdrop": "/assets/backdrops/after-love.jpg",
-    "poster": "/assets/posters/after-love.jpg"
+    "poster": "/assets/posters/after-love.jpg",
+    "cast": [
+      "Joanna Scanlan",
+      "Nathalie Richard",
+      "Nasser Memarzia"
+    ]
   },
   "after-the-wedding": {
     "id": 3549,
     "title": "After the Wedding",
     "year": "2006",
     "backdrop": "/assets/backdrops/after-the-wedding.jpg",
-    "poster": "/assets/posters/after-the-wedding.jpg"
+    "poster": "/assets/posters/after-the-wedding.jpg",
+    "cast": [
+      "Mads Mikkelsen",
+      "Stine Fischer Christensen",
+      "Sidse Babett Knudsen"
+    ]
   },
   "all-about-my-mother": {
     "id": 99,
     "title": "All About My Mother",
     "year": "1999",
     "backdrop": "/assets/backdrops/all-about-my-mother.jpg",
-    "poster": "/assets/posters/all-about-my-mother.jpg"
+    "poster": "/assets/posters/all-about-my-mother.jpg",
+    "cast": [
+      "Cecilia Roth",
+      "Marisa Paredes",
+      "Candela Peña"
+    ]
   },
   "all-we-imagine-as-light": {
     "id": 927547,
     "title": "All We Imagine as Light",
     "year": "2024",
     "backdrop": "/assets/backdrops/all-we-imagine-as-light.jpg",
-    "poster": "/assets/posters/all-we-imagine-as-light.jpg"
+    "poster": "/assets/posters/all-we-imagine-as-light.jpg",
+    "cast": [
+      "Kani Kusruti",
+      "Divya Prabha",
+      "Chhaya Kadam"
+    ]
   },
   "alone": {
     "id": 27952,
     "title": "Alone",
     "year": "2008",
     "backdrop": "/assets/backdrops/alone.jpg",
-    "poster": "/assets/posters/alone.jpg"
+    "poster": "/assets/posters/alone.jpg",
+    "cast": [
+      "Cemal Hünal",
+      "Melis Birkan",
+      "Yıldız Kültür"
+    ]
   },
   "along-the-ridge": {
     "id": 30535,
     "title": "Along the Ridge",
     "year": "2006",
     "backdrop": "/assets/backdrops/along-the-ridge.jpg",
-    "poster": "/assets/posters/along-the-ridge.jpg"
+    "poster": "/assets/posters/along-the-ridge.jpg",
+    "cast": [
+      "Kim Rossi Stuart",
+      "Barbora Bobuľová",
+      "Alessandro Morace"
+    ]
   },
   "amerika-square": {
     "id": 421247,
     "title": "Amerika Square",
     "year": "2016",
     "backdrop": "/assets/backdrops/amerika-square.jpg",
-    "poster": "/assets/posters/amerika-square.jpg"
+    "poster": "/assets/posters/amerika-square.jpg",
+    "cast": [
+      "Yannis Stankoglou",
+      "Makis Papadimitriou",
+      "Vassilis Koukalani"
+    ]
   },
   "amores-perros": {
     "id": 55,
     "title": "Amores Perros",
     "year": "2000",
     "backdrop": "/assets/backdrops/amores-perros.jpg",
-    "poster": "/assets/posters/amores-perros.jpg"
+    "poster": "/assets/posters/amores-perros.jpg",
+    "cast": [
+      "Emilio Echevarría",
+      "Gael García Bernal",
+      "Goya Toledo"
+    ]
   },
   "and-breathe-normally": {
     "id": 489982,
     "title": "And Breathe Normally",
     "year": "2018",
     "backdrop": "/assets/backdrops/and-breathe-normally.jpg",
-    "poster": "/assets/posters/and-breathe-normally.jpg"
+    "poster": "/assets/posters/and-breathe-normally.jpg",
+    "cast": [
+      "Kristín Þóra Haraldsdóttir",
+      "Babetida Sadjo",
+      "Patrik Nökkvi Pétursson"
+    ]
   },
   "animal": {
     "id": 889821,
     "title": "Animal",
     "year": "2024",
     "backdrop": "/assets/backdrops/animal.jpg",
-    "poster": "/assets/posters/animal.jpg"
+    "poster": "/assets/posters/animal.jpg",
+    "cast": [
+      "Dimitra Vlagopoulou",
+      "Flomaria Papadaki",
+      "Ahilleas Hariskos"
+    ]
   },
   "another-round": {
     "id": 580175,
     "title": "Another Round",
     "year": "2020",
     "backdrop": "/assets/backdrops/another-round.jpg",
-    "poster": "/assets/posters/another-round.jpg"
+    "poster": "/assets/posters/another-round.jpg",
+    "cast": [
+      "Mads Mikkelsen",
+      "Thomas Bo Larsen",
+      "Magnus Millang"
+    ]
   },
   "armand": {
     "id": 1144681,
     "title": "Armand",
     "year": "2024",
     "backdrop": "/assets/backdrops/armand.jpg",
-    "poster": "/assets/posters/armand.jpg"
+    "poster": "/assets/posters/armand.jpg",
+    "cast": [
+      "Renate Reinsve",
+      "Ellen Dorrit Petersen",
+      "Endre Hellestveit"
+    ]
   },
   "asia": {
     "id": 694843,
     "title": "Asia",
     "year": "2021",
     "backdrop": "/assets/backdrops/asia.jpg",
-    "poster": "/assets/posters/asia.jpg"
+    "poster": "/assets/posters/asia.jpg",
+    "cast": [
+      "Alena Yiv",
+      "Shira Haas",
+      "Tamir Mula"
+    ]
   },
   "baaria": {
     "id": 25846,
     "title": "Baaria",
     "year": "2009",
     "backdrop": "/assets/backdrops/baaria.jpg",
-    "poster": "/assets/posters/baaria.jpg"
+    "poster": "/assets/posters/baaria.jpg",
+    "cast": [
+      "Francesco Scianna",
+      "Margareth Madè",
+      "Lina Sastri"
+    ]
   },
   "babel": {
     "id": 1164,
     "title": "Babel",
     "year": "2006",
     "backdrop": "/assets/backdrops/babel.jpg",
-    "poster": "/assets/posters/babel.jpg"
+    "poster": "/assets/posters/babel.jpg",
+    "cast": [
+      "Brad Pitt",
+      "Rinko Kikuchi",
+      "Adriana Barraza"
+    ]
   },
   "ballad-for-a-pierced-heart": {
     "id": 691853,
     "title": "Ballad for a Pierced Heart",
     "year": "2020",
     "backdrop": "/assets/backdrops/ballad-for-a-pierced-heart.jpg",
-    "poster": "/assets/posters/ballad-for-a-pierced-heart.jpg"
+    "poster": "/assets/posters/ballad-for-a-pierced-heart.jpg",
+    "cast": [
+      "Vasilis Bisbikis",
+      "Vicky Papadopoulou",
+      "Yannis Tsortekis"
+    ]
   },
   "beginnings": {
     "id": 1239478,
     "title": "Beginnings",
     "year": "2025",
     "backdrop": "/assets/backdrops/beginnings.jpg",
-    "poster": "/assets/posters/beginnings.jpg"
+    "poster": "/assets/posters/beginnings.jpg",
+    "cast": [
+      "Trine Dyrholm",
+      "David Dencik",
+      "Johanne Louise Schmidt"
+    ]
   },
   "behind-the-haystacks": {
     "id": 1030564,
@@ -214,595 +364,1020 @@
     "year": "2023",
     "backdrop": "/assets/backdrops/behind-the-haystacks.jpg",
     "poster": "/assets/posters/behind-the-haystacks.jpg",
-    "pin": "/iJ2YkaB3jROwC0SHed7rJa422xr.jpg"
+    "pin": "/iJ2YkaB3jROwC0SHed7rJa422xr.jpg",
+    "cast": [
+      "Stathis Stamoulakatos",
+      "Eleni Ouzounidou",
+      "Evgenia Lavda"
+    ]
   },
   "birthday-boy": {
     "id": 1018881,
     "title": "Birthday Boy",
     "year": "2022",
     "backdrop": "/assets/backdrops/birthday-boy.jpg",
-    "poster": "/assets/posters/birthday-boy.jpg"
+    "poster": "/assets/posters/birthday-boy.jpg",
+    "cast": [
+      "Albi De Abreu",
+      "Joavany Alvarez",
+      "Gina Faarup Cochez"
+    ]
   },
   "blue-is-the-warmest-colour": {
     "id": 152584,
     "title": "Blue Is the Warmest Color",
     "year": "2013",
     "backdrop": "/assets/backdrops/blue-is-the-warmest-colour.jpg",
-    "poster": "/assets/posters/blue-is-the-warmest-colour.jpg"
+    "poster": "/assets/posters/blue-is-the-warmest-colour.jpg",
+    "cast": [
+      "Léa Seydoux",
+      "Adèle Exarchopoulos",
+      "Salim Kéchiouche"
+    ]
   },
   "broken-vein": {
     "id": 1324836,
     "title": "Broken Vein",
     "year": "2025",
     "backdrop": "/assets/backdrops/broken-vein.jpg",
-    "poster": "/assets/posters/broken-vein.jpg"
+    "poster": "/assets/posters/broken-vein.jpg",
+    "cast": [
+      "Vasilis Bisbikis",
+      "Maria Kehayioglou",
+      "Betty Arvaniti"
+    ]
   },
   "brothers": {
     "id": 3875,
     "title": "Brothers",
     "year": "2004",
     "backdrop": "/assets/backdrops/brothers.jpg",
-    "poster": "/assets/posters/brothers.jpg"
+    "poster": "/assets/posters/brothers.jpg",
+    "cast": [
+      "Connie Nielsen",
+      "Ulrich Thomsen",
+      "Nikolaj Lie Kaas"
+    ]
   },
   "capernaum": {
     "id": 517814,
     "title": "Capernaum",
     "year": "2018",
     "backdrop": "/assets/backdrops/capernaum.jpg",
-    "poster": "/assets/posters/capernaum.jpg"
+    "poster": "/assets/posters/capernaum.jpg",
+    "cast": [
+      "Zain Al Rafeea",
+      "Yordanos Shifera",
+      "Boluwatife Treasure Bankole"
+    ]
   },
   "caramel": {
     "id": 7973,
     "title": "Caramel",
     "year": "2007",
     "backdrop": "/assets/backdrops/caramel.jpg",
-    "poster": "/assets/posters/caramel.jpg"
+    "poster": "/assets/posters/caramel.jpg",
+    "cast": [
+      "Nadine Labaki",
+      "Yasmine Al Massri",
+      "Adel Karam"
+    ]
   },
   "charter": {
     "id": 653580,
     "title": "Charter",
     "year": "2020",
     "backdrop": "/assets/backdrops/charter.jpg",
-    "poster": "/assets/posters/charter.jpg"
+    "poster": "/assets/posters/charter.jpg",
+    "cast": [
+      "Ane Dahl Torp",
+      "Troy Lundkvist",
+      "Tintin Poggats Sarri"
+    ]
   },
   "chefs-special": {
     "id": 15953,
     "title": "Chef's Special",
     "year": "2008",
     "backdrop": "/assets/backdrops/chefs-special.jpg",
-    "poster": "/assets/posters/chefs-special.jpg"
+    "poster": "/assets/posters/chefs-special.jpg",
+    "cast": [
+      "Javier Cámara",
+      "Lola Dueñas",
+      "Fernando Tejero"
+    ]
   },
   "chevalier": {
     "id": 314220,
     "title": "Chevalier",
     "year": "2015",
     "backdrop": "/assets/backdrops/chevalier.jpg",
-    "poster": "/assets/posters/chevalier.jpg"
+    "poster": "/assets/posters/chevalier.jpg",
+    "cast": [
+      "Vangelis Mourikis",
+      "Makis Papadimitriou",
+      "Sakis Rouvas"
+    ]
   },
   "chiko": {
     "id": 8064,
     "title": "Chiko",
     "year": "2008",
     "backdrop": "/assets/backdrops/chiko.jpg",
-    "poster": "/assets/posters/chiko.jpg"
+    "poster": "/assets/posters/chiko.jpg",
+    "cast": [
+      "Denis Moschitto",
+      "Volkan Özcan",
+      "Moritz Bleibtreu"
+    ]
   },
   "children-of-glory": {
     "id": 13616,
     "title": "Children of Glory",
     "year": "2006",
     "backdrop": "/assets/backdrops/children-of-glory.jpg",
-    "poster": "/assets/posters/children-of-glory.jpg"
+    "poster": "/assets/posters/children-of-glory.jpg",
+    "cast": [
+      "Kata Dobó",
+      "Iván Fenyő",
+      "Sándor Csányi"
+    ]
   },
   "cinema-paradiso": {
     "id": 11216,
     "title": "Cinema Paradiso",
     "year": "1988",
     "backdrop": "/assets/backdrops/cinema-paradiso.jpg",
-    "poster": "/assets/posters/cinema-paradiso.jpg"
+    "poster": "/assets/posters/cinema-paradiso.jpg",
+    "cast": [
+      "Philippe Noiret",
+      "Jacques Perrin",
+      "Marco Leonardi"
+    ]
   },
   "city-of-god": {
     "id": 598,
     "title": "City of God",
     "year": "2002",
     "backdrop": "/assets/backdrops/city-of-god.jpg",
-    "poster": "/assets/posters/city-of-god.jpg"
+    "poster": "/assets/posters/city-of-god.jpg",
+    "cast": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino",
+      "Phellipe Haagensen"
+    ]
   },
   "crossing": {
     "id": 765421,
     "title": "Crossing",
     "year": "2024",
     "backdrop": "/assets/backdrops/crossing.jpg",
-    "poster": "/assets/posters/crossing.jpg"
+    "poster": "/assets/posters/crossing.jpg",
+    "cast": [
+      "Mzia Arabuli",
+      "Luke Kankava",
+      "Deniz Dumanlı"
+    ]
   },
   "darling": {
     "id": 472152,
     "title": "Darling",
     "year": "2017",
     "backdrop": "/assets/backdrops/darling.jpg",
-    "poster": "/assets/posters/darling.jpg"
+    "poster": "/assets/posters/darling.jpg",
+    "cast": [
+      "Danica Ćurčić",
+      "Gustaf Skarsgård",
+      "Astrid Grarup Elbo"
+    ]
   },
   "dear-diary": {
     "id": 25403,
     "title": "Caro diario",
     "year": "1993",
     "backdrop": "/assets/backdrops/dear-diary.jpg",
-    "poster": "/assets/posters/dear-diary.jpg"
+    "poster": "/assets/posters/dear-diary.jpg",
+    "cast": [
+      "Nanni Moretti",
+      "Renato Carpentieri",
+      "Antonio Neiwiller"
+    ]
   },
   "der-tunnel": {
     "id": 3577,
     "title": "The Tunnel",
     "year": "2001",
     "backdrop": "/assets/backdrops/der-tunnel.jpg",
-    "poster": "/assets/posters/der-tunnel.jpg"
+    "poster": "/assets/posters/der-tunnel.jpg",
+    "cast": [
+      "Heino Ferch",
+      "Nicolette Krebitz",
+      "Sebastian Koch"
+    ]
   },
   "diaz": {
     "id": 96714,
     "title": "Diaz - Don't Clean Up This Blood",
     "year": "2012",
     "backdrop": "/assets/backdrops/diaz.jpg",
-    "poster": "/assets/posters/diaz.jpg"
+    "poster": "/assets/posters/diaz.jpg",
+    "cast": [
+      "Claudio Santamaria",
+      "Jennifer Ulrich",
+      "Elio Germano"
+    ]
   },
   "dive": {
     "id": 1037603,
     "title": "DIVE",
     "year": "2022",
     "backdrop": "/assets/backdrops/dive.jpg",
-    "poster": "/assets/posters/dive.jpg"
+    "poster": "/assets/posters/dive.jpg",
+    "cast": [
+      "Karla Souza",
+      "Hernán Mendoza",
+      "Dèja Ebergenyi"
+    ]
   },
   "dont-call-me-mama": {
     "id": 1479178,
     "title": "Don't Call Me Mama",
     "year": "2025",
     "backdrop": "/assets/backdrops/dont-call-me-mama.jpg",
-    "poster": "/assets/posters/dont-call-me-mama.jpg"
+    "poster": "/assets/posters/dont-call-me-mama.jpg",
+    "cast": [
+      "Pia Tjelta",
+      "Tarek Zayat",
+      "Kristoffer Joner"
+    ]
   },
   "dont-tell": {
     "id": 18219,
     "title": "Don't Tell",
     "year": "2006",
     "backdrop": "/assets/backdrops/dont-tell.jpg",
-    "poster": "/assets/posters/dont-tell.jpg"
+    "poster": "/assets/posters/dont-tell.jpg",
+    "cast": [
+      "Giovanna Mezzogiorno",
+      "Alessio Boni",
+      "Stefania Rocca"
+    ]
   },
   "eden-is-west": {
     "id": 15036,
     "title": "Eden Is West",
     "year": "2009",
     "backdrop": "/assets/backdrops/eden-is-west.jpg",
-    "poster": "/assets/posters/eden-is-west.jpg"
+    "poster": "/assets/posters/eden-is-west.jpg",
+    "cast": [
+      "Riccardo Scamarcio",
+      "Éric Caravaca",
+      "Juliane Köhler"
+    ]
   },
   "exodus": {
     "id": 1063249,
     "title": "Exodus",
     "year": "2023",
     "backdrop": "/assets/backdrops/exodus.jpg",
-    "poster": "/assets/posters/exodus.jpg"
+    "poster": "/assets/posters/exodus.jpg",
+    "cast": [
+      "Jwan Alqatami",
+      "Ashraf Barhom",
+      "Isa Aouifia"
+    ]
   },
   "facing-windows": {
     "id": 29987,
     "title": "Facing Windows",
     "year": "2003",
     "backdrop": "/assets/backdrops/facing-windows.jpg",
-    "poster": "/assets/posters/facing-windows.jpg"
+    "poster": "/assets/posters/facing-windows.jpg",
+    "cast": [
+      "Giovanna Mezzogiorno",
+      "Raoul Bova",
+      "Massimo Girotti"
+    ]
   },
   "fair-play": {
     "id": 282113,
     "title": "Fair Play",
     "year": "2014",
     "backdrop": "/assets/backdrops/fair-play.jpg",
-    "poster": "/assets/posters/fair-play.jpg"
+    "poster": "/assets/posters/fair-play.jpg",
+    "cast": [
+      "Judit Pecháček",
+      "Anna Geislerová",
+      "Roman Luknár"
+    ]
   },
   "fireworks-wednesday": {
     "id": 43766,
     "title": "Fireworks Wednesday",
     "year": "2006",
     "backdrop": "/assets/backdrops/fireworks-wednesday.jpg",
-    "poster": "/assets/posters/fireworks-wednesday.jpg"
+    "poster": "/assets/posters/fireworks-wednesday.jpg",
+    "cast": [
+      "Hedie Tehrani",
+      "Taraneh Alidoosti",
+      "Hamid Farrokhnejad"
+    ]
   },
   "force-majeure": {
     "id": 265189,
     "title": "Force Majeure",
     "year": "2014",
     "backdrop": "/assets/backdrops/force-majeure.jpg",
-    "poster": "/assets/posters/force-majeure.jpg"
+    "poster": "/assets/posters/force-majeure.jpg",
+    "cast": [
+      "Johannes Bah Kuhnke",
+      "Lisa Loven Kongsli",
+      "Clara Wettergren"
+    ]
   },
   "full-time": {
     "id": 833417,
     "title": "Full Time",
     "year": "2022",
     "backdrop": "/assets/backdrops/full-time.jpg",
-    "poster": "/assets/posters/full-time.jpg"
+    "poster": "/assets/posters/full-time.jpg",
+    "cast": [
+      "Laure Calamy",
+      "Anne Suarez",
+      "Geneviève Mnich"
+    ]
   },
   "gomorrah": {
     "id": 8882,
     "title": "Gomorrah",
     "year": "2008",
     "backdrop": "/assets/backdrops/gomorrah.jpg",
-    "poster": "/assets/posters/gomorrah.jpg"
+    "poster": "/assets/posters/gomorrah.jpg",
+    "cast": [
+      "Toni Servillo",
+      "Gianfelice Imparato",
+      "Maria Nazionale"
+    ]
   },
   "good-bye-lenin": {
     "id": 338,
     "title": "Good Bye, Lenin!",
     "year": "2003",
     "backdrop": "/assets/backdrops/good-bye-lenin.jpg",
-    "poster": "/assets/posters/good-bye-lenin.jpg"
+    "poster": "/assets/posters/good-bye-lenin.jpg",
+    "cast": [
+      "Daniel Brühl",
+      "Katrin Sass",
+      "Chulpan Khamatova"
+    ]
   },
   "happiness": {
     "id": 1084571,
     "title": "Happiness",
     "year": "2023",
     "backdrop": "/assets/backdrops/happiness.jpg",
-    "poster": "/assets/posters/happiness.jpg"
+    "poster": "/assets/posters/happiness.jpg",
+    "cast": [
+      "Micaela Ramazzotti",
+      "Max Tortora",
+      "Anna Galiena"
+    ]
   },
   "head-on": {
     "id": 363,
     "title": "Head-On",
     "year": "2004",
     "backdrop": "/assets/backdrops/head-on.jpg",
-    "poster": "/assets/posters/head-on.jpg"
+    "poster": "/assets/posters/head-on.jpg",
+    "cast": [
+      "Sibel Kekilli",
+      "Birol Ünel",
+      "Güven Kıraç"
+    ]
   },
   "heartstone": {
     "id": 350060,
     "title": "Heartstone",
     "year": "2016",
     "backdrop": "/assets/backdrops/heartstone.jpg",
-    "poster": "/assets/posters/heartstone.jpg"
+    "poster": "/assets/posters/heartstone.jpg",
+    "cast": [
+      "Baldur Einarsson",
+      "Blær Hinriksson",
+      "Diljá Valsdóttir"
+    ]
   },
   "holy-spider": {
     "id": 889699,
     "title": "Holy Spider",
     "year": "2022",
     "backdrop": "/assets/backdrops/holy-spider.jpg",
-    "poster": "/assets/posters/holy-spider.jpg"
+    "poster": "/assets/posters/holy-spider.jpg",
+    "cast": [
+      "Zar Amir Ebrahimi",
+      "Mehdi Bajestani",
+      "Arash Ashtiani"
+    ]
   },
   "human-capital": {
     "id": 244088,
     "title": "Human Capital",
     "year": "2013",
     "backdrop": "/assets/backdrops/human-capital.jpg",
-    "poster": "/assets/posters/human-capital.jpg"
+    "poster": "/assets/posters/human-capital.jpg",
+    "cast": [
+      "Valeria Bruni Tedeschi",
+      "Fabrizio Bentivoglio",
+      "Valeria Golino"
+    ]
   },
   "i-daniel-blake": {
     "id": 374473,
     "title": "I, Daniel Blake",
     "year": "2016",
     "backdrop": "/assets/backdrops/i-daniel-blake.jpg",
-    "poster": "/assets/posters/i-daniel-blake.jpg"
+    "poster": "/assets/posters/i-daniel-blake.jpg",
+    "cast": [
+      "Dave Johns",
+      "Hayley Squires",
+      "Briana Shann"
+    ]
   },
   "i-was-a-stranger": {
     "id": 1193128,
     "title": "I Was a Stranger",
     "year": "2025",
     "backdrop": "/assets/backdrops/i-was-a-stranger.jpg",
-    "poster": "/assets/posters/i-was-a-stranger.jpg"
+    "poster": "/assets/posters/i-was-a-stranger.jpg",
+    "cast": [
+      "Yasmine Al Massri",
+      "Yahya Mahayni",
+      "Omar Sy"
+    ]
   },
   "il-postino": {
     "id": 11010,
     "title": "The Postman",
     "year": "1994",
     "backdrop": "/assets/backdrops/il-postino.jpg",
-    "poster": "/assets/posters/il-postino.jpg"
+    "poster": "/assets/posters/il-postino.jpg",
+    "cast": [
+      "Massimo Troisi",
+      "Philippe Noiret",
+      "Maria Grazia Cucinotta"
+    ]
   },
   "im-still-here": {
     "id": 1000837,
     "title": "I'm Still Here",
     "year": "2024",
     "backdrop": "/assets/backdrops/im-still-here.jpg",
-    "poster": "/assets/posters/im-still-here.jpg"
+    "poster": "/assets/posters/im-still-here.jpg",
+    "cast": [
+      "Fernanda Torres",
+      "Fernanda Montenegro",
+      "Selton Mello"
+    ]
   },
   "in-a-better-world": {
     "id": 44716,
     "title": "In a Better World",
     "year": "2010",
     "backdrop": "/assets/backdrops/in-a-better-world.jpg",
-    "poster": "/assets/posters/in-a-better-world.jpg"
+    "poster": "/assets/posters/in-a-better-world.jpg",
+    "cast": [
+      "Mikael Persbrandt",
+      "Trine Dyrholm",
+      "Ulrich Thomsen"
+    ]
   },
   "in-syria": {
     "id": 441646,
     "title": "In Syria",
     "year": "2017",
     "backdrop": "/assets/backdrops/in-syria.jpg",
-    "poster": "/assets/posters/in-syria.jpg"
+    "poster": "/assets/posters/in-syria.jpg",
+    "cast": [
+      "Hiam Abbass",
+      "Diamand Abou Abboud",
+      "Juliette Navis"
+    ]
   },
   "jaffa": {
     "id": 74666,
     "title": "Jaffa",
     "year": "2009",
     "backdrop": "/assets/backdrops/jaffa.jpg",
-    "poster": "/assets/posters/jaffa.jpg"
+    "poster": "/assets/posters/jaffa.jpg",
+    "cast": [
+      "Dana Ivgy",
+      "Moni Moshonov",
+      "Ronit Elkabetz"
+    ]
   },
   "just-another-love-story": {
     "id": 14898,
     "title": "Just Another Love Story",
     "year": "2007",
     "backdrop": "/assets/backdrops/just-another-love-story.jpg",
-    "poster": "/assets/posters/just-another-love-story.jpg"
+    "poster": "/assets/posters/just-another-love-story.jpg",
+    "cast": [
+      "Anders W. Berthelsen",
+      "Rebecka Hemse",
+      "Nikolaj Lie Kaas"
+    ]
   },
   "karaoke": {
     "id": 958301,
     "title": "Karaoke",
     "year": "2022",
     "backdrop": "/assets/backdrops/karaoke.jpg",
-    "poster": "/assets/posters/karaoke.jpg"
+    "poster": "/assets/posters/karaoke.jpg",
+    "cast": [
+      "Lior Ashkenazi",
+      "Sasson Gabai",
+      "Rita Shukrun"
+    ]
   },
   "kiss-me-again": {
     "id": 40817,
     "title": "Kiss Me Again",
     "year": "2010",
     "backdrop": "/assets/backdrops/kiss-me-again.jpg",
-    "poster": "/assets/posters/kiss-me-again.jpg"
+    "poster": "/assets/posters/kiss-me-again.jpg",
+    "cast": [
+      "Stefano Accorsi",
+      "Vittoria Puccini",
+      "Pierfrancesco Favino"
+    ]
   },
   "knifer": {
     "id": 132390,
     "title": "Knifer",
     "year": "2010",
     "backdrop": "/assets/backdrops/knifer.jpg",
-    "poster": "/assets/posters/knifer.jpg"
+    "poster": "/assets/posters/knifer.jpg",
+    "cast": [
+      "Stathis Stamoulakatos",
+      "Vangelis Mourikis",
+      "Maria Kallimani"
+    ]
   },
   "last-night-of-amore": {
     "id": 978870,
     "title": "Last Night of Amore",
     "year": "2023",
     "backdrop": "/assets/backdrops/last-night-of-amore.jpg",
-    "poster": "/assets/posters/last-night-of-amore.jpg"
+    "poster": "/assets/posters/last-night-of-amore.jpg",
+    "cast": [
+      "Pierfrancesco Favino",
+      "Linda Caridi",
+      "Antonio Gerardi"
+    ]
   },
   "left-handed-girl": {
     "id": 999075,
     "title": "Left-Handed Girl",
     "year": "2025",
     "backdrop": "/assets/backdrops/left-handed-girl.jpg",
-    "poster": "/assets/posters/left-handed-girl.jpg"
+    "poster": "/assets/posters/left-handed-girl.jpg",
+    "cast": [
+      "Ma Shih-yuan",
+      "Janel Tsai",
+      "Nina Ye"
+    ]
   },
   "lemon-tree": {
     "id": 7860,
     "title": "Lemon Tree",
     "year": "2008",
     "backdrop": "/assets/backdrops/lemon-tree.jpg",
-    "poster": "/assets/posters/lemon-tree.jpg"
+    "poster": "/assets/posters/lemon-tree.jpg",
+    "cast": [
+      "Hiam Abbass",
+      "Tarik Kopty",
+      "Ali Suliman"
+    ]
   },
   "leviathan": {
     "id": 265180,
     "title": "Leviathan",
     "year": "2014",
     "backdrop": "/assets/backdrops/leviathan.jpg",
-    "poster": "/assets/posters/leviathan.jpg"
+    "poster": "/assets/posters/leviathan.jpg",
+    "cast": [
+      "Aleksey Serebryakov",
+      "Elena Lyadova",
+      "Vladimir Vdovichenkov"
+    ]
   },
   "linha-de-passe": {
     "id": 8902,
     "title": "Linha de Passe",
     "year": "2008",
     "backdrop": "/assets/backdrops/linha-de-passe.jpg",
-    "poster": "/assets/posters/linha-de-passe.jpg"
+    "poster": "/assets/posters/linha-de-passe.jpg",
+    "cast": [
+      "Sandra Corveloni",
+      "Vinícius de Oliveira",
+      "João Baldasserini"
+    ]
   },
   "love-is-all-you-need": {
     "id": 126250,
     "title": "Love Is All You Need",
     "year": "2012",
     "backdrop": "/assets/backdrops/love-is-all-you-need.jpg",
-    "poster": "/assets/posters/love-is-all-you-need.jpg"
+    "poster": "/assets/posters/love-is-all-you-need.jpg",
+    "cast": [
+      "Pierce Brosnan",
+      "Trine Dyrholm",
+      "Molly Egelind"
+    ]
   },
   "manslaughter": {
     "id": 15840,
     "title": "Manslaughter",
     "year": "2005",
     "backdrop": "/assets/backdrops/manslaughter.jpg",
-    "poster": "/assets/posters/manslaughter.jpg"
+    "poster": "/assets/posters/manslaughter.jpg",
+    "cast": [
+      "Jesper Christensen",
+      "Pernilla August",
+      "Charlotte Fich"
+    ]
   },
   "marina": {
     "id": 229582,
     "title": "Marina",
     "year": "2013",
     "backdrop": "/assets/backdrops/marina.jpg",
-    "poster": "/assets/posters/marina.jpg"
+    "poster": "/assets/posters/marina.jpg",
+    "cast": [
+      "Matteo Simoni",
+      "Luigi Lo Cascio",
+      "Donatella Finocchiaro"
+    ]
   },
   "matchbox": {
     "id": 47106,
     "title": "Matchbox",
     "year": "2003",
     "backdrop": "/assets/backdrops/matchbox.jpg",
-    "poster": "/assets/posters/matchbox.jpg"
+    "poster": "/assets/posters/matchbox.jpg",
+    "cast": [
+      "Errikos Litsis",
+      "Eleni Kokkidou",
+      "Costas Xikominos"
+    ]
   },
   "metro-manila": {
     "id": 158091,
     "title": "Metro Manila",
     "year": "2013",
     "backdrop": "/assets/backdrops/metro-manila.jpg",
-    "poster": "/assets/posters/metro-manila.jpg"
+    "poster": "/assets/posters/metro-manila.jpg",
+    "cast": [
+      "Jake Macapagal",
+      "Althea Vega",
+      "John Arcilla"
+    ]
   },
   "mostly-martha": {
     "id": 3640,
     "title": "Mostly Martha",
     "year": "2001",
     "backdrop": "/assets/backdrops/mostly-martha.jpg",
-    "poster": "/assets/posters/mostly-martha.jpg"
+    "poster": "/assets/posters/mostly-martha.jpg",
+    "cast": [
+      "Martina Gedeck",
+      "Maxime Foerste",
+      "Sergio Castellitto"
+    ]
   },
   "murina": {
     "id": 838148,
     "title": "Murina",
     "year": "2022",
     "backdrop": "/assets/backdrops/murina.jpg",
-    "poster": "/assets/posters/murina.jpg"
+    "poster": "/assets/posters/murina.jpg",
+    "cast": [
+      "Gracija Filipović",
+      "Danica Ćurčić",
+      "Leon Lučev"
+    ]
   },
   "murk": {
     "id": 15962,
     "title": "Murk",
     "year": "2005",
     "backdrop": "/assets/backdrops/murk.jpg",
-    "poster": "/assets/posters/murk.jpg"
+    "poster": "/assets/posters/murk.jpg",
+    "cast": [
+      "Nikolaj Lie Kaas",
+      "Laura Drasbæk",
+      "Nicolas Bro"
+    ]
   },
   "my-brother-is-an-only-child": {
     "id": 9789,
     "title": "My Brother Is an Only Child",
     "year": "2007",
     "backdrop": "/assets/backdrops/my-brother-is-an-only-child.jpg",
-    "poster": "/assets/posters/my-brother-is-an-only-child.jpg"
+    "poster": "/assets/posters/my-brother-is-an-only-child.jpg",
+    "cast": [
+      "Elio Germano",
+      "Riccardo Scamarcio",
+      "Angela Finocchiaro"
+    ]
   },
   "nine-queens": {
     "id": 18079,
     "title": "Nine Queens",
     "year": "2000",
     "backdrop": "/assets/backdrops/nine-queens.jpg",
-    "poster": "/assets/posters/nine-queens.jpg"
+    "poster": "/assets/posters/nine-queens.jpg",
+    "cast": [
+      "Ricardo Darín",
+      "Gastón Pauls",
+      "Leticia Brédice"
+    ]
   },
   "no-date-no-signature": {
     "id": 468205,
     "title": "No Date, No Signature",
     "year": "2017",
     "backdrop": "/assets/backdrops/no-date-no-signature.jpg",
-    "poster": "/assets/posters/no-date-no-signature.jpg"
+    "poster": "/assets/posters/no-date-no-signature.jpg",
+    "cast": [
+      "Navid Mohammadzadeh",
+      "Amir Aghaei",
+      "Hedie Tehrani"
+    ]
   },
   "nostalgia": {
     "id": 541724,
     "title": "Nostalgia",
     "year": "2022",
     "backdrop": "/assets/backdrops/nostalgia.jpg",
-    "poster": "/assets/posters/nostalgia.jpg"
+    "poster": "/assets/posters/nostalgia.jpg",
+    "cast": [
+      "Pierfrancesco Favino",
+      "Francesco Di Leva",
+      "Tommaso Ragno"
+    ]
   },
   "omar": {
     "id": 187028,
     "title": "Omar",
     "year": "2013",
     "backdrop": "/assets/backdrops/omar.jpg",
-    "poster": "/assets/posters/omar.jpg"
+    "poster": "/assets/posters/omar.jpg",
+    "cast": [
+      "Adam Bakri",
+      "Waleed Zuaiter",
+      "Leem Lubany"
+    ]
   },
   "one-man-up": {
     "id": 53482,
     "title": "One Man Up",
     "year": "2001",
     "backdrop": "/assets/backdrops/one-man-up.jpg",
-    "poster": "/assets/posters/one-man-up.jpg"
+    "poster": "/assets/posters/one-man-up.jpg",
+    "cast": [
+      "Toni Servillo",
+      "Andrea Renzi",
+      "Nello Mascia"
+    ]
   },
   "only-when-i-laugh": {
     "id": 1159809,
     "title": "Only When I Laugh",
     "year": "2023",
     "backdrop": "/assets/backdrops/only-when-i-laugh.jpg",
-    "poster": "/assets/posters/only-when-i-laugh.jpg"
+    "poster": "/assets/posters/only-when-i-laugh.jpg",
+    "cast": [
+      "Tihana Lazović",
+      "Slavko Sobin",
+      "Jasna Đuričić"
+    ]
   },
   "open-hearts": {
     "id": 102,
     "title": "Open Hearts",
     "year": "2002",
     "backdrop": "/assets/backdrops/open-hearts.jpg",
-    "poster": "/assets/posters/open-hearts.jpg"
+    "poster": "/assets/posters/open-hearts.jpg",
+    "cast": [
+      "Sonja Richter",
+      "Nikolaj Lie Kaas",
+      "Mads Mikkelsen"
+    ]
   },
   "our-children": {
     "id": 286301,
     "title": "The Dinner",
     "year": "2014",
     "backdrop": "/assets/backdrops/our-children.jpg",
-    "poster": "/assets/posters/our-children.jpg"
+    "poster": "/assets/posters/our-children.jpg",
+    "cast": [
+      "Alessandro Gassmann",
+      "Giovanna Mezzogiorno",
+      "Luigi Lo Cascio"
+    ]
   },
   "our-life": {
     "id": 46920,
     "title": "Our Life",
     "year": "2010",
     "backdrop": "/assets/backdrops/our-life.jpg",
-    "poster": "/assets/posters/our-life.jpg"
+    "poster": "/assets/posters/our-life.jpg",
+    "cast": [
+      "Elio Germano",
+      "Isabella Ragonese",
+      "Raoul Bova"
+    ]
   },
   "ovosodo": {
     "id": 48254,
     "title": "Ovosodo",
     "year": "1997",
     "backdrop": "/assets/backdrops/ovosodo.jpg",
-    "poster": "/assets/posters/ovosodo.jpg"
+    "poster": "/assets/posters/ovosodo.jpg",
+    "cast": [
+      "Edoardo Gabbriellini",
+      "Claudia Pandolfi",
+      "Nicoletta Braschi"
+    ]
   },
   "paradise-now": {
     "id": 67,
     "title": "Paradise Now",
     "year": "2005",
     "backdrop": "/assets/backdrops/paradise-now.jpg",
-    "poster": "/assets/posters/paradise-now.jpg"
+    "poster": "/assets/posters/paradise-now.jpg",
+    "cast": [
+      "Qais Nashif",
+      "Ali Suliman",
+      "Lubna Azabal"
+    ]
   },
   "parasite": {
     "id": 496243,
     "title": "Parasite",
     "year": "2019",
     "backdrop": "/assets/backdrops/parasite.jpg",
-    "poster": "/assets/posters/parasite.jpg"
+    "poster": "/assets/posters/parasite.jpg",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ]
   },
   "patty-is-a-very-girly-name": {
     "id": 1550933,
     "title": "Patty Is Such a Girly Name",
     "year": "2025",
     "backdrop": "/assets/backdrops/patty-is-a-very-girly-name.jpg",
-    "poster": "/assets/posters/patty-is-a-very-girly-name.jpg"
+    "poster": "/assets/posters/patty-is-a-very-girly-name.jpg",
+    "cast": [
+      "Mort Klonaraki",
+      "Vangelis Mourikis",
+      "Filippa Kaye"
+    ]
   },
   "perfect-strangers": {
     "id": 381341,
     "title": "Perfect Strangers",
     "year": "2016",
     "backdrop": "/assets/backdrops/perfect-strangers.jpg",
-    "poster": "/assets/posters/perfect-strangers.jpg"
+    "poster": "/assets/posters/perfect-strangers.jpg",
+    "cast": [
+      "Giuseppe Battiston",
+      "Anna Foglietta",
+      "Marco Giallini"
+    ]
   },
   "prague": {
     "id": 16017,
     "title": "Prague",
     "year": "2006",
     "backdrop": "/assets/backdrops/prague.jpg",
-    "poster": "/assets/posters/prague.jpg"
+    "poster": "/assets/posters/prague.jpg",
+    "cast": [
+      "Mads Mikkelsen",
+      "Stine Stengade",
+      "Jana Plodková"
+    ]
   },
   "queen-of-hearts": {
     "id": 519465,
     "title": "Queen of Hearts",
     "year": "2019",
     "backdrop": "/assets/backdrops/queen-of-hearts.jpg",
-    "poster": "/assets/posters/queen-of-hearts.jpg"
+    "poster": "/assets/posters/queen-of-hearts.jpg",
+    "cast": [
+      "Trine Dyrholm",
+      "Gustav Lindh",
+      "Magnus Krepper"
+    ]
   },
   "quiet-chaos": {
     "id": 22274,
     "title": "Quiet Chaos",
     "year": "2008",
     "backdrop": "/assets/backdrops/quiet-chaos.jpg",
-    "poster": "/assets/posters/quiet-chaos.jpg"
+    "poster": "/assets/posters/quiet-chaos.jpg",
+    "cast": [
+      "Nanni Moretti",
+      "Alessandro Gassmann",
+      "Valeria Golino"
+    ]
   },
   "r": {
     "id": 49207,
     "title": "R",
     "year": "2010",
     "backdrop": "/assets/backdrops/r.jpg",
-    "poster": "/assets/posters/r.jpg"
+    "poster": "/assets/posters/r.jpg",
+    "cast": [
+      "Pilou Asbæk",
+      "Dulfi Al-Jabouri",
+      "Roland Møller"
+    ]
   },
   "rabat": {
     "id": 71090,
     "title": "Rabat",
     "year": "2011",
     "backdrop": "/assets/backdrops/rabat.jpg",
-    "poster": "/assets/posters/rabat.jpg"
+    "poster": "/assets/posters/rabat.jpg",
+    "cast": [
+      "Nasrdin Dchar",
+      "Achmed Akkabi",
+      "Marwan Kenzari"
+    ]
   },
   "rams": {
     "id": 336222,
     "title": "Rams",
     "year": "2015",
     "backdrop": "/assets/backdrops/rams.jpg",
-    "poster": "/assets/posters/rams.jpg"
+    "poster": "/assets/posters/rams.jpg",
+    "cast": [
+      "Sigurður Sigurjónsson",
+      "Theodór Júlíusson",
+      "Charlotte Bøving"
+    ]
   },
   "romanzo-criminale": {
     "id": 14375,
     "title": "Crime Novel",
     "year": "2005",
     "backdrop": "/assets/backdrops/romanzo-criminale.jpg",
-    "poster": "/assets/posters/romanzo-criminale.jpg"
+    "poster": "/assets/posters/romanzo-criminale.jpg",
+    "cast": [
+      "Kim Rossi Stuart",
+      "Anna Mouglalis",
+      "Stefano Accorsi"
+    ]
   },
   "secrets-and-lies": {
     "id": 11159,
     "title": "Secrets & Lies",
     "year": "1996",
     "backdrop": "/assets/backdrops/secrets-and-lies.jpg",
-    "poster": "/assets/posters/secrets-and-lies.jpg"
+    "poster": "/assets/posters/secrets-and-lies.jpg",
+    "cast": [
+      "Brenda Blethyn",
+      "Marianne Jean-Baptiste",
+      "Timothy Spall"
+    ]
   },
   "shoplifters": {
     "id": 505192,
     "title": "Shoplifters",
     "year": "2018",
     "backdrop": "/assets/backdrops/shoplifters.jpg",
-    "poster": "/assets/posters/shoplifters.jpg"
+    "poster": "/assets/posters/shoplifters.jpg",
+    "cast": [
+      "Lily Franky",
+      "Sakura Ando",
+      "Mayu Matsuoka"
+    ]
   },
   "shun-li-and-the-poet": {
     "id": 75562,
     "title": "Shun Li and the Poet",
     "year": "2011",
     "backdrop": "/assets/backdrops/shun-li-and-the-poet.jpg",
-    "poster": "/assets/posters/shun-li-and-the-poet.jpg"
+    "poster": "/assets/posters/shun-li-and-the-poet.jpg",
+    "cast": [
+      "Zhao Tao",
+      "Rade Šerbedžija",
+      "Marco Paolini"
+    ]
   },
   "sideways": {
     "id": 9675,
@@ -810,530 +1385,910 @@
     "year": "2004",
     "backdrop": "/assets/backdrops/sideways.jpg",
     "poster": "/assets/posters/sideways.jpg",
-    "pin": "/NvAVEtjNoZXvDav6Gk5pwo89Hn.jpg"
+    "pin": "/NvAVEtjNoZXvDav6Gk5pwo89Hn.jpg",
+    "cast": [
+      "Paul Giamatti",
+      "Thomas Haden Church",
+      "Virginia Madsen"
+    ]
   },
   "smuggling-hendrix": {
     "id": 512092,
     "title": "Smuggling Hendrix",
     "year": "2019",
     "backdrop": "/assets/backdrops/smuggling-hendrix.jpg",
-    "poster": "/assets/posters/smuggling-hendrix.jpg"
+    "poster": "/assets/posters/smuggling-hendrix.jpg",
+    "cast": [
+      "Adam Bousdoukos",
+      "Fatih Al",
+      "Vicky Papadopoulou"
+    ]
   },
   "so-damn-easy-going": {
     "id": 860709,
     "title": "So Damn Easy Going",
     "year": "2022",
     "backdrop": "/assets/backdrops/so-damn-easy-going.jpg",
-    "poster": "/assets/posters/so-damn-easy-going.jpg"
+    "poster": "/assets/posters/so-damn-easy-going.jpg",
+    "cast": [
+      "Nikki Hanseblad",
+      "Melina Benett Paukkonen",
+      "Shanti Roney"
+    ]
   },
   "soul-kicking": {
     "id": 75867,
     "title": "Soul Kicking",
     "year": "2006",
     "backdrop": "/assets/backdrops/soul-kicking.jpg",
-    "poster": "/assets/posters/soul-kicking.jpg"
+    "poster": "/assets/posters/soul-kicking.jpg",
+    "cast": [
+      "Errikos Litsis",
+      "Vangelis Mourikis",
+      "Maria Kehayioglou"
+    ]
   },
   "soul-kitchen": {
     "id": 31175,
     "title": "Soul Kitchen",
     "year": "2009",
     "backdrop": "/assets/backdrops/soul-kitchen.jpg",
-    "poster": "/assets/posters/soul-kitchen.jpg"
+    "poster": "/assets/posters/soul-kitchen.jpg",
+    "cast": [
+      "Adam Bousdoukos",
+      "Moritz Bleibtreu",
+      "Pheline Roggan"
+    ]
   },
   "stratos": {
     "id": 254166,
     "title": "Stratos",
     "year": "2014",
     "backdrop": "/assets/backdrops/stratos.jpg",
-    "poster": "/assets/posters/stratos.jpg"
+    "poster": "/assets/posters/stratos.jpg",
+    "cast": [
+      "Vangelis Mourikis",
+      "Petros Zervos",
+      "Vicky Papadopoulou"
+    ]
   },
   "submarino": {
     "id": 46789,
     "title": "Submarino",
     "year": "2010",
     "backdrop": "/assets/backdrops/submarino.jpg",
-    "poster": "/assets/posters/submarino.jpg"
+    "poster": "/assets/posters/submarino.jpg",
+    "cast": [
+      "Jakob Cedergren",
+      "Peter Plaugborg",
+      "Gustav Fischer Kjærulff"
+    ]
   },
   "suburra": {
     "id": 356296,
     "title": "Suburra",
     "year": "2015",
     "backdrop": "/assets/backdrops/suburra.jpg",
-    "poster": "/assets/posters/suburra.jpg"
+    "poster": "/assets/posters/suburra.jpg",
+    "cast": [
+      "Pierfrancesco Favino",
+      "Claudio Amendola",
+      "Alessandro Borghi"
+    ]
   },
   "suntan": {
     "id": 378483,
     "title": "Suntan",
     "year": "2016",
     "backdrop": "/assets/backdrops/suntan.jpg",
-    "poster": "/assets/posters/suntan.jpg"
+    "poster": "/assets/posters/suntan.jpg",
+    "cast": [
+      "Makis Papadimitriou",
+      "Elli Tringou",
+      "Hara Kotsali"
+    ]
   },
   "superclasico": {
     "id": 74674,
     "title": "Superclasico",
     "year": "2011",
     "backdrop": "/assets/backdrops/superclasico.jpg",
-    "poster": "/assets/posters/superclasico.jpg"
+    "poster": "/assets/posters/superclasico.jpg",
+    "cast": [
+      "Paprika Steen",
+      "Anders W. Berthelsen",
+      "Sebastián Estevanez"
+    ]
   },
   "talk-to-her": {
     "id": 64,
     "title": "Talk to Her",
     "year": "2002",
     "backdrop": "/assets/backdrops/talk-to-her.jpg",
-    "poster": "/assets/posters/talk-to-her.jpg"
+    "poster": "/assets/posters/talk-to-her.jpg",
+    "cast": [
+      "Javier Cámara",
+      "Darío Grandinetti",
+      "Leonor Watling"
+    ]
   },
   "tatami": {
     "id": 1084066,
     "title": "Tatami",
     "year": "2024",
     "backdrop": "/assets/backdrops/tatami.jpg",
-    "poster": "/assets/posters/tatami.jpg"
+    "poster": "/assets/posters/tatami.jpg",
+    "cast": [
+      "Arienne Mandi",
+      "Zar Amir Ebrahimi",
+      "Jaime Ray Newman"
+    ]
   },
   "tenderness": {
     "id": 439552,
     "title": "Tenderness",
     "year": "2017",
     "backdrop": "/assets/backdrops/tenderness.jpg",
-    "poster": "/assets/posters/tenderness.jpg"
+    "poster": "/assets/posters/tenderness.jpg",
+    "cast": [
+      "Renato Carpentieri",
+      "Elio Germano",
+      "Giovanna Mezzogiorno"
+    ]
   },
   "terraferma": {
     "id": 73872,
     "title": "Terraferma",
     "year": "2011",
     "backdrop": "/assets/backdrops/terraferma.jpg",
-    "poster": "/assets/posters/terraferma.jpg"
+    "poster": "/assets/posters/terraferma.jpg",
+    "cast": [
+      "Filippo Pucillo",
+      "Donatella Finocchiaro",
+      "Giuseppe Fiorello"
+    ]
   },
   "the-attack": {
     "id": 121791,
     "title": "The Attack",
     "year": "2012",
     "backdrop": "/assets/backdrops/the-attack.jpg",
-    "poster": "/assets/posters/the-attack.jpg"
+    "poster": "/assets/posters/the-attack.jpg",
+    "cast": [
+      "Ali Suliman",
+      "Evgenia Dodena",
+      "Reymonde Amsallem"
+    ]
   },
   "the-bands-visit": {
     "id": 5259,
     "title": "The Band's Visit",
     "year": "2007",
     "backdrop": "/assets/backdrops/the-bands-visit.jpg",
-    "poster": "/assets/posters/the-bands-visit.jpg"
+    "poster": "/assets/posters/the-bands-visit.jpg",
+    "cast": [
+      "Sasson Gabai",
+      "Ronit Elkabetz",
+      "Saleh Bakri"
+    ]
   },
   "the-bench": {
     "id": 15830,
     "title": "The Bench",
     "year": "2000",
     "backdrop": "/assets/backdrops/the-bench.jpg",
-    "poster": "/assets/posters/the-bench.jpg"
+    "poster": "/assets/posters/the-bench.jpg",
+    "cast": [
+      "Jesper Christensen",
+      "Nicolaj Kopernikus",
+      "Jens Albinus"
+    ]
   },
   "the-best-of-youth": {
     "id": 11659,
     "title": "The Best of Youth",
     "year": "2003",
     "backdrop": "/assets/backdrops/the-best-of-youth.jpg",
-    "poster": "/assets/posters/the-best-of-youth.jpg"
+    "poster": "/assets/posters/the-best-of-youth.jpg",
+    "cast": [
+      "Luigi Lo Cascio",
+      "Alessio Boni",
+      "Adriana Asti"
+    ]
   },
   "the-blue-caftan": {
     "id": 958279,
     "title": "The Blue Caftan",
     "year": "2023",
     "backdrop": "/assets/backdrops/the-blue-caftan.jpg",
-    "poster": "/assets/posters/the-blue-caftan.jpg"
+    "poster": "/assets/posters/the-blue-caftan.jpg",
+    "cast": [
+      "Lubna Azabal",
+      "Saleh Bakri",
+      "Ayoub Messioui"
+    ]
   },
   "the-cakemaker": {
     "id": 464825,
     "title": "The Cakemaker",
     "year": "2017",
     "backdrop": "/assets/backdrops/the-cakemaker.jpg",
-    "poster": "/assets/posters/the-cakemaker.jpg"
+    "poster": "/assets/posters/the-cakemaker.jpg",
+    "cast": [
+      "Tim Kalkhof",
+      "Sarah Adler",
+      "Roi Miller"
+    ]
   },
   "the-celebration": {
     "id": 309,
     "title": "The Celebration",
     "year": "1998",
     "backdrop": "/assets/backdrops/the-celebration.jpg",
-    "poster": "/assets/posters/the-celebration.jpg"
+    "poster": "/assets/posters/the-celebration.jpg",
+    "cast": [
+      "Ulrich Thomsen",
+      "Henning Moritzen",
+      "Thomas Bo Larsen"
+    ]
   },
   "the-charmer": {
     "id": 476243,
     "title": "The Charmer",
     "year": "2018",
     "backdrop": "/assets/backdrops/the-charmer.jpg",
-    "poster": "/assets/posters/the-charmer.jpg"
+    "poster": "/assets/posters/the-charmer.jpg",
+    "cast": [
+      "Ardalan Esmaili",
+      "Soho Rezanejad",
+      "Lars Brygmann"
+    ]
   },
   "the-class": {
     "id": 8841,
     "title": "The Class",
     "year": "2008",
     "backdrop": "/assets/backdrops/the-class.jpg",
-    "poster": "/assets/posters/the-class.jpg"
+    "poster": "/assets/posters/the-class.jpg",
+    "cast": [
+      "François Bégaudeau",
+      "Arthur Fogel",
+      "Damien Gomes"
+    ]
   },
   "the-commune": {
     "id": 308409,
     "title": "The Commune",
     "year": "2016",
     "backdrop": "/assets/backdrops/the-commune.jpg",
-    "poster": "/assets/posters/the-commune.jpg"
+    "poster": "/assets/posters/the-commune.jpg",
+    "cast": [
+      "Ulrich Thomsen",
+      "Trine Dyrholm",
+      "Helene Reingaard Neumann"
+    ]
   },
   "the-consequences-of-love": {
     "id": 24653,
     "title": "The Consequences of Love",
     "year": "2004",
     "backdrop": "/assets/backdrops/the-consequences-of-love.jpg",
-    "poster": "/assets/posters/the-consequences-of-love.jpg"
+    "poster": "/assets/posters/the-consequences-of-love.jpg",
+    "cast": [
+      "Toni Servillo",
+      "Olivia Magnani",
+      "Adriano Giannini"
+    ]
   },
   "the-double-hour": {
     "id": 42571,
     "title": "The Double Hour",
     "year": "2009",
     "backdrop": "/assets/backdrops/the-double-hour.jpg",
-    "poster": "/assets/posters/the-double-hour.jpg"
+    "poster": "/assets/posters/the-double-hour.jpg",
+    "cast": [
+      "Kseniya Rappoport",
+      "Filippo Timi",
+      "Antonia Truppo"
+    ]
   },
   "the-easy-life": {
     "id": 58518,
     "title": "La vita facile",
     "year": "2011",
     "backdrop": "/assets/backdrops/the-easy-life.jpg",
-    "poster": "/assets/posters/the-easy-life.jpg"
+    "poster": "/assets/posters/the-easy-life.jpg",
+    "cast": [
+      "Pierfrancesco Favino",
+      "Stefano Accorsi",
+      "Vittoria Puccini"
+    ]
   },
   "the-edge-of-heaven": {
     "id": 2014,
     "title": "The Edge of Heaven",
     "year": "2007",
     "backdrop": "/assets/backdrops/the-edge-of-heaven.jpg",
-    "poster": "/assets/posters/the-edge-of-heaven.jpg"
+    "poster": "/assets/posters/the-edge-of-heaven.jpg",
+    "cast": [
+      "Nurgül Yeşilçay",
+      "Baki Davrak",
+      "Patrycia Ziółkowska"
+    ]
   },
   "the-entrepreneur": {
     "id": 82662,
     "title": "The Entrepreneur",
     "year": "2011",
     "backdrop": "/assets/backdrops/the-entrepreneur.jpg",
-    "poster": "/assets/posters/the-entrepreneur.jpg"
+    "poster": "/assets/posters/the-entrepreneur.jpg",
+    "cast": [
+      "Pierfrancesco Favino",
+      "Carolina Crescentini",
+      "Eduard Gabia"
+    ]
   },
   "the-first-beautiful-thing": {
     "id": 36940,
     "title": "The First Beautiful Thing",
     "year": "2010",
     "backdrop": "/assets/backdrops/the-first-beautiful-thing.jpg",
-    "poster": "/assets/posters/the-first-beautiful-thing.jpg"
+    "poster": "/assets/posters/the-first-beautiful-thing.jpg",
+    "cast": [
+      "Valerio Mastandrea",
+      "Micaela Ramazzotti",
+      "Stefania Sandrelli"
+    ]
   },
   "the-ghost-writer": {
     "id": 11439,
     "title": "The Ghost Writer",
     "year": "2010",
     "backdrop": "/assets/backdrops/the-ghost-writer.jpg",
-    "poster": "/assets/posters/the-ghost-writer.jpg"
+    "poster": "/assets/posters/the-ghost-writer.jpg",
+    "cast": [
+      "Ewan McGregor",
+      "Pierce Brosnan",
+      "Kim Cattrall"
+    ]
   },
   "the-girl-by-the-lake": {
     "id": 42411,
     "title": "The Girl by the Lake",
     "year": "2007",
     "backdrop": "/assets/backdrops/the-girl-by-the-lake.jpg",
-    "poster": "/assets/posters/the-girl-by-the-lake.jpg"
+    "poster": "/assets/posters/the-girl-by-the-lake.jpg",
+    "cast": [
+      "Toni Servillo",
+      "Valeria Golino",
+      "Fabrizio Gifuni"
+    ]
   },
   "the-good-life": {
     "id": 196324,
     "title": "The Good Life",
     "year": "2008",
-    "poster": "/assets/posters/the-good-life.jpg"
+    "poster": "/assets/posters/the-good-life.jpg",
+    "cast": [
+      "Aline Küppenheim",
+      "Eduardo Paxeco",
+      "Roberto Farías"
+    ]
   },
   "the-great-beauty": {
     "id": 179144,
     "title": "The Great Beauty",
     "year": "2013",
     "backdrop": "/assets/backdrops/the-great-beauty.jpg",
-    "poster": "/assets/posters/the-great-beauty.jpg"
+    "poster": "/assets/posters/the-great-beauty.jpg",
+    "cast": [
+      "Toni Servillo",
+      "Carlo Verdone",
+      "Sabrina Ferilli"
+    ]
   },
   "the-hand-of-god": {
     "id": 722778,
     "title": "The Hand of God",
     "year": "2021",
     "backdrop": "/assets/backdrops/the-hand-of-god.jpg",
-    "poster": "/assets/posters/the-hand-of-god.jpg"
+    "poster": "/assets/posters/the-hand-of-god.jpg",
+    "cast": [
+      "Filippo Scotti",
+      "Toni Servillo",
+      "Teresa Saponangelo"
+    ]
   },
   "the-hummingbird": {
     "id": 807986,
     "title": "The Hummingbird",
     "year": "2022",
     "backdrop": "/assets/backdrops/the-hummingbird.jpg",
-    "poster": "/assets/posters/the-hummingbird.jpg"
+    "poster": "/assets/posters/the-hummingbird.jpg",
+    "cast": [
+      "Pierfrancesco Favino",
+      "Kasia Smutniak",
+      "Bérénice Bejo"
+    ]
   },
   "the-hunt": {
     "id": 103663,
     "title": "The Hunt",
     "year": "2012",
     "backdrop": "/assets/backdrops/the-hunt.jpg",
-    "poster": "/assets/posters/the-hunt.jpg"
+    "poster": "/assets/posters/the-hunt.jpg",
+    "cast": [
+      "Mads Mikkelsen",
+      "Thomas Bo Larsen",
+      "Annika"
+    ]
   },
   "the-inheritance": {
     "id": 15824,
     "title": "The Inheritance",
     "year": "2003",
     "backdrop": "/assets/backdrops/the-inheritance.jpg",
-    "poster": "/assets/posters/the-inheritance.jpg"
+    "poster": "/assets/posters/the-inheritance.jpg",
+    "cast": [
+      "Ulrich Thomsen",
+      "Lisa Werlinder",
+      "Ghita Nørby"
+    ]
   },
   "the-keys-to-the-house": {
     "id": 42420,
     "title": "The Keys to the House",
     "year": "2004",
     "backdrop": "/assets/backdrops/the-keys-to-the-house.jpg",
-    "poster": "/assets/posters/the-keys-to-the-house.jpg"
+    "poster": "/assets/posters/the-keys-to-the-house.jpg",
+    "cast": [
+      "Kim Rossi Stuart",
+      "Andrea Rossi",
+      "Alla Faerovich"
+    ]
   },
   "the-kid-with-a-bike": {
     "id": 63831,
     "title": "The Kid with a Bike",
     "year": "2011",
     "backdrop": "/assets/backdrops/the-kid-with-a-bike.jpg",
-    "poster": "/assets/posters/the-kid-with-a-bike.jpg"
+    "poster": "/assets/posters/the-kid-with-a-bike.jpg",
+    "cast": [
+      "Cécile de France",
+      "Thomas Doret",
+      "Jérémie Renier"
+    ]
   },
   "the-kindergarten-teacher": {
     "id": 270646,
     "title": "The Kindergarten Teacher",
     "year": "2014",
     "backdrop": "/assets/backdrops/the-kindergarten-teacher.jpg",
-    "poster": "/assets/posters/the-kindergarten-teacher.jpg"
+    "poster": "/assets/posters/the-kindergarten-teacher.jpg",
+    "cast": [
+      "Sarit Larry",
+      "Avi Shnaidman",
+      "Lior Raz"
+    ]
   },
   "the-last-resort": {
     "id": 1120382,
     "title": "The Last Resort",
     "year": "2026",
     "backdrop": "/assets/backdrops/the-last-resort.jpg",
-    "poster": "/assets/posters/the-last-resort.jpg"
+    "poster": "/assets/posters/the-last-resort.jpg",
+    "cast": [
+      "Esben Smed",
+      "Danica Ćurčić",
+      "Sif Lucca Gersby"
+    ]
   },
   "the-lives-of-others": {
     "id": 582,
     "title": "The Lives of Others",
     "year": "2006",
     "backdrop": "/assets/backdrops/the-lives-of-others.jpg",
-    "poster": "/assets/posters/the-lives-of-others.jpg"
+    "poster": "/assets/posters/the-lives-of-others.jpg",
+    "cast": [
+      "Martina Gedeck",
+      "Ulrich Mühe",
+      "Sebastian Koch"
+    ]
   },
   "the-mafia-kills-only-in-summer": {
     "id": 239877,
     "title": "The Mafia Kills Only in Summer",
     "year": "2013",
     "backdrop": "/assets/backdrops/the-mafia-kills-only-in-summer.jpg",
-    "poster": "/assets/posters/the-mafia-kills-only-in-summer.jpg"
+    "poster": "/assets/posters/the-mafia-kills-only-in-summer.jpg",
+    "cast": [
+      "Pif",
+      "Cristiana Capotondi",
+      "Rosario Lisma"
+    ]
   },
   "the-man-who-copied": {
     "id": 40823,
     "title": "The Man Who Copied",
     "year": "2003",
     "backdrop": "/assets/backdrops/the-man-who-copied.jpg",
-    "poster": "/assets/posters/the-man-who-copied.jpg"
+    "poster": "/assets/posters/the-man-who-copied.jpg",
+    "cast": [
+      "Lázaro Ramos",
+      "Leandra Leal",
+      "Luana Piovani"
+    ]
   },
   "the-man-who-loves": {
     "id": 24191,
     "title": "The Man Who Loves",
     "year": "2008",
     "backdrop": "/assets/backdrops/the-man-who-loves.jpg",
-    "poster": "/assets/posters/the-man-who-loves.jpg"
+    "poster": "/assets/posters/the-man-who-loves.jpg",
+    "cast": [
+      "Pierfrancesco Favino",
+      "Monica Bellucci",
+      "Kseniya Rappoport"
+    ]
   },
   "the-manual-of-love": {
     "id": 20068,
     "title": "The Manual of Love",
     "year": "2005",
     "backdrop": "/assets/backdrops/the-manual-of-love.jpg",
-    "poster": "/assets/posters/the-manual-of-love.jpg"
+    "poster": "/assets/posters/the-manual-of-love.jpg",
+    "cast": [
+      "Carlo Verdone",
+      "Silvio Muccino",
+      "Luciana Littizzetto"
+    ]
   },
   "the-olive-tree": {
     "id": 366505,
     "title": "The Olive Tree",
     "year": "2016",
     "backdrop": "/assets/backdrops/the-olive-tree.jpg",
-    "poster": "/assets/posters/the-olive-tree.jpg"
+    "poster": "/assets/posters/the-olive-tree.jpg",
+    "cast": [
+      "Anna Castillo",
+      "Javier Gutiérrez",
+      "Pep Ambròs"
+    ]
   },
   "the-past-is-a-foreign-land": {
     "id": 58086,
     "title": "The Past Is a Foreign Land",
     "year": "2008",
     "backdrop": "/assets/backdrops/the-past-is-a-foreign-land.jpg",
-    "poster": "/assets/posters/the-past-is-a-foreign-land.jpg"
+    "poster": "/assets/posters/the-past-is-a-foreign-land.jpg",
+    "cast": [
+      "Elio Germano",
+      "Michele Riondino",
+      "Chiara Caselli"
+    ]
   },
   "the-people-upstairs": {
     "id": 717675,
     "title": "The People Upstairs",
     "year": "2020",
     "backdrop": "/assets/backdrops/the-people-upstairs.jpg",
-    "poster": "/assets/posters/the-people-upstairs.jpg"
+    "poster": "/assets/posters/the-people-upstairs.jpg",
+    "cast": [
+      "Javier Cámara",
+      "Belén Cuesta",
+      "Alberto San Juan"
+    ]
   },
   "the-priests-children": {
     "id": 165463,
     "title": "The Priest's Children",
     "year": "2013",
     "backdrop": "/assets/backdrops/the-priests-children.jpg",
-    "poster": "/assets/posters/the-priests-children.jpg"
+    "poster": "/assets/posters/the-priests-children.jpg",
+    "cast": [
+      "Krešimir Mikić",
+      "Nikša Butijer",
+      "Marija Škaričić"
+    ]
   },
   "the-reports-on-sarah-and-saleem": {
     "id": 498517,
     "title": "The Reports on Sarah and Saleem",
     "year": "2018",
     "backdrop": "/assets/backdrops/the-reports-on-sarah-and-saleem.jpg",
-    "poster": "/assets/posters/the-reports-on-sarah-and-saleem.jpg"
+    "poster": "/assets/posters/the-reports-on-sarah-and-saleem.jpg",
+    "cast": [
+      "Adeeb Safadi",
+      "Sivane Kretchner",
+      "Ishai Golan"
+    ]
   },
   "the-right-distance": {
     "id": 57052,
     "title": "The Right Distance",
     "year": "2007",
     "backdrop": "/assets/backdrops/the-right-distance.jpg",
-    "poster": "/assets/posters/the-right-distance.jpg"
+    "poster": "/assets/posters/the-right-distance.jpg",
+    "cast": [
+      "Valentina Lodovini",
+      "Giovanni Capovilla",
+      "Ahmed Hafiene"
+    ]
   },
   "the-salesman": {
     "id": 375315,
     "title": "The Salesman",
     "year": "2016",
     "backdrop": "/assets/backdrops/the-salesman.jpg",
-    "poster": "/assets/posters/the-salesman.jpg"
+    "poster": "/assets/posters/the-salesman.jpg",
+    "cast": [
+      "Shahab Hosseini",
+      "Taraneh Alidoosti",
+      "Babak Karimi"
+    ]
   },
   "the-secret-in-their-eyes": {
     "id": 25376,
     "title": "The Secret in Their Eyes",
     "year": "2009",
     "backdrop": "/assets/backdrops/the-secret-in-their-eyes.jpg",
-    "poster": "/assets/posters/the-secret-in-their-eyes.jpg"
+    "poster": "/assets/posters/the-secret-in-their-eyes.jpg",
+    "cast": [
+      "Ricardo Darín",
+      "Soledad Villamil",
+      "Pablo Rago"
+    ]
   },
   "the-secret-of-the-grain": {
     "id": 8280,
     "title": "The Secret of the Grain",
     "year": "2007",
     "backdrop": "/assets/backdrops/the-secret-of-the-grain.jpg",
-    "poster": "/assets/posters/the-secret-of-the-grain.jpg"
+    "poster": "/assets/posters/the-secret-of-the-grain.jpg",
+    "cast": [
+      "Habib Boufares",
+      "Hafsia Herzi",
+      "Farida Benkhetache"
+    ]
   },
   "the-seed-of-the-sacred-fig": {
     "id": 1278263,
     "title": "The Seed of the Sacred Fig",
     "year": "2024",
     "backdrop": "/assets/backdrops/the-seed-of-the-sacred-fig.jpg",
-    "poster": "/assets/posters/the-seed-of-the-sacred-fig.jpg"
+    "poster": "/assets/posters/the-seed-of-the-sacred-fig.jpg",
+    "cast": [
+      "Soheila Golestani",
+      "Misagh Zare",
+      "Mahsa Rostami"
+    ]
   },
   "the-sons-room": {
     "id": 11447,
     "title": "The Son's Room",
     "year": "2001",
     "backdrop": "/assets/backdrops/the-sons-room.jpg",
-    "poster": "/assets/posters/the-sons-room.jpg"
+    "poster": "/assets/posters/the-sons-room.jpg",
+    "cast": [
+      "Nanni Moretti",
+      "Laura Morante",
+      "Jasmine Trinca"
+    ]
   },
   "the-traitor": {
     "id": 575452,
     "title": "The Traitor",
     "year": "2019",
     "backdrop": "/assets/backdrops/the-traitor.jpg",
-    "poster": "/assets/posters/the-traitor.jpg"
+    "poster": "/assets/posters/the-traitor.jpg",
+    "cast": [
+      "Pierfrancesco Favino",
+      "Maria Fernanda Cândido",
+      "Fabrizio Ferracane"
+    ]
   },
   "the-trap": {
     "id": 4352,
     "title": "The Trap",
     "year": "2007",
     "backdrop": "/assets/backdrops/the-trap.jpg",
-    "poster": "/assets/posters/the-trap.jpg"
+    "poster": "/assets/posters/the-trap.jpg",
+    "cast": [
+      "Nebojša Glogovac",
+      "Nataša Ninković",
+      "Anica Dobra"
+    ]
   },
   "things-we-dont-say": {
     "id": 1473635,
     "title": "Things We Don't Say",
     "year": "2026",
     "backdrop": "/assets/backdrops/things-we-dont-say.jpg",
-    "poster": "/assets/posters/things-we-dont-say.jpg"
+    "poster": "/assets/posters/things-we-dont-say.jpg",
+    "cast": [
+      "Stefano Accorsi",
+      "Carolina Crescentini",
+      "Miriam Leone"
+    ]
   },
   "touch": {
     "id": 1032472,
     "title": "Touch",
     "year": "2024",
     "backdrop": "/assets/backdrops/touch.jpg",
-    "poster": "/assets/posters/touch.jpg"
+    "poster": "/assets/posters/touch.jpg",
+    "cast": [
+      "Egill Ólafsson",
+      "Kōki",
+      "Pálmi Kormákur Baltasarsson"
+    ]
   },
   "triangle-of-sadness": {
     "id": 497828,
     "title": "Triangle of Sadness",
     "year": "2022",
     "backdrop": "/assets/backdrops/triangle-of-sadness.jpg",
-    "poster": "/assets/posters/triangle-of-sadness.jpg"
+    "poster": "/assets/posters/triangle-of-sadness.jpg",
+    "cast": [
+      "Harris Dickinson",
+      "Charlbi Dean",
+      "Dolly de Leon"
+    ]
   },
   "under-the-tree": {
     "id": 472640,
     "title": "Under the Tree",
     "year": "2017",
     "backdrop": "/assets/backdrops/under-the-tree.jpg",
-    "poster": "/assets/posters/under-the-tree.jpg"
+    "poster": "/assets/posters/under-the-tree.jpg",
+    "cast": [
+      "Steinþór Hróar Steinþórsson",
+      "Edda Björgvinsdóttir",
+      "Sigurður Sigurjónsson"
+    ]
   },
   "valeria-is-getting-married": {
     "id": 961816,
     "title": "Valeria Is Getting Married",
     "year": "2023",
     "backdrop": "/assets/backdrops/valeria-is-getting-married.jpg",
-    "poster": "/assets/posters/valeria-is-getting-married.jpg"
+    "poster": "/assets/posters/valeria-is-getting-married.jpg",
+    "cast": [
+      "Dariia Tvoronovych",
+      "Lena Fraifeld",
+      "Avraham Shalom Levi"
+    ]
   },
   "victoria": {
     "id": 320007,
     "title": "Victoria",
     "year": "2015",
     "backdrop": "/assets/backdrops/victoria.jpg",
-    "poster": "/assets/posters/victoria.jpg"
+    "poster": "/assets/posters/victoria.jpg",
+    "cast": [
+      "Laia Costa",
+      "Frederick Lau",
+      "Franz Rogowski"
+    ]
   },
   "virgin-mountain": {
     "id": 320736,
     "title": "Virgin Mountain",
     "year": "2015",
     "backdrop": "/assets/backdrops/virgin-mountain.jpg",
-    "poster": "/assets/posters/virgin-mountain.jpg"
+    "poster": "/assets/posters/virgin-mountain.jpg",
+    "cast": [
+      "Gunnar Jónsson",
+      "Ilmur Kristjánsdóttir",
+      "Sigurjón Kjartansson"
+    ]
   },
   "volcano": {
     "id": 91913,
     "title": "Volcano",
     "year": "2011",
     "backdrop": "/assets/backdrops/volcano.jpg",
-    "poster": "/assets/posters/volcano.jpg"
+    "poster": "/assets/posters/volcano.jpg",
+    "cast": [
+      "Theodór Júlíusson",
+      "Margrét Helga Jóhannsdóttir",
+      "Auður Drauma Bachmann"
+    ]
   },
   "volver": {
     "id": 219,
     "title": "Volver",
     "year": "2006",
     "backdrop": "/assets/backdrops/volver.jpg",
-    "poster": "/assets/posters/volver.jpg"
+    "poster": "/assets/posters/volver.jpg",
+    "cast": [
+      "Penélope Cruz",
+      "Carmen Maura",
+      "Lola Dueñas"
+    ]
   },
   "walk-on-water": {
     "id": 26,
     "title": "Walk on Water",
     "year": "2004",
     "backdrop": "/assets/backdrops/walk-on-water.jpg",
-    "poster": "/assets/posters/walk-on-water.jpg"
+    "poster": "/assets/posters/walk-on-water.jpg",
+    "cast": [
+      "Lior Ashkenazi",
+      "Knut Berger",
+      "Caroline Peters"
+    ]
   },
   "what-will-people-say": {
     "id": 469651,
     "title": "What Will People Say",
     "year": "2017",
     "backdrop": "/assets/backdrops/what-will-people-say.jpg",
-    "poster": "/assets/posters/what-will-people-say.jpg"
+    "poster": "/assets/posters/what-will-people-say.jpg",
+    "cast": [
+      "Maria Mozhdah",
+      "Adil Hussain",
+      "Ekavali Khanna"
+    ]
   },
   "where-do-we-go-now": {
     "id": 77461,
     "title": "Where Do We Go Now?",
     "year": "2011",
     "backdrop": "/assets/backdrops/where-do-we-go-now.jpg",
-    "poster": "/assets/posters/where-do-we-go-now.jpg"
+    "poster": "/assets/posters/where-do-we-go-now.jpg",
+    "cast": [
+      "Claude Msawbaa",
+      "Leyla Hakim",
+      "Nadine Labaki"
+    ]
   },
   "winter-sleep": {
     "id": 265169,
     "title": "Winter Sleep",
     "year": "2014",
     "backdrop": "/assets/backdrops/winter-sleep.jpg",
-    "poster": "/assets/posters/winter-sleep.jpg"
+    "poster": "/assets/posters/winter-sleep.jpg",
+    "cast": [
+      "Haluk Bilginer",
+      "Melisa Sözen",
+      "Demet Akbağ"
+    ]
   },
   "woman-at-war": {
     "id": 348657,
     "title": "Woman at War",
     "year": "2018",
     "backdrop": "/assets/backdrops/woman-at-war.jpg",
-    "poster": "/assets/posters/woman-at-war.jpg"
+    "poster": "/assets/posters/woman-at-war.jpg",
+    "cast": [
+      "Halldóra Geirharðsdóttir",
+      "Jóhann Sigurðarson",
+      "Davíð Þór Jónsson"
+    ]
   },
   "working-woman": {
     "id": 544392,
     "title": "Working Woman",
     "year": "2019",
     "backdrop": "/assets/backdrops/working-woman.jpg",
-    "poster": "/assets/posters/working-woman.jpg"
+    "poster": "/assets/posters/working-woman.jpg",
+    "cast": [
+      "Liron Ben-Shlush",
+      "Menashe Noy",
+      "Oshri Cohen"
+    ]
   },
   "worlds-apart": {
     "id": 16015,
     "title": "Worlds Apart",
     "year": "2008",
     "backdrop": "/assets/backdrops/worlds-apart.jpg",
-    "poster": "/assets/posters/worlds-apart.jpg"
+    "poster": "/assets/posters/worlds-apart.jpg",
+    "cast": [
+      "Pilou Asbæk",
+      "Rosalinde Mynster",
+      "Sarah Boberg"
+    ]
   }
 }

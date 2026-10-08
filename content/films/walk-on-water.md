@@ -2,6 +2,10 @@
 title: "Walk on Water"
 year: 2004
 director: "Eytan Fox"
+actors:
+  - "Lior Ashkenazi"
+  - "Knut Berger"
+  - "Caroline Peters"
 country: "Israel"
 rating: 4
 lists:

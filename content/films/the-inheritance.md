@@ -3,6 +3,10 @@ title: "The Inheritance"
 original_title: "Arven"
 year: 2003
 director: "Per Fly"
+actors:
+  - "Ulrich Thomsen"
+  - "Lisa Werlinder"
+  - "Ghita Nørby"
 country: "Denmark"
 rating: 4
 lists:

@@ -2,6 +2,10 @@
 title: "Triangle of Sadness"
 year: 2022
 director: "Ruben Östlund"
+actors:
+  - "Harris Dickinson"
+  - "Charlbi Dean"
+  - "Dolly de Leon"
 country: "Sweden"
 rating: 4.5
 lists:

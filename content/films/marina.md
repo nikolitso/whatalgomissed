@@ -2,6 +2,10 @@
 title: "Marina"
 year: 2013
 director: "Stijn Coninx"
+actors:
+  - "Matteo Simoni"
+  - "Luigi Lo Cascio"
+  - "Donatella Finocchiaro"
 country: "Italy"
 rating: 4.5
 lists:

@@ -3,6 +3,10 @@ title: "One Man Up"
 original_title: "L'Uomo in Più"
 year: 2001
 director: "Paolo Sorrentino"
+actors:
+  - "Toni Servillo"
+  - "Andrea Renzi"
+  - "Nello Mascia"
 country: "Italy"
 rating: 3.5
 lists:

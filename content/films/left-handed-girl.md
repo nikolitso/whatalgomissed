@@ -3,6 +3,10 @@ title: "Left-Handed Girl"
 original_title: "左撇子女孩"
 year: 2025
 director: "Shih-Ching Tsou"
+actors:
+  - "Ma Shih-yuan"
+  - "Janel Tsai"
+  - "Nina Ye"
 country: "Taiwan"
 rating: 4.5
 lists:

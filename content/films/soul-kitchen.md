@@ -2,6 +2,10 @@
 title: "Soul Kitchen"
 year: 2009
 director: "Fatih Akin"
+actors:
+  - "Adam Bousdoukos"
+  - "Moritz Bleibtreu"
+  - "Pheline Roggan"
 country: "Germany"
 rating: 4.5
 lists:

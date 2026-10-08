@@ -2,6 +2,10 @@
 title: "Omar"
 year: 2013
 director: "Hany Abu-Assad"
+actors:
+  - "Adam Bakri"
+  - "Waleed Zuaiter"
+  - "Leem Lubany"
 country: "Palestine"
 rating: 4
 lists:

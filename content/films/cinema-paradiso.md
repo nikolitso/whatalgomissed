@@ -3,6 +3,10 @@ title: "Cinema Paradiso"
 original_title: "Nuovo Cinema Paradiso"
 year: 1988
 director: "Giuseppe Tornatore"
+actors:
+  - "Philippe Noiret"
+  - "Jacques Perrin"
+  - "Marco Leonardi"
 country: "Italy"
 rating: 5
 lists:

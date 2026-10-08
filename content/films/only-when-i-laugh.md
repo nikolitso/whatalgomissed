@@ -3,6 +3,10 @@ title: "Only When I Laugh"
 original_title: "Samo kad se smijem"
 year: 2023
 director: "Vanja Juranić"
+actors:
+  - "Tihana Lazović"
+  - "Slavko Sobin"
+  - "Jasna Đuričić"
 country: "Croatia"
 rating: 4
 lists:

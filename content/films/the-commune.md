@@ -3,6 +3,10 @@ title: "The Commune"
 original_title: "Kollektivet"
 year: 2016
 director: "Thomas Vinterberg"
+actors:
+  - "Ulrich Thomsen"
+  - "Trine Dyrholm"
+  - "Helene Reingaard Neumann"
 country: "Denmark"
 rating: 4.5
 lists:

@@ -3,6 +3,10 @@ title: "A Family"
 original_title: "En Familie"
 year: 2010
 director: "Pernille Fischer Christensen"
+actors:
+  - "Lene Maria Christensen"
+  - "Jesper Christensen"
+  - "Pilou Asbæk"
 country: "Denmark"
 rating: 4.5
 lists:

@@ -3,6 +3,10 @@ title: "Smuggling Hendrix"
 original_title: "Αναζητώντας τον Χέντριξ"
 year: 2018
 director: "Marios Piperides"
+actors:
+  - "Adam Bousdoukos"
+  - "Fatih Al"
+  - "Vicky Papadopoulou"
 country: "Cyprus"
 rating: 4
 lists:

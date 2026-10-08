@@ -2,6 +2,10 @@
 title: "Rabat"
 year: 2011
 director: "Victor Ponten"
+actors:
+  - "Nasrdin Dchar"
+  - "Achmed Akkabi"
+  - "Marwan Kenzari"
 country: "Netherlands"
 rating: 4
 lists:

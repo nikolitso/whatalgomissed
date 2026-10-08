@@ -3,6 +3,10 @@ title: "The Secret of the Grain"
 original_title: "La Graine et le Mulet"
 year: 2007
 director: "Abdellatif Kechiche"
+actors:
+  - "Habib Boufares"
+  - "Hafsia Herzi"
+  - "Farida Benkhetache"
 country: "France"
 rating: 4
 lists:

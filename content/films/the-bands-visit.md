@@ -3,6 +3,10 @@ title: "The Band's Visit"
 original_title: "Bikur Ha-Tizmoret"
 year: 2007
 director: "Eran Kolirin"
+actors:
+  - "Sasson Gabai"
+  - "Ronit Elkabetz"
+  - "Saleh Bakri"
 country: "Israel"
 rating: 4
 lists:

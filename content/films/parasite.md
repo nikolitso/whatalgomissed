@@ -3,6 +3,10 @@ title: "Parasite"
 original_title: "기생충"
 year: 2019
 director: "Bong Joon-ho"
+actors:
+  - "Song Kang-ho"
+  - "Lee Sun-kyun"
+  - "Cho Yeo-jeong"
 country: "South Korea"
 rating: 4.5
 lists:

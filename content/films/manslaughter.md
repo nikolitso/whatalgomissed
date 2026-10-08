@@ -3,6 +3,10 @@ title: "Manslaughter"
 original_title: "Drabet"
 year: 2005
 director: "Per Fly"
+actors:
+  - "Jesper Christensen"
+  - "Pernilla August"
+  - "Charlotte Fich"
 country: "Denmark"
 rating: 4
 lists:

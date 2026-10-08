@@ -3,6 +3,10 @@ title: "The Man Who Loves"
 original_title: "L'Uomo che Ama"
 year: 2008
 director: "Maria Sole Tognazzi"
+actors:
+  - "Pierfrancesco Favino"
+  - "Monica Bellucci"
+  - "Kseniya Rappoport"
 country: "Italy"
 rating: 4
 lists:

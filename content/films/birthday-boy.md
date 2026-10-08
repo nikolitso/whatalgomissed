@@ -3,6 +3,10 @@ title: "Birthday Boy"
 original_title: "Cumpleañero"
 year: 2022
 director: "Ariel Escalante Meza"
+actors:
+  - "Albi De Abreu"
+  - "Joavany Alvarez"
+  - "Gina Faarup Cochez"
 country: "Panama"
 rating: 4
 lists:

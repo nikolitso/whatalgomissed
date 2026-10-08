@@ -3,6 +3,10 @@ title: "The Olive Tree"
 original_title: "El Olivo"
 year: 2016
 director: "Icíar Bollaín"
+actors:
+  - "Anna Castillo"
+  - "Javier Gutiérrez"
+  - "Pep Ambròs"
 country: "Spain"
 rating: 4
 lists:

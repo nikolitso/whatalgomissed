@@ -3,6 +3,10 @@ title: "Virgin Mountain"
 original_title: "Fúsi"
 year: 2015
 director: "Dagur Kári"
+actors:
+  - "Gunnar Jónsson"
+  - "Ilmur Kristjánsdóttir"
+  - "Sigurjón Kjartansson"
 country: "Iceland"
 rating: 4
 lists:

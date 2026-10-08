@@ -3,6 +3,10 @@ title: "Behind the Haystacks"
 original_title: "Πίσω από τις Θημωνιές"
 year: 2021
 director: "Asimina Proedrou"
+actors:
+  - "Stathis Stamoulakatos"
+  - "Eleni Ouzounidou"
+  - "Evgenia Lavda"
 country: "Greece"
 rating: 4.5
 lists:

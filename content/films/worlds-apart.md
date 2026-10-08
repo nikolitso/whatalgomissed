@@ -3,6 +3,10 @@ title: "Worlds Apart"
 original_title: "To Verdener"
 year: 2008
 director: "Niels Arden Oplev"
+actors:
+  - "Pilou Asbæk"
+  - "Rosalinde Mynster"
+  - "Sarah Boberg"
 country: "Denmark"
 rating: 4
 lists:

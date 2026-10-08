@@ -3,6 +3,10 @@ title: "The Salesman"
 original_title: "Forushande"
 year: 2016
 director: "Asghar Farhadi"
+actors:
+  - "Shahab Hosseini"
+  - "Taraneh Alidoosti"
+  - "Babak Karimi"
 country: "Iran"
 rating: 4
 lists:

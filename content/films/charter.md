@@ -2,6 +2,10 @@
 title: "Charter"
 year: 2020
 director: "Amanda Kernell"
+actors:
+  - "Ane Dahl Torp"
+  - "Troy Lundkvist"
+  - "Tintin Poggats Sarri"
 country: "Denmark"
 rating: 4
 lists:

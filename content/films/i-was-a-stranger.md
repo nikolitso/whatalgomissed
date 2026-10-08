@@ -2,6 +2,10 @@
 title: "I Was a Stranger"
 year: 2024
 director: "Brandt Andersen"
+actors:
+  - "Yasmine Al Massri"
+  - "Yahya Mahayni"
+  - "Omar Sy"
 country: "USA"
 rating: 4
 lists:

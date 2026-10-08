@@ -3,6 +3,10 @@ title: "The Edge of Heaven"
 original_title: "Auf der anderen Seite"
 year: 2007
 director: "Fatih Akin"
+actors:
+  - "Nurgül Yeşilçay"
+  - "Baki Davrak"
+  - "Patrycia Ziółkowska"
 country: "Germany"
 rating: 4
 lists:

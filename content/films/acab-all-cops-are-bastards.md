@@ -3,6 +3,10 @@ title: "ACAB: All Cops Are Bastards"
 original_title: "A.C.A.B. - All Cops Are Bastards"
 year: 2012
 director: "Stefano Sollima"
+actors:
+  - "Pierfrancesco Favino"
+  - "Filippo Nigro"
+  - "Marco Giallini"
 country: "Italy"
 rating: 4
 lists:

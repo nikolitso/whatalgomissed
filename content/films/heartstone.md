@@ -3,6 +3,10 @@ title: "Heartstone"
 original_title: "Hjartasteinn"
 year: 2016
 director: "Guðmundur Arnar Guðmundsson"
+actors:
+  - "Baldur Einarsson"
+  - "Blær Hinriksson"
+  - "Diljá Valsdóttir"
 country: "Iceland"
 rating: 4
 lists:

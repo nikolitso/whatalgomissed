@@ -3,6 +3,10 @@ title: "My Brother Is an Only Child"
 original_title: "Mio Fratello è Figlio Unico"
 year: 2007
 director: "Daniele Luchetti"
+actors:
+  - "Elio Germano"
+  - "Riccardo Scamarcio"
+  - "Angela Finocchiaro"
 country: "Italy"
 rating: 4.5
 lists:

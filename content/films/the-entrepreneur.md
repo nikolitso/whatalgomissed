@@ -3,6 +3,10 @@ title: "The Entrepreneur"
 original_title: "L'Industriale"
 year: 2011
 director: "Giuliano Montaldo"
+actors:
+  - "Pierfrancesco Favino"
+  - "Carolina Crescentini"
+  - "Eduard Gabia"
 country: "Italy"
 rating: 4
 lists:

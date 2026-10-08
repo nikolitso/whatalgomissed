@@ -2,6 +2,10 @@
 title: "Suburra"
 year: 2015
 director: "Stefano Sollima"
+actors:
+  - "Pierfrancesco Favino"
+  - "Claudio Amendola"
+  - "Alessandro Borghi"
 country: "Italy"
 rating: 4.5
 lists:

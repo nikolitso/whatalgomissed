@@ -3,6 +3,10 @@ title: "Rams"
 original_title: "Hrútar"
 year: 2015
 director: "Grímur Hákonarson"
+actors:
+  - "Sigurður Sigurjónsson"
+  - "Theodór Júlíusson"
+  - "Charlotte Bøving"
 country: "Iceland"
 rating: 4
 lists:

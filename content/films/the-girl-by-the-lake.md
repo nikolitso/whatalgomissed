@@ -3,6 +3,10 @@ title: "The Girl by the Lake"
 original_title: "La Ragazza del Lago"
 year: 2007
 director: "Andrea Molaioli"
+actors:
+  - "Toni Servillo"
+  - "Valeria Golino"
+  - "Fabrizio Gifuni"
 country: "Italy"
 rating: 4
 lists:

@@ -3,6 +3,10 @@ title: "A Wedding"
 original_title: "Noces"
 year: 2016
 director: "Stephan Streker"
+actors:
+  - "Lina El Arabi"
+  - "Sébastien Houbani"
+  - "Babak Karimi"
 country: "Belgium"
 rating: 4
 lists:

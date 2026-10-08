@@ -2,6 +2,10 @@
 title: "Victoria"
 year: 2015
 director: "Sebastian Schipper"
+actors:
+  - "Laia Costa"
+  - "Frederick Lau"
+  - "Franz Rogowski"
 country: "Germany"
 rating: 4
 lists:

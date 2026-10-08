@@ -2,6 +2,10 @@
 title: "Capernaum"
 year: 2018
 director: "Nadine Labaki"
+actors:
+  - "Zain Al Rafeea"
+  - "Yordanos Shifera"
+  - "Boluwatife Treasure Bankole"
 country: "Lebanon"
 rating: 4
 lists:

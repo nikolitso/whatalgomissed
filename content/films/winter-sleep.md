@@ -3,6 +3,10 @@ title: "Winter Sleep"
 original_title: "Kış Uykusu"
 year: 2014
 director: "Nuri Bilge Ceylan"
+actors:
+  - "Haluk Bilginer"
+  - "Melisa Sözen"
+  - "Demet Akbağ"
 country: "Turkey"
 rating: 4.5
 lists:

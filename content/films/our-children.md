@@ -3,6 +3,10 @@ title: "Our Children"
 original_title: "I Nostri Ragazzi"
 year: 2014
 director: "Ivano De Matteo"
+actors:
+  - "Alessandro Gassmann"
+  - "Giovanna Mezzogiorno"
+  - "Luigi Lo Cascio"
 country: "Italy"
 rating: 5
 lists:

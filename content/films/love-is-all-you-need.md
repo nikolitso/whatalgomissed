@@ -3,6 +3,10 @@ title: "Love Is All You Need"
 original_title: "Den skaldede frisør"
 year: 2012
 director: "Susanne Bier"
+actors:
+  - "Pierce Brosnan"
+  - "Trine Dyrholm"
+  - "Molly Egelind"
 country: "Denmark"
 rating: 4
 lists:

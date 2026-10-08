@@ -3,6 +3,10 @@ title: "Open Hearts"
 original_title: "Elsker Dig for Evigt"
 year: 2002
 director: "Susanne Bier"
+actors:
+  - "Sonja Richter"
+  - "Nikolaj Lie Kaas"
+  - "Mads Mikkelsen"
 country: "Denmark"
 rating: 4.5
 lists:

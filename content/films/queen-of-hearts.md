@@ -3,6 +3,10 @@ title: "Queen of Hearts"
 original_title: "Dronningen"
 year: 2019
 director: "May el-Toukhy"
+actors:
+  - "Trine Dyrholm"
+  - "Gustav Lindh"
+  - "Magnus Krepper"
 country: "Denmark"
 rating: 4.5
 lists:

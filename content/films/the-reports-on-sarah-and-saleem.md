@@ -2,6 +2,10 @@
 title: "The Reports on Sarah and Saleem"
 year: 2018
 director: "Muayad Alayan"
+actors:
+  - "Adeeb Safadi"
+  - "Sivane Kretchner"
+  - "Ishai Golan"
 country: "Palestine"
 rating: 4
 lists:

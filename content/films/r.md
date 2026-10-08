@@ -2,6 +2,10 @@
 title: "R"
 year: 2010
 director: "Tobias Lindholm"
+actors:
+  - "Pilou Asbæk"
+  - "Dulfi Al-Jabouri"
+  - "Roland Møller"
 country: "Denmark"
 rating: 4
 lists:

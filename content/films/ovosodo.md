@@ -2,6 +2,10 @@
 title: "Ovosodo"
 year: 1997
 director: "Paolo Virzì"
+actors:
+  - "Edoardo Gabbriellini"
+  - "Claudia Pandolfi"
+  - "Nicoletta Braschi"
 country: "Italy"
 rating: 4.5
 lists:

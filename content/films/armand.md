@@ -2,6 +2,10 @@
 title: "Armand"
 year: 2024
 director: "Halfdan Ullmann Tøndel"
+actors:
+  - "Renate Reinsve"
+  - "Ellen Dorrit Petersen"
+  - "Endre Hellestveit"
 country: "Norway"
 rating: 4.5
 lists:

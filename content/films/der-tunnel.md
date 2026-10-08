@@ -2,6 +2,10 @@
 title: "Der Tunnel"
 year: 2001
 director: "Roland Suso Richter"
+actors:
+  - "Heino Ferch"
+  - "Nicolette Krebitz"
+  - "Sebastian Koch"
 country: "Germany"
 rating: 4
 lists:

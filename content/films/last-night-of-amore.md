@@ -2,6 +2,10 @@
 title: "Last Night of Amore"
 year: 2023
 director: "Andrea Di Stefano"
+actors:
+  - "Pierfrancesco Favino"
+  - "Linda Caridi"
+  - "Antonio Gerardi"
 country: "Italy"
 rating: 4
 lists:

@@ -3,6 +3,10 @@ title: "The Right Distance"
 original_title: "La Giusta Distanza"
 year: 2007
 director: "Carlo Mazzacurati"
+actors:
+  - "Valentina Lodovini"
+  - "Giovanni Capovilla"
+  - "Ahmed Hafiene"
 country: "Italy"
 rating: 4
 lists:

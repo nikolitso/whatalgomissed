@@ -3,6 +3,10 @@ title: "Diaz"
 original_title: "Don't Clean Up This Blood"
 year: 2012
 director: "Daniele Vicari"
+actors:
+  - "Claudio Santamaria"
+  - "Jennifer Ulrich"
+  - "Elio Germano"
 country: "Italy"
 rating: 4
 lists:

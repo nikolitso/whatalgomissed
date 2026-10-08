@@ -2,6 +2,10 @@
 title: "Babel"
 year: 2006
 director: "Alejandro González Iñárritu"
+actors:
+  - "Brad Pitt"
+  - "Rinko Kikuchi"
+  - "Adriana Barraza"
 country: "Mexico"
 rating: 4
 lists:

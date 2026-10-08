@@ -3,6 +3,10 @@ title: "The Past Is a Foreign Land"
 original_title: "Il Passato è una Terra Straniera"
 year: 2008
 director: "Daniele Vicari"
+actors:
+  - "Elio Germano"
+  - "Michele Riondino"
+  - "Chiara Caselli"
 country: "Italy"
 rating: 4
 lists:

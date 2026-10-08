@@ -3,6 +3,10 @@ title: "Knifer"
 original_title: "Μαχαιροβγάλτης"
 year: 2010
 director: "Yannis Economides"
+actors:
+  - "Stathis Stamoulakatos"
+  - "Vangelis Mourikis"
+  - "Maria Kallimani"
 country: "Greece"
 rating: 4
 lists:

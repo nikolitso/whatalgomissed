@@ -3,6 +3,10 @@ title: "Valeria Is Getting Married"
 original_title: "Valeria Mithatenet"
 year: 2022
 director: "Michal Vinik"
+actors:
+  - "Dariia Tvoronovych"
+  - "Lena Fraifeld"
+  - "Avraham Shalom Levi"
 country: "Israel/Ukraine"
 rating: 4
 lists:

@@ -2,6 +2,10 @@
 title: "Amores Perros"
 year: 2000
 director: "Alejandro González Iñárritu"
+actors:
+  - "Emilio Echevarría"
+  - "Gael García Bernal"
+  - "Goya Toledo"
 country: "Mexico"
 rating: 4
 lists:

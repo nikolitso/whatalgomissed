@@ -3,6 +3,10 @@ title: "Along the Ridge"
 original_title: "Anche Libero Va Bene"
 year: 2006
 director: "Kim Rossi Stuart"
+actors:
+  - "Kim Rossi Stuart"
+  - "Barbora Bobuľová"
+  - "Alessandro Morace"
 country: "Italy"
 rating: 4
 lists:

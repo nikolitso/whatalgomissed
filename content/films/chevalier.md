@@ -2,6 +2,10 @@
 title: "Chevalier"
 year: 2015
 director: "Athina Rachel Tsangari"
+actors:
+  - "Vangelis Mourikis"
+  - "Makis Papadimitriou"
+  - "Sakis Rouvas"
 country: "Greece"
 rating: 4
 lists:

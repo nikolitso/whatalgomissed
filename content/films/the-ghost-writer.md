@@ -2,6 +2,10 @@
 title: "The Ghost Writer"
 year: 2010
 director: "Roman Polanski"
+actors:
+  - "Ewan McGregor"
+  - "Pierce Brosnan"
+  - "Kim Cattrall"
 country: "France"
 rating: 4
 lists:

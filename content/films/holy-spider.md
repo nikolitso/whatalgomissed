@@ -3,6 +3,10 @@ title: "Holy Spider"
 original_title: "Ankabut-e Moqaddas"
 year: 2022
 director: "Ali Abbasi"
+actors:
+  - "Zar Amir Ebrahimi"
+  - "Mehdi Bajestani"
+  - "Arash Ashtiani"
 country: "Iran"
 rating: 4
 lists:

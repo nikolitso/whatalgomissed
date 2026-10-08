@@ -3,6 +3,10 @@ title: "Matchbox"
 original_title: "Σπιρτόκουτο"
 year: 2002
 director: "Yannis Economides"
+actors:
+  - "Errikos Litsis"
+  - "Eleni Kokkidou"
+  - "Costas Xikominos"
 country: "Greece"
 rating: 4.5
 lists:

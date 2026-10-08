@@ -3,6 +3,10 @@ title: "Beginnings"
 original_title: "Begyndelser"
 year: 2025
 director: "Jeanette Nordahl"
+actors:
+  - "Trine Dyrholm"
+  - "David Dencik"
+  - "Johanne Louise Schmidt"
 country: "Denmark"
 rating: 4.5
 lists:

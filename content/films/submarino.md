@@ -2,6 +2,10 @@
 title: "Submarino"
 year: 2010
 director: "Thomas Vinterberg"
+actors:
+  - "Jakob Cedergren"
+  - "Peter Plaugborg"
+  - "Gustav Fischer Kjærulff"
 country: "Denmark"
 rating: 4.5
 lists:

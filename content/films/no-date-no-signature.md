@@ -3,6 +3,10 @@ title: "No Date, No Signature"
 original_title: "Bedoone Tarikh, Bedoone Emza"
 year: 2017
 director: "Vahid Jalilvand"
+actors:
+  - "Navid Mohammadzadeh"
+  - "Amir Aghaei"
+  - "Hedie Tehrani"
 country: "Iran"
 rating: 4
 lists:

@@ -3,6 +3,10 @@ title: "Human Capital"
 original_title: "Il Capitale Umano"
 year: 2013
 director: "Paolo Virzì"
+actors:
+  - "Valeria Bruni Tedeschi"
+  - "Fabrizio Bentivoglio"
+  - "Valeria Golino"
 country: "Italy"
 rating: 4.5
 lists:

@@ -3,6 +3,10 @@ title: "The Consequences of Love"
 original_title: "Le Conseguenze dell'Amore"
 year: 2004
 director: "Paolo Sorrentino"
+actors:
+  - "Toni Servillo"
+  - "Olivia Magnani"
+  - "Adriano Giannini"
 country: "Italy"
 rating: 4
 lists:

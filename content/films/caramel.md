@@ -3,6 +3,10 @@ title: "Caramel"
 original_title: "Sukkar Banat"
 year: 2007
 director: "Nadine Labaki"
+actors:
+  - "Nadine Labaki"
+  - "Yasmine Al Massri"
+  - "Adel Karam"
 country: "Lebanon"
 rating: 4
 lists:

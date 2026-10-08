@@ -2,6 +2,10 @@
 title: "Murina"
 year: 2021
 director: "Antoneta Alamat Kusijanović"
+actors:
+  - "Gracija Filipović"
+  - "Danica Ćurčić"
+  - "Leon Lučev"
 country: "Croatia"
 rating: 4.5
 lists:

@@ -2,6 +2,10 @@
 title: "Touch"
 year: 2023
 director: "Baltasar Kormákur"
+actors:
+  - "Egill Ólafsson"
+  - "Kōki"
+  - "Pálmi Kormákur Baltasarsson"
 country: "Iceland"
 rating: 4.5
 lists:

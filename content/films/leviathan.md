@@ -3,6 +3,10 @@ title: "Leviathan"
 original_title: "Leviafan"
 year: 2014
 director: "Andrey Zvyagintsev"
+actors:
+  - "Aleksey Serebryakov"
+  - "Elena Lyadova"
+  - "Vladimir Vdovichenkov"
 country: "Russia"
 rating: 4
 lists:

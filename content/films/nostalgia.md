@@ -2,6 +2,10 @@
 title: "Nostalgia"
 year: 2022
 director: "Mario Martone"
+actors:
+  - "Pierfrancesco Favino"
+  - "Francesco Di Leva"
+  - "Tommaso Ragno"
 country: "Italy"
 rating: 4
 lists:

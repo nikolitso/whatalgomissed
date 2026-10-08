@@ -3,6 +3,10 @@ title: "Mostly Martha"
 original_title: "Bella Martha"
 year: 2001
 director: "Sandra Nettelbeck"
+actors:
+  - "Martina Gedeck"
+  - "Maxime Foerste"
+  - "Sergio Castellitto"
 country: "Germany"
 rating: 4
 lists:

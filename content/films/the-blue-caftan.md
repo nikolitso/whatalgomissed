@@ -3,6 +3,10 @@ title: "The Blue Caftan"
 original_title: "Le Bleu du Caftan"
 year: 2022
 director: "Maryam Touzani"
+actors:
+  - "Lubna Azabal"
+  - "Saleh Bakri"
+  - "Ayoub Messioui"
 country: "Morocco"
 rating: 4
 lists:

@@ -3,6 +3,10 @@ title: "What Will People Say"
 original_title: "Hva vil folk si"
 year: 2017
 director: "Iram Haq"
+actors:
+  - "Maria Mozhdah"
+  - "Adil Hussain"
+  - "Ekavali Khanna"
 country: "Norway"
 rating: 4
 lists:

@@ -3,6 +3,10 @@ title: "The Manual of Love"
 original_title: "Manuale d'Amore"
 year: 2005
 director: "Giovanni Veronesi"
+actors:
+  - "Carlo Verdone"
+  - "Silvio Muccino"
+  - "Luciana Littizzetto"
 country: "Italy"
 rating: 4
 lists:

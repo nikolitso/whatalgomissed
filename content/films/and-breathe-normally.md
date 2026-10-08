@@ -3,6 +3,10 @@ title: "And Breathe Normally"
 original_title: "Andið Eðlilega"
 year: 2018
 director: "Ísold Uggadóttir"
+actors:
+  - "Kristín Þóra Haraldsdóttir"
+  - "Babetida Sadjo"
+  - "Patrik Nökkvi Pétursson"
 country: "Iceland"
 rating: 4.5
 lists:

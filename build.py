@@ -224,7 +224,8 @@ for f in load_dir("content/films"):
     f["lists"] = as_list(f.get("lists"))
     f["festivals"] = as_list(f.get("festivals"))
     f["awards"] = as_list(f.get("awards"))
-    f["country"] = str(f.get("country") or "").strip()
+    f["actors"] = [a.strip() for a in as_list(f.get("actors")) if a.strip()]
+    f["country"] =str(f.get("country") or "").strip()
     f["countries"] = [c.strip() for c in re.split(r"[/,·]", f["country"]) if c.strip()]
     f["decade"] = f"{f['year'] // 10 * 10}s" if f["year"] else ""
     f["must_see"] = f["rating"] >= 4.5
@@ -283,7 +284,10 @@ COUNTRIES = defaultdict(list)
 DECADES = defaultdict(list)
 FESTIVALS = defaultdict(list)
 DIRECTORS = defaultdict(list)
+ACTORS = defaultdict(list)
 for f in FILMS:
+    for a in f["actors"]:
+        ACTORS[a].append(f)
     if f.get("director"):
         DIRECTORS[str(f["director"]).strip()].append(f)
     for c in f["countries"]:
@@ -364,7 +368,7 @@ def img_tag(src, fb, alt="", cls="", eager=False):
 
 def card(f, show_list=True, note=""):
     lst = f["lists"][0] if f["lists"] and show_list else ""
-    data = (f'data-title="{esc(f["title"].lower())} {esc((f.get("original_title") or "").lower())} {esc(str(f.get("director") or "").lower())}" '
+    data = (f'data-title="{esc(f["title"].lower())} {esc((f.get("original_title") or "").lower())} {esc(str(f.get("director") or "").lower())} {esc(" ".join(f["actors"]).lower())}" '
             f'data-lists="{esc("|".join(slugify(x) for x in f["lists"]))}" '
             f'data-country="{esc("|".join(slugify(c) for c in f["countries"]))}" '
             f'data-decade="{esc(f["decade"])}" data-year="{f["year"]}" data-rating="{f["rating"]}" data-added="{esc(f["added"])}"')
@@ -418,6 +422,7 @@ def director_url(d): return f"/director/{ascii_slug(d)}/"
 def director_link(f):
     d = str(f.get("director") or "").strip()
     return f'<a href="{director_url(d)}">{esc(d)}</a>' if d else ""
+def actor_url(a): return f"/actor/{ascii_slug(a)}/"
 def list_url(name):
     l = LIST_BY_NAME.get(name.lower())
     return l["url"] if l else f"/lists/{slugify(name)}/"
@@ -527,6 +532,7 @@ def build_film(f):
         "@context": "https://schema.org", "@type": "Review",
         "itemReviewed": {"@type": "Movie", "name": f["title"], "dateCreated": str(f["year"]),
                           "director": {"@type": "Person", "name": f.get("director") or ""},
+                          "actor": [{"@type": "Person", "name": a} for a in f["actors"]],
                           "image": f["img_fb"] if f["img_fb"].startswith("http") else SITE_URL + f["img_fb"]},
         "author": {"@type": "Person", "name": "Antonis Nikolitsopoulos"},
         "reviewRating": {"@type": "Rating", "ratingValue": f["rating"], "bestRating": 5, "worstRating": 0.5},
@@ -561,6 +567,7 @@ def build_film(f):
   <aside class="film-side">
     <dl class="facts">
       <dt>Director</dt><dd>{director_link(f) or '—'}</dd>
+      {f'<dt>Starring</dt><dd><div class="chips">{"".join(chip(a, actor_url(a)) for a in f["actors"])}</div></dd>' if f["actors"] else ''}
       <dt>Country</dt><dd>{' / '.join(f'<a href="{country_url(c)}">{esc(c)}</a>' for c in f['countries']) or '—'}</dd>
       <dt>Year</dt><dd><a href="{decade_url(f['decade'])}">{f['year']}</a></dd>
       <dt>My rating</dt><dd class="stars big">{stars(f['rating'])}</dd>
@@ -609,6 +616,8 @@ def build_taxonomies():
         build_category("Decade", d, decade_url(d), fs)
     for d, fs in DIRECTORS.items():
         build_category("Director", d, director_url(d), fs, f"{len(fs)} film{'s' if len(fs) != 1 else ''} by {d} in this collection.")
+    for a, fs in ACTORS.items():
+        build_category("Actor", a, actor_url(a), fs, f"{len(fs)} film{'s' if len(fs) != 1 else ''} with {a} in this collection.")
     for fe, fs in FESTIVALS.items():
         build_category("Festivals & Awards", fe, festival_url(fe), fs, f"Films recognised at {fe}.", sort=by_year)
     build_category("Start here", "Must See", "/must-see/", MUST_SEE,

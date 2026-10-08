@@ -3,6 +3,10 @@ title: "The Priest's Children"
 original_title: "Svećenikova Djeca"
 year: 2013
 director: "Vinko Brešan"
+actors:
+  - "Krešimir Mikić"
+  - "Nikša Butijer"
+  - "Marija Škaričić"
 country: "Croatia"
 rating: 4
 lists:

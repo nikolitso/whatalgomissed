@@ -3,6 +3,10 @@ title: "The Trap"
 original_title: "Klopka"
 year: 2007
 director: "Srdan Golubovic"
+actors:
+  - "Nebojša Glogovac"
+  - "Nataša Ninković"
+  - "Anica Dobra"
 country: "Serbia"
 rating: 4
 lists:

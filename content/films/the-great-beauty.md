@@ -3,6 +3,10 @@ title: "The Great Beauty"
 original_title: "La Grande Bellezza"
 year: 2013
 director: "Paolo Sorrentino"
+actors:
+  - "Toni Servillo"
+  - "Carlo Verdone"
+  - "Sabrina Ferilli"
 country: "Italy"
 rating: 4
 lists:

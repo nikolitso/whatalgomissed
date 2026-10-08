@@ -2,6 +2,10 @@
 title: "Linha de Passe"
 year: 2008
 director: "Walter Salles"
+actors:
+  - "Sandra Corveloni"
+  - "Vinícius de Oliveira"
+  - "João Baldasserini"
 country: "Brazil"
 rating: 4
 lists:

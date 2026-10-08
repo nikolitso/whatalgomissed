@@ -3,6 +3,10 @@ title: "Facing Windows"
 original_title: "La Finestra di Fronte"
 year: 2003
 director: "Ferzan Özpetek"
+actors:
+  - "Giovanna Mezzogiorno"
+  - "Raoul Bova"
+  - "Massimo Girotti"
 country: "Italy"
 rating: 4
 lists:
