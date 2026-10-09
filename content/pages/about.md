@@ -1,7 +1,7 @@
 ---
 title: "About"
 ---
-Some films take years to find you. Others never do.
+Some films take years to find you. This is where they can.
 
 This is a personal map of world cinema — built from the conviction that the most honest, most alive filmmaking often comes from places the algorithm has no reason to recommend. From Greek apartments sweltering in August heat. From Danish families sitting down to dinners that will take decades to recover from. From Iranian directors making films under impossible pressure. From Palestinian men crossing walls to reach their children.
 
