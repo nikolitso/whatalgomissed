@@ -422,7 +422,7 @@ function answer(qIndex, value) {
 function score(film) {
   let s = 0;
   if (film.mood.includes(answers[0])) s += 4;
-  if (film.region.includes(answers[1])) s += 4;
+  if (film.region.includes(answers[1])) s += 5;
   if (film.theme.includes(answers[2])) s += 3;
   if (film.intensity.includes(answers[3])) s += 3;
   if (film.protagonist.includes(answers[4]) || answers[4]==='any') s += 2;
@@ -438,8 +438,10 @@ function showResults() {
   document.getElementById('progressBar').style.display = 'none';
   document.querySelector('.progress-text').style.display = 'none';
 
-  const scored = films.map(f => ({...f, score: score(f)}));
+  let scored = films.map(f => ({...f, score: score(f)}));
   scored.sort((a,b) => b.score - a.score);
+  // Immigration is a promise: all three films must be about it
+  if (answers[2] === 'migration') scored = scored.filter(f => f.theme.includes('migration'));
 
   const top = [];
   const usedCountries = new Set();
