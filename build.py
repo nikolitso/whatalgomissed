@@ -791,7 +791,7 @@ def build_finder():
                    img=f["img"], fb=f["img_fb"])
         data.append(rec)
     tpl = open(tpl_path, encoding="utf-8").read().replace("__FINDER_DATA__", json.dumps(data, ensure_ascii=False))
-    body = page_head("Film Finder", "Find your next film", "Six questions. Three films chosen for this exact moment.") + \
+    body = page_head("Film Finder", "Find your next film", "Six questions. Three films, chosen for tonight.") + \
         f'<section class="section finder"><div class="wrap">{tpl}</div></section>'
     write("/finder/", layout("Film Finder", body, "/finder/"))
 
