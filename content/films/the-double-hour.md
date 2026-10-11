@@ -15,6 +15,7 @@ festivals:
   - "Venice"
 awards:
   - "Best Actress · Venice · Kseniya Rappoport"
+x_post: "A chambermaid and a former policeman meet at a speed-dating evening in Turin, and nothing is what it seems. A clever, twisty Italian thriller."
 trailer: "https://www.youtube.com/watch?v=KaNIk-mXB54"
 image: ""
 added: 2026-05-14

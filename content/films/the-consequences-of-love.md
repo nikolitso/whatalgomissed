@@ -13,6 +13,7 @@ lists:
   - "Italia"
 awards:
   - "5 David di Donatello Awards"
+x_post: "A mysterious Italian man has lived silently in a Swiss hotel for eight years. Paolo Sorrentino's stylish, hypnotic early film with Toni Servillo."
 trailer: "https://www.youtube.com/watch?v=uDE9J0zPd00"
 image: ""
 added: 2026-05-14

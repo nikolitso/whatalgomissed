@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Palme d'Or · Cannes"
   - "Best Actress · Cannes"
+x_post: "A young Black optometrist in London traces her birth mother, and finds a white working-class woman with secrets of her own. Mike Leigh's wonderful Palme d'Or winner."
 trailer: "https://www.youtube.com/watch?v=iZhqklQMcjA"
 image: ""
 added: 2026-10-05

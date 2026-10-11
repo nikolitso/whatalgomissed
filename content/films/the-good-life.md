@@ -13,6 +13,7 @@ lists:
   - "The World"
 awards:
   - "Goya · Best Spanish Language Foreign Film"
+x_post: "Four lives in Santiago, each chasing a goal that keeps slipping away. A melancholy, honest Chilean drama."
 trailer: "https://www.youtube.com/watch?v=r73-d1eg8_M"
 image: ""
 added: 2026-05-14

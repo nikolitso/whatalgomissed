@@ -17,6 +17,7 @@ festivals:
 awards:
   - "Queer Lion · Venice"
   - "Silver Alexander · Thessaloniki"
+x_post: "One long summer in an Icelandic fishing village and two best friends on the edge of adolescence. A beautiful, heartbreaking coming-of-age film."
 trailer: "https://www.youtube.com/watch?v=EIolgEvMAJ8"
 image: ""
 added: 2026-10-05

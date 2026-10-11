@@ -15,6 +15,7 @@ festivals:
   - "Tribeca"
 awards:
   - "Best Director · Tribeca"
+x_post: "A teacher in Tel Aviv becomes obsessed with a five-year-old boy who seems to be a poetic genius. A strange, unsettling and fascinating drama."
 trailer: "https://www.youtube.com/watch?v=S7Tpamr2P4w"
 image: ""
 added: 2026-05-14

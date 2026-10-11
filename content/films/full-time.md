@@ -17,6 +17,7 @@ awards:
   - "Best Director & Best Actress · Venice Horizons"
   - "2 César Awards"
   - "Best Actress · Venice · Laure Calamy"
+x_post: "A single mother racing between the suburbs and a Paris luxury hotel during a transport strike. Every day is a thriller. A gripping, breathless French film."
 trailer: "https://www.youtube.com/watch?v=2tALF97oLd8"
 image: ""
 added: 2026-05-14

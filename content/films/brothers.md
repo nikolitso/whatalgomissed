@@ -11,6 +11,7 @@ country: "Denmark"
 rating: 5
 lists:
   - "Danmark"
+x_post: "A soldier is declared dead in Afghanistan, and his brother steps into his family. Then he comes home. Susanne Bier's powerful, devastating Danish drama."
 trailer: "https://www.youtube.com/watch?v=P5e2IM4QAMY"
 image: ""
 added: 2026-05-14

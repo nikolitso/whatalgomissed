@@ -17,6 +17,7 @@ festivals:
 awards:
   - "Oscar · Best International Film"
   - "Golden Bear · Berlin"
+x_post: "A couple in Tehran separates, a caregiver is hired, and one small incident spirals into a moral earthquake. Asghar Farhadi's Oscar-winning masterpiece."
 trailer: "https://www.youtube.com/watch?v=58Onuy5USTc"
 image: ""
 added: 2026-05-14

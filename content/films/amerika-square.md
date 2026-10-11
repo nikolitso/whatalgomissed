@@ -17,6 +17,7 @@ festivals:
 awards:
   - "Best Film · Thessaloniki Film Festival"
   - "1 Hellenic Film Academy Award"
+x_post: "An Athens square during the crisis: a refugee, a Greek man who wants the foreigners gone, and a friend caught in between. A bold, timely Greek drama."
 trailer: "https://www.youtube.com/watch?v=kIkr9yXzN7Q"
 image: ""
 added: 2026-05-14

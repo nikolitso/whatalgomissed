@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "Best Actor · Cannes · Mads Mikkelsen"
+x_post: "A kindergarten teacher is falsely accused, and a whole village turns against him. Mads Mikkelsen won Best Actor at Cannes. One of the essential Danish films."
 trailer: "https://www.youtube.com/watch?v=1lbCBhCqhBs"
 image: ""
 added: 2026-05-14

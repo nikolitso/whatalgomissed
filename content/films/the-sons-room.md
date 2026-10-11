@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "Palme d'Or · Cannes"
+x_post: "A psychoanalyst's family in a quiet Italian town is shattered by sudden loss. Nanni Moretti's restrained, devastating Palme d'Or winner."
 trailer: "https://www.youtube.com/watch?v=zzamSDDEuRA"
 image: ""
 added: 2026-05-14

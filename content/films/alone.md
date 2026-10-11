@@ -11,6 +11,7 @@ country: "Turkey"
 rating: 4.5
 lists:
   - "Europa"
+x_post: "A successful Istanbul chef with a perfect, solitary life falls in love, and discovers how much he fears it. A melancholy Turkish drama about loneliness and love."
 trailer: "https://www.youtube.com/watch?v=eFkKOG0uzpo"
 image: ""
 added: 2026-05-14

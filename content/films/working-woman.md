@@ -16,6 +16,7 @@ festivals:
   - "Toronto"
 awards:
   - "TIFF · Official Selection"
+x_post: "An Israeli mother lands her dream job, and her boss starts to harass her. A quiet, tense and important film about power."
 trailer: "https://www.youtube.com/watch?v=JMzldI-aCtM"
 image: ""
 added: 2026-05-14

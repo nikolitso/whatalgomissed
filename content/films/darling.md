@@ -10,6 +10,7 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
+x_post: "A famous Danish ballerina's career is suddenly over, and she begins training her replacement. An elegant, grown-up film about identity and ambition."
 trailer: "https://www.youtube.com/watch?v=raS3NhyWxHo"
 image: ""
 added: 2026-05-14

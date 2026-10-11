@@ -13,6 +13,7 @@ lists:
   - "Danmark"
 awards:
   - "Nordic Council Film Prize"
+x_post: "A respected teacher falls for a young radical, and a political act ends in a death. A sharp, devastating Danish drama about guilt and love."
 trailer: "https://www.youtube.com/watch?v=B9l5Z8iWSyU"
 image: ""
 added: 2026-05-14

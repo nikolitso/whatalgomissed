@@ -17,6 +17,7 @@ festivals:
 awards:
   - "Directing Award · Sundance"
   - "9 Edda Awards · Won Best Film"
+x_post: "A struggling Icelandic mother training as a border guard stops an asylum seeker, and their lives begin to cross. A quiet, humane film about two women and a border."
 trailer: "https://www.youtube.com/watch?v=8UHY8K6nLoc"
 image: ""
 added: 2026-05-14

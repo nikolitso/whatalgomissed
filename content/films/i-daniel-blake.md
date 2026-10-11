@@ -14,6 +14,7 @@ festivals:
   - "Cannes"
 awards:
   - "Palme d'Or · Cannes"
+x_post: "A carpenter in Newcastle fights a benefits system designed to wear him down. Ken Loach's plain, humane and furious Palme d'Or winner."
 trailer: "https://www.youtube.com/watch?v=ahWgxw9E_h4"
 image: ""
 added: 2026-10-05

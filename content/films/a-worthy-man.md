@@ -11,6 +11,7 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
+x_post: "A respected Danish man has lived his whole life in the closet. Late in life, he finally decides to be himself. A warm, gentle and surprisingly funny film."
 trailer: "https://www.youtube.com/watch?v=Wdw2ztXh9EI"
 image: ""
 added: 2026-05-14

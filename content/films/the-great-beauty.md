@@ -15,6 +15,7 @@ festivals:
   - "Oscars"
 awards:
   - "Oscar · Best International Film"
+x_post: "A writer turns 65 among the endless parties of Rome and looks for the beauty he lost. Paolo Sorrentino's dazzling Oscar winner."
 trailer: "https://www.youtube.com/watch?v=Dyt430YkQn0"
 image: ""
 added: 2026-05-14

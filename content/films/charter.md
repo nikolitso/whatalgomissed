@@ -13,6 +13,7 @@ lists:
   - "Norden"
 awards:
   - "4 Guldbagge Awards · Inc. Best Director"
+x_post: "A mother in a bitter custody battle takes her children to Tenerife without telling anyone. A tense, intimate drama about love and control."
 trailer: "https://www.youtube.com/watch?v=KwQAqW9GW0k"
 image: ""
 added: 2026-05-14

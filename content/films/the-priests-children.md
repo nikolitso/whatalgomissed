@@ -15,6 +15,7 @@ festivals:
   - "Thessaloniki"
 awards:
   - "Audience Award · Thessaloniki"
+x_post: "A young priest on a Croatian island tries to raise the birth rate by sabotaging condoms. A wicked, funny Balkan black comedy."
 trailer: "https://www.youtube.com/watch?v=4r7X2XvI6uY"
 image: ""
 added: 2026-10-09

@@ -18,6 +18,7 @@ awards:
   - "Palme d'Or · Cannes"
   - "4 Academy Awards · Won Best Picture"
   - "Oscar · Best Picture"
+x_post: "A poor family in Seoul cons its way into the home of a rich one. Bong Joon-ho's brilliant, funny and shocking Oscar winner."
 trailer: "https://www.youtube.com/watch?v=G_dsAORuPmg"
 image: ""
 added: 2026-05-14

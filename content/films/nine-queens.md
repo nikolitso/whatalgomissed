@@ -13,6 +13,7 @@ lists:
   - "The World"
 awards:
   - "7 Argentine Film Critics Association Awards"
+x_post: "Two con men in Buenos Aires and one day to sell a sheet of rare forged stamps. A brilliant, twisty Argentine crime comedy."
 trailer: "https://www.youtube.com/watch?v=6svbO5QLzuc"
 image: ""
 added: 2026-05-14

@@ -10,6 +10,7 @@ country: "Italy"
 rating: 4.5
 lists:
   - "Italia"
+x_post: "The true story of Rocco Granata, the son of an Italian coal miner in Belgium, who wrote the hit song Marina. A warm, charming film about migration and music."
 trailer: "https://www.youtube.com/watch?v=i2A87iNexUM"
 image: ""
 added: 2026-05-14

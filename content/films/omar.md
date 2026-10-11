@@ -17,6 +17,7 @@ festivals:
 awards:
   - "Special Jury Prize · Cannes"
   - "Oscar Nominated · Best Foreign Film"
+x_post: "A young Palestinian baker climbs the separation wall to see the girl he loves, until one night changes everything. A tense, tragic thriller about love and betrayal."
 trailer: "https://www.youtube.com/watch?v=427jAYBe6aE"
 image: ""
 added: 2026-05-14

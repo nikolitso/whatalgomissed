@@ -11,6 +11,7 @@ country: "Iceland"
 rating: 4.5
 lists:
   - "Norden"
+x_post: "Reykjavík just before the crash: three lives drawing closer, a young mother, a banker and a ruined poet. A gripping, generous Icelandic drama."
 trailer: "https://www.youtube.com/watch?v=GBpoyHLZ78U"
 image: ""
 added: 2026-10-09

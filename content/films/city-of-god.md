@@ -16,6 +16,7 @@ festivals:
   - "Oscars"
 awards:
   - "4 Oscar Nominations · Inc. Best Director"
+x_post: "A boy with a camera grows up in a Rio favela as children with guns take over. Electrifying, shocking and essential. One of the great films of the century."
 trailer: "https://www.youtube.com/watch?v=dcUOO4Itgmw"
 image: ""
 added: 2026-10-05

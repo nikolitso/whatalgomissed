@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "Best Director · Cannes"
+x_post: "Nanni Moretti rides his Vespa through an empty Rome, visits the Aeolian islands and faces a mysterious illness. A light, profound and joyful film."
 trailer: "https://www.youtube.com/watch?v=C_l75RaVadc"
 image: ""
 added: 2026-10-05

@@ -11,6 +11,7 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
+x_post: "A man's sister dies on her wedding night, and he travels to a cold Danish town to find out why. A dark, atmospheric thriller."
 trailer: "https://www.youtube.com/watch?v=c9A_n5U3qb8"
 image: ""
 added: 2026-05-14

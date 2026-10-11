@@ -19,6 +19,7 @@ awards:
   - "Grand Prix · Cannes"
   - "Golden Globe · Best Supporting Actor (Stellan Skarsgård)"
   - "9 Oscar Nominations"
+x_post: "Two sisters, an estranged filmmaker father and the family house in Oslo where generations of pain are stored. Funny, painful and full of grace. Oscar winner."
 trailer: "https://www.youtube.com/watch?v=lKbcKQN5Yrw"
 image: ""
 added: 2026-10-09

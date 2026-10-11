@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "FIPRESCI Prize · Cannes"
+x_post: "A master tailor in Morocco, his dying wife and the young apprentice who changes their lives. A tender, beautiful film about love and acceptance."
 trailer: "https://www.youtube.com/watch?v=FhZVWrj7754"
 image: ""
 added: 2026-05-14

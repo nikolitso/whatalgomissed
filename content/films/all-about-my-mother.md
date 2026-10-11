@@ -17,6 +17,7 @@ festivals:
 awards:
   - "Oscar · Best Foreign Language Film"
   - "Best Director · Cannes"
+x_post: "After losing her son, a nurse travels to Barcelona and finds a family of women who hold each other up. Almodóvar's warm, tragic, funny masterpiece."
 trailer: "https://www.youtube.com/watch?v=5Va7Z7O-LMc"
 image: ""
 added: 2026-10-05

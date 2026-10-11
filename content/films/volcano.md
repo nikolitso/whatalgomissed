@@ -13,6 +13,7 @@ lists:
   - "Norden"
 awards:
   - "5 Edda Awards"
+x_post: "A retired caretaker in Reykjavík has to care for his wife after she falls ill. A quiet, devastating Icelandic film about love late in life."
 trailer: "https://www.youtube.com/watch?v=qLUkOxHigVg"
 image: ""
 added: 2026-05-14

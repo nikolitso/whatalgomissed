@@ -18,6 +18,7 @@ awards:
   - "Best Director · Venice"
   - "Silver Alexander · Thessaloniki"
   - "FIPRESCI Prize · Thessaloniki"
+x_post: "A forensic pathologist in Tehran hits a family on a motorbike. Days later the boy dies, and his conscience will not let him rest. A tense moral thriller."
 trailer: "https://www.youtube.com/watch?v=RpgV-T955Yg"
 image: ""
 added: 2026-05-14

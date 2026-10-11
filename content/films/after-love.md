@@ -16,6 +16,7 @@ festivals:
 awards:
   - "BAFTA · Best Actress (Joanna Scanlan)"
   - "Best Actress · Thessaloniki"
+x_post: "Days after her husband's funeral, a woman in Dover finds his secret life across the Channel. Joanna Scanlan won the BAFTA for this small, devastating, beautiful film."
 trailer: "https://www.youtube.com/watch?v=3ZJN3ubwKek"
 image: ""
 added: 2026-10-09

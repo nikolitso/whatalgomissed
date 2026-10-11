@@ -17,6 +17,7 @@ awards:
   - "Berlin · Nominee Golden Bear"
   - "Hellenic Film Academy · 7 Wins"
   - "4 Hellenic Film Academy Awards"
+x_post: "An ex-con works nights in a bread factory and days as a hitman, saving every euro for one purpose. A cold, powerful Greek noir."
 trailer: "https://www.youtube.com/watch?v=2RJQWPCuWs0"
 image: ""
 added: 2026-05-14

@@ -11,6 +11,7 @@ country: "Sweden"
 rating: 4
 lists:
   - "Norden"
+x_post: "An eighteen-year-old with ADHD in Gothenburg can't afford her medication, and falls in love at the worst possible moment. Funny, honest and full of life."
 trailer: "https://www.youtube.com/watch?v=c61vNTuptyY"
 image: ""
 added: 2026-10-05

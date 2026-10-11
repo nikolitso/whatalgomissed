@@ -17,6 +17,7 @@ festivals:
 awards:
   - "Oscar · Best International Film"
   - "Best Screenplay · Cannes"
+x_post: "A Tehran couple moves into a new apartment, and an attack on the wife sets off a quiet hunt for revenge. Asghar Farhadi's Oscar-winning thriller."
 trailer: "https://www.youtube.com/watch?v=r-61yYjKHHc"
 image: ""
 added: 2026-05-14

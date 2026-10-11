@@ -15,6 +15,7 @@ festivals:
 awards:
   - "Special Jury Prize · Venice"
   - "2 German Film Award Nominations"
+x_post: "A German-Greek restaurant owner in Hamburg tries to save his ramshackle place and his life. Fatih Akin's warm, funny, music-filled comedy."
 trailer: "https://www.youtube.com/watch?v=HCWkNDXHFI4"
 image: ""
 added: 2026-05-14

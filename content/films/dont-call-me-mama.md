@@ -12,6 +12,7 @@ rating: "4.5"
 lists:
   - Norden
   - "Strangers"
+x_post: "A middle-aged Norwegian woman falls for a young asylum seeker, and her family and town turn against her. A bold, challenging and powerful drama."
 trailer: https://youtu.be/5kH3148Xrq8?si=hk2ane243pzqVHY4
 image: ""
 added: 2026-10-02

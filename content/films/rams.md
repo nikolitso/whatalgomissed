@@ -18,6 +18,7 @@ awards:
   - "Un Certain Regard Prize · Cannes"
   - "Golden Alexander · Thessaloniki"
   - "Edda Award · Best Film"
+x_post: "Two Icelandic brothers who haven't spoken in forty years must fight together to save their sheep. Funny, tender and unforgettable."
 trailer: "https://www.youtube.com/watch?v=SWOFWaltGRw"
 image: ""
 added: 2026-10-09

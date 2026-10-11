@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Golden Globe · Best Foreign Film"
   - "Oscar Nominated"
+x_post: "Two childhood friends in Nablus are chosen for a suicide mission in Tel Aviv. A tense, troubling and essential film."
 trailer: "https://www.youtube.com/watch?v=AhvNx2ZwRvY"
 image: ""
 added: 2026-05-14

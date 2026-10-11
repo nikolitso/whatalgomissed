@@ -11,6 +11,7 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
+x_post: "A family gathers for a final weekend with a mother who has chosen to die. A quiet, sad and surprisingly funny Danish drama."
 trailer: "https://www.youtube.com/watch?v=kl8CRvRJfvM"
 image: ""
 added: 2026-10-09

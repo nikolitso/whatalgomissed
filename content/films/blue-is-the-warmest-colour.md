@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "Palme d'Or · Cannes"
+x_post: "Adèle meets Emma, a young woman with blue hair, and her life changes for years to come. An overwhelming love story and Palme d'Or winner."
 trailer: "https://www.youtube.com/watch?v=EO0abB6gJEw"
 image: ""
 added: 2026-10-05

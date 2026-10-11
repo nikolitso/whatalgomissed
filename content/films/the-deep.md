@@ -15,6 +15,7 @@ festivals:
   - "Oscars"
 awards:
   - "Oscar Shortlist · Best Foreign Language Film"
+x_post: "An Icelandic fisherman survives six hours in the freezing sea after his boat sinks. A simple, powerful true story. A must see."
 trailer: "https://www.youtube.com/watch?v=7ec3S_57OHM"
 image: ""
 added: 2026-10-09

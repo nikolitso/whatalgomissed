@@ -11,6 +11,7 @@ country: "Spain"
 rating: 4
 lists:
   - "Europa"
+x_post: "A gay chef in Madrid chasing a Michelin star suddenly has to become a father to two kids he barely knows. A warm, funny Spanish comedy."
 trailer: "https://www.youtube.com/watch?v=UCEEr_diK7A"
 image: ""
 added: 2026-10-05

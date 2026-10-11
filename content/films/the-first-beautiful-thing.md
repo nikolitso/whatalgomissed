@@ -13,6 +13,7 @@ lists:
   - "Italia"
 awards:
   - "3 David di Donatello Awards"
+x_post: "A gloomy teacher returns to Livorno to sit with his dying mother, a woman whose beauty shaped his whole childhood. Funny and moving."
 trailer: "https://www.youtube.com/watch?v=WWEuMIljt_E"
 image: ""
 added: 2026-05-14

@@ -13,6 +13,7 @@ lists:
   - "The World"
 awards:
   - "11 Brazilian Academy Awards"
+x_post: "A young photocopier operator in Porto Alegre falls for the girl across the street and starts printing his own money. A clever, charming Brazilian comedy."
 trailer: "https://www.youtube.com/watch?v=W-kIOdqvg1c"
 image: ""
 added: 2026-05-14

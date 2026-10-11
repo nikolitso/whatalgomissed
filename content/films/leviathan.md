@@ -18,6 +18,7 @@ awards:
   - "Best Screenplay · Cannes"
   - "Golden Globe · Best Foreign Language Film"
   - "Oscar Nominated · Best Foreign Language Film"
+x_post: "In a town on the Barents Sea, a mechanic fights a corrupt mayor for his family's land. Andrey Zvyagintsev's great, heavy, unforgettable tragedy."
 trailer: "https://www.youtube.com/watch?v=2oo7H25kirk"
 image: ""
 added: 2026-10-05

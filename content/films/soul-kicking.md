@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Cannes · Critics' Week"
   - "Cannes · Critics' Week Selection"
+x_post: "A Greek man trapped by money, work and love, slowly losing his way. A raw, intense portrait of crisis."
 trailer: "https://www.youtube.com/watch?v=cC-aAW5J1Kc"
 image: ""
 added: 2026-05-14

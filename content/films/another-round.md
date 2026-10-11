@@ -15,6 +15,7 @@ festivals:
   - "Oscars"
 awards:
   - "Oscar · Best International Film"
+x_post: "Four tired teachers test a theory: that life is better with a little alcohol in the blood. Mads Mikkelsen is extraordinary in Thomas Vinterberg's Oscar winner."
 trailer: "https://www.youtube.com/watch?v=40X5EX6Us7c"
 image: "/images/another-round.jpg"
 added: 2026-05-14

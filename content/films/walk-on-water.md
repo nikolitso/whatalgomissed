@@ -14,6 +14,7 @@ festivals:
   - "Berlinale"
 awards:
   - "Berlin Panorama · Audience Award"
+x_post: "A Mossad agent is assigned to track down a Nazi war criminal through his grandson, and starts to question everything. A gripping Israeli drama."
 trailer: "https://www.youtube.com/watch?v=P_-_w_jm1NY"
 image: ""
 added: 2026-05-14

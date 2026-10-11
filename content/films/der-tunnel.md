@@ -10,6 +10,7 @@ country: "Germany"
 rating: 4
 lists:
   - "Europa"
+x_post: "Berlin, 1961. A champion swimmer escapes to the West and starts digging a tunnel under the Wall to bring his family over. A gripping true story."
 trailer: "https://www.youtube.com/watch?v=fkfdD6nng30"
 image: ""
 added: 2026-05-14

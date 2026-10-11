@@ -15,6 +15,7 @@ festivals:
   - "Venice"
 awards:
   - "David di Donatello · Best Actress"
+x_post: "A Chinese woman working in a bar in Chioggia befriends an old fisherman, and the town doesn't like it. A delicate, poetic Italian film."
 trailer: "https://www.youtube.com/watch?v=RRdej8lYUXU"
 image: ""
 added: 2026-10-05

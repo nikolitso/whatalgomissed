@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "Two old friends, a hospital in Kenya and a secret from Rome. A clever, underseen Italian comedy with a moral sting."
 trailer: "https://www.youtube.com/watch?v=IeTmD_9D4IQ"
 image: ""
 added: 2026-10-05

@@ -14,6 +14,7 @@ lists:
 awards:
   - "Hellenic Film Academy · Best Film"
   - "Greek State Film Awards · Best New Director"
+x_post: "A family in an Athens apartment on one sweltering day, and the explosion that has been coming for years. A dark, funny cult Greek comedy."
 trailer: "https://www.youtube.com/watch?v=ERrjqsnCUyQ"
 image: ""
 added: 2026-05-14

@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "The true story of Andrea, a sensitive, funny boy in Rome, and the bullying that ended his life. Painful, important and very moving."
 trailer: "https://www.youtube.com/watch?v=WnqtnpIAAx8"
 image: ""
 added: 2026-10-09

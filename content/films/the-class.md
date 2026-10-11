@@ -17,6 +17,7 @@ festivals:
 awards:
   - "Palme d'Or · Cannes"
   - "Oscar Nominated · Best Foreign Language Film"
+x_post: "One school year in a Paris classroom full of teenagers from every background. Laurent Cantet's funny, tense and honest Palme d'Or winner."
 trailer: "https://www.youtube.com/watch?v=lq5qNzm3w-U"
 image: ""
 added: 2026-10-05

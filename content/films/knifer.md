@@ -13,6 +13,7 @@ lists:
   - "Greece"
 awards:
   - "7 Hellenic Film Academy Awards"
+x_post: "A young man takes a job guarding his uncle's dogs on the edge of Athens and is slowly drawn into his violent world. A dark, powerful Greek drama."
 trailer: "https://www.youtube.com/watch?v=Rb0UbE_Afnw"
 image: ""
 added: 2026-05-14

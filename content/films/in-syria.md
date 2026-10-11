@@ -17,6 +17,7 @@ festivals:
 awards:
   - "Panorama Audience Award · Berlin"
   - "Audience Award · Thessaloniki"
+x_post: "One day in a besieged apartment in Syria, as a mother tries to keep everyone alive. A claustrophobic, tense and essential film about war."
 trailer: "https://www.youtube.com/watch?v=OEtw3C2nUSw"
 image: ""
 added: 2026-10-05

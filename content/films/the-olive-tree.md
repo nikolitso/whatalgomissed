@@ -11,6 +11,7 @@ country: "Spain"
 rating: 4
 lists:
   - "Europa"
+x_post: "A young woman sets out across Europe to bring back the ancient olive tree her family sold. A warm, funny and heartfelt Spanish fable."
 trailer: "https://www.youtube.com/watch?v=KC6qSUFMTEo"
 image: ""
 added: 2026-10-05

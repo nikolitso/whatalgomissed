@@ -12,6 +12,7 @@ lists:
   - "Danmark"
 awards:
   - "Nordic Council Film Prize"
+x_post: "Two brothers, scarred by a childhood tragedy, struggle with addiction and violence in Copenhagen. Thomas Vinterberg's raw, devastating drama."
 trailer: "https://www.youtube.com/watch?v=RXQsSStHI5c"
 image: ""
 added: 2026-05-14

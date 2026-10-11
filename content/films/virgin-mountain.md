@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Best Film · Tribeca"
   - "7 Edda Awards · Won Best Film"
+x_post: "A gentle, lonely giant in Iceland, still living with his mother, finally steps out into the world. Funny, tender and deeply human."
 trailer: "https://www.youtube.com/watch?v=q34DavoaEdE"
 image: ""
 added: 2026-05-14

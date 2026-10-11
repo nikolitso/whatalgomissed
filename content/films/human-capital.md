@@ -13,6 +13,7 @@ lists:
   - "Italia"
 awards:
   - "David di Donatello · Best Film"
+x_post: "A hit-and-run on Christmas Eve connects two families in wealthy northern Italy. Paolo Virzì's gripping, sharp portrait of money and class."
 trailer: "https://www.youtube.com/watch?v=CMx_5rhamTw"
 image: ""
 added: 2026-05-14

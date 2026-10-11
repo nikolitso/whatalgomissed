@@ -19,6 +19,7 @@ awards:
   - "Best International Narrative Feature · Tribeca"
   - "Hellenic Film Academy · Best Screenplay"
   - "Special Mention · Thessaloniki"
+x_post: "A Cypriot musician's dog wanders across the buffer zone into the north, and getting him back is a political absurdity. Funny, warm and quietly furious."
 trailer: "https://www.youtube.com/watch?v=9ACqXDktph0"
 image: ""
 added: 2026-05-14

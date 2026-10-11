@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "Best Actor · Cannes · Elio Germano"
+x_post: "A Roman builder loses his wife and tries to give his children everything, by any means. Elio Germano is superb in this warm, painful drama."
 trailer: "https://www.youtube.com/watch?v=RF4HPNQQJXI"
 image: ""
 added: 2026-05-14

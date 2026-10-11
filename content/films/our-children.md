@@ -11,6 +11,7 @@ country: "Italy"
 rating: 5
 lists:
   - "Italia"
+x_post: "Two brothers and their wives discover a terrible crime committed by their teenage children. A tense, chilling Italian moral drama."
 trailer: "https://www.youtube.com/watch?v=LW_xGu0nt9Y"
 image: ""
 added: 2026-05-14

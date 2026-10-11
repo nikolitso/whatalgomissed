@@ -14,6 +14,7 @@ festivals:
   - "Berlinale"
 awards:
   - "Teddy Award · Berlin"
+x_post: "A retired Georgian teacher travels to Istanbul to find her trans niece, who left home years ago. A gentle, deeply moving film about family and acceptance."
 trailer: "https://www.youtube.com/watch?v=v0NiaQyMUS0"
 image: ""
 added: 2026-05-14

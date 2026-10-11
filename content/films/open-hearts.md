@@ -11,6 +11,7 @@ country: "Denmark"
 rating: 4.5
 lists:
   - "Danmark"
+x_post: "A young man is paralysed in an accident, and his fiancée falls for the husband of the woman who hit him. Susanne Bier's raw, devastating Dogme drama."
 trailer: "https://www.youtube.com/watch?v=JyFbSMfEOhA"
 image: ""
 added: 2026-05-14

@@ -15,6 +15,7 @@ festivals:
   - "Oscars"
 awards:
   - "5 Oscar Nominations · Won Best Score"
+x_post: "A shy postman on an Italian island delivers letters to Pablo Neruda and learns the power of poetry. Gentle, funny and very moving."
 trailer: "https://www.youtube.com/watch?v=SgbbmwHpoAA"
 image: ""
 added: 2026-05-14

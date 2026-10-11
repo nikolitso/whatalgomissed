@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "A Turin pharmacist is devastated when his partner leaves him, until the film shows he once caused the same pain. Pierfrancesco Favino is superb."
 trailer: "https://www.youtube.com/watch?v=EliQqm-p-7M"
 image: ""
 added: 2026-10-05

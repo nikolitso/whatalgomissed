@@ -12,6 +12,7 @@ lists:
   - "The Middle East"
 awards:
   - "Best Film · Jerusalem Film Festival"
+x_post: "A long-married couple's quiet life near Tel Aviv is shaken by a charming new neighbour and his karaoke nights. A gentle, funny Israeli film."
 trailer: "https://www.youtube.com/watch?v=T58guT7TWQE"
 image: ""
 added: 2026-05-14

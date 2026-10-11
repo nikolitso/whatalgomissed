@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "Three Roman riot police, worn down by years of street battles, and the young recruit who joins them. Raw, loud and uncomfortable. Pierfrancesco Favino leads a superb cast."
 trailer: "https://www.youtube.com/watch?v=XSXy30lqvtw"
 image: ""
 added: 2026-10-05

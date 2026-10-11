@@ -11,6 +11,7 @@ country: "Lebanon"
 rating: 4
 lists:
   - "The Middle East"
+x_post: "An Arab-Israeli surgeon learns that his wife was the suicide bomber behind an attack in Tel Aviv. A gripping, troubling drama about identity."
 trailer: "https://www.youtube.com/watch?v=fbuANqujNPk"
 image: ""
 added: 2026-05-14

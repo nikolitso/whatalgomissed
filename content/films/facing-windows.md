@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "A tired working mother in Rome, the man in the window opposite and an old man with no memory. Ferzan Özpetek's tender, romantic drama."
 trailer: "https://www.youtube.com/watch?v=fHID8-XzJMc"
 image: ""
 added: 2026-05-14

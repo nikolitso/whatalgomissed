@@ -10,6 +10,7 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
+x_post: "A young man arrives in Denmark's toughest prison and must learn to survive. A brutal, gripping Danish prison drama."
 trailer: "https://www.youtube.com/watch?v=eckqi7BaKT4"
 image: ""
 added: 2026-05-14

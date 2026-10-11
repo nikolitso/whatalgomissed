@@ -11,6 +11,7 @@ country: "Iran"
 rating: 4
 lists:
   - "Iran"
+x_post: "A young bride-to-be cleans an apartment in Tehran and walks into a marriage full of jealousy and lies. Early Asghar Farhadi, and just as good."
 trailer: "https://www.youtube.com/watch?v=rvv67kVjKjE"
 image: ""
 added: 2026-10-05

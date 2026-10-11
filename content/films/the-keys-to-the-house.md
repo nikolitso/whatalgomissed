@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "A young father meets the disabled son he abandoned at birth and takes him on a trip to Berlin. A tender, devastating Italian film."
 trailer: "https://www.youtube.com/watch?v=bNQ0ZYKyvRg"
 image: ""
 added: 2026-05-14

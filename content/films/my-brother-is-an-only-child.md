@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "Cannes · Un Certain Regard"
+x_post: "Two brothers in 1960s Italy, one a communist, one a fascist, both in love with the same woman. A lively, funny and moving political drama."
 trailer: "https://www.youtube.com/watch?v=CD-4jzL-UfM"
 image: ""
 added: 2026-05-14

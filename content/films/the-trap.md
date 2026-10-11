@@ -11,6 +11,7 @@ country: "Serbia"
 rating: 4
 lists:
   - "Europa"
+x_post: "A Belgrade engineer needs money for his son's surgery, and is offered it in exchange for a murder. A tense, dark Serbian thriller."
 trailer: "https://www.youtube.com/watch?v=NustYsI4-xg"
 image: ""
 added: 2026-05-14

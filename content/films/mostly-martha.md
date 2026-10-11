@@ -13,6 +13,7 @@ lists:
   - "Europa"
 awards:
   - "German Film Award · Best Actor"
+x_post: "A perfectionist chef in Hamburg suddenly has to care for her young niece, and a joyful Italian cook arrives in her kitchen. A warm, delicious German film."
 trailer: "https://www.youtube.com/watch?v=cf-9-dI9h5U"
 image: ""
 added: 2026-05-14

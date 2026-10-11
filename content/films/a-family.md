@@ -15,6 +15,7 @@ festivals:
   - "Berlinale"
 awards:
   - "FIPRESCI Prize · Berlin"
+x_post: "Copenhagen's oldest bakery, a dying father and a daughter who has finally built her own life. A quietly devastating Danish drama about duty, love and what we owe our parents."
 trailer: "https://www.youtube.com/watch?v=n2uWEQFmd-Y"
 image: ""
 added: 2026-05-14

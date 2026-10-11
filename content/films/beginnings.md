@@ -15,6 +15,7 @@ festivals:
   - "Berlinale"
 awards:
   - "Berlin · Official Selection 2025"
+x_post: "A couple in the middle of a divorce is suddenly forced to stay together when tragedy strikes. A sharp, devastating Danish drama about what holds a family together."
 trailer: "https://www.youtube.com/watch?v=wrVkzVwE6JE"
 image: ""
 added: 2026-05-14

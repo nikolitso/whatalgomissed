@@ -13,6 +13,7 @@ lists:
   - "Europa"
 awards:
   - "César · Best Film"
+x_post: "A Tunisian shipyard worker in the south of France dreams of opening a couscous restaurant on a boat. A warm, generous and moving French film."
 trailer: "https://www.youtube.com/watch?v=c5YjuaQI9ck"
 image: ""
 added: 2026-05-14

@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "Special Jury Prize · Cannes"
+x_post: "A judge in Tehran's Revolutionary Court and his family, as the protests outside reach their home. A brave, furious and gripping Iranian film."
 trailer: "https://www.youtube.com/watch?v=A3P53zHCPJU"
 image: ""
 added: 2026-05-14

@@ -11,6 +11,7 @@ country: "Panama"
 rating: 4
 lists:
   - "The World"
+x_post: "A man's 45th birthday at a beach house, old friends and old jokes, until the party starts to crack. A warm, melancholy film about men and friendship."
 trailer: "https://www.youtube.com/watch?v=TsOmsfT7j0w"
 image: ""
 added: 2026-05-14

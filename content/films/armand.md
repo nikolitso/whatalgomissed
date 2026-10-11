@@ -15,6 +15,7 @@ festivals:
 awards:
   - "Caméra d'Or · Cannes"
   - "Oscar Shortlist · Best International Feature"
+x_post: "A primary school meeting about two six-year-old boys slowly turns into something strange and unsettling. Renate Reinsve is extraordinary in this Caméra d'Or winner."
 trailer: "https://www.youtube.com/watch?v=0kqGkQ1qxN0"
 image: ""
 added: 2026-10-05

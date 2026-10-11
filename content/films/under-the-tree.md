@@ -13,6 +13,7 @@ lists:
   - "Norden"
 festivals:
   - "Toronto"
+x_post: "A neighbours' dispute over a tree in a Reykjavík suburb escalates out of control. A pitch-black, very funny Icelandic film."
 trailer: "https://www.youtube.com/watch?v=tU7KeDwJCAc"
 image: ""
 added: 2026-10-05

@@ -20,6 +20,7 @@ awards:
   - "Ophir Award · Best Screenplay"
   - "Best Film · Haifa Film Festival"
   - "Silver Alexander · Thessaloniki"
+x_post: "A young Ukrainian woman arrives in Israel to marry a man she has never met, and looks at her sister's life with doubt. Tight, tense and uncomfortable."
 trailer: "https://www.youtube.com/watch?v=m4c0IsgJPmc"
 image: ""
 added: 2026-10-09

@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "Best Actress · Cannes · Zar Amir Ebrahimi"
+x_post: "A serial killer targets sex workers in Iran's holiest city, and a journalist decides to stop him. A tense, furious thriller based on a true story."
 trailer: "https://www.youtube.com/watch?v=27wZZ6O1IBc"
 image: ""
 added: 2026-05-14

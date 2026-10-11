@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Jury Prize · Cannes"
   - "6 Guldbagge Awards · Inc. Best Film"
+x_post: "An avalanche, a terrace, and a father who runs. One instinctive moment shakes a family to its core. Ruben Östlund's brilliant, uncomfortable comedy."
 trailer: "https://www.youtube.com/watch?v=Fk63RH3cJHY"
 image: ""
 added: 2026-05-14

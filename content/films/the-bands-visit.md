@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Un Certain Regard · Cannes"
   - "8 Israeli Academy Awards"
+x_post: "A small Egyptian police orchestra gets lost in a quiet Israeli town for one night. A gentle, funny and very human film."
 trailer: "https://www.youtube.com/watch?v=lihIFrH3LFc"
 image: ""
 added: 2026-05-14

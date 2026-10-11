@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Cannes · Official Competition"
   - "6 David di Donatello Awards"
+x_post: "The true story of Tommaso Buscetta, the Mafia boss who broke omertà. Pierfrancesco Favino is magnificent in Marco Bellocchio's epic."
 trailer: "https://www.youtube.com/watch?v=7nvYMRpKzak"
 image: ""
 added: 2026-05-14

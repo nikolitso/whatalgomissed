@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "A factory owner in Turin fights the banks and the crisis, and slowly loses his grip on his marriage. Pierfrancesco Favino is excellent."
 trailer: "https://www.youtube.com/watch?v=kRTUWJS663o"
 image: ""
 added: 2026-10-05

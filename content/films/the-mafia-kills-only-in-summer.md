@@ -13,6 +13,7 @@ lists:
   - "Italia"
 awards:
   - "David di Donatello · Best New Director"
+x_post: "A boy grows up in Palermo while the Mafia kills around him. A funny, tender and angry Italian comedy about Sicily."
 trailer: "https://www.youtube.com/watch?v=i7SfARhL9ws"
 image: ""
 added: 2026-05-14

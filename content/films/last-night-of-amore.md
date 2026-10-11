@@ -10,6 +10,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "A Milan cop has never fired his gun in 35 years. On his last night on the job, one favour goes very wrong. A stylish, tense Italian noir."
 trailer: "https://www.youtube.com/watch?v=c3HQjL12Ass"
 image: ""
 added: 2026-05-14

@@ -12,6 +12,7 @@ lists:
   - "The Middle East"
 awards:
   - "7 Israeli Academy Awards"
+x_post: "A German baker travels to Jerusalem after his lover dies and quietly enters the life of the widow. A delicate, tender film."
 trailer: "https://www.youtube.com/watch?v=JQ7144Mc2lw"
 image: ""
 added: 2026-05-14

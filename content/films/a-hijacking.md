@@ -15,6 +15,7 @@ festivals:
   - "Thessaloniki"
 awards:
   - "Golden Alexander · Thessaloniki"
+x_post: "A Danish cargo ship is seized by Somali pirates, and the ransom talks drag on for months. No heroes, no action scenes, just pure dread. One of the great films about institutional failure."
 trailer: "https://www.youtube.com/watch?v=IyMegiVnYwM"
 image: ""
 added: 2026-05-14

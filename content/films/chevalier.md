@@ -16,6 +16,7 @@ awards:
   - "Best Film · Hellenic Film Academy"
   - "Best Film · BFI London Film Festival"
   - "Audience Award · Thessaloniki"
+x_post: "Six men on a yacht in the Aegean play a game to decide who is best at everything. Athina Rachel Tsangari's sharp, very funny satire of masculinity."
 trailer: "https://www.youtube.com/watch?v=oxAkbc2_vds"
 image: ""
 added: 2026-05-14

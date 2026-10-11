@@ -14,6 +14,7 @@ festivals:
   - "Berlinale"
 awards:
   - "Silver Bear for Cinematography · Berlin"
+x_post: "One night in Berlin, filmed in a single take: a young Spanish woman, four local guys and a bank robbery. Exhausting and exhilarating."
 trailer: "https://www.youtube.com/watch?v=6QzAA4qEGqs"
 image: ""
 added: 2026-10-05

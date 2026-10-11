@@ -15,6 +15,7 @@ festivals:
   - "Oscars"
 awards:
   - "Oscar · Best Foreign Film"
+x_post: "A retired investigator in Buenos Aires writes about the one case he never forgot. A gripping, romantic Argentine thriller and Oscar winner."
 trailer: "https://www.youtube.com/watch?v=hKa8U-8vsfU"
 image: ""
 added: 2026-05-14

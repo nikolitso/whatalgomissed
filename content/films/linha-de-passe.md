@@ -14,6 +14,7 @@ festivals:
   - "Cannes"
 awards:
   - "Best Actress · Cannes · Sandra Corveloni"
+x_post: "A mother and four sons on the outskirts of São Paulo, each trying to find a way out. Walter Salles's warm, honest film about family and hope."
 trailer: "https://www.youtube.com/watch?v=s7GlYBs2nPU"
 image: ""
 added: 2026-05-14

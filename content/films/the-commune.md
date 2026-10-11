@@ -15,6 +15,7 @@ festivals:
   - "Berlinale"
 awards:
   - "Best Actress · Berlin · Trine Dyrholm"
+x_post: "Copenhagen in the 1970s: a family opens its huge house to a commune, and a marriage begins to crack. A warm, painful Danish drama."
 trailer: "https://www.youtube.com/watch?v=wXghS9TLPyc"
 image: ""
 added: 2026-05-14

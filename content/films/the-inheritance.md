@@ -11,6 +11,7 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
+x_post: "A man leaves his life in Sweden to run his family's industrial empire after his father's suicide. A cold, sharp Danish drama about duty and power."
 trailer: "https://www.youtube.com/watch?v=JMEIMFl0pNk"
 image: ""
 added: 2026-05-14

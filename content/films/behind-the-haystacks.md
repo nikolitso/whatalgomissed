@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Best Film · Thessaloniki Film Festival"
   - "10 Hellenic Film Academy Awards · Won Best Film"
+x_post: "A Greek family on the northern border, a father in debt who starts helping smugglers move refugees, and the price everyone pays. A powerful modern tragedy."
 trailer: "https://www.youtube.com/watch?v=5O_OX95BdjY"
 image: ""
 added: 2026-05-14

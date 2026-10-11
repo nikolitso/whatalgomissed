@@ -13,6 +13,7 @@ lists:
   - "Italia"
 awards:
   - "Most Remade Film in History · Guinness Record"
+x_post: "Seven friends at dinner agree to share every message that arrives on their phones. A brilliant, funny and cruel Italian comedy."
 trailer: "https://www.youtube.com/watch?v=WZzdVlBZwPI"
 image: ""
 added: 2026-05-14

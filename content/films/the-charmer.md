@@ -11,6 +11,7 @@ country: "Denmark"
 rating: 3.5
 lists:
   - "Danmark"
+x_post: "A young Iranian in Denmark seduces women to win residency, until he falls in love. A tense, melancholy drama about desperation."
 trailer: "https://www.youtube.com/watch?v=yTdDr75pzgA"
 image: ""
 added: 2026-05-14

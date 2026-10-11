@@ -13,6 +13,7 @@ lists:
   - "The Game"
 awards:
   - "Iranian-Israeli Co-production"
+x_post: "An Iranian judoka at the World Championships is ordered to fake an injury and lose. A tense, powerful thriller about courage."
 trailer: "https://www.youtube.com/watch?v=iXLa1gh6LWk"
 image: ""
 added: 2026-05-14

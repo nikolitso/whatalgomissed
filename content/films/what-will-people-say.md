@@ -14,6 +14,7 @@ lists:
   - "Strangers"
 awards:
   - "Amanda Award · Best Film"
+x_post: "A Norwegian-Pakistani teenager is sent to Pakistan by her family after one mistake. A tense, painful film about honour and freedom."
 trailer: "https://www.youtube.com/watch?v=CSrVQVzmXKY"
 image: ""
 added: 2026-05-14

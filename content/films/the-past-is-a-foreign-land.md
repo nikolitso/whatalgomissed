@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "A serious law student in Bari is drawn into a dangerous world of gambling by a charming new friend. A tense Italian thriller."
 trailer: "https://www.youtube.com/watch?v=toofvAuaozk"
 image: ""
 added: 2026-05-14

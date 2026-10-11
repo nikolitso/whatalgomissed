@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "Un Certain Regard Prize · Cannes"
+x_post: "Two brothers and their family across forty years of Italian history, from 1966 to 2003. Six hours that feel like a gift. A masterpiece."
 trailer: "https://www.youtube.com/watch?v=FCyBgriGfPs"
 image: ""
 added: 2026-05-14

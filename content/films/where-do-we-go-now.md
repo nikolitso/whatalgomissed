@@ -14,6 +14,7 @@ festivals:
   - "Toronto"
 awards:
   - "People's Choice Award · Toronto"
+x_post: "In a remote Lebanese village, the women will do anything to stop the men from fighting. Nadine Labaki's warm, funny and moving fable."
 trailer: "https://www.youtube.com/watch?v=-Te9c2jReOg"
 image: ""
 added: 2026-05-14

@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "Two couples and a teenage girl on a holiday in Tangier, and the lies that slowly come out. A grown-up, unsettling Italian drama."
 trailer: "https://www.youtube.com/watch?v=lFX9IZg6oaI"
 image: ""
 added: 2026-10-05

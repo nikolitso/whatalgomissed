@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "Genoa, 2001: the police raid on a school during the G8 summit. A furious, unforgettable reconstruction of one of the darkest nights in modern Italy."
 trailer: "https://www.youtube.com/watch?v=KVysTs75mBI"
 image: ""
 added: 2026-05-14

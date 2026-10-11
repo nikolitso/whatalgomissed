@@ -12,6 +12,7 @@ lists:
   - "The World"
 awards:
   - "BAFTA Nominated · Best Foreign Film"
+x_post: "A farming family moves to Manila, and the father takes a dangerous job as an armoured truck guard. A tense, gripping thriller."
 trailer: "https://www.youtube.com/watch?v=Orkhhr1lI74"
 image: ""
 added: 2026-05-14

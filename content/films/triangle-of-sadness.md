@@ -17,6 +17,7 @@ awards:
   - "Palme d'Or · Cannes"
   - "6 Guldbagge Awards · Won Best Film"
   - "3 Oscar Nominations · 6 Guldbagge Awards"
+x_post: "Models, influencers and billionaires on a luxury cruise, until everything turns upside down. Ruben Östlund's wild, funny Palme d'Or winner."
 trailer: "https://www.youtube.com/watch?v=dSsX6X9qo7I"
 image: ""
 added: 2026-05-14

@@ -11,6 +11,7 @@ rating: 4
 lists:
   - "The World"
   - "Strangers"
+x_post: "A doctor and her daughter flee Aleppo, setting off a chain that links five strangers across Syria, Turkey and the Aegean. An emotional, humane drama."
 trailer: "https://www.youtube.com/watch?v=VvGvWHHjK2o"
 image: ""
 added: 2026-10-05

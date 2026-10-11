@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Berlinale · Official Competition"
   - "3 David di Donatello Awards"
+x_post: "After his wife dies, a man waits every day on a bench outside his daughter's school. Nanni Moretti stars in this patient, humane and devastating film."
 trailer: "https://www.youtube.com/watch?v=zqO5Q_YP57Q"
 image: ""
 added: 2026-10-05

@@ -14,6 +14,7 @@ festivals:
   - "Cannes"
 awards:
   - "Cannes · Official Competition"
+x_post: "After forty years in Egypt, a man returns to Naples and is pulled back into his past. Pierfrancesco Favino is superb in Mario Martone's haunting film."
 trailer: "https://www.youtube.com/watch?v=-4Zgizzgej4"
 image: ""
 added: 2026-05-14

@@ -14,6 +14,7 @@ festivals:
   - "Berlinale"
 awards:
   - "European Film Award · Best Film"
+x_post: "To protect his fragile mother, a son keeps the GDR alive inside her bedroom after the Wall has fallen. Funny, tender and sad. A European classic."
 trailer: "https://www.youtube.com/watch?v=bznjeEx98uM"
 image: ""
 added: 2026-10-05

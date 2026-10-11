@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "An Italian chef has built a calm new life in Germany. Then two young men from his past arrive, and the past he buried in Naples comes with them. Toni Servillo is superb."
 trailer: "https://www.youtube.com/watch?v=chJoBwDEhXw"
 image: ""
 added: 2026-05-14

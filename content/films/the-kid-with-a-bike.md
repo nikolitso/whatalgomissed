@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "Grand Prix · Cannes"
+x_post: "A boy abandoned by his father in a children's home, and the hairdresser who chooses to care for him. A tense, moving film from the Dardenne brothers."
 trailer: "https://www.youtube.com/watch?v=JB7iTfrUTbk"
 image: ""
 added: 2026-10-05

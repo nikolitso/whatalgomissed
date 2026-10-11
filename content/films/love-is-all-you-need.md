@@ -11,6 +11,7 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
+x_post: "A Danish hairdresser just out of chemotherapy finds her husband with another woman, then meets a widower on the way to Italy. A warm, gentle romance."
 trailer: "https://www.youtube.com/watch?v=vuTdqysyAkE"
 image: ""
 added: 2026-05-14

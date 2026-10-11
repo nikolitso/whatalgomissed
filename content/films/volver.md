@@ -15,6 +15,7 @@ festivals:
 awards:
   - "Best Screenplay · Cannes"
   - "Best Actress (ensemble) · Cannes"
+x_post: "A working-class mother in Madrid, a secret in the freezer and a dead mother who comes back. Almodóvar's colourful, funny and moving film."
 trailer: "https://www.youtube.com/watch?v=ABSvppyQGdE"
 image: ""
 added: 2026-10-05

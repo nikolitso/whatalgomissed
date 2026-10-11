@@ -12,6 +12,7 @@ lists:
   - "Norden"
 awards:
   - "Göteborg Film Festival · Opening Film"
+x_post: "A people smuggler ends up responsible for a twelve-year-old Syrian girl on the route into Europe. A tense, humane Swedish drama about borders and conscience."
 trailer: "https://www.youtube.com/watch?v=GzR5IOuZrG8"
 image: ""
 added: 2026-05-14

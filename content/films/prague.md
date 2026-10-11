@@ -11,6 +11,7 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
+x_post: "A Danish couple travel to Prague to collect his father's body, and their marriage falls apart along the way. A quiet, sharp drama."
 trailer: "https://www.youtube.com/watch?v=9zIaKRIcio0"
 image: ""
 added: 2026-05-14

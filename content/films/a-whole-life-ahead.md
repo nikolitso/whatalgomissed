@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4.5
 lists:
   - "Italia"
+x_post: "A brilliant philosophy graduate ends up selling water purifiers in a call centre. Paolo Virzì's sharp, funny satire of a generation with everything ahead and nothing in hand."
 trailer: "https://www.youtube.com/watch?v=v5_Hr1tAuU0"
 image: ""
 added: 2026-05-14

@@ -10,6 +10,7 @@ country: "Italy"
 rating: 4.5
 lists:
   - "Italia"
+x_post: "The rise and fall of the gang that ruled Rome's underworld in the 1970s and 80s. A stylish, gripping Italian crime epic."
 trailer: "https://www.youtube.com/watch?v=yl-47r89IsI"
 image: ""
 added: 2026-05-14

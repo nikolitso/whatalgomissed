@@ -16,6 +16,7 @@ festivals:
   - "Cannes"
 awards:
   - "Best Screenplay · Cannes"
+x_post: "Six lives cross between Germany and Turkey, in a story about death, forgiveness and second chances. Fatih Akin's beautiful, humane drama."
 trailer: "https://www.youtube.com/watch?v=SbTN2t-Qor4"
 image: ""
 added: 2026-05-14

@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Jury Prize · Cannes"
   - "Oscar Nominated · Best Foreign Film"
+x_post: "A twelve-year-old boy in Beirut sues his parents for giving him life. A raw, overwhelming film from Nadine Labaki that you will never forget."
 trailer: "https://www.youtube.com/watch?v=ULUo0048xZE"
 image: ""
 added: 2026-05-14

@@ -11,6 +11,7 @@ country: "Denmark"
 rating: 3.5
 lists:
   - "Danmark"
+x_post: "A girl accuses her father of abuse, and the whole family collapses around the question nobody can answer. A hard, honest Danish drama that refuses easy answers."
 trailer: "https://www.youtube.com/watch?v=4Xyl4l7bnJM"
 image: ""
 added: 2026-05-14

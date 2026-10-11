@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4.5
 lists:
   - "Italia"
+x_post: "An elderly lawyer in Naples forms an unexpected bond with the young family next door. A quiet, mysterious film about loneliness."
 trailer: "https://www.youtube.com/watch?v=5DXjpFdDoMs"
 image: ""
 added: 2026-05-14

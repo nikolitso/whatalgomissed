@@ -15,6 +15,7 @@ festivals:
   - "Venice"
 awards:
   - "Special Jury Prize · Venice"
+x_post: "A fishing family on a tiny Sicilian island rescues migrants from the sea and hides a mother and child. Beautiful, humane and painfully relevant."
 trailer: "https://www.youtube.com/watch?v=jrDUiCO6HSU"
 image: ""
 added: 2026-10-05

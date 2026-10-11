@@ -15,6 +15,7 @@ festivals:
   - "Berlinale"
 awards:
   - "Audience Award · Berlin"
+x_post: "A Palestinian widow fights the Israeli state to save her lemon grove from the new defence minister next door. A quiet, powerful film."
 trailer: "https://www.youtube.com/watch?v=e_j1llK3Fco"
 image: ""
 added: 2026-05-14

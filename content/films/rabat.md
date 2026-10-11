@@ -10,6 +10,7 @@ country: "Netherlands"
 rating: 4
 lists:
   - "Europa"
+x_post: "Three friends drive an old taxi from Amsterdam to Rabat, and the road trip becomes a journey into who they are. A warm, funny Dutch-Moroccan film."
 trailer: "https://www.youtube.com/watch?v=EsSpPOJwIx0"
 image: ""
 added: 2026-05-14

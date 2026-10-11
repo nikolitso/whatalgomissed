@@ -15,6 +15,7 @@ festivals:
   - "Oscars"
 awards:
   - "Oscar · Best International Film"
+x_post: "A Danish doctor between Africa and home, and two boys whose friendship turns dangerous. Susanne Bier's Oscar-winning drama about violence and revenge."
 trailer: "https://www.youtube.com/watch?v=ava0Rn8nrVs"
 image: ""
 added: 2026-05-14

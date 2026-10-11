@@ -14,6 +14,7 @@ lists:
 awards:
   - "Golden Shell · San Sebastián"
   - "Goya · Best Film"
+x_post: "After the shipyard closes, a group of men in northern Spain meet every day at the same bar. Javier Bardem is magnificent in this funny, humane, heartbreaking film."
 trailer: "https://www.youtube.com/watch?v=t7fSi3KKTlM"
 image: ""
 added: 2026-10-09

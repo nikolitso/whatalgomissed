@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "A single day in Rome, and a man who cannot accept that his wife has left him. Ferzan Özpetek at his darkest: quiet, tense and deeply sad."
 trailer: "https://www.youtube.com/watch?v=i0cAhtNXV6s"
 image: ""
 added: 2026-05-14

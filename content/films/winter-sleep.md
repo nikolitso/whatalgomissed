@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "Palme d'Or · Cannes"
+x_post: "A retired actor running a hotel in Cappadocia, and the winter that brings old resentments to the surface. Nuri Bilge Ceylan's Palme d'Or winner."
 trailer: "https://www.youtube.com/watch?v=F2_H9b0H4d0"
 image: ""
 added: 2026-10-05

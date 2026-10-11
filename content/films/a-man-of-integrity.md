@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "Un Certain Regard · Cannes"
+x_post: "A man refuses to pay the bribes everyone else pays, in a small town run by corruption. Mohammad Rasoulof's furious, brave portrait of what honesty costs in Iran."
 trailer: "https://www.youtube.com/watch?v=mKVMxuYiwL0"
 image: ""
 added: 2026-05-14

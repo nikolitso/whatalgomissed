@@ -13,6 +13,7 @@ lists:
 awards:
   - "Hellenic Film Academy · Best Film · Best Director"
   - "6 Hellenic Film Academy Awards · Won Best Film"
+x_post: "A lonely island doctor becomes obsessed with a group of young tourists one summer. A disturbing, sharp Greek drama."
 trailer: "https://www.youtube.com/watch?v=WNJhayR0lB4"
 image: ""
 added: 2026-05-14

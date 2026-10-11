@@ -11,6 +11,7 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
+x_post: "A crime scene photographer pretends to be the boyfriend of a woman who has lost her memory. A twisty, stylish Danish noir."
 trailer: "https://www.youtube.com/watch?v=2HH0HN2ebcM"
 image: ""
 added: 2026-05-14

@@ -13,6 +13,7 @@ lists:
   - "Europa"
 awards:
   - "1 Goya Award · 5 Nominations"
+x_post: "A tired couple invite their upstairs neighbours for dinner, and the evening takes a very unexpected turn. A sharp, funny Spanish comedy."
 trailer: "https://www.youtube.com/watch?v=HrqZJI25pkU"
 image: ""
 added: 2026-05-14

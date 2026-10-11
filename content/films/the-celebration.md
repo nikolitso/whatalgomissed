@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "Jury Prize · Cannes"
+x_post: "A father's 60th birthday, and a son who stands up at dinner to reveal the family's secret. Thomas Vinterberg's explosive Dogme masterpiece."
 trailer: "https://www.youtube.com/watch?v=XCqc_JTiNxg"
 image: ""
 added: 2026-05-14

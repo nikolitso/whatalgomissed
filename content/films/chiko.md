@@ -12,6 +12,7 @@ lists:
   - "Europa"
 festivals:
   - "Berlinale"
+x_post: "A young Turkish-German in Hamburg wants respect, money and power, and climbs fast in the drug trade. A raw, fast and painful gangster film."
 trailer: "https://www.youtube.com/watch?v=G2TGci0VgZw"
 image: ""
 added: 2026-10-05

@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Cannes · Critics' Week Selection"
   - "Oscar Nominated · Best Foreign Film"
+x_post: "A car crash in Mexico City connects three lives: a dog fighter, a model and a hitman. Alejandro González Iñárritu's explosive debut. Raw, violent and unforgettable."
 trailer: "https://www.youtube.com/watch?v=9zTU3vdefN8"
 image: ""
 added: 2026-05-14

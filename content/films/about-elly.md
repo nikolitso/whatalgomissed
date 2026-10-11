@@ -15,6 +15,7 @@ festivals:
   - "Berlinale"
 awards:
   - "Silver Bear · Berlin"
+x_post: "Old friends on a Caspian seaside weekend, and a young woman who suddenly disappears. Asghar Farhadi turns a holiday into a gripping study of lies and guilt."
 trailer: "https://www.youtube.com/watch?v=MdqMICWhxuA"
 image: ""
 added: 2026-05-14

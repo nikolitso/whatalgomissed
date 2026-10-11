@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Grand Prix · Cannes"
   - "European Film Award · Best Film"
+x_post: "Five stories from the world of the Camorra around Naples. No glamour, no heroes, only a system. Matteo Garrone's cold, frightening masterpiece."
 trailer: "https://www.youtube.com/watch?v=HT7Wok6jPzI"
 image: ""
 added: 2026-10-05

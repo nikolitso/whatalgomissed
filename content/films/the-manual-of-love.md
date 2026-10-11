@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "Love in four chapters: falling in love, crisis, betrayal and abandonment. A warm, funny Italian comedy with a great cast."
 trailer: "https://www.youtube.com/watch?v=BgkCXL9Rb8U"
 image: ""
 added: 2026-10-05

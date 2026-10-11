@@ -14,6 +14,7 @@ lists:
 awards:
   - "David di Donatello · Best Supporting Actress"
   - "Nastro d'Argento · Best Actress (Margherita Buy)"
+x_post: "A group of friends in Rome who are really a family, and the sudden loss that changes them all. Ferzan Özpetek with his heart wide open."
 trailer: "https://www.youtube.com/watch?v=xT5XbfOUTF4"
 image: ""
 added: 2026-10-09

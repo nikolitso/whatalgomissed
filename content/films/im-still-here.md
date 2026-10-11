@@ -17,6 +17,7 @@ festivals:
 awards:
   - "Oscar · Best International Feature"
   - "Best Screenplay · Venice"
+x_post: "Rio, 1970. When her husband is taken by the military regime, Eunice Paiva has to hold her family together. Oscar winner, devastating and essential."
 trailer: "https://www.youtube.com/watch?v=Qai_d6OGo3E"
 image: ""
 added: 2026-05-14

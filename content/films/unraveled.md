@@ -11,6 +11,7 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
+x_post: "A former swimming champion's husband, once her coach, is accused of abuse, and her life comes apart. A tense, morally serious Danish drama."
 trailer: "https://www.youtube.com/watch?v=-711Ef0I7Jc"
 image: ""
 added: 2026-10-11

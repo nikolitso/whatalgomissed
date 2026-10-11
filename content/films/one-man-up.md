@@ -13,6 +13,7 @@ lists:
   - "Italia"
 awards:
   - "Nastro d'Argento · Best New Director"
+x_post: "Naples, the 1980s: a footballer and a singer with the same name, both falling from the top. Paolo Sorrentino's stylish, melancholy debut."
 trailer: "https://www.youtube.com/watch?v=UTDNw8RC39E"
 image: ""
 added: 2026-05-14

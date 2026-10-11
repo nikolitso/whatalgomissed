@@ -12,6 +12,7 @@ rating: 4
 lists:
   - "Greece"
   - "Strangers"
+x_post: "A young migrant swims ashore on a Greek island and sets out on a long journey across Europe to Paris. Costa-Gavras's warm, ironic odyssey."
 trailer: "https://www.youtube.com/watch?v=adlunG3nxds"
 image: ""
 added: 2026-05-14

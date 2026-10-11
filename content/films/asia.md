@@ -12,6 +12,7 @@ lists:
   - "The Middle East"
 awards:
   - "9 Israeli Academy Awards"
+x_post: "A young mother and her teenage daughter in Jerusalem, who grew up almost side by side, must face an illness together. A tender, honest film about love and letting go."
 trailer: "https://www.youtube.com/watch?v=M4UR7wtp8p8"
 image: ""
 added: 2026-05-14

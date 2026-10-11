@@ -12,6 +12,7 @@ lists:
   - "Norden"
 awards:
   - "6 Edda Award Nominations"
+x_post: "An elderly Icelandic widower travels to London and Japan to find the woman he loved fifty years ago. A tender, beautiful love story."
 trailer: "https://www.youtube.com/watch?v=y5fXuZ3ns_c"
 image: ""
 added: 2026-05-14

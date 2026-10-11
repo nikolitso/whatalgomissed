@@ -16,6 +16,7 @@ festivals:
   - "Berlinale"
 awards:
   - "Golden Bear · Berlin"
+x_post: "Two broken Turkish-Germans in Hamburg enter a marriage of convenience, and it becomes something neither expected. Fatih Akin's wild, passionate love story."
 trailer: "https://www.youtube.com/watch?v=NFSAAW88GcY"
 image: ""
 added: 2026-05-14

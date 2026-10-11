@@ -11,6 +11,7 @@ country: "Croatia"
 rating: 4
 lists:
   - "Europa"
+x_post: "A young Croatian housewife wants to finish her degree, and her husband's family has other plans. A sharp, funny and painful drama."
 trailer: "https://www.youtube.com/watch?v=aYCsyd65-hM"
 image: ""
 added: 2026-05-14

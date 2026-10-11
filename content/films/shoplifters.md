@@ -17,6 +17,7 @@ festivals:
 awards:
   - "Palme d'Or · Cannes"
   - "Oscar Nominated · Best Foreign Film"
+x_post: "A makeshift family in Tokyo survives by shoplifting, and takes in a little girl from the cold. Hirokazu Kore-eda's tender Palme d'Or winner."
 trailer: "https://www.youtube.com/watch?v=qxeZPkli5YI"
 image: ""
 added: 2026-05-14

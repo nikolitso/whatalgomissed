@@ -11,6 +11,7 @@ country: "Belgium"
 rating: 4
 lists:
   - "Europa"
+x_post: "Zahira is eighteen, Belgian and the daughter of a Pakistani family she loves. Then her family arranges her marriage. A tender, heartbreaking film about love and loyalty."
 trailer: "https://www.youtube.com/watch?v=_6Vq62Y1DPQ"
 image: ""
 added: 2026-05-14

@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "A young teacher arrives in a foggy town in the Po delta, and a murder exposes the town's prejudices. A subtle, sharp Italian drama."
 trailer: "https://www.youtube.com/watch?v=smz8sywikyI"
 image: ""
 added: 2026-05-14

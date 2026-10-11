@@ -14,6 +14,7 @@ festivals:
   - "Venice"
 awards:
   - "Special Grand Jury Prize · Venice"
+x_post: "A bright, passive boy grows up in a working-class neighbourhood of Livorno. Paolo Virzì's funny, tender coming-of-age classic."
 trailer: "https://www.youtube.com/watch?v=TBgr9H0mK5Y"
 image: ""
 added: 2026-05-14

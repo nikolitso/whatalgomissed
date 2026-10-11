@@ -14,6 +14,7 @@ festivals:
   - "Berlinale"
 awards:
   - "Silver Bear · Berlin"
+x_post: "A ghost writer hired to finish a former British prime minister's memoirs uncovers a dangerous secret. Roman Polanski's elegant, tense thriller."
 trailer: "https://www.youtube.com/watch?v=ah1WVlkhzEg"
 image: ""
 added: 2026-05-14

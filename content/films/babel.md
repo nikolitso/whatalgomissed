@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Best Director · Cannes"
   - "Oscar Nominated · Best Picture"
+x_post: "A rifle shot in the Moroccan desert connects lives in four countries. Iñárritu's ambitious, emotional drama about how little we understand each other."
 trailer: "https://www.youtube.com/watch?v=yDNa6t-TDrQ"
 image: ""
 added: 2026-05-14

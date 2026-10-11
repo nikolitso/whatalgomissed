@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Critics' Week · Cannes"
   - "10 Edda Awards · Won Best Film"
+x_post: "A choir conductor in Iceland is secretly waging a one-woman war against the aluminium industry. Funny, original and full of heart."
 trailer: "https://www.youtube.com/watch?v=3njh93jBnws"
 image: ""
 added: 2026-05-14

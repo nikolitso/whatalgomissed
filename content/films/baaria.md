@@ -14,6 +14,7 @@ festivals:
   - "Venice"
 awards:
   - "Venice · Opening Film"
+x_post: "Giuseppe Tornatore returns to his Sicilian hometown for a sweeping, colourful epic across three generations. Sentimental, generous and full of life."
 trailer: "https://www.youtube.com/watch?v=95BNRxTRUa0"
 image: ""
 added: 2026-05-14

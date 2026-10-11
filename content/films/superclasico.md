@@ -14,6 +14,7 @@ festivals:
   - "Oscars"
 awards:
   - "Denmark's Oscar Entry"
+x_post: "A Danish wine seller travels to Buenos Aires to win back his wife, now with a football star. A light, charming comedy."
 trailer: "https://www.youtube.com/watch?v=swOCtS3CbGo"
 image: ""
 added: 2026-05-14

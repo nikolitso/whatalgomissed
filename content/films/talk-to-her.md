@@ -15,6 +15,7 @@ festivals:
   - "Oscars"
 awards:
   - "Oscar · Best Original Screenplay"
+x_post: "Two men bound by their love for two women in comas. Almodóvar's strange, delicate and unforgettable Oscar winner."
 trailer: "https://www.youtube.com/watch?v=zk_obe_xW0w"
 image: ""
 added: 2026-10-05

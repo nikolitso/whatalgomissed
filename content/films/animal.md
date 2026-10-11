@@ -16,6 +16,7 @@ awards:
   - "Best Actress · Locarno"
   - "Golden Alexander · Thessaloniki"
   - "Best Actress · Thessaloniki"
+x_post: "Behind the smiles at a Greek all-inclusive resort, a troupe of entertainers is running on empty. A vivid, physical and painfully honest film. Best Actress at Locarno."
 trailer: "https://www.youtube.com/watch?v=iB3454EPtgw"
 image: ""
 added: 2026-10-09

@@ -15,6 +15,7 @@ festivals:
 awards:
   - "Caméra d'Or · Cannes"
   - "Pula Film Festival · Won Best Film"
+x_post: "A teenage girl on a rocky Croatian island, a controlling father and a summer visitor who changes everything. A tense, beautiful debut."
 trailer: "https://www.youtube.com/watch?v=fC2sUO6xhOA"
 image: ""
 added: 2026-05-14

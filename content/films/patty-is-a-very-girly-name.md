@@ -20,6 +20,7 @@ awards:
   - "Thessaloniki · Best Greek Film · Best Feature Film"
   - "Berlin · Official Selection 2025"
   - "Thessaloniki · Best Greek Film"
+x_post: "A young Greek judo athlete follows her coach to Athens chasing a dream, and finds a darker world. A tense, powerful sports drama."
 trailer: "https://www.youtube.com/watch?v=85Heliai2ds"
 image: ""
 added: 2026-05-14

@@ -15,6 +15,7 @@ festivals:
   - "Venice"
 awards:
   - "Grand Jury Prize · Venice"
+x_post: "Naples, 1984: a teenager, a loving eccentric family and Maradona arriving in town. Paolo Sorrentino's most personal and moving film."
 trailer: "https://www.youtube.com/watch?v=i_1VW_0i6vo"
 image: ""
 added: 2026-05-14

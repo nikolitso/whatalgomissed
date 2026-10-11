@@ -18,6 +18,7 @@ festivals:
 awards:
   - "Cannes · Critics' Week"
   - "Oscar Shortlist · Best International Feature"
+x_post: "A mother and her two daughters open a noodle stall in a Taipei night market, and a little girl's superstition reveals a family's secrets. Warm and heartbreaking."
 trailer: "https://www.youtube.com/watch?v=FPKEZ-dxUR0"
 image: ""
 added: 2026-10-09

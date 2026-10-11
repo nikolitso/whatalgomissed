@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "Ten years after The Last Kiss, the same friends from Rome are now forty and still lost. Gabriele Muccino's honest, lively film about midlife."
 trailer: "https://www.youtube.com/watch?v=9pcWxRkcYMs"
 image: ""
 added: 2026-10-05

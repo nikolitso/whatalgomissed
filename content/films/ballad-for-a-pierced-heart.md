@@ -14,6 +14,7 @@ lists:
 awards:
   - "18 Hellenic Film Academy Nominations · 1 Win"
   - "Hellenic Film Academy · 1 Win · 18 Nominations"
+x_post: "In a small Greek town, passion meets greed, and the bodies start piling up. A wild, darkly funny Greek crime comedy."
 trailer: "https://www.youtube.com/watch?v=_ja4kLfSPNs"
 image: ""
 added: 2026-05-14

@@ -14,6 +14,7 @@ festivals:
   - "Cannes"
 awards:
   - "Grand Prix · Cannes"
+x_post: "Two nurses in Mumbai, a city that never stops, and a trip to the sea that changes how they see their lives. A luminous, gentle film about loneliness and friendship."
 trailer: "https://www.youtube.com/watch?v=X3l_x9WE4j8"
 image: ""
 added: 2026-05-14

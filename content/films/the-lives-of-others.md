@@ -16,6 +16,7 @@ festivals:
 awards:
   - "Oscar · Best Foreign Language Film"
   - "European Film Award · Best Film"
+x_post: "East Berlin, 1984. A Stasi captain spies on a playwright, and slowly begins to change. An Oscar-winning masterpiece."
 trailer: "https://www.youtube.com/watch?v=n3_iLOp6IhM"
 image: ""
 added: 2026-10-05

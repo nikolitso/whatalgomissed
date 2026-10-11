@@ -11,6 +11,7 @@ country: "Spain"
 rating: 4.5
 lists:
   - "Europa"
+x_post: "A divorced mother gathers her whole family at the house on the Costa Brava for the perfect weekend, whether they like it or not. A wickedly funny, moving Catalan comedy."
 trailer: "https://www.youtube.com/watch?v=v-SX_-T_rfE"
 image: ""
 added: 2026-10-09

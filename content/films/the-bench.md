@@ -11,6 +11,7 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
+x_post: "An alcoholic on a Copenhagen bench discovers the daughter he lost and the grandson he never knew. A raw, moving Danish drama."
 trailer: "https://www.youtube.com/watch?v=r1tWA2TpV0w"
 image: ""
 added: 2026-05-14

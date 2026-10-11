@@ -13,6 +13,7 @@ lists:
   - "Danmark"
 awards:
   - "Nordic Council Film Prize"
+x_post: "A successful lawyer who defends abused teenagers begins an affair with her teenage stepson. A cold, gripping and disturbing Danish drama."
 trailer: "https://www.youtube.com/watch?v=Ckz353-ZtpY"
 image: ""
 added: 2026-05-14

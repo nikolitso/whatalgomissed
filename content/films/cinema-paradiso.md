@@ -17,6 +17,7 @@ festivals:
 awards:
   - "Oscar · Best Foreign Language Film"
   - "Grand Prix · Cannes"
+x_post: "A Sicilian village, a cinema on the square, a boy and the projectionist who becomes his father. Giuseppe Tornatore's Oscar-winning masterpiece of the heart."
 trailer: "https://www.youtube.com/watch?v=JMyVSD6OvO8"
 image: ""
 added: 2026-10-05

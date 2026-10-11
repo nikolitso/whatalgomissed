@@ -10,6 +10,7 @@ country: "Argentina"
 rating: 4
 lists:
   - "The Game"
+x_post: "A veteran diver with one last chance at the Olympics, and a coach who controls everything. A tense, painful sports drama from Argentina."
 trailer: "https://www.youtube.com/watch?v=O-Mq7m3qVro"
 image: ""
 added: 2026-05-14

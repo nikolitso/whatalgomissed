@@ -11,6 +11,7 @@ country: "Greece"
 rating: 4
 lists:
   - "Greece"
+x_post: "A businessman drowning in debt has days left to save his home, and keeps making the wrong choices. A tense, gripping Greek thriller."
 trailer: "https://www.youtube.com/watch?v=fkiaInSkWfA"
 image: ""
 added: 2026-05-14

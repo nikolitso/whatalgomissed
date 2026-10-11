@@ -14,6 +14,7 @@ festivals:
   - "Oscars"
 awards:
   - "Czech Oscar Submission · 2015"
+x_post: "Czechoslovakia, 1983. A gifted sprinter is placed in a secret state doping programme. A mother has to choose between her daughter's dream and her health."
 trailer: "https://www.youtube.com/watch?v=MxDfyw_dHOs"
 image: ""
 added: 2026-05-14

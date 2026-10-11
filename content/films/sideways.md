@@ -14,6 +14,7 @@ festivals:
   - "Oscars"
 awards:
   - "Oscar · Best Adapted Screenplay"
+x_post: "Two old friends, a road trip through California wine country and a week before a wedding. Alexander Payne's funny, sad and human comedy."
 trailer: "https://www.youtube.com/watch?v=DGP8PwCpxLk"
 image: ""
 added: 2026-10-05

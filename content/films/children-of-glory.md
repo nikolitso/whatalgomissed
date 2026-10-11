@@ -13,6 +13,7 @@ lists:
   - "The Game"
 awards:
   - "Budapest 1956 · The Blood in the Water Match"
+x_post: "Budapest, 1956: a water polo star, a young revolutionary and the most violent match in Olympic history. A stirring Hungarian drama."
 trailer: "https://www.youtube.com/watch?v=hsT2Oyibr7U"
 image: ""
 added: 2026-05-14

@@ -11,6 +11,7 @@ rating: 4
 lists:
   - "The Middle East"
   - "Strangers"
+x_post: "An affair between an Israeli café owner and a Palestinian delivery driver in Jerusalem becomes a political scandal. A tense, gripping drama."
 trailer: "https://www.youtube.com/watch?v=YCULFEL2dJw"
 image: ""
 added: 2026-05-14

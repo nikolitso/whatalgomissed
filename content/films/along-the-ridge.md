@@ -13,6 +13,7 @@ lists:
   - "Italia"
 festivals:
   - "Cannes"
+x_post: "An eleven-year-old boy in Rome, a loving, explosive father and a mother who keeps leaving. A simple, true and heartbreaking film about growing up too early."
 trailer: "https://www.youtube.com/watch?v=NlW9d8Pl6M4"
 image: ""
 added: 2026-10-05

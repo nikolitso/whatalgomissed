@@ -12,6 +12,7 @@ rating: 4
 lists:
   - "Danmark"
   - "Strangers"
+x_post: "A Danish family's holiday on a Mediterranean island, in the summer Europe's refugee crisis begins. A sharp, uncomfortable film about good intentions."
 trailer: "https://www.youtube.com/watch?v=Zzz9z5eiQ2s"
 image: ""
 added: 2026-10-05

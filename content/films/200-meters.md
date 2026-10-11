@@ -15,6 +15,7 @@ festivals:
   - "Venice"
 awards:
   - "Audience Award · Venice Days"
+x_post: "A Palestinian father lives 200 meters from his family, on the other side of the wall. When his son is hurt, the short distance becomes an impossible journey. Tense, humane and unforgettable."
 trailer: "https://www.youtube.com/watch?v=Lojmr29g8Xk"
 image: ""
 added: 2026-05-14

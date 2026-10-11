@@ -15,6 +15,7 @@ festivals:
   - "Cannes"
 awards:
   - "Cannes · Directors' Fortnight"
+x_post: "Five women in a Beirut beauty salon, their loves, secrets and small rebellions. A warm, funny and tender debut from Nadine Labaki."
 trailer: "https://www.youtube.com/watch?v=PvbHOhzJarU"
 image: ""
 added: 2026-05-14

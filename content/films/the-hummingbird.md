@@ -11,6 +11,7 @@ country: "Italy"
 rating: 4
 lists:
   - "Italia"
+x_post: "An eye doctor spends his whole life trying to stay still while everything around him changes. A sweeping Italian drama across decades."
 trailer: "https://www.youtube.com/watch?v=YAwAStOsU0M"
 image: ""
 added: 2026-05-14

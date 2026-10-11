@@ -15,6 +15,7 @@ festivals:
   - "Oscars"
 awards:
   - "Oscar Nominated · Best Foreign Film"
+x_post: "A Dane running an orphanage in India is called back to Copenhagen, where a wedding reveals a secret that changes everything. Susanne Bier's moving, Oscar-nominated drama."
 trailer: "https://www.youtube.com/watch?v=gZzxmZuOvKI"
 image: ""
 added: 2026-05-14

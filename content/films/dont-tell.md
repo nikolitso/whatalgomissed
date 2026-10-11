@@ -13,6 +13,7 @@ lists:
   - "Italia"
 awards:
   - "David di Donatello · Best Film"
+x_post: "A voice actress in Rome begins to remember a childhood secret she buried long ago. A painful, important Italian drama about abuse and silence."
 trailer: "https://www.youtube.com/watch?v=TyAIbUtx3WQ"
 image: ""
 added: 2026-05-14

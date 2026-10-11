@@ -13,6 +13,7 @@ lists:
   - "Italia"
 awards:
   - "David di Donatello · Best Film"
+x_post: "A young woman is found dead by a mountain lake in northern Italy, and a quiet inspector looks behind the town's silence. A subtle, gripping mystery."
 trailer: "https://www.youtube.com/watch?v=G-11J4ZpiQ8"
 image: ""
 added: 2026-05-14

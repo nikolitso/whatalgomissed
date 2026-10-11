@@ -10,6 +10,7 @@ country: "Italy"
 rating: 4.5
 lists:
   - "Italia"
+x_post: "Rome, 2011: politicians, gangsters and the Church race to close one last deal on the waterfront. Italy's best thriller in twenty years."
 trailer: "https://www.youtube.com/watch?v=ZSiRXm4TOIE"
 image: ""
 added: 2026-05-14

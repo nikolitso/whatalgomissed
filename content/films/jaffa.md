@@ -10,6 +10,7 @@ country: "Israel"
 rating: 4
 lists:
   - "The Middle East"
+x_post: "In Jaffa, a Jewish garage owner's daughter is secretly in love with his Arab employee. A tense, intimate drama about love across lines."
 trailer: "https://www.youtube.com/watch?v=iNeXNVQpKqE"
 image: ""
 added: 2026-05-14
