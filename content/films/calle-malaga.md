@@ -10,6 +10,7 @@ country: "Morocco/Spain"
 rating: 4
 lists:
   - "Europa"
+  - "The World"
 festivals:
   - "Venice"
   - "Toronto"

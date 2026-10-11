@@ -4295,5 +4295,25 @@
    "south",
    "middle-east"
   ]
+ },
+ {
+  "film": "adam",
+  "mood": [
+   "devastating",
+   "warm"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
  }
 ]

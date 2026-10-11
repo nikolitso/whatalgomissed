@@ -166,6 +166,18 @@
       "Paw Henriksen"
     ]
   },
+  "adam": {
+    "id": 595875,
+    "title": "Adam",
+    "year": "2019",
+    "cast": [
+      "Lubna Azabal",
+      "Nisrin Erradi",
+      "Douae Belkhaouda"
+    ],
+    "backdrop": "/assets/backdrops/adam.jpg",
+    "poster": "/assets/posters/adam.jpg"
+  },
   "after-love": {
     "id": 714011,
     "title": "After Love",

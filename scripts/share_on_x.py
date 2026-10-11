@@ -61,6 +61,9 @@ def main(paths):
             continue
         text = path.read_text(encoding="utf-8")
         fm = text.split("\n---", 1)[0]
+        if field(fm, "share").lower() in ("false", "no"):
+            print(f"skipping {path.stem} (share: false)")
+            continue
         title, year, director = field(fm, "title"), field(fm, "year"), field(fm, "director")
         slug = slugify(field(fm, "slug") or path.stem)
         url = SITE + slug + "/"
