@@ -79,6 +79,41 @@ content:
         description: "e.g. Palme d'Or · Cannes"
         type: string
         list: true
+      - name: finder_mood
+        label: "Film Finder: mood"
+        description: "Optional. Pick one or two. Region, era and awards are filled in automatically."
+        type: select
+        options:
+          multiple: true
+          values: ["devastating", "tense", "warm", "political"]
+      - name: finder_theme
+        label: "Film Finder: theme"
+        description: "Optional. What it is really about."
+        type: select
+        options:
+          multiple: true
+          values: ["family", "society", "crime", "identity"]
+      - name: finder_intensity
+        label: "Film Finder: intensity"
+        description: "Optional. How hard it hits."
+        type: select
+        options:
+          multiple: true
+          values: ["hard", "medium", "light"]
+      - name: finder_pace
+        label: "Film Finder: pace"
+        description: "Optional."
+        type: select
+        options:
+          multiple: true
+          values: ["slow", "propulsive"]
+      - name: finder_protagonist
+        label: "Film Finder: protagonist"
+        description: "Optional. Who we follow."
+        type: select
+        options:
+          multiple: true
+          values: ["woman", "man", "ensemble"]
       - name: trailer
         label: YouTube trailer link
         type: string

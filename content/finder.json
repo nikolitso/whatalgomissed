@@ -1079,5 +1079,3194 @@
    "hidden",
    "any"
   ]
+ },
+ {
+  "film": "200-meters",
+  "mood": [
+   "political",
+   "tense"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "a-family",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "a-hijacking",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble",
+   "man"
+  ]
+ },
+ {
+  "film": "a-house-on-fire",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "a-perfect-day",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "a-quiet-life",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "a-wedding",
+  "mood": [
+   "devastating",
+   "political"
+  ],
+  "theme": [
+   "family",
+   "identity"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "a-whole-life-ahead",
+  "mood": [
+   "warm",
+   "political"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "a-worthy-man",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "about-elly",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "identity",
+   "society"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "acab-all-cops-are-bastards",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "theme": [
+   "society",
+   "crime"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "accused",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "after-love",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity",
+   "family"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "after-the-wedding",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "all-about-my-mother",
+  "mood": [
+   "devastating",
+   "warm"
+  ],
+  "theme": [
+   "identity",
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "alone",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "along-the-ridge",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "amerika-square",
+  "mood": [
+   "political",
+   "tense"
+  ],
+  "theme": [
+   "society",
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "amores-perros",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime",
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "and-breathe-normally",
+  "mood": [
+   "political",
+   "warm"
+  ],
+  "theme": [
+   "identity",
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "animal",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "society",
+   "identity"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "armand",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "baaria",
+  "mood": [
+   "warm",
+   "political"
+  ],
+  "theme": [
+   "society",
+   "family"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "babel",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "society",
+   "identity"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "ballad-for-a-pierced-heart",
+  "mood": [
+   "warm",
+   "political"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "beginnings",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "behind-the-haystacks",
+  "mood": [
+   "devastating",
+   "political"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "birthday-boy",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity",
+   "family"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "blue-is-the-warmest-colour",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "broken-vein",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime",
+   "society"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "charter",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "chefs-special",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "family",
+   "identity"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "chiko",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "children-of-glory",
+  "mood": [
+   "political",
+   "tense"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "cinema-paradiso",
+  "mood": [
+   "warm",
+   "devastating"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "city-of-god",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "theme": [
+   "crime",
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "crossing",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "darling",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "dear-diary",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "der-tunnel",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "dive",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "dont-call-me-mama",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "dont-tell",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "eden-is-west",
+  "mood": [
+   "political",
+   "warm"
+  ],
+  "theme": [
+   "identity",
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "exodus",
+  "mood": [
+   "political",
+   "tense"
+  ],
+  "theme": [
+   "identity",
+   "society"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "facing-windows",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "fair-play",
+  "mood": [
+   "political",
+   "tense"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "fireworks-wednesday",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "full-time",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "gomorrah",
+  "mood": [
+   "political",
+   "tense"
+  ],
+  "theme": [
+   "crime",
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "good-bye-lenin",
+  "mood": [
+   "warm",
+   "political"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "happiness",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "head-on",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man",
+   "woman"
+  ]
+ },
+ {
+  "film": "heartstone",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "i-daniel-blake",
+  "mood": [
+   "political",
+   "devastating"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "i-was-a-stranger",
+  "mood": [
+   "political",
+   "devastating"
+  ],
+  "theme": [
+   "society",
+   "identity"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "il-postino",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "im-still-here",
+  "mood": [
+   "political",
+   "devastating"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "in-a-better-world",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "in-syria",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ],
+  "region": [
+   "middle-east"
+  ]
+ },
+ {
+  "film": "jaffa",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "identity",
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "just-another-love-story",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "karaoke",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "kiss-me-again",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "knifer",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime",
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "last-night-of-amore",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "left-handed-girl",
+  "mood": [
+   "warm",
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman",
+   "ensemble"
+  ]
+ },
+ {
+  "film": "lemon-tree",
+  "mood": [
+   "political"
+  ],
+  "theme": [
+   "society",
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "leviathan",
+  "mood": [
+   "political",
+   "devastating"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "life-in-a-fishbowl",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "linha-de-passe",
+  "mood": [
+   "warm",
+   "political"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "love-is-all-you-need",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "manslaughter",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "marina",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "matchbox",
+  "mood": [
+   "tense",
+   "warm"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "metro-manila",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime",
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "mondays-in-the-sun",
+  "mood": [
+   "warm",
+   "political"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "mostly-martha",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "murina",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "murk",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "my-brother-is-an-only-child",
+  "mood": [
+   "warm",
+   "political"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "nine-queens",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "no-date-no-signature",
+  "mood": [
+   "tense",
+   "devastating"
+  ],
+  "theme": [
+   "crime",
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "nostalgia",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime",
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "one-man-up",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "only-when-i-laugh",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "open-hearts",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "our-children",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "family",
+   "crime"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "our-life",
+  "mood": [
+   "warm",
+   "devastating"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "ovosodo",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "paradise-now",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "theme": [
+   "society",
+   "identity"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "patty-is-a-very-girly-name",
+  "mood": [
+   "political",
+   "tense"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "prague",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "queen-of-hearts",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "family",
+   "crime"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "quiet-chaos",
+  "mood": [
+   "devastating",
+   "warm"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "r",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "rabat",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "rams",
+  "mood": [
+   "warm",
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "saturn-in-opposition",
+  "mood": [
+   "devastating",
+   "warm"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "secrets-and-lies",
+  "mood": [
+   "devastating",
+   "warm"
+  ],
+  "theme": [
+   "family",
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "sentimental-value",
+  "mood": [
+   "devastating",
+   "warm"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "shun-li-and-the-poet",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "sideways",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "silent-heart",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "smuggling-hendrix",
+  "mood": [
+   "warm",
+   "political"
+  ],
+  "theme": [
+   "identity",
+   "society"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "so-damn-easy-going",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity",
+   "family"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "soul-kicking",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity",
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "stratos",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "submarino",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family",
+   "crime"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "suntan",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "superclasico",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "talk-to-her",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "tatami",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "theme": [
+   "identity",
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "tenderness",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "terraferma",
+  "mood": [
+   "political",
+   "devastating"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "the-attack",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "theme": [
+   "identity",
+   "crime"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-bands-visit",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "the-bench",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-blue-caftan",
+  "mood": [
+   "devastating",
+   "warm"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ],
+  "region": [
+   "middle-east"
+  ]
+ },
+ {
+  "film": "the-boy-with-pink-pants",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity",
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-cakemaker",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-charmer",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-class",
+  "mood": [
+   "political"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "the-commune",
+  "mood": [
+   "warm",
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "the-consequences-of-love",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-deep",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-double-hour",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "the-easy-life",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-edge-of-heaven",
+  "mood": [
+   "devastating",
+   "political"
+  ],
+  "theme": [
+   "family",
+   "identity"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "the-entrepreneur",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "society",
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-first-beautiful-thing",
+  "mood": [
+   "warm",
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "the-ghost-writer",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-girl-by-the-lake",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-good-life",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "the-hummingbird",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-inheritance",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-keys-to-the-house",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-kid-with-a-bike",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-kindergarten-teacher",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "the-last-resort",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "theme": [
+   "society",
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "the-lives-of-others",
+  "mood": [
+   "political",
+   "tense"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-mafia-kills-only-in-summer",
+  "mood": [
+   "warm",
+   "political"
+  ],
+  "theme": [
+   "crime",
+   "society"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-man-who-copied",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-man-who-loves",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-manual-of-love",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "the-olive-tree",
+  "mood": [
+   "warm",
+   "political"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "the-past-is-a-foreign-land",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-people-upstairs",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "light"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "the-priests-children",
+  "mood": [
+   "warm",
+   "political"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-reports-on-sarah-and-saleem",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "theme": [
+   "society",
+   "crime"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "the-right-distance",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime",
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "the-salesman",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "family",
+   "crime"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "the-secret-of-the-grain",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "family",
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "the-trap",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime",
+   "family"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "things-we-dont-say",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "touch",
+  "mood": [
+   "warm",
+   "devastating"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "triangle-of-sadness",
+  "mood": [
+   "political",
+   "warm"
+  ],
+  "theme": [
+   "society"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "under-the-tree",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
+ },
+ {
+  "film": "unraveled",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "family",
+   "crime"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "valeria-is-getting-married",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "theme": [
+   "society",
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "victoria",
+  "mood": [
+   "tense"
+  ],
+  "theme": [
+   "crime"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "virgin-mountain",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "volcano",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "volver",
+  "mood": [
+   "warm",
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "walk-on-water",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "theme": [
+   "identity"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "what-will-people-say",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "theme": [
+   "family",
+   "identity"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
+ },
+ {
+  "film": "winter-sleep",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "society",
+   "family"
+  ],
+  "intensity": [
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
+ },
+ {
+  "film": "worlds-apart",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "identity",
+   "family"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
  }
 ]

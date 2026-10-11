@@ -11,7 +11,7 @@ The site rebuilds itself about a minute later.
 - `content/films/` — one file per film
 - `content/lists/` — the lists and their introductions
 - `content/pages/about.md` — About page
-- `content/finder.json` — which films the Film Finder can recommend
+- `content/finder.json` — mood/theme/intensity/pace/protagonist tags for the Film Finder (every film is in the Finder; region, era and awards are automatic; tags can also be set per film in the editor)
 - `build.py` — turns the content into the website (plain Python, no installs)
 
 Build locally: `python3 build.py` → output in `_site/`.

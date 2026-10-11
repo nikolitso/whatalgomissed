@@ -744,18 +744,46 @@ def build_by_year():
         f'<section class="section"><div class="wrap narrow">{"".join(out)}</div></section>'
     write("/by-year/", layout("Films by Year", body, "/by-year/"))
 
+FINDER_JUDGED = ("mood", "theme", "intensity", "pace", "protagonist")
+FINDER_DEFAULTS = {"mood": [], "theme": [], "intensity": ["medium"], "pace": ["any"], "protagonist": ["any"]}
+FINDER_REGIONS = {
+    "south": {"Italy", "Greece", "Spain", "Portugal", "Cyprus", "Croatia", "Serbia", "Bosnia and Herzegovina", "Slovenia", "Malta"},
+    "north": {"Denmark", "Iceland", "Norway", "Sweden", "Finland", "Faroe Islands"},
+    "middle-east": {"Iran", "Palestine", "Israel", "Lebanon", "Syria", "Jordan", "Iraq", "Egypt", "Morocco", "Tunisia", "Saudi Arabia"},
+}
+
+def finder_auto(f):
+    """Region, era and recognition come from the film's own country, year and awards."""
+    first = f["countries"][0] if f["countries"] else ""
+    region = next((r for r, cs in FINDER_REGIONS.items() if first in cs), "world")
+    era = ["recent" if f["year"] >= 2015 else "classic", "any"]
+    wins = " | ".join(f["awards"] + f["festivals"])
+    rec = []
+    if re.search(r"Cannes|Palme|Caméra", " | ".join(a for a in f["awards"] if is_award_win(a))):
+        rec.append("cannes")
+    if re.search(r"Oscar|Academy Award", wins):
+        rec.append("oscar")
+    if not re.search(r"Cannes|Palme|Caméra|Oscar|Academy Award|Berlin|Bear|Venice|Golden Globe|BAFTA", wins):
+        rec.append("hidden")
+    return {"region": [region], "era": era, "recognition": rec + ["any"]}
+
 def build_finder():
     path = os.path.join(ROOT, "content", "finder.json")
     tpl_path = os.path.join(ROOT, "finder_template.html")
     if not (os.path.exists(path) and os.path.exists(tpl_path)):
         return
-    fm = {f["slug"]: f for f in FILMS}
+    tags = {d.get("film"): d for d in json.load(open(path, encoding="utf-8"))}
     data = []
-    for d in json.load(open(path, encoding="utf-8")):
-        f = fm.get(d.get("film"))
-        if not f:
-            continue
+    for f in FILMS:  # every film is in the finder; finder.json / film fields only add the judgement tags
+        d = dict(tags.get(f["slug"]) or {})
+        for k in FINDER_JUDGED:  # tags set on the film itself (Pages CMS) win over finder.json
+            if as_list(f.get(f"finder_{k}")):
+                d[k] = as_list(f.get(f"finder_{k}"))
         rec = {k: v for k, v in d.items() if k != "film"}
+        for k, v in finder_auto(f).items():
+            rec.setdefault(k, v)
+        for k, v in FINDER_DEFAULTS.items():
+            rec.setdefault(k, v)
         rec.update(title=f["title"], director=f.get("director") or "", year=f["year"], country=f["country"],
                    award=(f["awards"][0] if f["awards"] else ""), desc=plain(f["body"], 420), url=f["url"],
                    img=f["img"], fb=f["img_fb"])
