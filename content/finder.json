@@ -4271,5 +4271,29 @@
   "protagonist": [
    "woman"
   ]
+ },
+ {
+  "film": "calle-malaga",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity",
+   "family"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ],
+  "region": [
+   "south",
+   "middle-east"
+  ]
  }
 ]

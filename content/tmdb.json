@@ -431,6 +431,18 @@
       "Nikolaj Lie Kaas"
     ]
   },
+  "calle-malaga": {
+    "id": 1399462,
+    "title": "Calle Malaga",
+    "year": "2025",
+    "cast": [
+      "Carmen Maura",
+      "Marta Etura",
+      "Ahmed Boulane"
+    ],
+    "backdrop": "/assets/backdrops/calle-malaga.jpg",
+    "poster": "/assets/posters/calle-malaga.jpg"
+  },
   "capernaum": {
     "id": 517814,
     "title": "Capernaum",
