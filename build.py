@@ -784,12 +784,14 @@ def build_finder():
             rec.setdefault(k, v)
         for k, v in FINDER_DEFAULTS.items():
             rec.setdefault(k, v)
+        if "strangers" in [x.lower() for x in f["lists"]] and "migration" not in rec["theme"]:
+            rec["theme"] = rec["theme"] + ["migration"]  # the Strangers list is the immigration theme
         rec.update(title=f["title"], director=f.get("director") or "", year=f["year"], country=f["country"],
                    award=(f["awards"][0] if f["awards"] else ""), rating=f["rating"], desc=plain(f["body"], 420), url=f["url"],
                    img=f["img"], fb=f["img_fb"])
         data.append(rec)
     tpl = open(tpl_path, encoding="utf-8").read().replace("__FINDER_DATA__", json.dumps(data, ensure_ascii=False))
-    body = page_head("Film Finder", "Find your next film", "Four questions. Three films chosen for this exact moment.") + \
+    body = page_head("Film Finder", "Find your next film", "Six questions. Three films chosen for this exact moment.") + \
         f'<section class="section finder"><div class="wrap">{tpl}</div></section>'
     write("/finder/", layout("Film Finder", body, "/finder/"))
 

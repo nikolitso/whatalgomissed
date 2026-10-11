@@ -92,7 +92,7 @@ content:
         type: select
         options:
           multiple: true
-          values: ["family", "society", "crime", "identity"]
+          values: ["family", "society", "crime", "identity", "migration"]
       - name: finder_intensity
         label: "Film Finder: intensity"
         description: "Optional. How hard it hits."

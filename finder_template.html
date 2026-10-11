@@ -232,8 +232,10 @@
       <div class="progress-dot" id="dot-1"></div>
       <div class="progress-dot" id="dot-2"></div>
       <div class="progress-dot" id="dot-3"></div>
+      <div class="progress-dot" id="dot-4"></div>
+      <div class="progress-dot" id="dot-5"></div>
     </div>
-    <div class="progress-text" id="progressText">Question 1 of 4</div>
+    <div class="progress-text" id="progressText">Question 1 of 6</div>
   </div>
 
   <!-- Q1: MOOD -->
@@ -305,6 +307,10 @@
         <span class="option-letter">D</span>
         <div><div class="option-text">Identity and belonging</div><div class="option-sub">Where do I come from, where do I fit, who am I</div></div>
       </button>
+      <button class="option" onclick="answer(2,'migration')">
+        <span class="option-letter">E</span>
+        <div><div class="option-text">Immigration and exile</div><div class="option-sub">Leaving home, crossing borders, starting again somewhere else</div></div>
+      </button>
     </div>
   </div>
 
@@ -324,6 +330,54 @@
       <button class="option" onclick="answer(3,'light')">
         <span class="option-letter">C</span>
         <div><div class="option-text">Keep it lighter</div><div class="option-sub">Warm, alive, not too heavy</div></div>
+      </button>
+    </div>
+  </div>
+
+  <!-- Q5: PROTAGONIST -->
+  <div class="question" id="q4">
+    <div class="question-text">Who do you want to follow?</div>
+    <div class="question-sub">The character at the centre of it all.</div>
+    <div class="options">
+      <button class="option" onclick="answer(4,'woman')">
+        <span class="option-letter">A</span>
+        <div><div class="option-text">A woman navigating an impossible situation</div><div class="option-sub">Strength, constraint, courage under pressure</div></div>
+      </button>
+      <button class="option" onclick="answer(4,'man')">
+        <span class="option-letter">B</span>
+        <div><div class="option-text">A man facing a reckoning</div><div class="option-sub">Fathers, sons, men at the edge of what they're capable of</div></div>
+      </button>
+      <button class="option" onclick="answer(4,'ensemble')">
+        <span class="option-letter">C</span>
+        <div><div class="option-text">A group or family</div><div class="option-sub">Multiple perspectives, interconnected lives</div></div>
+      </button>
+      <button class="option" onclick="answer(4,'any')">
+        <span class="option-letter">D</span>
+        <div><div class="option-text">Doesn't matter</div><div class="option-sub">Character is character</div></div>
+      </button>
+    </div>
+  </div>
+
+  <!-- Q6: AWARD -->
+  <div class="question" id="q5">
+    <div class="question-text">Does it need to be recognised?</div>
+    <div class="question-sub">Festival awards are a signal, not a guarantee.</div>
+    <div class="options">
+      <button class="option" onclick="answer(5,'cannes')">
+        <span class="option-letter">A</span>
+        <div><div class="option-text">Cannes — Palme d'Or or major prize</div><div class="option-sub">The most rigorous jury in world cinema</div></div>
+      </button>
+      <button class="option" onclick="answer(5,'oscar')">
+        <span class="option-letter">B</span>
+        <div><div class="option-text">Oscar nominated or won</div><div class="option-sub">International recognition at the highest level</div></div>
+      </button>
+      <button class="option" onclick="answer(5,'hidden')">
+        <span class="option-letter">C</span>
+        <div><div class="option-text">Something less known</div><div class="option-sub">The hidden gems, the ones the algorithm buried</div></div>
+      </button>
+      <button class="option" onclick="answer(5,'any')">
+        <span class="option-letter">D</span>
+        <div><div class="option-text">Doesn't matter</div><div class="option-sub">I trust the curation</div></div>
       </button>
     </div>
   </div>
@@ -355,10 +409,10 @@ function answer(qIndex, value) {
 
   setTimeout(() => {
     document.getElementById(`q${qIndex}`).classList.remove('visible');
-    if (qIndex < 3) {
+    if (qIndex < 5) {
       document.getElementById(`q${qIndex+1}`).classList.add('visible');
       document.getElementById(`dot-${qIndex+1}`).classList.add('active');
-      document.getElementById('progressText').textContent = `Question ${qIndex+2} of 4`;
+      document.getElementById('progressText').textContent = `Question ${qIndex+2} of 6`;
     } else {
       showResults();
     }
@@ -371,6 +425,10 @@ function score(film) {
   if (film.region.includes(answers[1])) s += 4;
   if (film.theme.includes(answers[2])) s += 3;
   if (film.intensity.includes(answers[3])) s += 3;
+  if (film.protagonist.includes(answers[4]) || answers[4]==='any') s += 2;
+  const rec = answers[5];
+  if (rec === 'any') s += 1;
+  else if (film.recognition.includes(rec)) s += 3;
   s += (film.rating || 0) / 10;  // equal matches: my highest-rated film wins
   return s;
 }
@@ -399,7 +457,7 @@ function showResults() {
   }
 
   const moodMap = { devastating: "something that will stay with you", tense: "something gripping and tense", warm: "something warm and human", political: "something that opens your eyes" };
-  document.getElementById('resultsSub').textContent = `Chosen for ${moodMap[answers[0]] || 'you'} — based on all four answers.`;
+  document.getElementById('resultsSub').textContent = `Chosen for ${moodMap[answers[0]] || 'you'} — based on all six answers.`;
 
   document.getElementById('filmCards').innerHTML = top.map(f => `
     <div class="film-card"><a class="ff-frame" href="${f.url}"><img class="ff-img${(f.img.includes('ytimg')&&!f.img.endsWith('#own'))?'':' own'}" src="${f.img}" data-fb="${f.fb}" onload="fbimg(this)" onerror="fbimg(this,1)" alt=""></a>
@@ -429,7 +487,7 @@ function restart() {
     d.classList.remove('done');
     d.classList.toggle('active', i===0);
   });
-  document.getElementById('progressText').textContent = 'Question 1 of 4';
+  document.getElementById('progressText').textContent = 'Question 1 of 6';
   document.getElementById('q0').classList.add('visible');
 }
 </script>
