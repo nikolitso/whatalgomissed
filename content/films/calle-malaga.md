@@ -15,6 +15,7 @@ festivals:
   - "Toronto"
 awards:
   - "Audience Award · Venice Spotlight"
+x_post: "Carmen Maura is magnificent as a Spanish widow in Tangier who refuses to let her daughter sell the family home. A warm, sunny film about choosing your own life at any age."
 trailer: "https://www.youtube.com/watch?v=FwtLBQpAnk0"
 image: ""
 added: 2026-10-11

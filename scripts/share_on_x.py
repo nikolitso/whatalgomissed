@@ -27,6 +27,33 @@ def field(fm, key):
     return m.group(1).strip().strip("\"'") if m else ""
 
 
+X_LIMIT = 280
+X_URL_LEN = 23  # X counts every link as 23 characters
+
+
+def review_sentence(text):
+    """Opening sentences of the review, as the fallback summary."""
+    body = re.sub(r"\s+", " ", text.split("\n---", 1)[1] if "\n---" in text else text).strip()
+    body = re.sub(r"[*_#>]", "", body)
+    sentences = re.split(r"(?<=[.!?])\s+", body)
+    out = ""
+    for s in sentences:
+        if len(out) + len(s) + 1 > 200:
+            break
+        out = (out + " " + s).strip()
+    return out or (body[:197].rsplit(" ", 1)[0] + "…")
+
+
+def build_post(fm, text):
+    title, year, director = field(fm, "title"), field(fm, "year"), field(fm, "director")
+    summary = field(fm, "x_post") or review_sentence(text)
+    credit = f"{title} ({year})" + (f", {director}" if director else "")
+    room = X_LIMIT - X_URL_LEN - len(credit) - 4  # two line breaks + space before the link
+    if len(summary) > room:
+        summary = summary[:room - 1].rsplit(" ", 1)[0].rstrip(",;:") + "…"
+    return f"{summary}\n\n{credit}"
+
+
 def main(paths):
     for p in paths:
         path = Path(p)
@@ -37,12 +64,13 @@ def main(paths):
         title, year, director = field(fm, "title"), field(fm, "year"), field(fm, "director")
         slug = slugify(field(fm, "slug") or path.stem)
         url = SITE + slug + "/"
-        post = f"New on What Algo Missed: {title} ({year})" + (f" by {director}" if director else "")
+        post = build_post(fm, text)
         intent = "https://x.com/intent/post?" + urllib.parse.urlencode({"text": post, "url": url})
         body = (
             f"A new film is live on What Algo Missed: **{title}**\n\n"
             f"### [👉 Post it on X]({intent})\n\n"
-            f"Opens X with this post ready (edit anything before posting):\n\n> {post} {url}\n\n"
+            "Opens X with this post ready (edit anything before posting):\n\n"
+            + "\n".join("> " + line for line in f"{post} {url}".split("\n")) + "\n\n"
             f"Page: {url}\n\n_Give the site a minute to publish before posting, so the preview image appears. Close this issue once posted._"
         )
         issue_title = f"Share on X: {title}"

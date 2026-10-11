@@ -114,6 +114,10 @@ content:
         options:
           multiple: true
           values: ["woman", "man", "ensemble"]
+      - name: x_post
+        label: Short summary for X
+        description: "One or two sentences for the X post (about 200 characters). Leave empty to use the opening of the review."
+        type: text
       - name: trailer
         label: YouTube trailer link
         type: string
