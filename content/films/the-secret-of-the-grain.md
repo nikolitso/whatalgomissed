@@ -17,6 +17,7 @@ x_post: "A Tunisian shipyard worker in the south of France dreams of opening a c
 trailer: "https://www.youtube.com/watch?v=c5YjuaQI9ck"
 image: ""
 added: 2026-05-14
+logline: "Laid-off Tunisian shipyard worker in Sète bets everything on a couscous restaurant on a boat, in a long, generous French drama worth every minute"
 ---
 Slimane is in his sixties, a Tunisian migrant who has spent most of his life in the shipyards of Sète, on France's Mediterranean coast. When he is laid off, he decides to spend his severance on a dream: a couscous restaurant on an old boat in the harbour, serving fish couscous made by his ex-wife. His large, chaotic, loving family has opinions about this. So does Rym, the daughter of the woman he now lives with, who becomes his fiercest ally.
 

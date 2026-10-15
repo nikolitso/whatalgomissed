@@ -15,6 +15,7 @@ x_post: "A successful Istanbul chef with a perfect, solitary life falls in love,
 trailer: "https://www.youtube.com/watch?v=eFkKOG0uzpo"
 image: ""
 added: 2026-05-14
+logline: "Istanbul chef who loves his solitude falls properly in love for the first time, in a romantic, bittersweet Turkish drama"
 ---
 Alper is a successful chef in Istanbul, in his mid-thirties, with his own restaurant, a beautiful apartment, a collection of old records, and an isolated life of luxury and one-night stands. He likes it that way, or tells himself he does. Then he meets Ada, a modest designer who runs a small clothes shop, and falls for her properly. Now he must figure out whether he is actually capable of the life that would require.
 

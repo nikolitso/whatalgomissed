@@ -16,6 +16,7 @@ x_post: "Two brothers, scarred by a childhood tragedy, struggle with addiction a
 trailer: "https://www.youtube.com/watch?v=RXQsSStHI5c"
 image: ""
 added: 2026-05-14
+logline: "Two brothers scarred by a childhood tragedy struggle through addiction in Copenhagen, in a hard, honest Thomas Vinterberg drama"
 ---
 Two brothers who, as children, were left to care for their baby brother while their mother drank. The baby died. Years later, Nick is out of prison, living in a shelter, drinking and trying to function. His younger brother is a single father whose drug habit is spiralling out of control, and who loves his small son Martin more than anything, even while he fails him. The two brothers barely see each other. They don't need to. They carry the same wound.
 

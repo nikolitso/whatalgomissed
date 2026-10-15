@@ -15,6 +15,7 @@ x_post: "A serious law student in Bari is drawn into a dangerous world of gambli
 trailer: "https://www.youtube.com/watch?v=toofvAuaozk"
 image: ""
 added: 2026-05-14
+logline: "Well-behaved law student in Bari is seduced into card cheating by a dangerous charmer, in a dark, gripping Italian drama"
 ---
 Giorgio is a well-off law student in Bari, serious, polite, with a good future ahead and a girlfriend his parents approve of. Then he meets Francesco, a charming, dangerous card cheat who sees in him the perfect partner: an innocent face that nobody at the table will suspect. Giorgio is flattered, then thrilled. The money, the nights, the women and the sense of being someone else pull him deeper into Francesco's world, and what starts as a game becomes something much uglier.
 

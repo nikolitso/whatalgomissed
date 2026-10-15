@@ -17,6 +17,7 @@ x_post: "Seven friends at dinner agree to share every message that arrives on th
 trailer: "https://www.youtube.com/watch?v=WZzdVlBZwPI"
 image: ""
 added: 2026-05-14
+logline: "Seven friends put their phones on the table at dinner and read every message aloud, in a hilarious, painful Italian comedy"
 ---
 Seven old friends gather for dinner at a Rome apartment on the night of a lunar eclipse. Three couples and one man whose new girlfriend has, conveniently, stayed at home. Someone suggests a game: every phone goes on the table, every call goes on speaker, every message is read aloud. Nobody can refuse without looking guilty, so nobody refuses.
 

@@ -19,6 +19,7 @@ x_post: "A man refuses to pay the bribes everyone else pays, in a small town run
 trailer: "https://www.youtube.com/watch?v=mKVMxuYiwL0"
 image: ""
 added: 2026-05-14
+logline: "Goldfish farmer refuses to bribe the company that owns the police, the courts and the bank, in Mohammad Rasoulof's furious portrait of decency under siege"
 ---
 Reza has left Tehran for a quiet life in the north of Iran, where he runs a small goldfish farm. His wife is the headmistress of a girls' school. They have a son, a mortgage, and debts. What they also have is land that a powerful local company wants, and that company has effectively bought the police, the courts, the bank, and every institution around him. Reza refuses to bow. That is the whole story, and it is enough.
 

@@ -19,6 +19,7 @@ x_post: "A retired actor running a hotel in Cappadocia, and the winter that brin
 trailer: "https://www.youtube.com/watch?v=F2_H9b0H4d0"
 image: ""
 added: 2026-10-05
+logline: "Wealthy retired actor running a Cappadocia hotel is forced to face his own self-image, in a slow, rigorous and devastating Palme d'Or winner"
 ---
 Aydın is a retired stage actor who runs a small hotel carved into the rocks of Cappadocia. He is wealthy, cultured, and the landlord of half the village. He writes columns for a local paper about morality and tradition, and believes he is a good man. With him live his much younger wife Nihal, who has her own charity work and her own frustration, and his recently divorced sister Necla, who has nothing to do but argue. Then a boy throws a stone at Aydın's car, and with the arrival of winter, all the resentments that have been sleeping wake up.
 

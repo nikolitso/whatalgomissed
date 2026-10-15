@@ -19,6 +19,7 @@ x_post: "A primary school meeting about two six-year-old boys slowly turns into 
 trailer: "https://www.youtube.com/watch?v=0kqGkQ1qxN0"
 image: ""
 added: 2026-10-05
+logline: "One parents' meeting at a Norwegian school spirals out of control over an afternoon, in a bold, unsettling and completely original debut"
 ---
 An ordinary afternoon at a primary school in Norway, just before the summer holidays. Elisabeth, an actress and a single mother, is called in because of something her six-year-old son Armand is supposed to have done to another boy in his class. Across the table sit the other boy's parents, Sarah and Anders, who are tied to her by family, which makes everything worse. Between them, a young teacher and a headmaster who would rather be anywhere else. Nobody quite knows what happened. Everybody already has a version.
 

@@ -17,6 +17,7 @@ x_post: "Naples, the 1980s: a footballer and a singer with the same name, both f
 trailer: "https://www.youtube.com/watch?v=UTDNw8RC39E"
 image: ""
 added: 2026-05-14
+logline: "A footballer and a pop star who share a name both fall from grace in 1980s Naples, in the Sorrentino debut that hints at everything to come"
 ---
 Naples, the 1980s. Two men share a name, Antonio Pisapia, and nothing else. One is a footballer, a decent, introverted defender whose career is cut short by injury, and who dreams of becoming a coach. The other, Tony, is a famous pop singer, loud, coked-up and full of himself, who is about to fall from grace after a scandal. They barely meet. Sorrentino follows both as they navigate decline in a city that forgets fast.
 

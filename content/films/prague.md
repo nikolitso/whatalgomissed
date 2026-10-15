@@ -15,6 +15,7 @@ x_post: "A Danish couple travel to Prague to collect his father's body, and thei
 trailer: "https://www.youtube.com/watch?v=9zIaKRIcio0"
 image: ""
 added: 2026-05-14
+logline: "Danish couple fly to Prague to collect his estranged father's body and their marriage cracks open, in an underrated, quietly devastating drama"
 ---
 Christoffer and Maja, a married Danish couple, travel to Prague to collect the body of his father, a man Christoffer had not seen in years. It should be a few days of paperwork and a coffin on a plane home. It isn't. The marriage is already cracking, and the city keeps handing them things they did not come for. The father's phone rings, and a life Christoffer knew nothing about starts to come into view.
 

@@ -18,6 +18,7 @@ x_post: "A mother and four sons on the outskirts of São Paulo, each trying to f
 trailer: "https://www.youtube.com/watch?v=s7GlYBs2nPU"
 image: ""
 added: 2026-05-14
+logline: "Exhausted São Paulo mother raises four sons who each chase a way out, in Walter Salles' rough, honest drama"
 ---
 Cleuza is a housekeeper in the poorer outskirts of São Paulo, a single mother raising four sons by different fathers, with a fifth child on the way. She is a fanatical Corinthians supporter, and she is tired. Her boys are each trying to find a way out. Dario dreams of football, but he is about to turn eighteen and every trial is a last chance. Dinho has found God and works at a petrol station. Dênis is a motorcycle courier with a baby of his own and no money. The youngest, Reginaldo, rides the city buses looking for the father he has never met.
 

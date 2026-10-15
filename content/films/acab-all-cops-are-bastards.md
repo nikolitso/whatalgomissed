@@ -15,6 +15,7 @@ x_post: "Three Roman riot police, worn down by years of street battles, and the 
 trailer: "https://www.youtube.com/watch?v=XSXy30lqvtw"
 image: ""
 added: 2026-10-05
+logline: "Three worn-out Roman riot cops watch their own lives fall apart between stadiums and evictions, in a raw, loud and angry portrait of Italy"
 ---
 Cobra, Negro and Mazinga are riot police in Rome, veterans of the Celere, worn down by years of stadiums, evictions and street battles. Each has a life falling apart at home. Negro is losing his daughter in a bitter separation. Mazinga, injured on duty, has a teenage son drifting towards the far right. Cobra is facing trial for beating a football fan. Then a young recruit, Adriano, joins the unit. They take him in like a little brother, and he begins to see what that brotherhood costs.
 

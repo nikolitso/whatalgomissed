@@ -19,6 +19,7 @@ x_post: "A Roman builder loses his wife and tries to give his children everythin
 trailer: "https://www.youtube.com/watch?v=RF4HPNQQJXI"
 image: ""
 added: 2026-05-14
+logline: "Roman construction worker loses his wife in childbirth and throws himself into a risky job to cope, in the most Italian film about masculinity and grief"
 ---
 Claudio is a construction worker on the outskirts of Rome, young, loud and very much in love with his wife Elena. They have two boys and a third child on the way. Then Elena dies giving birth. Claudio tries to hold everything together, his three children, his grief and his sense of himself as a man, by throwing himself into dangerous work and worse decisions: a building contract he can't afford, money borrowed from the wrong people, a secret on the site he decides to bury.
 

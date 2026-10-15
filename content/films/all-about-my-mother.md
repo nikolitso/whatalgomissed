@@ -21,6 +21,7 @@ x_post: "After losing her son, a nurse travels to Barcelona and finds a family o
 trailer: "https://www.youtube.com/watch?v=5Va7Z7O-LMc"
 image: ""
 added: 2026-10-05
+logline: "Grieving Madrid nurse goes to Barcelona looking for her son's father, in Pedro Almodóvar's warm, tragic, funny masterpiece"
 ---
 Manuela is a nurse in Madrid who lives for her teenage son Esteban, a boy who wants to be a writer. On his seventeenth birthday she takes him to see A Streetcar Named Desire. After the show, running in the rain to get an autograph from the lead actress, he is hit by a car. Shattered, Manuela goes to Barcelona to find Esteban's father, who never knew he had a son. In Barcelona she meets a whole family of women: an old friend, a young nun, the actress herself, and they begin to hold each other up.
 

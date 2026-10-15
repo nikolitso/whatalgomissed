@@ -20,6 +20,7 @@ x_post: "A small Egyptian police orchestra gets lost in a quiet Israeli town for
 trailer: "https://www.youtube.com/watch?v=lihIFrH3LFc"
 image: ""
 added: 2026-05-14
+logline: "Egyptian police orchestra gets stranded overnight in a sleepy Israeli desert town, in a deadpan, tender comedy where nothing and everything happens"
 ---
 The Alexandria Ceremonial Police Orchestra, a small group of Egyptian musicians in sky-blue uniforms, arrives in Israel to play at the opening of an Arab cultural centre. Nobody is at the airport to meet them. A mix-up over the name of a town sends them by bus to a small desert settlement with no hotel, no culture and no connection to anywhere. Dina, who runs the local café, takes pity on them, and the band is split up among the locals for one long night.
 

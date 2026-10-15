@@ -18,6 +18,7 @@ x_post: "A Norwegian-Pakistani teenager is sent to Pakistan by her family after 
 trailer: "https://www.youtube.com/watch?v=CSrVQVzmXKY"
 image: ""
 added: 2026-05-14
+logline: "Norwegian-Pakistani teenager is caught with a boy and taken to Pakistan by her family, in an angry, precise and deeply empathetic drama"
 ---
 Nisha is sixteen and living two lives: the perfect Pakistani daughter at home, a normal Norwegian teenager everywhere else. She goes to parties, plays basketball and has a boyfriend her family knows nothing about. When her father catches the boy in her bedroom, both worlds collapse at once. The Norwegian authorities get involved, the community starts talking, and her family does what they think they have to do. She is taken to Pakistan and left there with relatives.
 

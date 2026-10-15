@@ -17,6 +17,7 @@ x_post: "A mysterious Italian man has lived silently in a Swiss hotel for eight 
 trailer: "https://www.youtube.com/watch?v=uDE9J0zPd00"
 image: ""
 added: 2026-05-14
+logline: "Silent Italian living in a Swiss hotel launders Mafia money until a young barmaid catches his eye, in Paolo Sorrentino's cold, burning breakthrough"
 ---
 Titta Di Girolamo is a middle-aged Italian man who has lived for eight years in a hotel in the Swiss city of Lugano. He follows a rigid daily routine, speaks to almost no one, plays cards with an aristocratic couple who have lost everything, and injects heroin every Wednesday at the same hour. Once a week, a suitcase full of money arrives. He takes it to the bank. Then he begins to notice the barmaid, Sofia, who has served him for a long time without ever getting a word in return.
 

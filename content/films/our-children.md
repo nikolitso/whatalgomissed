@@ -15,6 +15,7 @@ x_post: "Two brothers and their wives discover a terrible crime committed by the
 trailer: "https://www.youtube.com/watch?v=LW_xGu0nt9Y"
 image: ""
 added: 2026-05-14
+logline: "Two brothers, a lawyer and a surgeon, discover their teenage children beat a homeless woman, in one of the sharpest Italian films about class and complicity"
 ---
 Two brothers meet for dinner in Rome with their wives, as they do every month. Massimo is a successful, cynical lawyer who defends anyone who pays. Paolo is a paediatric surgeon, a man of principles and liberal opinions. They don't much like each other. Then a security camera shows a brutal attack on a homeless woman, and the parents recognise the two teenagers on the footage: Massimo's daughter and Paolo's son. Now the question is what to do.
 

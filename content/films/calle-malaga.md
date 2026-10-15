@@ -20,6 +20,7 @@ x_post: "Carmen Maura is magnificent as a Spanish widow in Tangier who refuses t
 trailer: "https://www.youtube.com/watch?v=FwtLBQpAnk0"
 image: ""
 added: 2026-10-11
+logline: "Spanish widow in Tangier refuses to give up her family home, or her desire, in a sunny, mischievous comedy-drama"
 ---
 María Ángeles is a Spanish widow who has spent her life in Tangier, in the old family house on Calle Málaga. One day her daughter Clara arrives from Spain with news: she has decided to sell the house. María Ángeles is expected to leave. She has other plans. She is going to stay, get her house back and, piece by piece, recover the life inside it.
 

@@ -16,6 +16,7 @@ x_post: "A young mother and her teenage daughter in Jerusalem, who grew up almos
 trailer: "https://www.youtube.com/watch?v=M4UR7wtp8p8"
 image: ""
 added: 2026-05-14
+logline: "Young Russian-Israeli mother finally gets close to the daughter she had too early, in an unsentimental drama of almost unbearable tenderness"
 ---
 Asia had her daughter Vika very young, after emigrating from Russia to Israel, and the two have grown up almost side by side. Asia is a nurse in Jerusalem, brash and restless, who still goes out at night, has an affair at work, and has always kept an emotional distance from her teenage daughter. Vika has a degenerative disease. When her health suddenly deteriorates, the roles begin to reverse, and Asia must become the mother she never quite managed to be.
 

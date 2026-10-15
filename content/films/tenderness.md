@@ -15,6 +15,7 @@ x_post: "An elderly lawyer in Naples forms an unexpected bond with the young fam
 trailer: "https://www.youtube.com/watch?v=5DXjpFdDoMs"
 image: ""
 added: 2026-05-14
+logline: "Cold retired Neapolitan lawyer is drawn into the life of the young family next door, in a wise, mature drama by Gianni Amelio"
 ---
 Lorenzo is an elderly retired lawyer in Naples, recovering from a health scare and living alone. He has little time for his adult children, and they have learned to expect little from him. Then a young couple with two small children move in next door, and Lorenzo, who has always been cold to his own family, finds himself drawn into their lives, offering small kindnesses he never offered at home.
 

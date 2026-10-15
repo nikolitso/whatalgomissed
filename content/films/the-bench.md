@@ -15,6 +15,7 @@ x_post: "An alcoholic on a Copenhagen bench discovers the daughter he lost and t
 trailer: "https://www.youtube.com/watch?v=r1tWA2TpV0w"
 image: ""
 added: 2026-05-14
+logline: "Alcoholic on a Copenhagen estate bench gets involved with a single mother and her son, in the rawest part of Per Fly's class trilogy"
 ---
 Kaj is an unemployed alcoholic who spends his days on a public bench in a Copenhagen housing estate with like-minded souls, drinking beer and passing the time. He has lost almost everything and stopped pretending otherwise. When a single mother and her young son move in nearby, escaping trouble of her own, Kaj becomes involved in her life and her troubles, and slowly realises she may be connected to the life he left behind.
 

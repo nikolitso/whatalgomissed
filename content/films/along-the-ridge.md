@@ -17,6 +17,7 @@ x_post: "An eleven-year-old boy in Rome, a loving, explosive father and a mother
 trailer: "https://www.youtube.com/watch?v=NlW9d8Pl6M4"
 image: ""
 added: 2026-10-05
+logline: "Eleven-year-old grows up in Rome with a loving, explosive father who can barely hold things together, in a simple, true and heartbreaking film"
 ---
 Tommi is eleven and lives in a Rome apartment with his father Renato and his older sister Viola. Their mother has left, not for the first time. Renato is loving, funny, explosive and completely overwhelmed, a man who struggles to find work and pushes his children with an intensity that is sometimes tenderness and sometimes something harder. Then one day the mother comes back, asking to be part of the family again. Tommi watches everything, and says very little.
 

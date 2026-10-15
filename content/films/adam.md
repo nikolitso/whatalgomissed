@@ -19,6 +19,7 @@ share: false
 trailer: "https://www.youtube.com/watch?v=WSaCJaNZkyI"
 image: ""
 added: 2026-05-14
+logline: "Grieving Casablanca baker takes in a pregnant, unmarried stranger for one night, in a tender Moroccan study of female solidarity"
 ---
 Casablanca. Abla is a widow who runs a small bakery from her home in the medina and lives alone with her eight-year-old daughter Warda. Her days are a strict routine of dough, customers and homework, and she has closed herself off from everything else. One evening a young woman knocks on the door looking for work and a place to sleep. Samia is heavily pregnant and unmarried, which in Morocco means she has nowhere to go. Abla says no. Then, reluctantly, she lets her in for one night.
 

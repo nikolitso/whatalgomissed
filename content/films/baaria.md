@@ -18,6 +18,7 @@ x_post: "Giuseppe Tornatore returns to his Sicilian hometown for a sweeping, col
 trailer: "https://www.youtube.com/watch?v=95BNRxTRUa0"
 image: ""
 added: 2026-05-14
+logline: "Three generations of a Sicilian town, from fascism to the eighties, in Giuseppe Tornatore's big, messy and generous autobiographical epic"
 ---
 Tornatore goes home. Baarìa is the Sicilian name for Bagheria, the town near Palermo where he was born, and this is his sprawling autobiographical epic about it, spanning three generations from the 1930s to the 1980s. At its centre is Peppino, the son of a poor peasant family, who grows up through fascism, war and poverty, becomes a committed Communist, and marries Mannina against her family's wishes. Around them, the whole town lives, argues, sings and grows old.
 

@@ -17,6 +17,7 @@ x_post: "A perfectionist chef in Hamburg suddenly has to care for her young niec
 trailer: "https://www.youtube.com/watch?v=cf-9-dI9h5U"
 image: ""
 added: 2026-05-14
+logline: "Perfectionist Hamburg chef suddenly has to care for her grieving eight-year-old niece, in a quietly irresistible German comedy"
 ---
 Martha is the head chef of a smart restaurant in Hamburg. She lives entirely for her work, sends dishes back to customers who ask for more salt, and talks about recipes to the therapist her boss makes her see. Then her sister is killed in a car accident, and Martha suddenly has to care for her eight-year-old niece Lina, who refuses to eat. At the same moment a charming Italian chef, Mario, arrives to share her kitchen, singing, improvising, breaking all her rules.
 

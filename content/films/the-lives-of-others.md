@@ -20,6 +20,7 @@ x_post: "East Berlin, 1984. A Stasi captain spies on a playwright, and slowly be
 trailer: "https://www.youtube.com/watch?v=n3_iLOp6IhM"
 image: ""
 added: 2026-10-05
+logline: "Stasi captain wiretapping a playwright's flat starts to change sides, in an Oscar-winning German masterpiece"
 ---
 East Berlin, 1984. Gerd Wiesler is a Stasi captain, a perfect servant of the system, who teaches young officers how to break a suspect in interrogation. He is assigned to spy on Georg Dreyman, a successful playwright loyal to the regime, and his partner, the actress Christa-Maria Sieland. The apartment is wired, and Wiesler sits in the attic with headphones, listening to every conversation, every argument, every moment of love. And slowly, listening to these lives, he starts to change.
 

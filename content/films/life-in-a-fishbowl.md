@@ -15,6 +15,7 @@ x_post: "Reykjavík just before the crash: three lives drawing closer, a young m
 trailer: "https://www.youtube.com/watch?v=GBpoyHLZ78U"
 image: ""
 added: 2026-10-09
+logline: "A kindergarten teacher, a footballer-turned-banker and a drunk poet collide in Reykjavík just before the crash, in a gripping, generous Icelandic drama"
 ---
 Reykjavík, just before the great financial crash. Three lives, in three very different corners of the city, slowly drawing closer. A young single mother who works at a kindergarten by day and has found a secret, dangerous way to make ends meet. A former football star who has moved into banking and discovers he is being pulled into deals he does not understand. And an old poet, once celebrated, who has spent twenty years drinking himself into oblivion since a tragedy he has never recovered from. None of them knows the others yet. They will.
 

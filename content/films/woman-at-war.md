@@ -20,6 +20,7 @@ x_post: "A choir conductor in Iceland is secretly waging a one-woman war against
 trailer: "https://www.youtube.com/watch?v=3njh93jBnws"
 image: ""
 added: 2026-05-14
+logline: "Choir conductor wages a one-woman war on Iceland's aluminium industry with a bow and arrow, in an original, heartfelt eco-thriller"
 ---
 Halla is around fifty, conducts a choir in a small Icelandic town and is loved by everyone. She is also the "Mountain Woman", a one-person resistance movement waging war against the aluminium industry. With a bow and arrow she sabotages power lines across the highlands, then hides from helicopters and drones in the moss and the rocks, living a double life that the whole country is talking about. Then a letter arrives telling her that her long-forgotten application to adopt a little girl from Ukraine has been approved, and everything gets more complicated.
 

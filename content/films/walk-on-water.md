@@ -18,6 +18,7 @@ x_post: "A Mossad agent is assigned to track down a Nazi war criminal through hi
 trailer: "https://www.youtube.com/watch?v=P_-_w_jm1NY"
 image: ""
 added: 2026-05-14
+logline: "Grieving Mossad hitman poses as a tour guide to track a Nazi's grandson and becomes his friend, in an unlikely Israeli thriller"
 ---
 Eyal is a Mossad hitman, very good at his job and reeling from his wife's suicide, which he refuses to discuss. His next assignment is gentler on paper: track down an aging Nazi war criminal who may still be alive, by posing as a tour guide for the man's grandchildren. Axel has come to Israel to visit his sister Pia, who lives on a kibbutz. He is German, curious, open and gay, and over a few days of driving around the country he slowly dismantles every wall Eyal has built around himself.
 

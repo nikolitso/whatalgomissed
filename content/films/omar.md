@@ -21,6 +21,7 @@ x_post: "A young Palestinian baker climbs the separation wall to see the girl he
 trailer: "https://www.youtube.com/watch?v=427jAYBe6aE"
 image: ""
 added: 2026-05-14
+logline: "Palestinian baker who climbs the separation wall to see his girlfriend is turned informer, in a lean, intelligent and heartbreaking thriller"
 ---
 Omar is a young Palestinian baker in the West Bank who routinely climbs the separation wall, under fire if necessary, to visit Nadia, the sister of his childhood friend Tarek. He is shy with her and fearless everywhere else. With Tarek and their friend Amjad he plans an attack on an Israeli army post. After a soldier is killed, Omar is arrested, beaten and tricked into a confession, and then given a choice by an Israeli agent: prison, or work as an informant.
 

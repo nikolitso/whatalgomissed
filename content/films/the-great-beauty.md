@@ -19,6 +19,7 @@ x_post: "A writer turns 65 among the endless parties of Rome and looks for the b
 trailer: "https://www.youtube.com/watch?v=Dyt430YkQn0"
 image: ""
 added: 2026-05-14
+logline: "Aging socialite drifts through Rome's rooftop parties wondering where his life went, in Paolo Sorrentino's long, hypnotic Oscar winner"
 ---
 Jep Gambardella turns 65 on a Roman rooftop, in the middle of a party that never seems to end. Forty years ago he wrote one acclaimed novel. Since then he has written nothing but society journalism, and has become the king of the city's high life instead. Now he drifts through Rome's parties, ruins and ghosts, trying to understand why he never wrote a second book, and what exactly he has been doing with his life.
 

@@ -18,6 +18,7 @@ x_post: "After forty years in Egypt, a man returns to Naples and is pulled back 
 trailer: "https://www.youtube.com/watch?v=-4Zgizzgej4"
 image: ""
 added: 2026-05-14
+logline: "Man returns to Naples after forty years in Egypt and is pulled back into the past he fled, in Mario Martone's slow drama that gets under your skin"
 ---
 Felice Lasco left Naples as a teenager and has spent forty years in Egypt, where he became a successful businessman, a husband and a convert to Islam. Now he returns to the Rione Sanità, the old neighbourhood that formed him, to see his ageing mother. He means to stay a short time. Instead he finds himself walking the same alleys again and again, looking for something, and for someone: Oreste, his closest childhood friend, who stayed behind and went a very different way.
 

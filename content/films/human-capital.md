@@ -17,6 +17,7 @@ x_post: "A hit-and-run on Christmas Eve connects two families in wealthy norther
 trailer: "https://www.youtube.com/watch?v=CMx_5rhamTw"
 image: ""
 added: 2026-05-14
+logline: "A hit-and-run on Christmas Eve ties an estate agent to a hedge-fund family north of Milan, in a cold, elegant portrait of Italy's rich"
 ---
 Christmas Eve in the Brianza, the wealthy hinterland north of Milan. A waiter cycling home from a party is hit by an SUV, and the driver drives on. The accident connects three families across class lines. Dino, an estate agent desperate to climb, has borrowed money he doesn't have to invest in the hedge fund of Giovanni Bernaschi, whose son is dating Dino's daughter. Bernaschi's wife Carla, bored and lonely in a mansion, wants to save a local theatre.
 

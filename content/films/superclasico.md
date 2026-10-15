@@ -18,6 +18,7 @@ x_post: "A Danish wine seller travels to Buenos Aires to win back his wife, now 
 trailer: "https://www.youtube.com/watch?v=swOCtS3CbGo"
 image: ""
 added: 2026-05-14
+logline: "Failed Danish wine seller flies to Buenos Aires to win back the wife now dating a football star, in a charming comedy best paired with a good red"
 ---
 Christian is a Danish wine seller whose shop, and life, are going nowhere. Then the divorce papers arrive from his wife Anna, who has moved to Buenos Aires, works as a football agent and is now dating one of her clients, an Argentinian football star. Christian flies out with their teenage son to sign the papers. Secretly, he plans to win her back.
 

@@ -15,6 +15,7 @@ x_post: "A respected Danish man has lived his whole life in the closet. Late in 
 trailer: "https://www.youtube.com/watch?v=Wdw2ztXh9EI"
 image: ""
 added: 2026-05-14
+logline: "Respected Danish husband finally faces the life he buried decades ago, in an honest, humane coming-out drama that lets everyone keep their dignity"
 ---
 A middle-aged Danish man has lived his entire life in the closet. He is married, respected, settled, and deeply buried under the version of himself he built decades ago to make life simpler. Nobody suspects anything, possibly not even him on his better days. Then something cracks, and he finds himself at a crossroads between the comfortable lie and something that finally resembles truth.
 

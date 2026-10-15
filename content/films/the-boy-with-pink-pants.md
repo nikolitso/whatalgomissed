@@ -15,6 +15,7 @@ x_post: "The true story of Andrea, a sensitive, funny boy in Rome, and the bully
 trailer: "https://www.youtube.com/watch?v=WnqtnpIAAx8"
 image: ""
 added: 2026-10-09
+logline: "Roman teenager with a choir-boy voice is hounded online by his classmates, in a painful, important and very moving true story"
 ---
 Rome, the early 2010s. Andrea is a sensitive, funny boy with a beautiful singing voice, good enough to be chosen for the papal choir. He lives with his mother Teresa, his father and his little brother, and at school he wants what every teenager wants: friends, and to belong. He becomes close to Christian, an older classmate, and to Sara, a girl who understands him. Then one day his mother buys him a pair of red trousers that turn pink in the wash. Andrea wears them anyway, proudly. For his classmates, it is the perfect excuse.
 

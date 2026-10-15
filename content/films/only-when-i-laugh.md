@@ -15,6 +15,7 @@ x_post: "A young Croatian housewife wants to finish her degree, and her husband'
 trailer: "https://www.youtube.com/watch?v=aYCsyd65-hM"
 image: ""
 added: 2026-05-14
+logline: "Young Croatian wife's wish to finish her degree turns her husband's support into control, in a hard-to-watch, important drama"
 ---
 A young housewife, married with a small daughter, quietly asks her husband if she can go back and finish the university degree she abandoned when the baby came. It seems like nothing. He agrees, even seems pleased. But his support slowly curdles into control: questions about where she was, who she spoke to, how much time she spends on her books. And then into something considerably worse.
 

@@ -15,6 +15,7 @@ x_post: "An Arab-Israeli surgeon learns that his wife was the suicide bomber beh
 trailer: "https://www.youtube.com/watch?v=fbuANqujNPk"
 image: ""
 added: 2026-05-14
+logline: "Arab-Israeli surgeon learns his wife may have been the suicide bomber whose victims he spent the night saving, in a drama that refuses to take sides"
 ---
 Amin Jaafari is a well-integrated Arab-Israeli surgeon in Tel Aviv: successful, apolitical, happy. The night he receives a prestigious award, a suicide bomber blows up a restaurant full of people, and Amin spends hours operating on the wounded. Then the police call him in. The evidence points to his wife, Siham, who was supposed to be visiting family. He refuses to believe it.
 

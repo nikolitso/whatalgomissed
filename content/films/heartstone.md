@@ -21,6 +21,7 @@ x_post: "One long summer in an Icelandic fishing village and two best friends on
 trailer: "https://www.youtube.com/watch?v=EIolgEvMAJ8"
 image: ""
 added: 2026-10-05
+logline: "Two inseparable boys in a remote Icelandic fishing village spend one summer learning who they are, in a beautiful, heartbreaking coming-of-age film"
 ---
 A remote fishing village in Iceland, one long summer. Thor and Kristján are inseparable best friends, two boys on the edge of adolescence who spend their days fishing, running wild across the lava fields, and trying to impress girls. Thor is still small and childlike, desperate to grow up and win the attention of a girl called Beta. Kristján helps him, and slowly realises that what he feels for Thor is more than friendship. In a village where everyone knows everyone, and where being different is dangerous, he has no one to tell.
 

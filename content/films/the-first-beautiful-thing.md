@@ -17,6 +17,7 @@ x_post: "A gloomy teacher returns to Livorno to sit with his dying mother, a wom
 trailer: "https://www.youtube.com/watch?v=WWEuMIljt_E"
 image: ""
 added: 2026-05-14
+logline: "Gloomy Milan teacher returns to Livorno to sit with his dying mother, the beauty queen of 1971, in Paolo Virzì at his most tender"
 ---
 Bruno is a teacher in Milan, gloomy, numb, keeping his life at arm's length. His sister calls him back to Livorno, the seaside town he fled years ago, because their mother Anna is dying. Anna was the most beautiful woman on the beach in the summer of 1971, crowned at a local contest, and that small moment of glory set off a jealousy that broke the family apart. She has been too much ever since: too loud, too flirtatious, too cheerful in the face of disaster.
 

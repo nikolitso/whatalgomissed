@@ -19,6 +19,7 @@ x_post: "A Palestinian widow fights the Israeli state to save her lemon grove fr
 trailer: "https://www.youtube.com/watch?v=e_j1llK3Fco"
 image: ""
 added: 2026-05-14
+logline: "Palestinian widow takes on Israel's defence minister to save her father's lemon grove, in a small film about a big conflict"
 ---
 Salma Zidane is a Palestinian widow who lives alone on the West Bank, right on the line, tending the lemon grove her father planted fifty years ago. Then the new Israeli Defence Minister moves into the house next door. The security services decide her trees are a threat, a place where gunmen could hide, and order them cut down. Salma, who has never made a fuss about anything, hires a young lawyer and takes the case all the way to the Supreme Court.
 

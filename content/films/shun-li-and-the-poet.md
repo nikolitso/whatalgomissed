@@ -19,6 +19,7 @@ x_post: "A Chinese woman working in a bar in Chioggia befriends an old fisherman
 trailer: "https://www.youtube.com/watch?v=RRdej8lYUXU"
 image: ""
 added: 2026-10-05
+logline: "Chinese barmaid in a Venetian fishing town befriends an old Yugoslav fisherman, in a delicate, poetic and very moving Italian drama"
 ---
 Shun Li is a Chinese woman working in a textile workshop near Rome, paying off the debt that will let her bring her young son over from China. One day her employers move her to Chioggia, a small fishing town on the Venetian lagoon, to work behind the bar of an old osteria. The regulars are elderly fishermen who drink, play cards and argue about everything. Among them is Bepi, a gentle Yugoslav-born fisherman everyone calls "the poet", who has lived in Chioggia for decades. An unlikely friendship starts between them, and the town does not like it at all.
 

@@ -19,6 +19,7 @@ x_post: "A father's 60th birthday, and a son who stands up at dinner to reveal t
 trailer: "https://www.youtube.com/watch?v=XCqc_JTiNxg"
 image: ""
 added: 2026-05-14
+logline: "Eldest son stands up at his father's 60th birthday dinner with a speech that blows the family apart, in the film that changed Danish cinema"
 ---
 A father's 60th birthday party. A grand country hotel, a family dinner, relatives and old friends in their best clothes. Helge, the patriarch, is the man of the hour. His eldest son Christian, a quiet restaurateur who lives in Paris, has a speech prepared. His sister Helene and his volatile brother Michael are there too, and the absence of a fourth sibling hangs over everything. When Christian stands up and taps his glass, the evening goes somewhere nobody at the table was ready for.
 

@@ -15,6 +15,7 @@ x_post: "A young hairdresser on Rome's film sets fights to protect her fragile b
 trailer: "https://www.youtube.com/watch?v=_MpUsK69_V0"
 image: ""
 added: 2026-05-14
+logline: "Film-set hairdresser tries to save her fragile brother from their charming, reckless parents, in a warm and painful Italian debut"
 ---
 Desirè works as a hairdresser on film sets in Rome, the one stable member of a family that is anything but. Her younger brother Claudio is fragile and drifting, and their parents are charming, loud, self-absorbed and reckless, the kind who pull their children in and out of disaster and call it love. When Claudio's state gets worse, Desirè has to decide how far she will go to get him out from under their influence.
 

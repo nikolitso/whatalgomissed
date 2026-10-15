@@ -18,6 +18,7 @@ x_post: "A carpenter in Newcastle fights a benefits system designed to wear him 
 trailer: "https://www.youtube.com/watch?v=ahWgxw9E_h4"
 image: ""
 added: 2026-10-05
+logline: "Carpenter recovering from a heart attack is declared fit for work by a system built to wear him down, in Ken Loach's plain, humane, furious Palme d'Or winner"
 ---
 Daniel Blake is a fifty-nine-year-old carpenter in Newcastle. After a heart attack, his doctors tell him he cannot work. The state disagrees: a benefits assessment declares him fit, and Daniel is thrown into a maze of phone queues, online forms he cannot fill in, and job searches for work he is not allowed to do. At the job centre he meets Katie, a young single mother just moved up from London with her two children, who is being crushed by the same machine. They start helping each other.
 

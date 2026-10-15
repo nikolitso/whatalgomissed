@@ -22,6 +22,7 @@ x_post: "A forensic pathologist in Tehran hits a family on a motorbike. Days lat
 trailer: "https://www.youtube.com/watch?v=RpgV-T955Yg"
 image: ""
 added: 2026-05-14
+logline: "Tehran pathologist clips a family's motorbike and a boy dies days later, in a grey, tense Iranian moral drama"
 ---
 Dr Kaveh Nariman is a forensic pathologist in Tehran. Driving home one night, his car clips a motorbike carrying a man, his wife and their two children. The eight-year-old son seems only lightly hurt. Nariman offers to take him to a clinic and pay for everything; the father, Moosa, proud and suspicious, refuses. A few days later the boy dies, and his body arrives at the morgue where Nariman works. The autopsy points to another cause entirely. The question is whether Nariman can believe it.
 

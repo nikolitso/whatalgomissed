@@ -22,6 +22,7 @@ x_post: "A mother and her two daughters open a noodle stall in a Taipei night ma
 trailer: "https://www.youtube.com/watch?v=FPKEZ-dxUR0"
 image: ""
 added: 2026-10-09
+logline: "Single mother opens a noodle stall in a Taipei night market with her two daughters, in a warm, lively and heartbreaking family drama"
 ---
 Shu-Fen, a single mother, moves back to Taipei with her two daughters to open a noodle stall in a crowded night market. The older girl, I-Ann, is sharp-tongued and restless, and works at a roadside betel nut stand. The younger one, I-Jing, is five, curious about everything, and left-handed. When the family visits their grandparents, the old-fashioned grandfather tells her that her left hand is "the devil's hand" and must not be used. I-Jing takes this very literally. If the devil controls her left hand, then whatever it does is not her fault. And her left hand starts taking things from the market stalls.
 

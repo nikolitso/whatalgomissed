@@ -24,6 +24,7 @@ x_post: "A young Greek judo athlete follows her coach to Athens chasing a dream,
 trailer: "https://www.youtube.com/watch?v=85Heliai2ds"
 image: ""
 added: 2026-05-14
+logline: "Teenage judoka from a remote island follows her sensei to Athens chasing an Olympic dream, in one of the best Greek films of recent years"
 ---
 Daphne is a teenage judo athlete from a remote Greek island. She is talented, stubborn and a little lost, and when her sensei leaves for Athens she follows him, chasing an Olympic dream that nobody back home quite believes in. He has been absent from competitive judo for years and is searching for something he can't name. In the big city, both of them have to start again, in gyms, rented rooms and the long hours between training sessions.
 

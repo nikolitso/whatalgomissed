@@ -19,6 +19,7 @@ x_post: "A psychoanalyst's family in a quiet Italian town is shattered by sudden
 trailer: "https://www.youtube.com/watch?v=zzamSDDEuRA"
 image: ""
 added: 2026-05-14
+logline: "Psychoanalyst in a quiet Adriatic town loses his son on an ordinary Sunday, in Nanni Moretti's small film about the largest thing"
 ---
 Giovanni is a psychoanalyst in Ancona, a quiet port town on the Adriatic. He has a good marriage to Paola, two teenage children, Andrea and Irene, and a steady stream of patients whose problems he listens to with patience and a little boredom. One Sunday morning he is called away to a patient instead of going running with his son. Andrea goes diving with friends and doesn't come back.
 

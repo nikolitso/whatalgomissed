@@ -15,6 +15,7 @@ x_post: "Genoa, 2001: the police raid on a school during the G8 summit. A furiou
 trailer: "https://www.youtube.com/watch?v=KVysTs75mBI"
 image: ""
 added: 2026-05-14
+logline: "Police storm a school full of sleeping G8 protesters in Genoa, in a harrowing reconstruction that is impossible to forget"
 ---
 Genoa, July 2001. The G8 summit has brought hundreds of thousands of protesters to the city, and a young man, Carlo Giuliani, has already been shot dead by police. On the night of 21 July, police storm the Diaz school, where activists, students and journalists are sleeping. What follows is a beating of people in their sleeping bags, fabricated evidence, and days of abuse at the Bolzaneto detention centre. The European Court of Human Rights later ruled that what happened amounted to torture.
 

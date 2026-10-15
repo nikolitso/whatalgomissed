@@ -20,6 +20,7 @@ x_post: "A rifle shot in the Moroccan desert connects lives in four countries. I
 trailer: "https://www.youtube.com/watch?v=yDNa6t-TDrQ"
 image: ""
 added: 2026-05-14
+logline: "One rifle sold in the Moroccan desert sets off tragedies on three continents, in a formally daring global drama"
 ---
 A rifle changes hands in the Moroccan desert. Two boys herding goats test it, and a bullet hits an American tourist, Susan, on a bus, travelling with her husband Richard. Their children are back in California with their Mexican nanny, who decides to take them to her son's wedding across the border. In Tokyo, a deaf teenager, isolated and angry after her mother's death, searches for connection in a city that can't hear her. Four stories, four countries, one moment of carelessness.
 

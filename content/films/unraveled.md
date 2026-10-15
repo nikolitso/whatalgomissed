@@ -15,6 +15,7 @@ x_post: "A former swimming champion's husband, once her coach, is accused of abu
 trailer: "https://www.youtube.com/watch?v=-711Ef0I7Jc"
 image: ""
 added: 2026-10-11
+logline: "Danish swimming star starts doubting the husband who coached her as a teenager, in a tense, morally serious study of trust and power"
 ---
 Maria was once an elite swimmer. Today she is a well-known sports commentator, happily married to Mikael, the coach who trained her when she was young and the father of their daughter. Then a book is announced. In it, a young woman writes about the infatuation she felt as a teenager for her swimming coach, and the rumours quickly point to Mikael. The press smells a scandal. Friends start to keep their distance. And Maria, who has built her whole life around this man, has to ask herself what she really knows about him, and about her own story.
 

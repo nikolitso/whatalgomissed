@@ -19,6 +19,7 @@ x_post: "Five women in a Beirut beauty salon, their loves, secrets and small reb
 trailer: "https://www.youtube.com/watch?v=PvbHOhzJarU"
 image: ""
 added: 2026-05-14
+logline: "Five women share secrets, crushes and caramel wax in a Beirut beauty salon, in a light, generous and quietly brave comedy"
 ---
 Five women meet regularly at a beauty salon in Beirut, where the hair removal is done with caramelised sugar, the "caramel" of the title. Layale, played by Labaki herself, runs the place and is stuck in an affair with a married man. Nisrine is about to marry and is terrified her fiancé's family will discover she isn't a virgin. Rima is drawn to a beautiful customer. Jamale, an actress, refuses to accept she is getting older. Across the street, the seamstress Rose has given up her own life to care for her eccentric older sister.
 

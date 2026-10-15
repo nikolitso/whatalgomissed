@@ -15,6 +15,7 @@ x_post: "An Italian chef has built a calm new life in Germany. Then two young me
 trailer: "https://www.youtube.com/watch?v=chJoBwDEhXw"
 image: ""
 added: 2026-05-14
+logline: "Respectable chef in the German countryside sees his Camorra past walk through the door, in a cold, restrained and very sad crime film"
 ---
 Rosario is an Italian who runs a hotel restaurant in the German countryside. He has a German wife, a young son, a kitchen he is proud of, and a calm, respectable life. He also has a past. Years ago, under another name, he was part of the Camorra world near Naples, and he walked away from it in the only way possible: by disappearing. Then two young men turn up at his door. One of them is the son he left behind.
 

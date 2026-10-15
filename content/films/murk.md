@@ -15,6 +15,7 @@ x_post: "A man's sister dies on her wedding night, and he travels to a cold Dani
 trailer: "https://www.youtube.com/watch?v=c9A_n5U3qb8"
 image: ""
 added: 2026-05-14
+logline: "Brother refuses to accept that his sister killed herself on her wedding night, in a dark, underrated Danish mystery"
 ---
 Jacob's sister dies on her wedding night. The official explanation is suicide, and nobody around her seems inclined to question it. Jacob does. He travels to the grey, half-empty place where she lived her last months, takes up with her widower, and starts asking questions that nobody wants to answer. What he finds disrupts everything he thought he knew about his sister, his family and himself.
 

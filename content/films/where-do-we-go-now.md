@@ -18,6 +18,7 @@ x_post: "In a remote Lebanese village, the women will do anything to stop the me
 trailer: "https://www.youtube.com/watch?v=-Te9c2jReOg"
 image: ""
 added: 2026-05-14
+logline: "Village women scheme to stop their Christian and Muslim men from killing each other, in a Lebanese fable that is comedy and lament at once"
 ---
 In a remote Lebanese village, cut off from the world by a broken bridge and a minefield, the church and the mosque stand side by side. Christians and Muslims have lived together for generations. But the news on the one television in town is full of sectarian violence elsewhere, and the men are restless. Every small accident threatens to become a war. So the women, Christian and Muslim together, conspire to keep their husbands and sons distracted, using every trick they can think of.
 

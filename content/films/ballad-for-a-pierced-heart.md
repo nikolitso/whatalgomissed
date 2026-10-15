@@ -18,6 +18,7 @@ x_post: "In a small Greek town, passion meets greed, and the bodies start piling
 trailer: "https://www.youtube.com/watch?v=_ja4kLfSPNs"
 image: ""
 added: 2026-05-14
+logline: "Small-town lovers, husbands and crooks scheme until the bodies start piling up, in an excessive, uneven Greek crime farce"
 ---
 In a small Greek town, amorous passion collides with greed, and the bodies start piling up. Lovers, husbands, small-time crooks and people who want a bit more than they have: everyone is scheming, everyone is lying, and nobody is half as clever as they think. It sounds like a crime story, and it is one. But this is Yannis Economides, so it is also something stranger.
 

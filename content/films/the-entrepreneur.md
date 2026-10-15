@@ -15,6 +15,7 @@ x_post: "A factory owner in Turin fights the banks and the crisis, and slowly lo
 trailer: "https://www.youtube.com/watch?v=kRTUWJS663o"
 image: ""
 added: 2026-10-05
+logline: "Turin factory heir watches his firm and marriage sink in the financial crisis, in a sharp, sad and underrated Italian drama"
 ---
 Turin, in the middle of the financial crisis. Nicola has inherited a small factory from his father, and it is sinking. The banks will not lend, the workers are anxious, and the only way out seems to be foreign investors with no interest in what the factory means. At home, his marriage to Laura is quietly cracking. Nicola is too proud to share his fears, and slowly his sense of losing control at work turns into suspicion and jealousy of his wife.
 

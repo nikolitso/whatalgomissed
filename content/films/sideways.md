@@ -18,6 +18,7 @@ x_post: "Two old friends, a road trip through California wine country and a week
 trailer: "https://www.youtube.com/watch?v=DGP8PwCpxLk"
 image: ""
 added: 2026-10-05
+logline: "Depressed wine snob takes his philandering best friend on a stag tour of California's vineyards, in a funny, rueful road comedy"
 ---
 Miles is a depressed middle-school English teacher in San Diego, a failed novelist still mourning his divorce, and a passionate wine snob. His old college friend Jack, a fading TV actor, is getting married in a week. Miles takes him on a road trip through the wine country of Santa Barbara County to celebrate: golf, good food, great wine. Jack has other plans. He wants one last fling before the wedding. Along the way they meet Maya, a waitress who knows as much about wine as Miles does, and Stephanie, who pours the wine at a tasting room.
 

@@ -22,6 +22,7 @@ x_post: "Two Icelandic brothers who haven't spoken in forty years must fight tog
 trailer: "https://www.youtube.com/watch?v=SWOFWaltGRw"
 image: ""
 added: 2026-10-09
+logline: "Two sheep-farming brothers who haven't spoken in forty years face an outbreak that threatens their flocks, in a funny, tender and unforgettable Icelandic film"
 ---
 A remote farming valley in the north of Iceland. Gummi and Kiddi are brothers, two old bachelors who live on neighbouring farms, raise the same prize-winning breed of sheep, and have not spoken to each other in forty years. When they need to communicate, a sheepdog carries the message. Then a deadly disease, scrapie, is found in the valley, and the authorities order every sheep to be slaughtered. For men whose whole lives are their flocks, it is the end of everything. Each of the brothers reacts in his own way, and neither of them is going to give up quietly.
 

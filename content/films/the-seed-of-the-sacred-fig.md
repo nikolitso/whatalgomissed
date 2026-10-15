@@ -19,6 +19,7 @@ x_post: "A judge in Tehran's Revolutionary Court and his family, as the protests
 trailer: "https://www.youtube.com/watch?v=A3P53zHCPJU"
 image: ""
 added: 2026-05-14
+logline: "Newly promoted Tehran judge suspects his own family when his gun goes missing during the protests, in one of the most important films of the decade"
 ---
 Iman has served the state loyally for twenty years, and now he is promoted to investigating judge at the Revolutionary Court in Tehran. It means a bigger apartment and a better life for his wife Najmeh and their two daughters, Rezvan and Sana. It also means signing death sentences he is not given time to read. The promotion comes just as the 2022 protests over Mahsa Amini's death fill the streets. Then his service pistol goes missing at home, and paranoia sets in. He begins to suspect his own wife and daughters, who have been watching footage of the protests on their phones.
 

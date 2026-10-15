@@ -18,6 +18,7 @@ x_post: "A retired Georgian teacher travels to Istanbul to find her trans niece,
 trailer: "https://www.youtube.com/watch?v=v0NiaQyMUS0"
 image: ""
 added: 2026-05-14
+logline: "Retired Georgian teacher travels to Istanbul to find her trans niece, in a gentle, deeply humane road movie"
 ---
 Lia is a retired schoolteacher from Batumi, on Georgia's Black Sea coast. She made a promise to her late sister: to find her niece Tekla, a trans woman who left home years ago and is thought to be somewhere in Istanbul. With her travels Achi, a young man from the neighbourhood with his own reasons to escape. Neither speaks Turkish. Neither has much of a plan.
 

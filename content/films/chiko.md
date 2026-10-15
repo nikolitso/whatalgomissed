@@ -16,6 +16,7 @@ x_post: "A young Turkish-German in Hamburg wants respect, money and power, and c
 trailer: "https://www.youtube.com/watch?v=G2TGci0VgZw"
 image: ""
 added: 2026-10-05
+logline: "Young Turkish-German dealer claws his way up Hamburg's drug trade, in a hard, fast and painful genre film"
 ---
 Chiko is a young Turkish-German in Hamburg-Wilhelmsburg, a tough district by the harbour. He is tired of selling small amounts of weed on the street. He wants respect, money and a big apartment, and he is ready to do anything to get them. With his best friend Tibet, he gets close to Brownie, the local drug boss, and quickly climbs the ladder. But Tibet has his own problems and his own reasons to need money, and in this world loyalty is the first thing you lose.
 

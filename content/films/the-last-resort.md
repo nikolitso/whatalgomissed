@@ -16,6 +16,7 @@ x_post: "A Danish family's holiday on a Mediterranean island, in the summer Euro
 trailer: "https://www.youtube.com/watch?v=Zzz9z5eiQ2s"
 image: ""
 added: 2026-10-05
+logline: "Liberal Danish family's island holiday collides with the refugee boats landing on their beach, in an uncomfortable satire of Europe's conscience"
 ---
 A Danish family arrives on a Mediterranean holiday island for a few weeks of sun. Good hotel, clear water, a chance to reconnect. But it is the summer when Europe's great refugee crisis begins, and the boats are landing on the same beaches where tourists lie in the sun. The family are kind, liberal, well-meaning people. They believe in helping. The question is how far that belief goes once it costs them something real.
 

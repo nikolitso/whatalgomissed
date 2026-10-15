@@ -21,6 +21,7 @@ x_post: "One day in a besieged apartment in Syria, as a mother tries to keep eve
 trailer: "https://www.youtube.com/watch?v=OEtw3C2nUSw"
 image: ""
 added: 2026-10-05
+logline: "Mother keeps her family locked inside a besieged Syrian apartment for one terrible day, in a claustrophobic, tense and essential war drama"
 ---
 One day in an apartment in a besieged city in Syria. Oum Yazan has turned her home into a fortress. She keeps her children, her elderly father-in-law, the family maid and a young neighbouring couple with their baby behind locked doors, while bombs fall and snipers watch the street. Her husband went out and has not come back. Then, early in the morning, the young husband is shot in the courtyard. The maid sees it. Oum Yazan decides that his wife must not be told, not yet, to keep everyone safe.
 

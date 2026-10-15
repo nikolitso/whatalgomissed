@@ -15,6 +15,7 @@ x_post: "A gay chef in Madrid chasing a Michelin star suddenly has to become a f
 trailer: "https://www.youtube.com/watch?v=UCEEr_diK7A"
 image: ""
 added: 2026-10-05
+logline: "Ambitious gay chef in Madrid suddenly has to become a father to the children he left behind, in a light, funny and kind Spanish comedy"
 ---
 Maxi is a chef in Madrid's Chueca neighbourhood, gay, ambitious, and close to finally getting his restaurant the recognition he wants. Then his two children from a marriage he had long ago, back before he came out, suddenly turn up at his door and need him to be their father. At the same time a handsome Argentine ex-footballer moves in next door, and he is very much in the closet. Maxi's life, which ran like a well-organised kitchen, is suddenly chaos.
 

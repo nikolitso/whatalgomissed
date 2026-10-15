@@ -15,6 +15,7 @@ x_post: "A brilliant philosophy graduate ends up selling water purifiers in a ca
 trailer: "https://www.youtube.com/watch?v=v5_Hr1tAuU0"
 image: ""
 added: 2026-05-14
+logline: "Philosophy graduate with top marks ends up chanting team songs in a call centre, in a funny, angry portrait of Italy's lost generation"
 ---
 Marta graduates in philosophy with top marks and a thesis on Hannah Arendt. In Italy, that and a few euros will buy you a coffee. The only work she can find is at a call centre selling water purifiers by phone, staffed by young women who start every morning with a chanted, dancing team ritual. Meanwhile she babysits for a single mother to make ends meet. The irony writes itself, and Virzì lets it.
 

@@ -15,6 +15,7 @@ x_post: "A seventeen-year-old Jehovah's Witness in Denmark falls in love with so
 trailer: "https://www.youtube.com/watch?v=ITrKVVnSaAc"
 image: ""
 added: 2026-05-14
+logline: "Teenage Jehovah's Witness falls in love outside the faith, in a modest, honest and very moving Danish drama"
 ---
 Sara is seventeen, and she has grown up as a Jehovah's Witness in a close, devout family. She knocks on doors with her father, believes what she has been taught, and has never really questioned it. Then she meets Teis at a party, a young man from outside the faith, and falls secretly in love. In her community that is not a small transgression. If she chooses him, she risks being cut off from everyone she has ever known, including her own family, which is already cracking for other reasons.
 

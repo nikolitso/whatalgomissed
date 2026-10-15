@@ -19,6 +19,7 @@ x_post: "A German-Greek restaurant owner in Hamburg tries to save his ramshackle
 trailer: "https://www.youtube.com/watch?v=HCWkNDXHFI4"
 image: ""
 added: 2026-05-14
+logline: "German-Greek owner of a ramshackle Hamburg restaurant fights to keep it alive, in Fatih Akin at his most generous"
 ---
 Zinos is a German-Greek owner of a ramshackle restaurant in a Hamburg warehouse, serving frozen schnitzel to loyal regulars, and trying to hold everything together. There is his slipped disc, his new knife-throwing chef who refuses to cook what the customers want, his girlfriend who has moved to Shanghai, an old schoolmate who wants the building, and his ex-con brother Illias who keeps creating disasters. Nothing goes right for long. That is the fun of it.
 

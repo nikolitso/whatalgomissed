@@ -114,6 +114,10 @@ content:
         options:
           multiple: true
           values: ["woman", "man", "ensemble"]
+      - name: logline
+        label: Logline for X
+        description: "One line, e.g. 'Grieving Mossad hitman poses as a tour guide..., in an unlikely Israeli thriller'. Posted on X with the link. Keep it under 250 characters."
+        type: text
       - name: x_post
         label: Short summary for X
         description: "One or two sentences for the X post (about 200 characters). Leave empty to use the opening of the review."

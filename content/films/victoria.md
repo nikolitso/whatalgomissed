@@ -18,6 +18,7 @@ x_post: "One night in Berlin, filmed in a single take: a young Spanish woman, fo
 trailer: "https://www.youtube.com/watch?v=6QzAA4qEGqs"
 image: ""
 added: 2026-10-05
+logline: "Spanish girl leaving a Berlin club at 4am joins four strangers for one night that turns into a heist, in a single unbroken take you will not forget"
 ---
 Berlin, four in the morning. Victoria, a young Spanish woman who has only been in the city a few months, is leaving a nightclub when she meets four local guys. They are loud, charming, a little drunk. They wander the streets, climb onto a roof, share beers and stories. She likes them, especially Sonne. But one of them owes a debt to the wrong people, and before dawn the night turns into something none of them can control.
 

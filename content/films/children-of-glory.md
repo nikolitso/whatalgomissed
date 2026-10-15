@@ -17,6 +17,7 @@ x_post: "Budapest, 1956: a water polo star, a young revolutionary and the most v
 trailer: "https://www.youtube.com/watch?v=hsT2Oyibr7U"
 image: ""
 added: 2026-05-14
+logline: "Hungary's water polo star is caught between the 1956 revolution and the Melbourne Olympics, in a visceral drama where sport is the last battlefield left"
 ---
 Budapest, 1956. Karcsi is the cocky star of the Hungarian water polo team, preparing for the Melbourne Olympics, and he has little time for politics. Then he meets Viki, a student at the heart of the protests, and the Hungarian Revolution breaks out around them. For a few days it looks as though the Soviets might actually leave. Then the tanks come back.
 

@@ -15,6 +15,7 @@ x_post: "A Belgrade engineer needs money for his son's surgery, and is offered i
 trailer: "https://www.youtube.com/watch?v=NustYsI4-xg"
 image: ""
 added: 2026-05-14
+logline: "Honest Belgrade engineer is offered the money for his son's operation if he kills a stranger, in a cold, completely gripping Serbian thriller"
 ---
 Mladen is a civil engineer in Belgrade, an honest man with a modest job. His wife Marija teaches, and their young son Nemanja is the centre of their life. Then the boy is diagnosed with a heart condition, and the operation that can save him is abroad and costs far more than they could ever pay. Marija places an advert in the newspaper asking for help. A stranger answers. He will cover the full cost, in return for one thing, and Mladen must decide how far a parent will go.
 

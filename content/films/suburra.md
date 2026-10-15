@@ -14,6 +14,7 @@ x_post: "Rome, 2011: politicians, gangsters and the Church race to close one las
 trailer: "https://www.youtube.com/watch?v=ZSiRXm4TOIE"
 image: ""
 added: 2026-05-14
+logline: "Politicians, mobsters and a Vatican insider race to close one last deal on the Ostia waterfront, in Italy's best thriller in twenty years"
 ---
 November 2011. Rome is about to lose its government, and the city's crooks and politicians are racing to close one last deal: a huge development on the waterfront at Ostia that will turn the coast into a Las Vegas on the Tyrrhenian. Three men converge in Rome's underworld: a corrupt politician, a crime boss with old far-right connections, and a small-time criminal who keeps making the wrong call. One night of bad decisions sets everything in motion.
 

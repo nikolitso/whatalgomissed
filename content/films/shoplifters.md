@@ -21,6 +21,7 @@ x_post: "A makeshift family in Tokyo survives by shoplifting, and takes in a lit
 trailer: "https://www.youtube.com/watch?v=qxeZPkli5YI"
 image: ""
 added: 2026-05-14
+logline: "A makeshift Tokyo family of small-time thieves takes in a little girl from the cold, in a beautiful, humane Palme d'Or winner"
 ---
 On the margins of Tokyo, a makeshift family lives packed into a tiny house. Osamu and the boy Shota steal from supermarkets with rehearsed routines. Nobuyo works at a laundry, her younger "sister" Aki works at a peep-show club, and Grandma's pension keeps the roof over their heads. One winter night Osamu and Shota find a little girl, Yuri, shivering alone on a balcony, and take her home. Nobody comes looking for her.
 

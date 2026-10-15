@@ -20,6 +20,7 @@ x_post: "Six men on a yacht in the Aegean play a game to decide who is best at e
 trailer: "https://www.youtube.com/watch?v=oxAkbc2_vds"
 image: ""
 added: 2026-05-14
+logline: "Six men on a yacht in the Aegean turn their holiday into a contest to find who is 'best in general', in a sharp, absurd satire of masculinity"
 ---
 Six men on a luxury yacht in the Aegean, at the end of a fishing and diving trip, get bored one evening and agree to a game. Whoever is judged "best in general" by the end of the voyage wins the chevalier, a signet ring. From then on everything becomes a metric: sleep quality, cholesterol levels, phone manner, how they clean the bathroom, how they assemble flat-pack furniture, erection firmness. They take notes on each other. Nobody laughs about it for long.
 

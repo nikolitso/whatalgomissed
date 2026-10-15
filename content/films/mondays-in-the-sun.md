@@ -18,6 +18,7 @@ x_post: "After the shipyard closes, a group of men in northern Spain meet every 
 trailer: "https://www.youtube.com/watch?v=t7fSi3KKTlM"
 image: ""
 added: 2026-10-09
+logline: "Laid-off shipyard workers spend their days in the same bar in northern Spain, in a funny, humane and heartbreaking drama"
 ---
 A port city in the north of Spain. The shipyard has closed, and a group of men who used to work there still meet every day at a bar run by one of their old colleagues. Santa is the loudest and the funniest, the unofficial leader, with a court case hanging over him for a lamp he smashed during the protests. José is bitter that his wife works while he does not. Lino dyes his hair and goes to job interviews where everyone else is twenty years younger. Amador drinks. Every day is the same: coffee, jokes, the ferry across the bay, and nothing to do.
 

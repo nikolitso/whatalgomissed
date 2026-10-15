@@ -14,6 +14,7 @@ x_post: "Three friends drive an old taxi from Amsterdam to Rabat, and the road t
 trailer: "https://www.youtube.com/watch?v=EsSpPOJwIx0"
 image: ""
 added: 2026-05-14
+logline: "Three friends drive an old taxi from Amsterdam to Morocco, in a warm, funny Dutch road movie about belonging to two places at once"
 ---
 Nadir has to drive his father's old taxi from Amsterdam to Rabat, a delivery job he does not want. His two friends invite themselves along, and what starts as a lark becomes a trip none of them expected. They travel through the Netherlands, Belgium, France, Spain and Morocco, picking up a hitchhiker in France, getting arrested in Spain, and slowly uncovering the real reason Nadir agreed to make the trip.
 

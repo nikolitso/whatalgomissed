@@ -15,6 +15,7 @@ x_post: "A Danish hairdresser just out of chemotherapy finds her husband with an
 trailer: "https://www.youtube.com/watch?v=vuTdqysyAkE"
 image: ""
 added: 2026-05-14
+logline: "Danish hairdresser just out of chemo heads to her daughter's wedding in Sorrento, in a warm romantic comedy that is sometimes exactly what you need"
 ---
 Ida is a hairdresser in Copenhagen who has just finished chemotherapy. She comes home early to find her husband Leif on the sofa with a young woman from his office. Days later she has to travel alone to Sorrento for her daughter's wedding, and in the airport car park she literally reverses into Philip, a widowed English businessman who lives in Denmark and turns out to be the father of the groom. He is rude, closed and alone. You can guess the rest, and that is fine.
 

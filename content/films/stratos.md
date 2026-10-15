@@ -21,6 +21,7 @@ x_post: "An ex-con works nights in a bread factory and days as a hitman, saving 
 trailer: "https://www.youtube.com/watch?v=2RJQWPCuWs0"
 image: ""
 added: 2026-05-14
+logline: "Silent hitman saves every euro to free the friend he owes everything to, in a cold, Melville-like Greek crime drama"
 ---
 Stratos is an ex-con who works nights in a bread factory and days as a hitman. He lives frugally, says almost nothing and saves every euro for one purpose: to pay for the escape of the friend he owes everything to, still serving time inside. Around him, a whole neighbourhood of small crooks and desperate families pull at him for favours. Then he learns his loyalty has been exploited.
 

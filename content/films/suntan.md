@@ -17,6 +17,7 @@ x_post: "A lonely island doctor becomes obsessed with a group of young tourists 
 trailer: "https://www.youtube.com/watch?v=WNJhayR0lB4"
 image: ""
 added: 2026-05-14
+logline: "Lonely island doctor becomes obsessed with a young tourist as summer arrives, in an uncomfortable portrait of male delusion"
 ---
 Kostis is a 40-year-old doctor who arrives on the small island of Antiparos to run the local clinic. Winter: empty, quiet, manageable. He eats alone and settles into the slow rhythm of the off-season. Then summer arrives with its crowds, its bodies, its noise, and a young tourist, Anna, walks into his surgery. She lets him tag along with her group of friends. He doesn't chase her so much as get swept away.
 

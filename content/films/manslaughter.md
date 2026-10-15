@@ -17,6 +17,7 @@ x_post: "A respected teacher falls for a young radical, and a political act ends
 trailer: "https://www.youtube.com/watch?v=B9l5Z8iWSyU"
 image: ""
 added: 2026-05-14
+logline: "Liberal Copenhagen teacher's affair with a young activist drags him into a police killing, in a serious, adult and underrated Danish drama"
 ---
 Carsten is a respected teacher in his fifties with a comfortable Copenhagen life: a long marriage, a nice flat, opinions about politics he no longer acts on. He is also having an affair with Pil, a former student and a young left-wing activist. When one of her group's actions goes wrong and a policeman is killed, Carsten's carefully structured existence begins to collapse. The question is no longer about her. It is about him, and what his principles are actually worth.
 

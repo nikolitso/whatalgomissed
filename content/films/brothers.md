@@ -15,6 +15,7 @@ x_post: "A soldier is declared dead in Afghanistan, and his brother steps into h
 trailer: "https://www.youtube.com/watch?v=P5e2IM4QAMY"
 image: ""
 added: 2026-05-14
+logline: "Officer presumed dead in Afghanistan comes home to find his ex-con brother at the heart of his family, in Susanne Bier at her very best"
 ---
 Michael is a Danish officer with a loving wife, two daughters and a settled life. His younger brother Jannik has just come out of prison and is everything Michael is not. Then Michael is sent to Afghanistan, his helicopter goes down, and he is presumed killed. Jannik steps in to support the family, and something forms between him and his sister-in-law Sarah that neither of them planned. Then Michael comes home, and he is not the same man who left.
 

@@ -19,6 +19,7 @@ x_post: "Two men bound by their love for two women in comas. Almodóvar's strang
 trailer: "https://www.youtube.com/watch?v=zk_obe_xW0w"
 image: ""
 added: 2026-10-05
+logline: "Two men keep vigil over women in comas, in Pedro Almodóvar's strange, delicate and unforgettable film"
 ---
 Two men sit next to each other at a dance performance, and one of them cries. Later they meet again in a private clinic. Benigno is a nurse who has spent years devotedly caring for Alicia, a young dancer in a coma. He talks to her, washes her, tells her about the films he sees. Marco is a journalist whose lover, a female bullfighter, has also fallen into a coma after a goring. Marco cannot even touch her. Benigno tells him: talk to her. A strange friendship grows between them.
 

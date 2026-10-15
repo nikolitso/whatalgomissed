@@ -16,6 +16,7 @@ x_post: "A people smuggler ends up responsible for a twelve-year-old Syrian girl
 trailer: "https://www.youtube.com/watch?v=GzR5IOuZrG8"
 image: ""
 added: 2026-05-14
+logline: "People smuggler ends up responsible for a twelve-year-old Syrian girl on the road to Sweden, in a modest, honest drama that moves without manipulating"
 ---
 A people smuggler, working the routes that bring refugees from the Middle East into Europe, ends up responsible for a twelve-year-old Syrian girl who has been separated from her family somewhere along the way. He has every reason to get rid of her. She is a risk, a delay, a cost. Instead they set off together towards Sweden, through borders, safe houses and the hands of people who are not always safe at all.
 

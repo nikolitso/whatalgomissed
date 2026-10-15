@@ -20,6 +20,7 @@ x_post: "A Greek family on the northern border, a father in debt who starts help
 trailer: "https://www.youtube.com/watch?v=5O_OX95BdjY"
 image: ""
 added: 2026-05-14
+logline: "Debt-ridden father starts smuggling refugees across Greece's northern lake border, in a restrained, devastating debut"
 ---
 Northern Greece, by the lake that marks the border with North Macedonia. Stergios is drowning in debt, and to keep his family afloat he starts helping smugglers move refugees across the border. His wife Maria finds her refuge in church and faith. Their daughter Eleni is caught between them, in a small community where everybody knows everybody's business. Then a tragic incident befalls the family, the kind that happens and then disappears from the news.
 

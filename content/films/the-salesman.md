@@ -21,6 +21,7 @@ x_post: "A Tehran couple moves into a new apartment, and an attack on the wife s
 trailer: "https://www.youtube.com/watch?v=r-61yYjKHHc"
 image: ""
 added: 2026-05-14
+logline: "Tehran actor hunts the man who attacked his wife in their new flat, in a morally knotted drama by Asghar Farhadi"
 ---
 Emad and Rana, a Tehran couple, are rehearsing Arthur Miller's Death of a Salesman with an amateur theatre company when their apartment building starts to crack and they have to get out in the middle of the night. A friend from the cast finds them a new flat. The previous tenant, a woman the neighbours speak about in low voices, has left her things behind. One evening Rana buzzes the door open, thinking it is her husband, and goes to take a shower. Someone else comes in.
 

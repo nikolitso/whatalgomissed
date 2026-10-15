@@ -15,6 +15,7 @@ x_post: "Two old friends, a hospital in Kenya and a secret from Rome. A clever, 
 trailer: "https://www.youtube.com/watch?v=IeTmD_9D4IQ"
 image: ""
 added: 2026-10-05
+logline: "Smug Roman surgeon visits his old friend's hospital in rural Kenya, along with the wife they both loved, in a clever comedy with a moral sting"
 ---
 Luca has left Italy behind to run a small hospital in rural Kenya. One day his old university friend Mario turns up to lend a hand. Mario is everything Luca is not: a successful Roman surgeon, head of a private clinic, comfortable and a little smug, married to Ginevra, who once happened to be Luca's lover. He hates the dust and the heat, and nobody understands why he came. Then Ginevra arrives too, and the real reason comes out. Mario is running from something at home.
 

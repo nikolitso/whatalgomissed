@@ -16,6 +16,7 @@ x_post: "A middle-aged Norwegian woman falls for a young asylum seeker, and her 
 trailer: https://youtu.be/5kH3148Xrq8?si=hk2ane243pzqVHY4
 image: ""
 added: 2026-10-02
+logline: "Lonely middle-aged woman's kindness to a young asylum seeker turns into something far more dangerous, in a sharp Norwegian psychosexual thriller"
 ---
 Nina Knag’s *Don’t Call Me Mama* takes an initially familiar premise — a middle-aged woman becoming involved with a young asylum seeker — and turns it into something considerably more uncomfortable and unpredictable. What begins as a story about compassion, loneliness and integration gradually mutates into a tense psychosexual thriller about desire, power and self-interest.
 

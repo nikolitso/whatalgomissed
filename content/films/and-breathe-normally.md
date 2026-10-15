@@ -21,6 +21,7 @@ x_post: "A struggling Icelandic mother training as a border guard stops an asylu
 trailer: "https://www.youtube.com/watch?v=8UHY8K6nLoc"
 image: ""
 added: 2026-05-14
+logline: "Broke Icelandic border guard flags an asylum seeker's forged passport and their lives get tangled, in a restrained Nordic film with a very big heart"
 ---
 Lára is a single mother in Iceland, broke, struggling, living with her young son on the edge of losing their home. She finally gets a job training as a border guard at Keflavík airport. On one of her first shifts she flags the forged passport of Adja, an asylum seeker from Guinea-Bissau trying to reach Canada. It is a small bureaucratic act, the job doing what it is supposed to do. But it becomes something more human and more complicated than either woman planned.
 

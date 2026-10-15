@@ -18,6 +18,7 @@ x_post: "Czechoslovakia, 1983. A gifted sprinter is placed in a secret state dop
 trailer: "https://www.youtube.com/watch?v=MxDfyw_dHOs"
 image: ""
 added: 2026-05-14
+logline: "Gifted Czechoslovak sprinter discovers the state is secretly doping her for the Olympics, in a sports drama where the real opponent never appears on the track"
 ---
 Czechoslovakia, 1983. Anna is a gifted young sprinter with a real shot at the Los Angeles Olympics. She is selected for the national team and placed in a secret state-run medical programme, given injections of anabolic steroids to boost her performance. Her coach calls it support. Her body starts to say otherwise. When she discovers the truth and refuses, her mother secretly continues the injections, disguised as vitamins.
 

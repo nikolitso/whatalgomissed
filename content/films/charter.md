@@ -17,6 +17,7 @@ x_post: "A mother in a bitter custody battle takes her children to Tenerife with
 trailer: "https://www.youtube.com/watch?v=KwQAqW9GW0k"
 image: ""
 added: 2026-05-14
+logline: "Mother in a custody battle secretly whisks her children off to Tenerife and calls it a holiday, in a quiet drama that gets under your skin"
 ---
 A mother in the middle of a bitter custody battle, worried about how her children are coping with their father, decides she cannot wait for the court any longer. She takes her children and flies to Tenerife without telling anyone, calling it a holiday. Sun, a hotel pool, a few days of being a family again. Except the children know something is wrong, and so do we.
 

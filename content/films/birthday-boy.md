@@ -15,6 +15,7 @@ x_post: "A man's 45th birthday at a beach house, old friends and old jokes, unti
 trailer: "https://www.youtube.com/watch?v=TsOmsfT7j0w"
 image: ""
 added: 2026-05-14
+logline: "Man tells his oldest friends at his 45th birthday that he plans to end his life before the weekend is over, in a brave, sad Central American drama"
 ---
 Jimmy invites his closest friends to his beach house to celebrate his 45th birthday. There is food, drink, music and old jokes, the familiar rituals of men who have known each other for a long time. Then he tells them he plans to end his life before the weekend is over. Nobody knows whether to believe him, and nobody knows what to say.
 

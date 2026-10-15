@@ -17,6 +17,7 @@ x_post: "Two con men in Buenos Aires and one day to sell a sheet of rare forged 
 trailer: "https://www.youtube.com/watch?v=6svbO5QLzuc"
 image: ""
 added: 2026-05-14
+logline: "Two Buenos Aires con men chase the deal of a lifetime over a sheet of forged stamps, in a twisty Argentine thriller whose ending lands like a punch"
 ---
 Juan is a small-time hustler working a petty scam at a petrol station in Buenos Aires when Marcos, an older and much smoother con man, steps in to rescue him. Marcos needs a partner for the day. By lunchtime they have stumbled onto the deal of a lifetime: a sheet of rare stamps, the Nine Queens, a forgery good enough to sell to a wealthy collector who is leaving the country the next morning. All they have to do is close the deal before he goes.
 

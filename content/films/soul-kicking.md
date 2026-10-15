@@ -20,6 +20,7 @@ x_post: "A Greek man trapped by money, work and love, slowly losing his way. A r
 trailer: "https://www.youtube.com/watch?v=cC-aAW5J1Kc"
 image: ""
 added: 2026-05-14
+logline: "Athenian salesman runs out of money, time and options, in an exhausting, uncompromising Greek drama"
 ---
 Takis is trapped. Takis tries to escape. Takis wants money. He's got a family, a baby, a home. Takis is being cheated. He loves her and suffers. His boss tops them all. Takis has run out of time. That is the whole film in nine sentences, and Economides spends nearly two hours making you feel every one of them.
 

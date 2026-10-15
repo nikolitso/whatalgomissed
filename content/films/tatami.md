@@ -17,6 +17,7 @@ x_post: "An Iranian judoka at the World Championships is ordered to fake an inju
 trailer: "https://www.youtube.com/watch?v=iXLa1gh6LWk"
 image: ""
 added: 2026-05-14
+logline: "Iranian judoka is ordered to fake an injury mid-championship so she never faces an Israeli, in a brave, gripping sports thriller"
 ---
 Iranian judoka Leila and her coach Maryam arrive at the Women's World Judo Championships in Tbilisi with a real chance at gold. Leila wins her first bouts with ease. Then, midway through the tournament, a message arrives from the Islamic Republic: she must fake an injury and withdraw, so that she can never face an Israeli opponent. Refuse, and she will be branded a traitor, and her family back home will pay the price.
 

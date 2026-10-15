@@ -15,6 +15,7 @@ x_post: "A young Iranian in Denmark seduces women to win residency, until he fal
 trailer: "https://www.youtube.com/watch?v=yTdDr75pzgA"
 image: ""
 added: 2026-05-14
+logline: "Young Iranian in Denmark seduces wealthy women to secure his right to stay, in an uneven but sharp drama about who gets to belong"
 ---
 Esmail is a young Iranian man living in Denmark on a deadline. Without residency rights, he spends his nights in upmarket bars, systematically pursuing relationships with Danish women who could secure his legal status. He is good at it: polite, attentive, careful. As his deadline approaches, he meets Sara, a Danish-Iranian woman, and genuinely falls for her. Then his past follows him.
 

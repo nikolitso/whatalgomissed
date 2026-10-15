@@ -15,6 +15,7 @@ x_post: "A tired working mother in Rome, the man in the window opposite and an o
 trailer: "https://www.youtube.com/watch?v=fHID8-XzJMc"
 image: ""
 added: 2026-05-14
+logline: "Overworked Roman mother takes in an elderly stranger who unlocks a hidden past, in a quiet Italian film about desire, memory and regret"
 ---
 Giovanna works long shifts at a poultry plant in Rome, has two small children, and is stuck in a greying marriage with a husband she barely talks to any more. Her only escape is the window across the courtyard, where a handsome young man lives, and she watches him in the evenings. Then her husband brings home an elderly stranger he found wandering the streets, a man who can't remember who he is. Reluctantly, Giovanna begins to care for him.
 

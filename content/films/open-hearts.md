@@ -15,6 +15,7 @@ x_post: "A young man is paralysed in an accident, and his fiancée falls for the
 trailer: "https://www.youtube.com/watch?v=JyFbSMfEOhA"
 image: ""
 added: 2026-05-14
+logline: "Young fiancé is paralysed in a car crash and the driver's husband falls for his bride, in Susanne Bier's harrowing, humane Dogme drama"
 ---
 Cecilie and Joachim are young, happy and about to be married. Then, outside a restaurant, Joachim is hit by a car and left paralysed from the neck down. The driver was Marie, distracted by an argument with her teenage daughter. Her husband Niels is a doctor at the hospital where Joachim is treated. Out of guilt, Marie asks Niels to look after Cecilie. He does. And Cecilie, pushed away by a furious, bitter Joachim, falls in love with him.
 

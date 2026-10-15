@@ -20,6 +20,7 @@ x_post: "A young Black optometrist in London traces her birth mother, and finds 
 trailer: "https://www.youtube.com/watch?v=iZhqklQMcjA"
 image: ""
 added: 2026-10-05
+logline: "Black London optometrist traces her birth mother to a white factory worker, in Mike Leigh's funny, very sad and wonderful Palme d'Or winner"
 ---
 Hortense is a young Black optometrist in London. After her adoptive mother dies, she decides to trace her birth mother. The records lead her to Cynthia, a white, working-class woman in her forties who lives in a run-down house with her angry adult daughter and works in a cardboard-box factory. Cynthia gave a baby up for adoption as a teenager and has never talked about it. When Hortense calls her, Cynthia's first reaction is that there must be a mistake.
 

@@ -14,6 +14,7 @@ x_post: "Berlin, 1961. A champion swimmer escapes to the West and starts digging
 trailer: "https://www.youtube.com/watch?v=fkfdD6nng30"
 image: ""
 added: 2026-05-14
+logline: "Escaped East German swimmer digs a tunnel under the Berlin Wall to bring his sister across, in a long, gripping Cold War thriller"
 ---
 Berlin, August 1961. The Wall goes up almost overnight. Harry Melchior, a champion swimmer in the East, escapes to the West, but his sister and her family are left behind. Harry gathers a group of friends, students and fellow refugees, each with someone on the other side, and they start digging a tunnel under the border from the Western side.
 

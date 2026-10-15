@@ -21,6 +21,7 @@ x_post: "Models, influencers and billionaires on a luxury cruise, until everythi
 trailer: "https://www.youtube.com/watch?v=dSsX6X9qo7I"
 image: ""
 added: 2026-05-14
+logline: "Models, influencers and billionaires on a luxury cruise end up shipwrecked on a desert island, in a funny, angry satire with real teeth"
 ---
 It starts with a casting call for male models, and a joke about the difference between an H&M smile and a Balenciaga frown. Carl, a model, and Yaya, his influencer girlfriend, argue about who pays for dinner. Then they board a luxury cruise she got for free. On deck: billionaires, a Russian oligarch who made his fortune in fertiliser, an elderly British couple who sell weapons, and a staff trained to say yes to everything. A captain, played by Woody Harrelson, who would rather drink than leave his cabin.
 

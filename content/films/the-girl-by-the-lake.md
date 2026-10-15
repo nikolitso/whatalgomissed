@@ -17,6 +17,7 @@ x_post: "A young woman is found dead by a mountain lake in northern Italy, and a
 trailer: "https://www.youtube.com/watch?v=G-11J4ZpiQ8"
 image: ""
 added: 2026-05-14
+logline: "Young woman found dead by an Alpine lake and nobody in the village wants to talk, in an Italian crime film that cares more about people than plot"
 ---
 A young woman is found dead by a mountain lake in the north of Italy, lying on the shore as if asleep. Inspector Sanzio arrives from the city to investigate a place where everyone knows everyone and nobody wants to talk. He has troubles of his own at home, with a wife who is slipping away from him into illness, and he carries them quietly into every interview.
 

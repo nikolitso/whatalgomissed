@@ -19,6 +19,7 @@ x_post: "A retired investigator in Buenos Aires writes about the one case he nev
 trailer: "https://www.youtube.com/watch?v=hKa8U-8vsfU"
 image: ""
 added: 2026-05-14
+logline: "Retired court clerk writes a novel about the murder case he never got over, in an Argentine thriller and love story with a shocking ending"
 ---
 Benjamín Espósito has retired from the Buenos Aires criminal courts and decides to write a novel about the one case he never got over: the rape and murder of a young woman in 1974. He takes the manuscript to Irene, his former boss, the woman he has loved for twenty-five years without ever saying so. The film moves between the two times, and slowly you realise that the investigation and the unspoken love story are the same story.
 

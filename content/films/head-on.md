@@ -20,6 +20,7 @@ x_post: "Two broken Turkish-Germans in Hamburg enter a marriage of convenience, 
 trailer: "https://www.youtube.com/watch?v=NFSAAW88GcY"
 image: ""
 added: 2026-05-14
+logline: "Suicidal Hamburg drunk agrees to a fake marriage with a young woman escaping her family, in Fatih Akin's raw, chaotic and deeply felt breakthrough"
 ---
 Cahit is forty, an alcoholic in Hamburg who has given up on everything. He drives his car into a wall and wakes up in a psychiatric clinic. There he meets Sibel, a young Turkish-German woman who has tried to kill herself to escape her suffocatingly traditional family. She makes him an offer: marry her, so she can leave home, and she will live her own life without bothering him. A marriage of convenience between two people who are both, in different ways, trying to disappear.
 

@@ -19,6 +19,7 @@ x_post: "Old friends on a Caspian seaside weekend, and a young woman who suddenl
 trailer: "https://www.youtube.com/watch?v=MdqMICWhxuA"
 image: ""
 added: 2026-05-14
+logline: "A weekend by the Caspian Sea falls apart when a kindergarten teacher vanishes, in a suffocating Iranian moral thriller"
 ---
 A group of old university friends, now married with children, leave Tehran for a weekend by the Caspian Sea. Sepideh, the organiser, has brought along Elly, her daughter's kindergarten teacher, hoping to set her up with Ahmad, recently divorced and back from Germany. At first it is all laughter, games and charades. Then Elly disappears.
 

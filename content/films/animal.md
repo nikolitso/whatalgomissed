@@ -20,6 +20,7 @@ x_post: "Behind the smiles at a Greek all-inclusive resort, a troupe of entertai
 trailer: "https://www.youtube.com/watch?v=iB3454EPtgw"
 image: ""
 added: 2026-10-09
+logline: "Ageing entertainer keeps the show going at an all-inclusive Greek resort, in a vivid, physical and painfully honest look at selling summer"
 ---
 An all-inclusive resort on a Greek island, the Hotel Mirage, getting ready for high season. A small troupe of entertainers rehearse the shows that will keep the tourists happy: dance routines, karaoke nights, foam parties, games by the pool. Kalia is the oldest of them, the one who has done this the longest and keeps the whole programme running. She is funny, tough and tireless, and she makes it look like fun. But as the summer goes on, the work gets harder, the nights get longer, and the smile starts to cost more than she has.
 

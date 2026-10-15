@@ -22,6 +22,7 @@ x_post: "A poor family in Seoul cons its way into the home of a rich one. Bong J
 trailer: "https://www.youtube.com/watch?v=G_dsAORuPmg"
 image: ""
 added: 2026-05-14
+logline: "Poor Seoul family cons its way into a rich household one job at a time, in Bong Joon-ho's Palme d'Or and Oscar winner that deserves the hype"
 ---
 The Kim family live in a semi-basement flat in Seoul, folding pizza boxes for cash and stealing wi-fi from the neighbours. Then the son, Ki-woo, gets a chance to tutor the daughter of the wealthy Park family, armed with a forged diploma. Soon his sister is the Parks' art therapist, his father their driver and his mother their housekeeper, one member at a time, each posing as an unrelated professional, each one pushing out the person who had the job before.
 

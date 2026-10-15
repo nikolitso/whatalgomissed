@@ -15,6 +15,7 @@ x_post: "A single day in Rome, and a man who cannot accept that his wife has lef
 trailer: "https://www.youtube.com/watch?v=i0cAhtNXV6s"
 image: ""
 added: 2026-05-14
+logline: "Abandoned bodyguard spirals through a single day in Rome as his wife tries to start again, in a gripping, uneven Italian ensemble drama"
 ---
 A single day in Rome. Antonio, a bodyguard for a politician, cannot accept that his wife Emma has left him and taken their two children. She is trying to start again with very little money and a lot of fear. Around them, other Romans drift through their own quiet crises, including the politician Antonio protects and the people closest to him. The title is the first of many ironies.
 

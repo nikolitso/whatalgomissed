@@ -15,6 +15,7 @@ x_post: "An affair between an Israeli café owner and a Palestinian delivery dri
 trailer: "https://www.youtube.com/watch?v=YCULFEL2dJw"
 image: ""
 added: 2026-05-14
+logline: "Affair between an Israeli café owner and a Palestinian delivery man spirals into a security case, in a tense drama that turns out to be about everything else"
 ---
 Sarah runs a café in West Jerusalem and is married to an Israeli army officer. Saleem delivers bread to her café from the east of the city, and his wife is expecting their first child. They meet in his van at night, in the parking lots and back streets where nobody looks twice. Then one evening they drive across to Bethlehem, something goes wrong in a bar, and a lie told to cover it starts to travel.
 

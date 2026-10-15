@@ -16,6 +16,7 @@ x_post: "A German baker travels to Jerusalem after his lover dies and quietly en
 trailer: "https://www.youtube.com/watch?v=JQ7144Mc2lw"
 image: ""
 added: 2026-05-14
+logline: "Berlin baker travels to Jerusalem to find the widow of his dead Israeli lover, in a gentle, sad and beautifully made drama"
 ---
 Thomas is a quiet German baker in Berlin. Oren is a married Israeli man who travels there for work and comes into Thomas's café for the Black Forest cake. They begin an affair. Then Oren stops calling, and Thomas learns that he has died in an accident back home. With nowhere to put his grief, Thomas travels to Jerusalem and finds the café run by Oren's widow, Anat. He takes a job there without telling her who he is.
 

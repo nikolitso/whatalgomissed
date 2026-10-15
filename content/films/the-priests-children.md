@@ -19,6 +19,7 @@ x_post: "A young priest on a Croatian island tries to raise the birth rate by sa
 trailer: "https://www.youtube.com/watch?v=4r7X2XvI6uY"
 image: ""
 added: 2026-10-09
+logline: "Idealistic priest on a dying Dalmatian island sabotages the condoms to boost the birth rate, in a wicked, funny and very Croatian satire"
 ---
 A small island off the Dalmatian coast, where more people die every year than are born. Don Fabijan, a young and idealistic priest, arrives to take over the parish and is troubled by the empty cradles. When he learns that the local kiosk owner sells condoms to half the island, he has an idea: what if, with a little help from a needle, God's will could be given a push? Soon the kiosk owner and the island pharmacist are part of the plan. And at first, it works. Babies start arriving. Then the consequences start arriving too.
 

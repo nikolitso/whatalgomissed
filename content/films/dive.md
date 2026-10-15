@@ -14,6 +14,7 @@ x_post: "A veteran diver with one last chance at the Olympics, and a coach who c
 trailer: "https://www.youtube.com/watch?v=O-Mq7m3qVro"
 image: ""
 added: 2026-05-14
+logline: "Veteran diver discovers what her coach has been doing to her young partner, in a tough, focused and necessary Argentine drama"
 ---
 Mariel is a veteran elite diver with one last chance at the Olympic Games. She has given her body and her youth to the sport, and her relationship with her coach is close, almost familial. Then she is paired for synchronised diving with a much younger girl, and a terrible truth comes to light about the coach and the girl. Mariel faces the biggest question of her career: is winning her true dream, and what is she willing to ignore to get there?
 

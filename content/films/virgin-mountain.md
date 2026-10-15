@@ -20,6 +20,7 @@ x_post: "A gentle, lonely giant in Iceland, still living with his mother, finall
 trailer: "https://www.youtube.com/watch?v=q34DavoaEdE"
 image: ""
 added: 2026-05-14
+logline: "Shy 43-year-old baggage handler who lives with his mother finally lets someone in, in one of the kindest films about loneliness"
 ---
 Fúsi is 43, lives with his mother, works as a baggage handler at the airport, and has built a life of quiet routine that keeps the world at a safe distance. The same dinner at the same restaurant. Evenings spent recreating World War II battles with model tanks. Colleagues who bully him, and a radio request show he calls in to. For his birthday, his mother's boyfriend gives him a voucher for a line-dancing class. He doesn't want to go, but he goes, and there he meets Sjöfn.
 

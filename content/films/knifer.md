@@ -17,6 +17,7 @@ x_post: "A young man takes a job guarding his uncle's dogs on the edge of Athens
 trailer: "https://www.youtube.com/watch?v=Rb0UbE_Afnw"
 image: ""
 added: 2026-05-14
+logline: "Young man guarding his brutal uncle's dogs on the edge of Athens is drawn to the bored wife, in a cold, uncomfortable Greek noir"
 ---
 After his father dies, Nikos leaves the provinces for the western edges of Athens, where his uncle has offered him work guarding the dogs he breeds. The uncle is a brute who rules his house by fear. His wife is younger, bored and watching. When she starts to draw closer to Nikos, the balance of power in the house begins to shift, and what follows is a vicious circle of envy, lust and the struggle for dominance in a household held together by resentment.
 

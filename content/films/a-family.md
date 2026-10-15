@@ -19,6 +19,7 @@ x_post: "Copenhagen's oldest bakery, a dying father and a daughter who has final
 trailer: "https://www.youtube.com/watch?v=n2uWEQFmd-Y"
 image: ""
 added: 2026-05-14
+logline: "Copenhagen baker's daughter must choose between New York and the dying father who wants her to take over, in a quiet, devastating family drama"
 ---
 The Rheinwalds run one of Copenhagen's oldest bakeries, a family business passed down through generations and proud of it. Ditte, the daughter, has finally built a life of her own: a gallery, a boyfriend, and a job offer in New York. Then her father Rikard, the charismatic patriarch who has always been at the center of everything, learns that he is terminally ill. And he wants Ditte to take over.
 

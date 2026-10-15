@@ -15,6 +15,7 @@ x_post: "Two couples and a teenage girl on a holiday in Tangier, and the lies th
 trailer: "https://www.youtube.com/watch?v=lFX9IZg6oaI"
 image: ""
 added: 2026-10-05
+logline: "Roman couple travel to Tangier to rescue their marriage and bring their silences with them, in a grown-up, unsettling drama about comfortable lies"
 ---
 Carlo and Elisa have been married for twenty years. He is a philosophy professor and a writer who can no longer write; she is a sharp, successful journalist. Their life in Rome looks enviable from the outside, but the marriage has gone quiet, and Carlo is hiding something. To find some spark again, they travel to Tangier with their oldest friends, Paolo and Anna, whose own marriage is fraying, and the couple's thirteen-year-old daughter Vittoria, a bright, odd, watchful girl who attaches herself to Carlo. The holiday is meant to bring everyone closer. It does the opposite.
 

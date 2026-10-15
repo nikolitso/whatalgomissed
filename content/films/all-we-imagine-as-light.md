@@ -18,6 +18,7 @@ x_post: "Two nurses in Mumbai, a city that never stops, and a trip to the sea th
 trailer: "https://www.youtube.com/watch?v=X3l_x9WE4j8"
 image: ""
 added: 2026-05-14
+logline: "Three Mumbai women look for a little room of their own in a city that leaves none, in a meditative, luminous Indian drama"
 ---
 Prabha is a senior nurse at a Mumbai hospital. Her husband went to work in Germany soon after their arranged marriage and barely calls, though one day a rice cooker arrives from him without explanation. Her young roommate Anu is in love with Shiaz, a Muslim boy, and they have nowhere in the city to be alone. Parvaty, a cook at the hospital, is being forced out of her home to make way for a development. Three women, one indifferent city.
 

@@ -15,6 +15,7 @@ x_post: "Zahira is eighteen, Belgian and the daughter of a Pakistani family she 
 trailer: "https://www.youtube.com/watch?v=_6Vq62Y1DPQ"
 image: ""
 added: 2026-05-14
+logline: "Belgian-Pakistani teenager is shown husbands over Skype and refuses them all, in a small, almost unbearably tense family drama"
 ---
 Zahira is eighteen, Belgian, and the daughter of a Pakistani family she loves. She goes to school, has friends, and has a life her parents only partly know about. Her family has decided it is time for her to marry. Prospective husbands from Pakistan are lined up and introduced to her over Skype. Zahira does not want any of them. But this is a family, not a prison, and that is precisely what makes it so hard.
 

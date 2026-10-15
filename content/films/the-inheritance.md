@@ -15,6 +15,7 @@ x_post: "A man leaves his life in Sweden to run his family's industrial empire a
 trailer: "https://www.youtube.com/watch?v=JMEIMFl0pNk"
 image: ""
 added: 2026-05-14
+logline: "Son reluctantly takes over the family steelworks after his father's suicide, in Danish cinema at its most grown-up"
 ---
 Christoffer has built a life in Sweden with his Swedish partner, far from his family's industrial dynasty in Denmark. Then his father commits suicide, and his mother summons him back to take over the steelworks. He says yes, believing it will be temporary. It is not. The company is in trouble, the board wants blood, and the mother never stops pulling the strings.
 

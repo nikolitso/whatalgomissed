@@ -15,6 +15,7 @@ x_post: "Love in four chapters: falling in love, crisis, betrayal and abandonmen
 trailer: "https://www.youtube.com/watch?v=BgkCXL9Rb8U"
 image: ""
 added: 2026-10-05
+logline: "Love from first chase to betrayal and back, told in four Roman chapters, in a warm reminder of how good Italian popular cinema can be"
 ---
 Love in four chapters, as if it came with an instruction book. Falling in love: a young man, out of work, chases a woman he has just met across Rome with comic determination. Crisis: a married couple who have stopped seeing each other. Betrayal: a traffic cop discovers her husband is cheating and takes her fury out on everyone in the city. Abandonment: a doctor left by his wife falls apart in ways that are funny and painful at the same time. The stories cross lightly, like people passing on the same street.
 

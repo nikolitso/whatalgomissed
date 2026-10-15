@@ -14,6 +14,7 @@ x_post: "A Milan cop has never fired his gun in 35 years. On his last night on t
 trailer: "https://www.youtube.com/watch?v=c3HQjL12Ass"
 image: ""
 added: 2026-05-14
+logline: "Milan cop who never fired his gun takes one side job on his last night before retirement, in proof that Italian genre cinema is very much alive"
 ---
 Franco Amore has been a Milan police officer for thirty-five years and has never once fired his gun. Tonight is his last night on the job. His wife Viviana is organising a surprise party, and Franco has taken on a quiet side job for a little extra money: security for Chinese couriers moving diamonds across the city. It should be easy. It isn't. By morning a friend is dead, and Franco is lying to everyone, including the people he is supposed to report to.
 

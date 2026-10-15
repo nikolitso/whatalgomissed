@@ -19,6 +19,7 @@ x_post: "A Danish cargo ship is seized by Somali pirates, and the ransom talks d
 trailer: "https://www.youtube.com/watch?v=IyMegiVnYwM"
 image: ""
 added: 2026-05-14
+logline: "Somali pirates seize a Danish cargo ship while the CEO insists on negotiating himself, in a nerve-shredding study of institutional failure"
 ---
 A Danish cargo ship is seized by Somali pirates in the Indian Ocean. On board, Mikkel the cook just wants to get home to his wife and daughter. In Copenhagen, Peter, the shipping company's CEO, is convinced he can handle the negotiations himself. He listens to the professional adviser, then ignores the most important advice of all and takes the phone directly. The ransom talks begin, and they go on for months.
 

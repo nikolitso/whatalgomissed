@@ -22,6 +22,7 @@ x_post: "In a town on the Barents Sea, a mechanic fights a corrupt mayor for his
 trailer: "https://www.youtube.com/watch?v=2oo7H25kirk"
 image: ""
 added: 2026-10-05
+logline: "Hot-tempered mechanic fights a corrupt mayor for his family's land on the Barents Sea, in Andrey Zvyagintsev's great, heavy and unforgettable drama"
 ---
 A small town on the Barents Sea, in the far north of Russia. Kolya, a hot-tempered mechanic, lives with his young wife and teenage son in the house his family has owned for generations. The town's corrupt mayor wants the land, and the courts are on his side. Kolya calls in an old army friend, now a lawyer in Moscow, who arrives with a file of compromising material on the mayor. It seems like a fair fight. It isn't.
 

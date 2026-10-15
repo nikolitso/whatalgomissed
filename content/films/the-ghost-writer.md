@@ -18,6 +18,7 @@ x_post: "A ghost writer hired to finish a former British prime minister's memoir
 trailer: "https://www.youtube.com/watch?v=ah1WVlkhzEg"
 image: ""
 added: 2026-05-14
+logline: "Ghost writer hired to finish an ex-Prime Minister's memoirs finds his predecessor drowned for a reason, in Roman Polanski's perfectly built political thriller"
 ---
 A professional ghost writer, played by Ewan McGregor and never given a name, is hired to finish the memoirs of Adam Lang, a former British Prime Minister. The previous ghost drowned off the ferry. Lang is holed up in a glass-and-concrete house on a grey island off the New England coast, and within days of the writer's arrival he is accused of handing terror suspects over for torture. The writer starts reading the manuscript closely and begins to suspect that his predecessor's death was no accident.
 

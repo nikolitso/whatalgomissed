@@ -15,6 +15,7 @@ x_post: "A doctor and her daughter flee Aleppo, setting off a chain that links f
 trailer: "https://www.youtube.com/watch?v=VvGvWHHjK2o"
 image: ""
 added: 2026-10-05
+logline: "A doctor fleeing Aleppo sets off a chain linking a soldier, a smuggler, a poet and a Greek coast guard, in an emotional, humane refugee drama"
 ---
 Aleppo, during the war. A doctor and her young daughter decide they have no choice but to flee. Their journey sets off a chain that connects five strangers across Syria, Turkey and the Aegean: a soldier in the regime's army, a smuggler who makes his living from desperate people, a poet trying to save his family, and a Greek coast guard captain who pulls the living and the dead out of the sea. Each chapter tells one person's story, and each one passes the baton to the next.
 

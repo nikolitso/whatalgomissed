@@ -19,6 +19,7 @@ x_post: "An Icelandic fisherman survives six hours in the freezing sea after his
 trailer: "https://www.youtube.com/watch?v=7ec3S_57OHM"
 image: ""
 added: 2026-10-09
+logline: "Icelandic fisherman swims for six hours through freezing sea after his trawler sinks, in a simple, powerful and unforgettable true story"
 ---
 March 1984, the Westman Islands off the south coast of Iceland. Gulli is a big, gentle fisherman, the kind of man who is liked by everyone and noticed by no one. One night his trawler snags its net and capsizes in minutes, so fast that no distress call is sent. One by one, his crewmates are lost in the black, freezing water. Gulli is left alone. The sea is five degrees, the air is below zero, and the shore is hours away. He starts to swim.
 

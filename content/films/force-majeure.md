@@ -20,6 +20,7 @@ x_post: "An avalanche, a terrace, and a father who runs. One instinctive moment 
 trailer: "https://www.youtube.com/watch?v=Fk63RH3cJHY"
 image: ""
 added: 2026-05-14
+logline: "Father runs from an avalanche and leaves his family behind, in a cold, devastating Swedish comedy that every couple will argue about on the way home"
 ---
 Tomas and Ebba have brought their two children to a ski resort in the French Alps for a family holiday. During lunch on a terrace, a controlled avalanche comes down the mountain, looks for a moment as though it won't stop, and engulfs them in a cloud of snow. Tomas grabs his phone and runs. Ebba stays and shields the children. When the danger passes and everyone is fine, what remains is a question nobody wants to ask out loud.
 

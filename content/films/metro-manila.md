@@ -16,6 +16,7 @@ x_post: "A farming family moves to Manila, and the father takes a dangerous job 
 trailer: "https://www.youtube.com/watch?v=Orkhhr1lI74"
 image: ""
 added: 2026-05-14
+logline: "Rice farmer moves his family to Manila and lands a dangerous job driving armoured cash trucks, in a tense thriller with real anger in it"
 ---
 Oscar and Mai Ramirez farm rice in the mountains of northern Luzon, and the harvest no longer pays. They take their two daughters and travel to Manila, where they are cheated within days and end up in the slums. Mai finds work in a bar. Oscar, a former soldier, lands a job with an armoured truck company, moving cash around the city. His new partner Ong is friendly, generous and a little too interested in him.
 

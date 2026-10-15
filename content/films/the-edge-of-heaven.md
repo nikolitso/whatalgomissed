@@ -20,6 +20,7 @@ x_post: "Six lives cross between Germany and Turkey, in a story about death, for
 trailer: "https://www.youtube.com/watch?v=SbTN2t-Qor4"
 image: ""
 added: 2026-05-14
+logline: "Six lives across Germany and Turkey keep missing each other by seconds, in Fatih Akin's generous, aching drama"
 ---
 Six lives across Germany and Turkey: a retired widower in Bremen and his son, a university professor; a Turkish woman who works as a prostitute and the political activist daughter she is trying to support; a German student and her mother. They are connected by loss, separated by borders, and they keep missing each other by the smallest margins. A train passes another train. Someone leaves a room just as someone else enters.
 

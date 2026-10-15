@@ -20,6 +20,7 @@ x_post: "Days after her husband's funeral, a woman in Dover finds his secret lif
 trailer: "https://www.youtube.com/watch?v=3ZJN3ubwKek"
 image: ""
 added: 2026-10-09
+logline: "Widow in Dover discovers her late husband's second family just across the Channel, in a small, devastating and beautiful British drama"
 ---
 Dover, on the English coast. Mary converted to Islam when she married Ahmed, a ferry captain, many years ago. She wears the hijab, speaks Urdu, and has built her whole life around him. Then Ahmed dies suddenly. Days after the funeral, going through his phone and his wallet, Mary finds the trace of another woman, just across the Channel in Calais. She takes the ferry. When she knocks on the door, the Frenchwoman who opens it mistakes her for the new cleaner, and Mary does not correct her.
 

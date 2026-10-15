@@ -15,6 +15,7 @@ x_post: "A young father meets the disabled son he abandoned at birth and takes h
 trailer: "https://www.youtube.com/watch?v=bNQ0ZYKyvRg"
 image: ""
 added: 2026-05-14
+logline: "Father meets his disabled teenage son for the first time on a trip to a Berlin clinic, in a restrained, moving Italian drama"
 ---
 Gianni is a young man who abandoned his son at birth, when the boy's mother died and the baby was born severely disabled. Fifteen years later, the relatives who raised Paolo ask Gianni to take him to Berlin for treatment at a specialist clinic. So a father meets his teenage son for the first time, on a journey neither of them chose.
 

@@ -23,6 +23,7 @@ x_post: "A Cypriot musician's dog wanders across the buffer zone into the north,
 trailer: "https://www.youtube.com/watch?v=9ACqXDktph0"
 image: ""
 added: 2026-05-14
+logline: "Broke musician's dog strays into Northern Cyprus and getting it back means crossing a very strange border, in a funny, warm and quietly furious comedy"
 ---
 Yiannis is a washed-up musician in debt to the wrong people, and he is finally leaving crisis-ridden Cyprus for a better life abroad. Then his dog, Jimi, slips his lead in Nicosia and wanders across the UN buffer zone into the Turkish-occupied north. Getting into the north is easy. Getting a dog back out is not: the rules say animals can't cross from north to south. To rescue him, Yiannis must navigate a bureaucratic and political absurdity that the island has lived with for forty years.
 

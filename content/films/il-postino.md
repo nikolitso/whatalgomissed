@@ -19,6 +19,7 @@ x_post: "A shy postman on an Italian island delivers letters to Pablo Neruda and
 trailer: "https://www.youtube.com/watch?v=SgbbmwHpoAA"
 image: ""
 added: 2026-05-14
+logline: "Shy fisherman's son becomes Pablo Neruda's postman and discovers metaphor, in a gentle Italian classic"
 ---
 Early 1950s. The Chilean poet Pablo Neruda, exiled for his politics, arrives on a small island off the coast of Italy. Mario, the shy, unemployed son of a fisherman, gets a job as the poet's personal postman, delivering bags of letters from admirers around the world. Slowly, a friendship forms. Mario asks about metaphors, discovers poetry, and uses it to court Beatrice, the most beautiful woman on the island, which her aunt does not appreciate at all.
 

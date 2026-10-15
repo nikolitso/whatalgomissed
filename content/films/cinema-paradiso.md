@@ -21,6 +21,7 @@ x_post: "A Sicilian village, a cinema on the square, a boy and the projectionist
 trailer: "https://www.youtube.com/watch?v=JMyVSD6OvO8"
 image: ""
 added: 2026-10-05
+logline: "Famous director remembers the village cinema and the projectionist who became his father, in Giuseppe Tornatore's masterpiece of the heart"
 ---
 Salvatore is a famous film director in Rome. One night he learns that Alfredo has died, and he remembers. A Sicilian village after the war, where the only light is the cinema on the square. A small boy called Totò, sneaking into the projection booth. Alfredo, the projectionist, grumbling and kind, who becomes the father he lost. The local priest who watches every film first and rings a bell at every kiss, so Alfredo can cut it. Years of films, laughter, a fire, a first love. And Alfredo's advice: leave, and never come back.
 

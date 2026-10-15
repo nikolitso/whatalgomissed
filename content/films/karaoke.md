@@ -16,6 +16,7 @@ x_post: "A long-married couple's quiet life near Tel Aviv is shaken by a charmin
 trailer: "https://www.youtube.com/watch?v=T58guT7TWQE"
 image: ""
 added: 2026-05-14
+logline: "Long-married Tel Aviv couple are seduced by the charismatic bachelor in the penthouse, in a small, funny and surprisingly moving comedy"
 ---
 Tuvia and Yaffa have been married for decades and live a quiet, comfortable life in a high-rise apartment block near Tel Aviv. Their days follow a routine, their conversations have shrunk to the practical, and their children have grown up. Then Itzik, a charismatic, wealthy bachelor with a taste for parties, moves into the penthouse and starts hosting karaoke nights. The couple are invited, and something wakes up in both of them.
 

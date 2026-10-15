@@ -15,6 +15,7 @@ x_post: "A girl accuses her father of abuse, and the whole family collapses arou
 trailer: "https://www.youtube.com/watch?v=4Xyl4l7bnJM"
 image: ""
 added: 2026-05-14
+logline: "Fourteen-year-old accuses her father of abuse and the family splits over whom to believe, in a serious, uncomfortable Danish drama"
 ---
 A fourteen-year-old girl tells the school psychologist that her father has sexually abused her. The father is shocked, angry, and says she is a chronic liar who has always invented things. The mother doesn't know whom to believe. He is arrested. Is he guilty? Henrik Ruben Genz builds his film on that question and then refuses, deliberately and strategically, to give you a clean answer.
 

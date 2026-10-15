@@ -21,6 +21,7 @@ x_post: "An Athens square during the crisis: a refugee, a Greek man who wants th
 trailer: "https://www.youtube.com/watch?v=kIkr9yXzN7Q"
 image: ""
 added: 2026-05-14
+logline: "Unemployed Athenian logs the migrants on his square like a border guard as his resentment curdles, in an uncomfortable, humane crisis drama"
 ---
 Athens, at the height of the Greek crisis. Amerika Square, once a respectable middle-class neighbourhood, has become home to thousands of migrants and refugees. Nakos, unemployed and living with his parents, watches the new arrivals from his balcony and logs them like an amateur border guard, nursing a resentment that is turning into something worse. His old friend Billy, a tattoo artist, has fallen for Tereza, an African singer trying to make a life in the city. And Tarek, a Syrian refugee, is trying to find a way out of Greece and through its bureaucratic and criminal maze.
 

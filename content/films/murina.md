@@ -19,6 +19,7 @@ x_post: "A teenage girl on a rocky Croatian island, a controlling father and a s
 trailer: "https://www.youtube.com/watch?v=fC2sUO6xhOA"
 image: ""
 added: 2026-05-14
+logline: "Teenage diver on a Croatian island plots her escape from a controlling father, in a sun-drenched coming-of-age thriller"
 ---
 Julija is a teenager on a rocky Croatian island, spending the summer with her parents. She dives for moray eels with her father Ante, a hard, controlling man who treats his wife and daughter as part of his property. Then Javier arrives, an old family friend, rich, charming and worldly, whom Ante hopes to sell their land to. For Julija he is a door to somewhere else. For her mother, perhaps a memory of another life. And Ante watches all of it.
 

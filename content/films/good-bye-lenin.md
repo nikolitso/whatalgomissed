@@ -18,6 +18,7 @@ x_post: "To protect his fragile mother, a son keeps the GDR alive inside her bed
 trailer: "https://www.youtube.com/watch?v=bznjeEx98uM"
 image: ""
 added: 2026-10-05
+logline: "Son hides the fall of the Wall from his socialist mother after she wakes from a coma, in a funny, tender East German comedy"
 ---
 East Berlin, October 1989. Alex's mother Christiane is a devoted socialist, a woman who threw herself into the system after her husband fled to the West. One evening she sees her son arrested at a protest, has a heart attack, and falls into a coma. While she is asleep, the Wall falls, and the GDR disappears. Eight months later she wakes up, and the doctors warn that any shock could kill her. So Alex decides that, inside her bedroom, the GDR will go on existing.
 

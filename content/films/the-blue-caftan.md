@@ -19,6 +19,7 @@ x_post: "A master tailor in Morocco, his dying wife and the young apprentice who
 trailer: "https://www.youtube.com/watch?v=FhZVWrj7754"
 image: ""
 added: 2026-05-14
+logline: "Master tailor in Salé, his wife and a young apprentice share an unspoken secret, in a tender, precise Moroccan drama shot through with grief"
 ---
 In the old medina of Salé, Halim is a master tailor, a maalem, who still sews caftans entirely by hand while customers complain about how long they wait. His wife Mina runs the shop with sharp tongue and sharper eye. They have lived for years with his secret, his desire for men, which nobody speaks about. When a young apprentice, Youssef, arrives to learn the trade, and Mina's illness grows more serious, everything shifts.
 

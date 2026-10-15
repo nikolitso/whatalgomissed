@@ -14,6 +14,7 @@ x_post: "In Jaffa, a Jewish garage owner's daughter is secretly in love with his
 trailer: "https://www.youtube.com/watch?v=iNeXNVQpKqE"
 image: ""
 added: 2026-05-14
+logline: "Jewish garage owner's daughter and his young Palestinian mechanic hide a years-long love, in a sad, intimate Israeli drama"
 ---
 In Jaffa, the old mixed Arab-Jewish city next to Tel Aviv, Reuven runs a car repair garage with his family. His daughter Mali works in the office. His son Meir works on the cars, badly, and resents everyone. And Toufik, a young Palestinian mechanic, works alongside them. Mali and Toufik have been secretly in love for years, and they are planning to run away together. Then a tragedy permanently changes the course of both their lives.
 

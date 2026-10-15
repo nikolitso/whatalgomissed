@@ -20,6 +20,7 @@ x_post: "After his wife dies, a man waits every day on a bench outside his daugh
 trailer: "https://www.youtube.com/watch?v=zqO5Q_YP57Q"
 image: ""
 added: 2026-10-05
+logline: "Roman executive spends his days on a bench outside his daughter's school after his wife's sudden death, in a patient, quietly devastating drama"
 ---
 Pietro is a successful Roman executive. One summer day at the beach, he and his brother Carlo dive into the sea to save two women who are drowning. When Pietro gets home, he learns that his wife has died, at the very moment he was saving the life of a stranger. He does not cry. He does not collapse. Instead, on the first day of school, he promises his ten-year-old daughter that he will wait for her outside until classes end. And he does. Every day, on a bench in a little park opposite the school.
 

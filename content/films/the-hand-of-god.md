@@ -19,6 +19,7 @@ x_post: "Naples, 1984: a teenager, a loving eccentric family and Maradona arrivi
 trailer: "https://www.youtube.com/watch?v=i_1VW_0i6vo"
 image: ""
 added: 2026-05-14
+logline: "Neapolitan teenager's loving, eccentric family is hit by tragedy the year Maradona arrives, in Paolo Sorrentino's best film"
 ---
 Naples, 1984. Teenage Fabietto lives inside a large, eccentric, loving family: parents who play pranks on each other, aunts and uncles who gather for long lunches by the sea, a beautiful aunt whose troubles fascinate him. And Diego Maradona has just arrived at Napoli, which in this city is a religious event. Then tragedy strikes, and the connection to Maradona becomes something more than sport.
 

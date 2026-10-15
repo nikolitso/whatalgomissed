@@ -23,6 +23,7 @@ x_post: "Two sisters, an estranged filmmaker father and the family house in Oslo
 trailer: "https://www.youtube.com/watch?v=lKbcKQN5Yrw"
 image: ""
 added: 2026-10-09
+logline: "Celebrated director returns to reclaim the Oslo family house and cast his estranged daughter in his comeback, in Joachim Trier's funny, painful major work"
 ---
 Gustav Borg was once a celebrated film director. Years ago he left his wife and their two daughters in the old family house in Oslo and moved to Sweden, and he has been an occasional, difficult presence in their lives ever since. Now his ex-wife has died, the daughters are grown up, and Gustav is back, wanting to reclaim the house and to make one last film. Nora, the elder, is a gifted stage actress crippled by stage fright. Agnes, the younger, is a historian with a quiet family life. Gustav wants Nora for the lead in his comeback. She says no. So he casts a young American star instead, and decides to shoot in the house.
 

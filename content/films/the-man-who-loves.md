@@ -15,6 +15,7 @@ x_post: "A Turin pharmacist is devastated when his partner leaves him, until the
 trailer: "https://www.youtube.com/watch?v=EliQqm-p-7M"
 image: ""
 added: 2026-10-05
+logline: "Heartbroken Turin pharmacist turns out to have broken a heart himself, in a tender, intelligent Italian love story"
 ---
 Roberto is a pharmacist in Turin, a quiet man in his forties. When we meet him, Sara has just left him, and he is devastated. He calls, he waits outside her door, he cannot sleep. Then the film steps back in time, to Roberto with Alba, a woman who loves him completely. It was Roberto who ended that relationship. The man who is suffering now is the same man who once caused exactly this pain.
 

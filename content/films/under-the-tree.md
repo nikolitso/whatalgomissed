@@ -17,6 +17,7 @@ x_post: "A neighbours' dispute over a tree in a Reykjavík suburb escalates out 
 trailer: "https://www.youtube.com/watch?v=tU7KeDwJCAc"
 image: ""
 added: 2026-10-05
+logline: "Two Reykjavík families' quarrel over a garden tree escalates into all-out war, in a pitch-black Icelandic comedy"
 ---
 A quiet suburb of Reykjavík. Baldvin and Inga have a big, beautiful tree in their back garden. Their neighbours, Konrad and his younger wife Eybjorg, would like it cut back, because it casts a shadow over their sundeck. A reasonable request, politely made. At the same time, Baldvin and Inga's grown-up son Atli has been thrown out by his wife and is back in his childhood bedroom, fighting for access to his little daughter. Two small domestic problems. Neither stays small.
 

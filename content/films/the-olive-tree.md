@@ -15,6 +15,7 @@ x_post: "A young woman sets out across Europe to bring back the ancient olive tr
 trailer: "https://www.youtube.com/watch?v=KC6qSUFMTEo"
 image: ""
 added: 2026-10-05
+logline: "Young woman sets out to bring home the two-thousand-year-old olive tree her family sold, in a warm, clever and heartfelt Spanish drama"
 ---
 Alma is twenty and works on a chicken farm in the countryside near Valencia. Her grandfather has stopped speaking. Years ago the family sold his ancient olive tree, more than two thousand years old, to pay for a business venture that went nowhere, and he has never forgiven them. Alma decides the only way to bring him back is to bring back the tree. She discovers it now stands in the lobby of an energy company in Düsseldorf, as a corporate symbol. With her uncle and a reluctant co-worker, she sets off across Europe in a truck to steal it back.
 

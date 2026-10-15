@@ -15,6 +15,7 @@ x_post: "An eighteen-year-old with ADHD in Gothenburg can't afford her medicatio
 trailer: "https://www.youtube.com/watch?v=c61vNTuptyY"
 image: ""
 added: 2026-10-05
+logline: "Gothenburg teenager with ADHD schemes to pay for the medication she can't afford, in a small, honest Swedish film full of life"
 ---
 Joanna is eighteen, lives in Gothenburg, and has ADHD. Without her medication her brain feels like a flashing amusement park. The problem is money: her father is at home, deep in depression and on sick pay that barely covers the rent, and the pills cost more than they have. So Joanna gets creative, with schemes that range from clever to disastrous. And in the middle of all this chaos she meets Audrey, calm, warm, a little mysterious, and starts falling in love at the worst possible moment.
 

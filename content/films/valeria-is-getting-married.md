@@ -24,6 +24,7 @@ x_post: "A young Ukrainian woman arrives in Israel to marry a man she has never 
 trailer: "https://www.youtube.com/watch?v=m4c0IsgJPmc"
 image: ""
 added: 2026-10-09
+logline: "Ukrainian woman in Israel brokers her sister's marriage to a lonely stranger, in a small drama with a big impact"
 ---
 Christina came from Ukraine four years ago to marry Michael, an Israeli man she met through an agency. She works in a beauty salon, saves for fertility treatment, and wants to convert and become a citizen. Michael, for his part, makes money arranging the same kind of marriages for other men. Now his client is Eitan, a lonely man who has paid five thousand dollars, and the bride is Christina's younger sister, Valeria. They pick her up at the airport and bring her to their small apartment in Bat Yam, where she is supposed to meet her future husband. Valeria looks at her sister's life and starts to have doubts.
 

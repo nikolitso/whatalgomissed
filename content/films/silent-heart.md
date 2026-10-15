@@ -15,6 +15,7 @@ x_post: "A family gathers for a final weekend with a mother who has chosen to di
 trailer: "https://www.youtube.com/watch?v=kl8CRvRJfvM"
 image: ""
 added: 2026-10-09
+logline: "Dying mother gathers her family for one last weekend by the sea before ending her life, in a quiet, sad and surprisingly funny Danish drama"
 ---
 A beautiful house by the sea, one autumn weekend. Esther has invited her whole family: her husband, her two grown-up daughters, their partners, her grandson and her oldest friend. Esther is ill, with a disease that will soon take away her body piece by piece, and she has decided to die on her own terms before it does. Everyone has agreed to her choice. This weekend is meant to be a goodbye, full of good food, old stories and an early Christmas. But as the hours pass, the agreement starts to crack. The older daughter, Heidi, is controlled and practical. The younger, Sanne, is fragile and unpredictable. Neither of them is as ready as they said.
 

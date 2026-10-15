@@ -14,6 +14,7 @@ x_post: "A famous Danish ballerina's career is suddenly over, and she begins tra
 trailer: "https://www.youtube.com/watch?v=raS3NhyWxHo"
 image: ""
 added: 2026-05-14
+logline: "World-famous ballerina, unable to dance again, trains her young replacement for Giselle, in a cool, gorgeous Danish drama"
 ---
 Darling is a world-famous Danish ballerina who has made her career abroad. She comes home to Copenhagen to dance Giselle, the role that will crown everything. During rehearsals she collapses. Her hip is irreparably damaged, and she will never dance again. Rather than walk away, she begins training her young replacement, a girl who has everything she had, including the relentlessness that destroyed her.
 

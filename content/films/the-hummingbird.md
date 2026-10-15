@@ -15,6 +15,7 @@ x_post: "An eye doctor spends his whole life trying to stay still while everythi
 trailer: "https://www.youtube.com/watch?v=YAwAStOsU0M"
 image: ""
 added: 2026-05-14
+logline: "Roman eye doctor spends decades hovering in place while the losses pile up, in a melancholic drama for anyone old enough to count their losses"
 ---
 Marco Carrera is an eye doctor whom everyone has called "the hummingbird" since childhood, because he was small for his age. The name sticks for another reason: he spends his life hovering in place, working hard just to stay where he is. The film follows him across several decades, and the losses pile up: a sister, a great love he never quite lived, a marriage, a daughter. Out of them comes a portrait of a man who has learned to live near grief without being consumed by it.
 

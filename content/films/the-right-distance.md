@@ -15,6 +15,7 @@ x_post: "A young teacher arrives in a foggy town in the Po delta, and a murder e
 trailer: "https://www.youtube.com/watch?v=smz8sywikyI"
 image: ""
 added: 2026-05-14
+logline: "New substitute teacher stirs up a foggy town in the Po delta, in a calm, troubling and unjustly forgotten Italian drama"
 ---
 Mara arrives as a substitute teacher in a small town in the Po delta, the flat, foggy country between the river and the sea. She is young, pretty and curious, and the town watches her the way small towns watch any newcomer. Giovanni, a teenager who dreams of being a journalist, watches her too, and the local editor who gives him his first stories tells him the golden rule: keep the right distance. Then there is Hassan, a Tunisian mechanic who has lived there for years and is still, in everyone's eyes, the foreigner.
 

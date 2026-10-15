@@ -19,6 +19,7 @@ x_post: "A chambermaid and a former policeman meet at a speed-dating evening in 
 trailer: "https://www.youtube.com/watch?v=KaNIk-mXB54"
 image: ""
 added: 2026-05-14
+logline: "Turin chambermaid and ex-cop meet at speed dating before a robbery changes everything, in a twisty Italian thriller where you should trust nothing"
 ---
 Sonia is a Slovenian chambermaid working in a Turin hotel. Guido is a former policeman, now a security guard at a country villa, still carrying the grief of a dead wife. They meet at a speed-dating evening, and against the odds something real starts between them. Then, during a weekend at the villa he guards, everything goes very wrong.
 

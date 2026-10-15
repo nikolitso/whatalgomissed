@@ -17,6 +17,7 @@ x_post: "Four lives in Santiago, each chasing a goal that keeps slipping away. A
 trailer: "https://www.youtube.com/watch?v=r73-d1eg8_M"
 image: ""
 added: 2026-05-14
+logline: "Four people in Santiago chase goals that keep slipping away, in a modest Chilean ensemble film"
 ---
 Four characters in Santiago, each struggling to reach a goal that keeps slipping away. A psychologist running public health campaigns can't keep her own life in order. A hairdresser in his forties, still living with his mother, wants a car and a bit of dignity. A classical musician hopes for a place in the orchestra and ends up with something much smaller. A young woman sleeps rough with her baby and simply tries to survive the day.
 

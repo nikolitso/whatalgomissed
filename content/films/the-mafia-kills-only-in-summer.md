@@ -17,6 +17,7 @@ x_post: "A boy grows up in Palermo while the Mafia kills around him. A funny, te
 trailer: "https://www.youtube.com/watch?v=i7SfARhL9ws"
 image: ""
 added: 2026-05-14
+logline: "Palermo boy grows up alongside the Mafia's killings while chasing his schoolgirl crush, in a funny comedy with a very serious heart"
 ---
 Arturo is born in Palermo in the early seventies, and from the start his life runs alongside the Mafia's. As a boy he is in love with a classmate named Flora, obsessed with Giulio Andreotti, and convinced by the adults around him that the killings in the news are just quarrels over women, or something that happens when it's hot. The film follows him through the 1970s and 80s, the years of the Mafia's most visible violence, told by the grown man looking back on a childhood lived in its shadow.
 

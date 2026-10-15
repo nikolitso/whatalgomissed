@@ -15,6 +15,7 @@ x_post: "A businessman drowning in debt has days left to save his home, and keep
 trailer: "https://www.youtube.com/watch?v=fkiaInSkWfA"
 image: ""
 added: 2026-05-14
+logline: "Debt-ridden businessman doubles down on his vices as the loan shark closes in, in the most honest Greek film about the crisis years"
 ---
 Thomas is a businessman drowning in debt, cornered by a loan shark, with days left to save his home. You would expect a man in that position to change course. He doesn't. He doubles down on his vices, surrounds himself with enablers who tell him what he wants to hear, and lives under the sincere conviction that his struggle is heroic.
 

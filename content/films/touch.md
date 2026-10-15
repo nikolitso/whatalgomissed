@@ -16,6 +16,7 @@ x_post: "An elderly Icelandic widower travels to London and Japan to find the wo
 trailer: "https://www.youtube.com/watch?v=y5fXuZ3ns_c"
 image: ""
 added: 2026-05-14
+logline: "Elderly Icelandic widower travels to London and Japan to find the woman he lost fifty years ago, in a deeply felt, quietly beautiful love story"
 ---
 Kristófer is an elderly widower in Reykjavík. The pandemic is about to close the world, his doctor has given him news he doesn't want to hear, and he decides that before his memory goes, he has to find out what happened to a woman he lost half a century ago. In late-sixties London he was a young student who dropped out and took a job washing dishes in a small Japanese restaurant. There he met Miko, the owner's daughter. One day the family vanished without a word.
 

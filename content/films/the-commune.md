@@ -19,6 +19,7 @@ x_post: "Copenhagen in the 1970s: a family opens its huge house to a commune, an
 trailer: "https://www.youtube.com/watch?v=wXghS9TLPyc"
 image: ""
 added: 2026-05-14
+logline: "Copenhagen couple fill an inherited mansion with friends in the free-loving seventies, in Thomas Vinterberg's warmest and saddest film"
 ---
 Copenhagen, the 1970s. Erik, an architecture lecturer, inherits his father's huge house. It is too big for him, his wife Anna, a television newsreader, and their teenage daughter Freja, so Anna proposes that they fill it with friends and turn it into a commune. The 1970s idealism feels genuine: the warmth of communal living, the collective meals, the house meetings where everything is voted on, the beer and the singing.
 

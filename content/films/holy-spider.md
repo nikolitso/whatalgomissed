@@ -19,6 +19,7 @@ x_post: "A serial killer targets sex workers in Iran's holiest city, and a journ
 trailer: "https://www.youtube.com/watch?v=27wZZ6O1IBc"
 image: ""
 added: 2026-05-14
+logline: "Journalist hunts the killer of sex workers in Iran's holiest city, in a brutal crime drama where the real horror is how many people agreed with him"
 ---
 Mashhad, 2001. In Iran's holiest city, a man on a motorbike is picking up sex workers, taking them home and strangling them. Sixteen women die. The killer, Saeed Hanaei, is a construction worker and family man who believes he is cleansing the streets of sin, and a large part of the public agrees with him. A journalist from Tehran, Rahimi, arrives to investigate, and finds police who don't care, men who don't want her there, and a city that seems to be shrugging.
 

@@ -19,6 +19,7 @@ x_post: "A Danish doctor between Africa and home, and two boys whose friendship 
 trailer: "https://www.youtube.com/watch?v=ava0Rn8nrVs"
 image: ""
 added: 2026-05-14
+logline: "Bullied Danish boy befriends an angry newcomer as their fathers wrestle with violence at home and abroad, in an Oscar-winning drama of revenge"
 ---
 Anton is a Danish doctor who divides his time between a refugee camp in Africa and his home in Denmark, where his marriage is falling apart. His son Elias is bullied at school. Then a new boy arrives: Christian, angry and grieving after his mother's death, who has moved from London with his father. Christian steps in to protect Elias, and the two boys form a friendship built on a dangerous idea: that the only answer to violence is revenge.
 

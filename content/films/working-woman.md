@@ -20,6 +20,7 @@ x_post: "An Israeli mother lands her dream job, and her boss starts to harass he
 trailer: "https://www.youtube.com/watch?v=JMzldI-aCtM"
 image: ""
 added: 2026-05-14
+logline: "Tel Aviv mother's dream job comes with a charming boss who won't take no for an answer, in a quiet, controlled drama that leaves you angry"
 ---
 Orna is a mother of three in Tel Aviv. Her husband is struggling to get his new restaurant off the ground, and the family needs money. So she is thrilled to land a job at a real estate firm, working for Benny, a charming former army officer who is now building luxury apartments by the sea. She turns out to be very good at selling them. Benny notices. And slowly, then not so slowly, the attention turns into something else.
 

@@ -19,6 +19,7 @@ x_post: "Nanni Moretti rides his Vespa through an empty Rome, visits the Aeolian
 trailer: "https://www.youtube.com/watch?v=C_l75RaVadc"
 image: ""
 added: 2026-10-05
+logline: "Nanni Moretti rides his Vespa through an empty Rome, tours the Aeolian islands and faces illness, in a light, profound three-part diary"
 ---
 Nanni Moretti, playing himself, keeps a diary in three chapters. In the first, he rides his Vespa through an empty Rome in August, admiring the architecture of the suburbs, complaining about Italian cinema, and finally driving out to the bleak spot at Ostia where Pasolini was killed. In the second, he visits the Aeolian islands with a friend who has spent years studying Ulysses and refuses to watch television, until he becomes hopelessly addicted to soap operas. In the third, he tells the true story of a strange itch that doctor after doctor fails to diagnose, until it turns out to be cancer.
 

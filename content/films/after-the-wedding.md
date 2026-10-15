@@ -19,6 +19,7 @@ x_post: "A Dane running an orphanage in India is called back to Copenhagen, wher
 trailer: "https://www.youtube.com/watch?v=gZzxmZuOvKI"
 image: ""
 added: 2026-05-14
+logline: "Idealist running an orphanage in Bombay flies home for a donation and finds his past waiting, in Susanne Bier's intelligent, nervy melodrama"
 ---
 Jacob is a Dane who has spent years running an orphanage in Bombay. He has made the poverty around him his home and has little time for the comfortable country he left behind. The orphanage is running out of money, so when a wealthy Danish businessman, Jørgen, offers a large donation, Jacob reluctantly flies to Copenhagen to meet him. Jørgen invites him to his daughter's wedding that weekend. There, Jacob recognises someone from his past, and everything that follows is constructed from that recognition.
 

@@ -14,6 +14,7 @@ x_post: "The true story of Rocco Granata, the son of an Italian coal miner in Be
 trailer: "https://www.youtube.com/watch?v=i2A87iNexUM"
 image: ""
 added: 2026-05-14
+logline: "Calabrian miner's son in Belgium dreams of music and writes a worldwide hit, in one of European cinema's great, unknown immigrant stories"
 ---
 Rocco Granata was the son of a Calabrian coal miner who moved his family to Belgium in the years after the war, when Italian men were traded for coal and sent down the pits of Limburg. Young Rocco grows up between two worlds: an Italian home ruled by a stern, proud father, and a Belgian town that does not much want them. He discovers the accordion. His father wants him to study and get out of the mines. In 1959 Rocco writes a song called Marina, and it becomes a hit across Europe.
 

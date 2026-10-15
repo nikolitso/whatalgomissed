@@ -20,6 +20,7 @@ x_post: "A twelve-year-old boy in Beirut sues his parents for giving him life. A
 trailer: "https://www.youtube.com/watch?v=ULUo0048xZE"
 image: ""
 added: 2026-05-14
+logline: "Twelve-year-old Beirut street kid sues his parents for bringing him into the world, in an angry, overloaded and impossible-to-dismiss drama"
 ---
 Zain is around twelve, nobody knows exactly, because his parents never registered his birth. When we meet him he is in juvenile detention in Beirut, and he is suing his parents for bringing him into the world. The rest of the film shows us how he got there: a crowded flat in the slums, a younger sister sold into marriage, running away, and a stretch of days looking after Yonas, the baby son of an Ethiopian migrant worker, Rahil, who cannot afford to be found by the authorities.
 

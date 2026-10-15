@@ -19,6 +19,7 @@ x_post: "Two brothers in 1960s Italy, one a communist, one a fascist, both in lo
 trailer: "https://www.youtube.com/watch?v=CD-4jzL-UfM"
 image: ""
 added: 2026-05-14
+logline: "One brother joins the Communists and the other the fascists in 1960s Italy, in a warm, funny political family saga"
 ---
 Accio and Manrico are brothers from a working-class family in Latina, the town Mussolini built on the drained marshes south of Rome. Manrico is handsome, charismatic and a Communist. Accio, the younger, is angry, clever and contrary, and mostly to spite everyone he joins the local fascists. Across the 1960s and 70s, through strikes, occupations and street fights, the two brothers find themselves on opposing political extremes, and in love with the same woman, yet remain bound by something stronger than ideology.
 

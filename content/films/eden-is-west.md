@@ -16,6 +16,7 @@ x_post: "A young migrant swims ashore on a Greek island and sets out on a long j
 trailer: "https://www.youtube.com/watch?v=adlunG3nxds"
 image: ""
 added: 2026-05-14
+logline: "Young migrant washes up on a Greek island resort and keeps heading west, in Costa-Gavras's generous modern fable"
 ---
 Elias, a young man from somewhere east of Europe, jumps off a smuggling boat as it is raided by the coast guard and washes up on a Greek island, straight onto the beach of a luxury resort. To blend in, he grabs a uniform and joins the staff. A magician performing at the resort, impressed by the boy, tells him to look him up if he ever comes to Paris. From that moment Paris becomes his mythical destination.
 

@@ -18,6 +18,7 @@ x_post: "A bright, passive boy grows up in a working-class neighbourhood of Livo
 trailer: "https://www.youtube.com/watch?v=TBgr9H0mK5Y"
 image: ""
 added: 2026-05-14
+logline: "Bright, passive boy from Livorno's working-class quarter is pushed toward the books and a rich, rebellious friend, in one of the great Italian coming-of-age films"
 ---
 Piero grows up in Ovosodo, a working-class neighbourhood of Livorno, with a father in and out of prison, a dead mother and a disabled brother. He is bright but passive, the kind of boy things happen to. A teacher sees something in him and pushes him toward the classical lyceum and the books. There he meets Tommaso, a rich, rebellious boy who drags him into a different life. And Piero has to work out who he is: the boy from the neighbourhood or the one who got away.
 

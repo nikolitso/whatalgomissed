@@ -18,6 +18,7 @@ x_post: "A family in an Athens apartment on one sweltering day, and the explosio
 trailer: "https://www.youtube.com/watch?v=ERrjqsnCUyQ"
 image: ""
 added: 2026-05-14
+logline: "Grumpy Athenian is trapped in a sweltering flat with his family and one spark is all it takes, in a hard-to-love, impossible-to-forget Greek debut"
 ---
 A grumpy middle-aged man in Athens is having a hard time with his business partner and a hell of a time with his family. It sounds like the setup for a domestic comedy, but it isn't. Economides traps you in a sweltering apartment, strips away every comfort, and refuses to let you look away.
 

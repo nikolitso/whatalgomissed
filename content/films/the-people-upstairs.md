@@ -17,6 +17,7 @@ x_post: "A tired couple invite their upstairs neighbours for dinner, and the eve
 trailer: "https://www.youtube.com/watch?v=HrqZJI25pkU"
 image: ""
 added: 2026-05-14
+logline: "Bickering couple invite the noisy upstairs neighbours to dinner and get an indecent proposal, in a short, tight and adult Spanish comedy"
 ---
 Julio and Ana have been together for many years, and it shows. They bicker, they barely touch, and they can't remember when things went quiet. Ana has invited the upstairs neighbours to dinner, the couple whose noisy lovemaking comes through the ceiling every night. Julio is not pleased. Then, over drinks, the neighbours make an unexpected proposal that turns the evening into an emotional earthquake.
 

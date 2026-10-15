@@ -19,6 +19,7 @@ x_post: "A Palestinian father lives 200 meters from his family, on the other sid
 trailer: "https://www.youtube.com/watch?v=Lojmr29g8Xk"
 image: ""
 added: 2026-05-14
+logline: "Palestinian father pays smugglers to cross the wall that keeps him 200 metres from his family, in a tender, quietly furious road movie"
 ---
 Mustafa lives in a West Bank village. His wife Salwa and their children live in a town on the other side of Israel's separation wall, 200 meters away. At night the couple flash lights at each other across the concrete. It is a tender image and a cruel one, and it tells you everything about the life this family has been forced to build.
 

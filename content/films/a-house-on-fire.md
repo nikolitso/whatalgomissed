@@ -15,6 +15,7 @@ x_post: "A divorced mother gathers her whole family at the house on the Costa Br
 trailer: "https://www.youtube.com/watch?v=v-SX_-T_rfE"
 image: ""
 added: 2026-10-09
+logline: "Divorced mother gathers her whole family at the Costa Brava house for one perfect weekend, in a funny, cruel Catalan comedy that ends in glorious chaos"
 ---
 Montse has been waiting for this weekend for a long time. Divorced for years, with two grown-up children who mostly ignore her, she has gathered the whole family at the family house in Cadaqués on the Costa Brava, full of summer memories. Her son is coming, and her daughter, and their partners, and even her ex-husband with his new girlfriend. Montse has planned everything. This weekend is going to be perfect, whether anyone else wants it or not. Even if she has to burn the whole thing down to get there.
 

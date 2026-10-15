@@ -15,6 +15,7 @@ x_post: "Ten years after The Last Kiss, the same friends from Rome are now forty
 trailer: "https://www.youtube.com/watch?v=9pcWxRkcYMs"
 image: ""
 added: 2026-10-05
+logline: "Ten years later, the friends from The Last Kiss hit forty and fall apart all over again, in an honest Italian midlife drama"
 ---
 Ten years after The Last Kiss, the same group of friends from Rome is now around forty. Carlo and Giulia, the couple at the heart of the first film, have separated and are trying to raise their daughter while starting new lives. The others are not doing much better. One is fighting depression, one comes back after years away from the son he abandoned, one is caught between a marriage and a new love. The dreams of their twenties are gone, and they are discovering that being grown up did not bring the calm they expected.
 

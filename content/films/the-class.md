@@ -21,6 +21,7 @@ x_post: "One school year in a Paris classroom full of teenagers from every backg
 trailer: "https://www.youtube.com/watch?v=lq5qNzm3w-U"
 image: ""
 added: 2026-10-05
+logline: "French teacher spends a year arguing with a class of Paris teenagers from every background, in a funny, tense and very honest Palme d'Or winner"
 ---
 One school year in a middle school in the 20th arrondissement of Paris. François teaches French to a class of fourteen- and fifteen-year-olds from every background: Malian, Chinese, Caribbean, Maghrebi, French. They argue with him about everything, the imperfect subjunctive, respect, what words mean, why they should even be there. He is clever and patient, and sometimes he loses his temper. One careless word in a staff meeting, one confrontation in the classroom, and things begin to slide out of control.
 

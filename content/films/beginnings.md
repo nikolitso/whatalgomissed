@@ -19,6 +19,7 @@ x_post: "A couple in the middle of a divorce is suddenly forced to stay together
 trailer: "https://www.youtube.com/watch?v=wrVkzVwE6JE"
 image: ""
 added: 2026-05-14
+logline: "Divorcing couple end up under one roof when she suffers a sudden stroke, in a quiet, precise Danish drama"
 ---
 Ane and Thomas are in the middle of a divorce. The decision has been made, the conversations are mostly practical, and both are already half living their next lives. Then Ane suffers a sudden stroke. Unable to manage on her own, she needs someone at home, and Thomas agrees to stay until she recovers. It is a practical arrangement. It quickly becomes something far more complicated.
 

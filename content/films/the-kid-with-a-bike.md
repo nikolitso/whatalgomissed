@@ -19,6 +19,7 @@ x_post: "A boy abandoned by his father in a children's home, and the hairdresser
 trailer: "https://www.youtube.com/watch?v=JB7iTfrUTbk"
 image: ""
 added: 2026-10-05
+logline: "Eleven-year-old in a Belgian care home refuses to believe his father has abandoned him, in a short, tense and deeply moving Dardenne film"
 ---
 Cyril is eleven and lives in a children's home in Belgium. His father promised to come back for him, and Cyril refuses to believe he won't. He escapes again and again to the old apartment, looking for his father and for his bike, the one thing he still has from him. During one of these escapes he grabs onto a stranger, Samantha, a hairdresser, who soon agrees to take him on weekends. She doesn't really know why. Cyril, angry and wild, tests her every day. And a local small-time dealer is watching him too.
 

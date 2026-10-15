@@ -17,6 +17,7 @@ x_post: "A retired caretaker in Reykjavík has to care for his wife after she fa
 trailer: "https://www.youtube.com/watch?v=qLUkOxHigVg"
 image: ""
 added: 2026-05-14
+logline: "Grumpy retired caretaker must care for his wife after her stroke, in a grey, spare but never cold Icelandic debut"
 ---
 Hannes is retiring from his job as a school caretaker in Reykjavík. He doesn't want a party, he doesn't want to talk, and he doesn't want anyone's affection, least of all from his grown-up children, who barely tolerate him. He grew up on the Westman Islands, and the film opens with old footage of the 1973 eruption that forced the whole island to flee. Something in him seems to have stayed frozen ever since. Then his wife Anna has a stroke, and the man who has kept everyone at arm's length decides that he alone will look after her.
 

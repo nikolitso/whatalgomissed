@@ -20,6 +20,7 @@ x_post: "The true story of Tommaso Buscetta, the Mafia boss who broke omertà. P
 trailer: "https://www.youtube.com/watch?v=7nvYMRpKzak"
 image: ""
 added: 2026-05-14
+logline: "Mafia boss breaks omertà and turns state witness, in Marco Bellocchio's operatic courtroom epic"
 ---
 The true story of Tommaso Buscetta, the first major Mafia boss to break omertà and testify against Cosa Nostra. It opens at a party in Palermo in the early eighties, all the families pretending to be at peace, and then the killing starts. Buscetta is in Brazil when the Corleonesi wipe out his allies and members of his own family. Arrested and sent back to Italy, he decides to talk, and the man he talks to is the judge Giovanni Falcone.
 

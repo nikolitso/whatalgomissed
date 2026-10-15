@@ -20,6 +20,7 @@ x_post: "A boy with a camera grows up in a Rio favela as children with guns take
 trailer: "https://www.youtube.com/watch?v=dcUOO4Itgmw"
 image: ""
 added: 2026-10-05
+logline: "Shy boy with a camera watches small-time thieves become drug lords in a Rio housing project, in an overwhelming, essential Brazilian masterpiece"
 ---
 Cidade de Deus is a housing project on the edge of Rio de Janeiro. Rocket, a shy boy who dreams of becoming a photographer, grows up there between the 1960s and the early 1980s, and he tells us the story of his neighbourhood: how small-time thieves became drug lords, how a little boy called Li'l Dice became the feared Li'l Zé, and how the favela turned into a war zone where children with guns ruled the streets. Rocket just wants to survive and take pictures.
 

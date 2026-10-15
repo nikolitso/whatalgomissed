@@ -14,6 +14,7 @@ x_post: "The rise and fall of the gang that ruled Rome's underworld in the 1970s
 trailer: "https://www.youtube.com/watch?v=yl-47r89IsI"
 image: ""
 added: 2026-05-14
+logline: "Three street kids build the gang that ruled Rome's underworld for two decades, in essential Italian crime cinema"
 ---
 The rise and fall of the Banda della Magliana, the criminal gang that controlled Rome's underworld through the 1970s and 80s, and had connections to the secret services, the Vatican and the far right. Michele Placido adapts Giancarlo De Cataldo's novel, itself based on the real gang, and follows three friends who start as street kids and end up running the city: Libanese, the ambitious one, Freddo, the loyal one, and Dandi, the one who likes the money most.
 

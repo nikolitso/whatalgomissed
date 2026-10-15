@@ -19,6 +19,7 @@ x_post: "A kindergarten teacher is falsely accused, and a whole village turns ag
 trailer: "https://www.youtube.com/watch?v=1lbCBhCqhBs"
 image: ""
 added: 2026-05-14
+logline: "Kindergarten teacher is falsely accused by a child and his whole village turns against him, in an essential, unforgettable Danish drama"
 ---
 Lucas has lost his job at the closed-down school and now works at the village kindergarten. He is divorced, fighting for time with his teenage son, and well liked. Then a small girl, the daughter of his best friend, says something she half understands, and the adults finish the sentence for her. Within days the community has turned.
 

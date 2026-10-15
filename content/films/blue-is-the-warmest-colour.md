@@ -19,6 +19,7 @@ x_post: "Adèle meets Emma, a young woman with blue hair, and her life changes f
 trailer: "https://www.youtube.com/watch?v=EO0abB6gJEw"
 image: ""
 added: 2026-10-05
+logline: "Schoolgirl in Lille falls for an older art student with blue hair, in a raw, overwhelming love story about first love and class"
 ---
 Adèle is fifteen, a schoolgirl in Lille who loves literature, eats spaghetti with real appetite, and isn't sure what she wants. One day she crosses the street and sees a young woman with blue hair. Emma is older, an art student, confident and free. They meet again in a bar, and what follows is a love story that runs across several years: the first rush, the move in together, the different worlds they come from, and the slow drift that neither of them knows how to stop.
 

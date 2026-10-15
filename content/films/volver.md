@@ -19,6 +19,7 @@ x_post: "A working-class mother in Madrid, a secret in the freezer and a dead mo
 trailer: "https://www.youtube.com/watch?v=ABSvppyQGdE"
 image: ""
 added: 2026-10-05
+logline: "Madrid mother deals with a crime at home while her dead mother seems to return, in Pedro Almodóvar's colourful, funny and moving tale"
 ---
 Raimunda lives in a working-class neighbourhood of Madrid with her unemployed husband and her teenage daughter Paula. She works hard, gets little back, and still has a fierce, glamorous pride. One evening she comes home to find that something terrible has happened, and she has to deal with it, fast. At the same time, in the windy village in La Mancha where she grew up, people say that her dead mother has been seen again. Her sister Sole doesn't believe in ghosts. Until she does.
 

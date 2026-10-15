@@ -17,6 +17,7 @@ x_post: "A voice actress in Rome begins to remember a childhood secret she burie
 trailer: "https://www.youtube.com/watch?v=TyAIbUtx3WQ"
 image: ""
 added: 2026-05-14
+logline: "Voice actress in Rome starts dreaming fragments of a childhood her brother refuses to discuss, in a serious, humane Italian drama"
 ---
 Sabina works as a voice actress, dubbing films in a Rome studio. Her life looks settled: a partner, work she is good at, friends. Then she becomes pregnant, and she begins having nightmares she can't explain, fragments of a childhood she thought she remembered clearly. Her brother, who lives in America, won't speak about it. So she travels to see him.
 

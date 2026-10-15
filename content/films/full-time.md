@@ -21,6 +21,7 @@ x_post: "A single mother racing between the suburbs and a Paris luxury hotel dur
 trailer: "https://www.youtube.com/watch?v=2tALF97oLd8"
 image: ""
 added: 2026-05-14
+logline: "Single mother races between Paris commuter trains, a hotel job and a better offer, in a short, sharp and stressful French thriller of everyday life"
 ---
 Julie is a single mother of two who lives in a small town outside Paris and works as head chambermaid in a luxury hotel in the city. Every day starts before dawn and ends after dark, with a long commute, a neighbour minding the children, and an ex-husband who doesn't send the money. She has a chance at a better job, in her own field, and an interview to get to. Then a general transport strike paralyses the region.
 

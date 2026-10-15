@@ -17,6 +17,7 @@ x_post: "A young photocopier operator in Porto Alegre falls for the girl across 
 trailer: "https://www.youtube.com/watch?v=W-kIOdqvg1c"
 image: ""
 added: 2026-05-14
+logline: "Broke photocopier operator starts printing money to win the girl across the street, in an inventive Brazilian comedy with a surprising ending"
 ---
 André works a photocopier in a stationery shop in Porto Alegre. He is nineteen, broke, and spends his evenings watching the girl in the apartment across the street through binoculars. To get close to her, he needs money. So he starts counterfeiting cash on the copy machine, and develops a habit that quickly spins out of control.
 

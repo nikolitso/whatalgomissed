@@ -17,6 +17,7 @@ x_post: "A successful lawyer who defends abused teenagers begins an affair with 
 trailer: "https://www.youtube.com/watch?v=Ckz353-ZtpY"
 image: ""
 added: 2026-05-14
+logline: "Successful lawyer who defends abused children begins an affair with her teenage stepson, in one of the most morally uncomfortable Danish films ever made"
 ---
 Anne is a successful lawyer who represents young victims of abuse. She has a beautiful modern house outside Copenhagen, twin daughters and a loving husband, Peter. Then Peter's teenage son from his first marriage, Gustav, comes to live with them: sullen, troubled, difficult. Anne begins a sexual relationship with him. The film never pretends this is anything but a crime, and it never lets her off the hook.
 

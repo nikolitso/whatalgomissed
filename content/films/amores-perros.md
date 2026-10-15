@@ -20,6 +20,7 @@ x_post: "A car crash in Mexico City connects three lives: a dog fighter, a model
 trailer: "https://www.youtube.com/watch?v=9zTU3vdefN8"
 image: ""
 added: 2026-05-14
+logline: "One car crash in Mexico City ties together a dogfighter, a model and a hitman, in a ferocious, overflowing debut"
 ---
 A car crash in Mexico City connects three stories. Octavio, a young man from a poor neighbourhood, enters his dog Cofi in illegal dogfights to raise money, because he wants to run away with his brother's wife. Valeria, a beautiful model at the peak of her career, sees her life collapse after the accident. And El Chivo, a former guerrilla turned hit man who lives among stray dogs, is trying to find a way back to the daughter who thinks he is dead.
 

@@ -14,6 +14,7 @@ x_post: "A young man arrives in Denmark's toughest prison and must learn to surv
 trailer: "https://www.youtube.com/watch?v=eckqi7BaKT4"
 image: ""
 added: 2026-05-14
+logline: "Young inmate learns the hierarchy of Denmark's toughest prison to survive, in a tough, honest drama that says more in ninety minutes than most series"
 ---
 Rune, a young man barely out of his teens, arrives at Denmark's toughest prison and is immediately reduced to a letter. He is just another inmate in a system that has no interest in him as a person. Within days he has learned the hierarchy: who runs the corridor, who you pay, who you must never cross. To survive he starts running errands for the men above him, and every favour buys him a little more trouble.
 

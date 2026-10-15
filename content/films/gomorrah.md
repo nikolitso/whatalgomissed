@@ -20,6 +20,7 @@ x_post: "Five stories from the world of the Camorra around Naples. No glamour, n
 trailer: "https://www.youtube.com/watch?v=HT7Wok6jPzI"
 image: ""
 added: 2026-10-05
+logline: "Five lives in Naples where the Camorra is simply the economy, in a cold, frightening and essential Italian crime film"
 ---
 Five stories from the territory of the Camorra around Naples. A shy middle-aged man delivers money to the families of imprisoned clan members. A thirteen-year-old boy wants to be accepted by the local gang. Two teenage friends, obsessed with Scarface, think they can take on the Camorra by themselves. A gifted tailor secretly teaches Chinese competitors the craft. A polished businessman organises the illegal dumping of toxic waste on farmland. None of them is a boss. All of them belong to the system.
 

@@ -15,6 +15,7 @@ x_post: "A young bride-to-be cleans an apartment in Tehran and walks into a marr
 trailer: "https://www.youtube.com/watch?v=rvv67kVjKjE"
 image: ""
 added: 2026-10-05
+logline: "Young bride-to-be takes a cleaning job in a Tehran flat on the brink of explosion, in the Farhadi film where it all started"
 ---
 Tehran, the last Wednesday before the Persian New Year, when the city fills with bonfires and firecrackers. Rouhi, a young woman from the provinces who is about to get married, takes a day job cleaning an apartment in the city. She arrives full of excitement and finds a household on the edge. The wife, Mojdeh, is convinced her husband Morteza is having an affair with Simin, the divorced neighbour who runs a beauty salon. Rouhi is quickly drawn into their fight, carrying messages, overhearing lies, and seeing her own idea of marriage start to crack.
 

@@ -21,6 +21,7 @@ x_post: "Rio, 1970. When her husband is taken by the military regime, Eunice Pai
 trailer: "https://www.youtube.com/watch?v=Qai_d6OGo3E"
 image: ""
 added: 2026-05-14
+logline: "Mother of five fights the Brazilian dictatorship after plain-clothes men take her husband away, in a restrained, moving and important drama"
 ---
 Rio de Janeiro, 1970. Eunice Paiva lives with her husband Rubens, a former congressman, and their five children in a house by the beach. It is a home full of music, friends, dogs and open doors, while the military dictatorship tightens its grip outside. One day men in plain clothes come for Rubens, and he does not come back. Eunice, and one of her daughters, are taken and interrogated too. From then on, a mother of five is forced to reinvent herself.
 

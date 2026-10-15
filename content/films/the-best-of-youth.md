@@ -19,6 +19,7 @@ x_post: "Two brothers and their family across forty years of Italian history, fr
 trailer: "https://www.youtube.com/watch?v=FCyBgriGfPs"
 image: ""
 added: 2026-05-14
+logline: "Two Roman brothers' lives diverge across forty years of Italian history, in a six-hour family saga you wish would never end"
 ---
 A family saga spanning Italy from 1966 to 2003: six hours that feel like a gift, not a commitment. Brothers Nicola and Matteo Carati start out as Roman students with the summer ahead of them. A chance encounter with Giorgia, a young woman held in a psychiatric clinic, changes both their lives, and from there their paths diverge. Nicola becomes a psychiatrist. Matteo, restless and angry, joins the police.
 

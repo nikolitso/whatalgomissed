@@ -19,6 +19,7 @@ x_post: "A fishing family on a tiny Sicilian island rescues migrants from the se
 trailer: "https://www.youtube.com/watch?v=jrDUiCO6HSU"
 image: ""
 added: 2026-10-05
+logline: "Fisherman's family on a tiny island south of Sicily shelters migrants pulled from the sea, in a beautiful, humane and painfully relevant drama"
 ---
 Linosa, a tiny volcanic island south of Sicily. The fishing is dying, and the island is learning to live off summer tourists instead. Filippo, twenty, lives with his widowed mother Giulietta, who wants to rent their house to visitors from the mainland, and his grandfather Ernesto, an old fisherman who still lives by the law of the sea: you never leave anyone in the water. One day, out on the boat, they pull a group of African migrants from the waves. The law says they should have reported them. Instead, they hide a pregnant woman and her little boy at home.
 

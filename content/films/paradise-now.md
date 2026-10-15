@@ -20,6 +20,7 @@ x_post: "Two childhood friends in Nablus are chosen for a suicide mission in Tel
 trailer: "https://www.youtube.com/watch?v=AhvNx2ZwRvY"
 image: ""
 added: 2026-05-14
+logline: "Two childhood friends from Nablus spend their last day before a suicide mission in Tel Aviv, in a brave, tense film that is uncomfortable in the right way"
 ---
 Said and Khaled are childhood friends in Nablus. They fix cars, smoke, drink tea on a hill overlooking the city, and wait. One day they are told they have been chosen for a suicide bombing in Tel Aviv, to take place the next day. They accept. The film follows them through the last hours: the farewell video, the shaving, the suit, the crossing. And then things don't go as planned.
 

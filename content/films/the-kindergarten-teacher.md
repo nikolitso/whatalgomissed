@@ -19,6 +19,7 @@ x_post: "A teacher in Tel Aviv becomes obsessed with a five-year-old boy who see
 trailer: "https://www.youtube.com/watch?v=S7Tpamr2P4w"
 image: ""
 added: 2026-05-14
+logline: "Tel Aviv teacher becomes obsessed with a five-year-old who recites startling poems, in an unsettling Israeli drama"
 ---
 Nira is a kindergarten teacher in Tel Aviv, in her forties, married, a little bored, attending an evening poetry workshop where nobody takes her very seriously. One day she hears Yoav, a five-year-old in her class, pacing up and down and reciting a poem that seems to come from nowhere. It is startlingly good. She becomes transfixed by his gift, starts writing down everything he says, and begins passing his poems off as her own.
 
