@@ -250,6 +250,18 @@
       "Alessandro Morace"
     ]
   },
+  "amal": {
+    "id": 1181011,
+    "title": "Amal",
+    "year": "2024",
+    "cast": [
+      "Lubna Azabal",
+      "Fabrizio Rongione",
+      "Catherine Salée"
+    ],
+    "backdrop": "/assets/backdrops/amal.jpg",
+    "poster": "/assets/posters/amal.jpg"
+  },
   "amerika-square": {
     "id": 421247,
     "title": "Amerika Square",

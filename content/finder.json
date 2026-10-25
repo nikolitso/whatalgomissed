@@ -4315,5 +4315,25 @@
   "protagonist": [
    "woman"
   ]
+ },
+ {
+  "film": "amal",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "theme": [
+   "society",
+   "identity"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
  }
 ]
