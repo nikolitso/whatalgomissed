@@ -9,4 +9,4 @@ Every list began as a private obsession. The write-ups are my own, and the ratin
 
 If you discover something here that stays with you too, that's what this is for.
 
-*— Antonis Nikolitsopoulos, Thessaloniki, Greece*
+*— Antonis Nikolitsopoulos, Greece*
