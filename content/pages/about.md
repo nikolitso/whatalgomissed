@@ -11,4 +11,4 @@ If you discover something here that stays with you too, that's what this is for.
 
 *— Antonis Nikolitsopoulos, Greece*
 
-<img class="about-photo" src="/images/antonis.jpg" alt="Antonis Nikolitsopoulos" width="120" height="120" loading="lazy">
+<img class="about-photo" src="/images/antonis-portrait.jpg" alt="Antonis Nikolitsopoulos" width="220" height="246" loading="lazy">
