@@ -10,3 +10,5 @@ Every list began as a private obsession. The write-ups are my own, and the ratin
 If you discover something here that stays with you too, that's what this is for.
 
 *— Antonis Nikolitsopoulos, Greece*
+
+<img class="about-photo" src="/images/antonis.jpg" alt="Antonis Nikolitsopoulos" width="120" height="120" loading="lazy">
