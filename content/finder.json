@@ -4335,5 +4335,26 @@
   "protagonist": [
    "woman"
   ]
+ },
+ {
+  "film": "aicha",
+  "mood": [
+   "tense",
+   "political"
+  ],
+  "theme": [
+   "identity",
+   "society"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "woman"
+  ]
  }
 ]
