@@ -10,6 +10,8 @@ country: "Denmark"
 rating: 4
 lists:
   - "Danmark"
+festivals:
+  - "Thessaloniki"
 x_post: "A hypnotherapist with a husband, a daughter and a secret lover sets out to rewrite the rules of love. A daring, funny and erotic Nordic film about desire and freedom."
 trailer: "https://www.youtube.com/watch?v=dP5l8rY_VDs"
 image: ""
