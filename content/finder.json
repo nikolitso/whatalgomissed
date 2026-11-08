@@ -4356,5 +4356,25 @@
   "protagonist": [
    "woman"
   ]
+ },
+ {
+  "film": "brave-new-love",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "family",
+   "identity"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman"
+  ]
  }
 ]
