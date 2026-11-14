@@ -295,3 +295,36 @@ img.own,.card:hover .card-img img.own,.list-card:hover .list-img img.own,.still 
   .has-poster .fh-meta{font-size:11px;letter-spacing:.1em}
   .has-poster .fh-meta span:not(:last-child)::after{margin:0 8px}
 }
+
+
+/* ---- editorial redesign foundation: readability, keyboard access and responsive details ---- */
+:focus-visible{outline:2px solid var(--gold);outline-offset:4px}
+a{text-underline-offset:.18em}
+h1,h2,h3{ text-wrap:balance }
+p,li{ text-wrap:pretty }
+.card-title{line-height:1.18;text-wrap:balance}
+.card-meta,.fh-meta,.ph-count{font-variant-numeric:tabular-nums}
+.review{max-width:72ch;font-size:clamp(18px,1.25vw,21px);line-height:1.82}
+.ph-intro,.ph-sub{max-width:68ch}
+.card,.list-card{min-width:0}
+.card-img,.list-img{background:var(--dark-2)}
+.card-img img,.list-img img{backface-visibility:hidden}
+.nav a{min-height:36px;display:inline-flex;align-items:center}
+.menu-btn{min-width:44px;min-height:44px}
+.trailer-link a:focus-visible,.btn:focus-visible,.chip:focus-visible{outline-offset:4px}
+@media (max-width:900px){
+  .film-layout{grid-template-columns:minmax(0,1fr);gap:32px}
+  .film-side{max-width:100%}
+}
+@media (max-width:760px){
+  .page-head{padding:52px 0 40px}
+  .ph-title{line-height:1.04}
+  .hero-stats{gap:12px 20px}
+  .hero-cta .btn{min-height:46px;display:inline-flex;align-items:center;justify-content:center}
+  .film-layout{padding-top:36px;padding-bottom:56px}
+  .review{font-size:18px;line-height:1.78}
+  .sec-head{align-items:flex-start}
+}
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+}
