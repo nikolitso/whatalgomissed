@@ -2415,6 +2415,18 @@
       "Nadine Labaki"
     ]
   },
+  "where-the-wind-comes-from": {
+    "id": 1000850,
+    "title": "Where the Wind Comes From",
+    "year": "2025",
+    "cast": [
+      "Eya Bellagha",
+      "Slim Baccar",
+      "Sondos Belhassen"
+    ],
+    "backdrop": "/assets/backdrops/where-the-wind-comes-from.jpg",
+    "poster": "/assets/posters/where-the-wind-comes-from.jpg"
+  },
   "winter-sleep": {
     "id": 265169,
     "title": "Winter Sleep",

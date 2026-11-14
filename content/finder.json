@@ -4376,5 +4376,25 @@
   "protagonist": [
    "woman"
   ]
+ },
+ {
+  "film": "where-the-wind-comes-from",
+  "mood": [
+   "warm"
+  ],
+  "theme": [
+   "identity",
+   "migration"
+  ],
+  "intensity": [
+   "light",
+   "medium"
+  ],
+  "pace": [
+   "propulsive"
+  ],
+  "protagonist": [
+   "ensemble"
+  ]
  }
 ]
