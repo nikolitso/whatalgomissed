@@ -463,15 +463,15 @@ def build_home():
 
 <section class="section section-alt">
   <div class="wrap">
-    <div class="sec-head"><h2>Must See</h2><a href="/must-see/">All {len(MUST_SEE)} →</a></div>
-    {grid(MUST_SEE[:8])}
+    <div class="sec-head"><h2>Recently added</h2><a href="/films/">All {len(FILMS)} films →</a></div>
+    {grid(recent)}
   </div>
 </section>
 
 <section class="section">
   <div class="wrap">
-    <div class="sec-head"><h2>Recently added</h2><a href="/films/">All {len(FILMS)} films →</a></div>
-    {grid(recent)}
+    <div class="sec-head"><h2>Must See</h2><a href="/must-see/">All {len(MUST_SEE)} →</a></div>
+    {grid(MUST_SEE[:8])}
   </div>
 </section>
 
