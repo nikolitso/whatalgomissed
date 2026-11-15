@@ -4396,5 +4396,25 @@
   "protagonist": [
    "ensemble"
   ]
+ },
+ {
+  "film": "queen-at-sea",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard",
+   "medium"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "woman",
+   "ensemble"
+  ]
  }
 ]

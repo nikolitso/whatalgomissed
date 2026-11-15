@@ -1367,6 +1367,18 @@
       "Jana Plodková"
     ]
   },
+  "queen-at-sea": {
+    "id": 1021848,
+    "title": "Queen at Sea",
+    "year": "2026",
+    "cast": [
+      "Juliette Binoche",
+      "Tom Courtenay",
+      "Anna Calder-Marshall"
+    ],
+    "backdrop": "/assets/backdrops/queen-at-sea.jpg",
+    "poster": "/assets/posters/queen-at-sea.jpg"
+  },
   "queen-of-hearts": {
     "id": 519465,
     "title": "Queen of Hearts",
