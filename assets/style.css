@@ -300,3 +300,11 @@ img.own,.card:hover .card-img img.own,.list-card:hover .list-img img.own,.still 
 }
 .logo{display:inline-flex;align-items:center}
 .logo .logo-mark{width:30px;height:30px;flex:none;margin-right:10px;border-radius:6px;box-shadow:0 0 0 1px rgba(236,228,212,.12)}
+.faq{border-top:1px solid var(--rule)}
+.faq-item{border-bottom:1px solid var(--rule)}
+.faq-item summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:16px;padding:18px 0;font-family:var(--display);font-weight:700;font-size:20px;color:var(--ink)}
+.faq-item summary::-webkit-details-marker{display:none}
+.faq-item summary::after{content:"+";font-family:var(--mono);font-weight:500;font-size:20px;color:var(--gold);flex:none;transition:transform .2s}
+.faq-item[open] summary::after{transform:rotate(45deg)}
+.faq-item .prose{padding:0 0 18px;font-size:18px;color:var(--muted)}
+.faq-item .prose p{margin:0}

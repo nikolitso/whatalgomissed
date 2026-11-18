@@ -487,11 +487,22 @@ def build_home():
 <section class="section section-dark">
   <div class="wrap finder-promo">
     <div>
-      <div class="kicker">Eight questions</div>
+      <div class="kicker">Six questions</div>
       <h2>Don't know what to watch tonight?</h2>
-      <p>Answer eight quick questions about your mood and get three films chosen for this exact moment.</p>
+      <p>Answer six quick questions about your mood and get three films chosen for tonight.</p>
     </div>
     <a class="btn btn-gold" href="/finder/">Start the Film Finder</a>
+  </div>
+</section>"""
+    faq = site_faq()
+    if faq:
+        items = "".join(f'<details class="faq-item"><summary>{esc(q)}</summary><div class="prose">{md(a)}</div></details>'
+                        for q, a in faq)
+        body += f"""
+<section class="section">
+  <div class="wrap narrow">
+    <div class="sec-head"><h2>Questions</h2><a href="/about/">About the site →</a></div>
+    <div class="faq">{items}</div>
   </div>
 </section>"""
     ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE_NAME, "url": SITE_URL + "/",
@@ -505,7 +516,11 @@ def build_home():
           {"@context": "https://schema.org", "@type": "ItemList", "name": "Recently added",
            "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": SITE_URL + f["url"], "name": f["title"]}
                                for i, f in enumerate(recent)]}]
-    extra = "".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>' for x in ld)
+    if faq:  # the About page shows the same questions; Google wants one FAQ markup, so it lives here
+        ld.append({"@context": "https://schema.org", "@type": "FAQPage",
+                   "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": plain(md(a), 1000)}}
+                                  for q, a in faq]})
+    extra ="".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>' for x in ld)
     write("/", layout(SITE_NAME, body, "/", extra_head=extra, dark_hero=True))
 
 # ── film pages ──
@@ -821,16 +836,15 @@ def build_pages():
         path = f"/{p['_slug']}/"
         body = page_head("", esc(p.get("title") or ""), p.get("subtitle") or "") + \
             f'<section class="section"><div class="wrap narrow prose about">{md(p["body"])}</div></section>'
-        # "### Question" headings with their answer paragraphs become FAQPage structured data
-        faq = re.findall(r"^###\s+(.+?)\s*\n(.*?)(?=^#{2,3}\s|\Z)", p["body"].replace("\r\n", "\n"), re.M | re.S)
-        extra = ""
-        if faq:
-            extra = '<script type="application/ld+json">' + json.dumps({
-                "@context": "https://schema.org", "@type": "FAQPage",
-                "mainEntity": [{"@type": "Question", "name": q.strip(),
-                                "acceptedAnswer": {"@type": "Answer", "text": plain(md(a), 1000)}} for q, a in faq]},
-                ensure_ascii=False) + "</script>"
-        write(path, layout(p.get("title") or "", body, path, plain(p["body"], 200), extra_head=extra))
+        write(path, layout(p.get("title") or "", body, path, plain(p["body"], 200)))
+
+def site_faq():
+    """The '### Question' blocks on the About page, as (question, answer markdown). Shown on home and About."""
+    p = next((p for p in load_dir("content/pages") if p["_slug"] == "about"), None)
+    if not p:
+        return []
+    found = re.findall(r"^###\s+(.+?)\s*\n(.*?)(?=^#{2,3}\s|\Z)", p["body"].replace("\r\n", "\n"), re.M | re.S)
+    return [(q.strip(), a.strip()) for q, a in found if a.strip()]
 
 def build_404():
     body = page_head("404", "This reel is missing", "The page you were looking for isn't here.") + \
