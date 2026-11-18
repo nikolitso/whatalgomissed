@@ -54,6 +54,18 @@ def build_post(fm, text):
     return f"{summary}\n\n{credit}"
 
 
+BSKY_LIMIT = 300  # Bluesky counts the full link
+
+
+def bluesky_post(post, url):
+    """Same post with the link at the end, trimmed to Bluesky's limit (the credit line is kept)."""
+    summary, _, credit = post.partition("\n\n")
+    room = BSKY_LIMIT - len(credit) - len(url) - 5
+    if len(summary) > room:
+        summary = summary[:room - 1].rsplit(" ", 1)[0].rstrip(",;:") + "…"
+    return f"{summary}\n\n{credit}\n{url}"
+
+
 def main(paths):
     for p in paths:
         path = Path(p)
@@ -69,14 +81,16 @@ def main(paths):
         url = SITE + slug + "/"
         post = build_post(fm, text)
         intent = "https://x.com/intent/post?" + urllib.parse.urlencode({"text": post, "url": url})
+        bsky = "https://bsky.app/intent/compose?" + urllib.parse.urlencode({"text": bluesky_post(post, url)})
         body = (
             f"A new film is live on What Algo Missed: **{title}**\n\n"
             f"### [👉 Post it on X]({intent})\n\n"
-            "Opens X with this post ready (edit anything before posting):\n\n"
+            f"### [🦋 Post it on Bluesky]({bsky})\n\n"
+            "Each opens with this post ready (edit anything before posting):\n\n"
             + "\n".join("> " + line for line in f"{post} {url}".split("\n")) + "\n\n"
             f"Page: {url}\n\n_Give the site a minute to publish before posting, so the preview image appears. Close this issue once posted._"
         )
-        issue_title = f"Share on X: {title}"
+        issue_title = f"Share on X & Bluesky: {title}"
         print(issue_title, "\n", intent)
         if os.environ.get("GITHUB_ACTIONS"):
             subprocess.run(["gh", "issue", "create", "--title", issue_title, "--body", body, "--assignee", OWNER], check=False)
