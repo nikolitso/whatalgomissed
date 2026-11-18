@@ -490,7 +490,12 @@ def build_home():
 </section>"""
     ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE_NAME, "url": SITE_URL + "/",
            "description": "A personal map of world cinema: curated lists with a write-up and a trailer for every film.",
-           "inLanguage": "en", "author": {"@type": "Person", "name": "Antonis Nikolitsopoulos"}},
+           "inLanguage": "en", "author": {"@type": "Person", "name": "Antonis Nikolitsopoulos"},
+           "publisher": {"@id": SITE_URL + "/#org"}},
+          {"@context": "https://schema.org", "@type": "Organization", "@id": SITE_URL + "/#org", "name": SITE_NAME,
+           "url": SITE_URL + "/", "logo": SITE_URL + "/assets/favicon.svg",
+           "founder": {"@type": "Person", "name": "Antonis Nikolitsopoulos", "url": SITE_URL + "/about/"},
+           "sameAs": ["https://letterboxd.com/nikolitso/"]},
           {"@context": "https://schema.org", "@type": "ItemList", "name": "Recently added",
            "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": SITE_URL + f["url"], "name": f["title"]}
                                for i, f in enumerate(recent)]}]
@@ -842,6 +847,25 @@ def main():
     urls = "".join(f"<url><loc>{SITE_URL}{p}</loc><lastmod>{today}</lastmod></url>" for p in sorted(pages) if not p.endswith(".html"))
     open(os.path.join(OUT, "sitemap.xml"), "w").write(f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>')
     open(os.path.join(OUT, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")
+    # llms.txt: a plain-text map of the site for AI assistants (llmstxt.org)
+    llms = [f"# {SITE_NAME}", "",
+            f"> A personal map of world cinema by Antonis Nikolitsopoulos: {len(FILMS)} films from outside Hollywood, "
+            "each with a personal review, a rating and a trailer, organised into curated lists. Free to read.", "",
+            "Ratings are the author's own, on a 5-star scale. Films rated 4.5 or higher are marked Must See.", "",
+            "## Lists"]
+    llms += [f"- [{l['title']}]({SITE_URL}{l['url']}): {l.get('subtitle') or l.get('tagline') or ''} ({len(l['films'])} films)"
+             for l in LISTS if l["films"]]
+    llms += ["", "## Explore",
+             f"- [All films]({SITE_URL}/films/): every film, searchable by title, director and actor",
+             f"- [Must See]({SITE_URL}/must-see/): the highest-rated films",
+             f"- [Awards]({SITE_URL}/awards/): films that won at Cannes, Berlin, Venice, Thessaloniki, the Oscars and more",
+             f"- [Film Finder]({SITE_URL}/finder/): six questions that recommend three films",
+             f"- [By year]({SITE_URL}/by-year/): films by release year",
+             f"- [About]({SITE_URL}/about/): who writes the site and why",
+             "", "## Films"]
+    llms += [f"- [{f['title']} ({f['year']})]({SITE_URL}{f['url']}): {f.get('director') or ''}, {f['country']}. "
+             f"Rated {f['rating']:g}/5. {plain(f.get('logline') or f['excerpt'], 200)}" for f in by_year(FILMS)]
+    open(os.path.join(OUT, "llms.txt"), "w", encoding="utf-8").write("\n".join(llms) + "\n")
     # RSS feed of recently added films
     from email.utils import format_datetime
     def _rfc(d):
