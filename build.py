@@ -357,7 +357,8 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
   <div class="wrap foot-inner">
     <div>
       <div class="foot-logo">What Algo Missed</div>
-      <p class="foot-note">A personal map of world cinema. The write-ups are my own; the ratings come from my <a href="{LETTERBOXD}">Letterboxd</a>.</p>
+      <p class="foot-note">A personal map of world cinema. The write-ups are my own; the ratings are the ones I give on <a href="{LETTERBOXD}">Letterboxd</a>.</p>
+      <p class="foot-note">Free to read · <a href="mailto:contact@whatalgomissed.com">contact@whatalgomissed.com</a></p>
     </div>
     <nav class="foot-nav">{nav}<a href="{LETTERBOXD}">Letterboxd</a></nav>
   </div>
@@ -414,6 +415,8 @@ def chip(label, url, n=None, strong=False):
 pages = {}  # path -> html
 
 def write(path, content):
+    # keep the contact address as plain text: Cloudflare's email obfuscation skips anything inside email_off
+    content = re.sub(r'(<a href="mailto:[^"]+">[^<]*</a>)', r"<!--email_off-->\1<!--/email_off-->", content)
     pages[path] = content
 
 def country_url(c): return f"/country/{slugify(c)}/"
