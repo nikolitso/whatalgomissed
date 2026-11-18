@@ -13,6 +13,8 @@ If you discover something here that stays with you too, that's what this is for.
 
 <img class="about-photo" src="/images/antonis-portrait.jpg" alt="Antonis Nikolitsopoulos" width="220" height="246" loading="lazy">
 
+Suggestions, corrections or a film you think belongs here? Write to me at [contact@whatalgomissed.com](mailto:contact@whatalgomissed.com).
+
 ## Questions
 
 ### Is the site free?
@@ -34,3 +36,7 @@ Must See marks every film I rated four and a half stars or more. You can find th
 ### How do I find a film to watch tonight?
 
 Try the [Film Finder](/finder/). Answer six short questions about your mood, the region and the kind of story you want, and it suggests three films.
+
+### How can I get in touch?
+
+Email [contact@whatalgomissed.com](mailto:contact@whatalgomissed.com). I read every message.

@@ -496,7 +496,7 @@ def build_home():
           {"@context": "https://schema.org", "@type": "Organization", "@id": SITE_URL + "/#org", "name": SITE_NAME,
            "url": SITE_URL + "/", "logo": SITE_URL + "/assets/favicon.svg",
            "founder": {"@type": "Person", "name": "Antonis Nikolitsopoulos", "url": SITE_URL + "/about/"},
-           "sameAs": ["https://letterboxd.com/nikolitso/"]},
+           "email": "contact@whatalgomissed.com", "sameAs": ["https://letterboxd.com/nikolitso/"]},
           {"@context": "https://schema.org", "@type": "ItemList", "name": "Recently added",
            "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": SITE_URL + f["url"], "name": f["title"]}
                                for i, f in enumerate(recent)]}]
@@ -872,6 +872,7 @@ def main():
              f"- [Film Finder]({SITE_URL}/finder/): six questions that recommend three films",
              f"- [By year]({SITE_URL}/by-year/): films by release year",
              f"- [About]({SITE_URL}/about/): who writes the site and why",
+             "", "## Contact", "- contact@whatalgomissed.com",
              "", "## Films"]
     llms += [f"- [{f['title']} ({f['year']})]({SITE_URL}{f['url']}): {f.get('director') or ''}, {f['country']}. "
              f"Rated {f['rating']:g}/5. {plain(f.get('logline') or f['excerpt'], 200)}" for f in by_year(FILMS)]
