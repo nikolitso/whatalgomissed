@@ -298,3 +298,5 @@ img.own,.card:hover .card-img img.own,.list-card:hover .list-img img.own,.still 
   .has-poster .fh-meta{font-size:11px;letter-spacing:.1em}
   .has-poster .fh-meta span:not(:last-child)::after{margin:0 8px}
 }
+.logo{display:inline-flex;align-items:center}
+.logo .logo-mark{width:30px;height:30px;flex:none;margin-right:10px;border-radius:6px;box-shadow:0 0 0 1px rgba(236,228,212,.12)}
