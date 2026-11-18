@@ -304,7 +304,7 @@ NAV = [("Films", "/films/"), ("Lists", "/lists/"), ("Browse", "/browse/"),
        ("Film Finder", "/finder/"), ("By Year", "/by-year/"), ("Awards", "/awards/"), ("About", "/about/")]
 
 def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=False):
-    full_title = f"{title} — {SITE_NAME}" if title and title != SITE_NAME else SITE_NAME
+    full_title = title if title and title.startswith(SITE_NAME) else (f"{title} — {SITE_NAME}" if title else SITE_NAME)
     desc = desc or "A personal map of world cinema — Greek, Italian, Danish, Iranian, Middle Eastern and beyond. Curated lists with a write-up and a trailer for every film."
     image = image or (SITE_URL + "/assets/og.jpg")
     if image.startswith("/"):
@@ -521,7 +521,7 @@ def build_home():
                    "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": plain(md(a), 1000)}}
                                   for q, a in faq]})
     extra ="".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>' for x in ld)
-    write("/", layout(SITE_NAME, body, "/", extra_head=extra, dark_hero=True))
+    write("/", layout(f"{SITE_NAME} — World Cinema Beyond Hollywood", body, "/", extra_head=extra, dark_hero=True))
 
 # ── film pages ──
 X_ICON = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>'
