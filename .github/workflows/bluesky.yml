@@ -1,0 +1,52 @@
+name: Post films to Bluesky
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/films/*.md"
+  schedule:
+    - cron: "0 7 * * *"   # one older film every day at 10:00 Greek time (07:00 UTC)
+  workflow_dispatch:       # "Run workflow" button: posts the next film from the backlog
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bluesky
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    if: github.event_name != 'push' || github.event.before != '0000000000000000000000000000000000000000'
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Post
+        env:
+          BLUESKY_HANDLE: whatalgomissed.bsky.social
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: |
+          if [ -z "$BLUESKY_APP_PASSWORD" ]; then echo "BLUESKY_APP_PASSWORD secret is not set"; exit 0; fi
+          if [ "${{ github.event_name }}" = "push" ]; then
+            NEW=$(git diff --name-only --diff-filter=A ${{ github.event.before }} ${{ github.sha }} -- 'content/films/*.md' || true)
+            if [ -z "$NEW" ]; then echo "no new films"; exit 0; fi
+            sleep 150   # let Cloudflare publish the page so the link card has its image
+            python scripts/bluesky_post.py new $NEW
+          else
+            python scripts/bluesky_post.py daily
+          fi
+      - name: Remember what was posted
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add content/bluesky_posted.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Bluesky: record posted films [skip ci]"
+            git pull --rebase -q && git push -q
+          fi
