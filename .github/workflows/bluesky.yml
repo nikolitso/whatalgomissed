@@ -6,7 +6,8 @@ on:
     paths:
       - "content/films/*.md"
   schedule:
-    - cron: "0 7 * * *"   # one older film every day at 10:00 Greek time (07:00 UTC)
+    - cron: "0 8 * * *"    # older films twice a day: 10:00 and 19:00 Greek winter time
+    - cron: "0 17 * * *"   # (11:00 and 20:00 in summer; GitHub schedules run in UTC)
   workflow_dispatch:       # "Run workflow" button: posts the next film from the backlog
 
 permissions:
