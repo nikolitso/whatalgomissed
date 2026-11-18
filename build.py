@@ -816,7 +816,16 @@ def build_pages():
         path = f"/{p['_slug']}/"
         body = page_head("", esc(p.get("title") or ""), p.get("subtitle") or "") + \
             f'<section class="section"><div class="wrap narrow prose about">{md(p["body"])}</div></section>'
-        write(path, layout(p.get("title") or "", body, path, plain(p["body"], 200)))
+        # "### Question" headings with their answer paragraphs become FAQPage structured data
+        faq = re.findall(r"^###\s+(.+?)\s*\n(.*?)(?=^#{2,3}\s|\Z)", p["body"].replace("\r\n", "\n"), re.M | re.S)
+        extra = ""
+        if faq:
+            extra = '<script type="application/ld+json">' + json.dumps({
+                "@context": "https://schema.org", "@type": "FAQPage",
+                "mainEntity": [{"@type": "Question", "name": q.strip(),
+                                "acceptedAnswer": {"@type": "Answer", "text": plain(md(a), 1000)}} for q, a in faq]},
+                ensure_ascii=False) + "</script>"
+        write(path, layout(p.get("title") or "", body, path, plain(p["body"], 200), extra_head=extra))
 
 def build_404():
     body = page_head("404", "This reel is missing", "The page you were looking for isn't here.") + \
