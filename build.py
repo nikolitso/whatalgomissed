@@ -327,6 +327,9 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
 <meta property="og:image" content="{esc(image)}">
 <meta property="og:url" content="{SITE_URL}{path}">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{esc(title or SITE_NAME)}">
+<meta name="twitter:description" content="{esc(desc)}">
+<meta name="twitter:image" content="{esc(image)}">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -363,7 +366,7 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
 def img_tag(src, fb, alt="", cls="", eager=False):
     if "ytimg.com" not in src or src.endswith("#own"):
         cls = (cls + " own").strip()   # uploaded stills: show whole frame, no logo/subtitle crop
-    return (f'<img class="{cls}" src="{esc(src)}" data-fb="{esc(fb)}" alt="{esc(alt)}" '
+    return (f'<img class="{cls}" src="{esc(src)}" data-fb="{esc(fb)}" alt="{esc(alt)}" width="1280" height="720" '
             f'{"" if eager else "loading=lazy "}decoding="async" onload="fbimg(this)" onerror="fbimg(this,1)">')
 
 def card(f, show_list=True, note=""):
@@ -431,7 +434,7 @@ def list_url(name):
 def build_home():
     hero_film = MUST_SEE[0] if MUST_SEE else (FILMS[0] if FILMS else None)
     countries = len(COUNTRIES)
-    hero_bg = img_tag(hero_film["img"], hero_film["img_fb"], "", "hero-bg", eager=True) if hero_film else ""
+    hero_bg = img_tag(hero_film["img"], hero_film["img_fb"], hero_film["title"], "hero-bg", eager=True) if hero_film else ""
     list_cards = "\n".join(f"""<a class="list-card" href="{l['url']}">
   <div class="list-img">{img_tag(l['img'], l['img_fb'], l['title'])}</div>
   <div class="list-body">
@@ -485,7 +488,14 @@ def build_home():
     <a class="btn btn-gold" href="/finder/">Start the Film Finder</a>
   </div>
 </section>"""
-    write("/", layout(SITE_NAME, body, "/", dark_hero=True))
+    ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE_NAME, "url": SITE_URL + "/",
+           "description": "A personal map of world cinema: curated lists with a write-up and a trailer for every film.",
+           "inLanguage": "en", "author": {"@type": "Person", "name": "Antonis Nikolitsopoulos"}},
+          {"@context": "https://schema.org", "@type": "ItemList", "name": "Recently added",
+           "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": SITE_URL + f["url"], "name": f["title"]}
+                               for i, f in enumerate(recent)]}]
+    extra = "".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>' for x in ld)
+    write("/", layout(SITE_NAME, body, "/", extra_head=extra, dark_hero=True))
 
 # ── film pages ──
 X_ICON = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>'
