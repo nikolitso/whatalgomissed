@@ -55,15 +55,16 @@ def build_post(fm, text):
 
 
 BSKY_LIMIT = 300  # Bluesky counts the full link
+BSKY_TAG = "#FilmSky"  # Bluesky's film community tag
 
 
 def bluesky_post(post, url):
     """Same post with the link at the end, trimmed to Bluesky's limit (the credit line is kept)."""
     summary, _, credit = post.partition("\n\n")
-    room = BSKY_LIMIT - len(credit) - len(url) - 5
+    room = BSKY_LIMIT - len(credit) - len(url) - len(BSKY_TAG) - 6
     if len(summary) > room:
         summary = summary[:room - 1].rsplit(" ", 1)[0].rstrip(",;:") + "…"
-    return f"{summary}\n\n{credit}\n{url}"
+    return f"{summary}\n\n{credit}\n{url}\n{BSKY_TAG}"
 
 
 def main(paths):

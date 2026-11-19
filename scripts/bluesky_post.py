@@ -18,7 +18,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from share_on_x import SITE, bluesky_post, build_post, field, slugify  # noqa: E402
+from share_on_x import BSKY_TAG, SITE, bluesky_post, build_post, field, slugify  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 FILMS = ROOT / "content" / "films"
@@ -77,6 +77,10 @@ def compose(f):
     start = b.rfind(f["url"].encode("utf-8"))
     facets = [{"index": {"byteStart": start, "byteEnd": start + len(f["url"].encode("utf-8"))},
                "features": [{"$type": "app.bsky.richtext.facet#link", "uri": f["url"]}]}]
+    tag_at = b.rfind(BSKY_TAG.encode("utf-8"))
+    if tag_at >= 0:  # make the hashtag clickable
+        facets.append({"index": {"byteStart": tag_at, "byteEnd": tag_at + len(BSKY_TAG.encode("utf-8"))},
+                       "features": [{"$type": "app.bsky.richtext.facet#tag", "tag": BSKY_TAG.lstrip("#")}]})
     desc = field(f["fm"], "logline") or field(f["fm"], "x_post")
     return post, facets, desc
 
