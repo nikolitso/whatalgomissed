@@ -507,7 +507,7 @@ def build_home():
 </section>"""
     ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE_NAME, "url": SITE_URL + "/",
            "description": "A personal map of world cinema: curated lists with a write-up and a trailer for every film.",
-           "inLanguage": "en", "isAccessibleForFree": True,
+           "inLanguage": "en",
            "author": {"@type": "Person", "name": "Antonis Nikolitsopoulos"},
            "publisher": {"@id": SITE_URL + "/#org"}},
           {"@context": "https://schema.org", "@type": "Organization", "@id": SITE_URL + "/#org", "name": SITE_NAME,
@@ -880,7 +880,7 @@ def main():
     # llms.txt: a plain-text map of the site for AI assistants (llmstxt.org)
     llms = [f"# {SITE_NAME}", "",
             f"> A personal map of world cinema by Antonis Nikolitsopoulos: {len(FILMS)} films from outside Hollywood, "
-            "each with a personal review, a rating and a trailer, organised into curated lists. Free to read.", "",
+            "each with a personal review, a rating and a trailer, organised into curated lists.", "",
             "Ratings are the author's own, on a 5-star scale. Films rated 4.5 or higher are marked Must See.", "",
             "## Lists"]
     llms += [f"- [{l['title']}]({SITE_URL}{l['url']}): {l.get('subtitle') or l.get('tagline') or ''} ({len(l['films'])} films)"
