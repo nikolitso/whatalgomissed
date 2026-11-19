@@ -17,10 +17,6 @@ Suggestions, corrections or a film you think belongs here? Write to me at [conta
 
 ## Questions
 
-### Is the site free?
-
-Yes. Every review, list and trailer is free to read, and you don't need an account.
-
 ### How are the films chosen?
 
 Every film here is one I have watched and that stayed with me. Most come from outside Hollywood: Denmark, Italy, Greece, Iran, the Nordic countries, the Middle East and beyond.
