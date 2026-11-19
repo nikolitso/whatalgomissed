@@ -40,6 +40,23 @@ def load_state():
     return json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else []
 
 
+def already_on_bluesky(handle):
+    """Slugs of films linked in the account's recent posts, so a re-run of an old job never posts twice."""
+    url = f"https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor={handle}&limit=100"
+    try:
+        with urllib.request.urlopen(url, timeout=30) as r:
+            feed = json.loads(r.read())["feed"]
+    except Exception as e:  # never block posting on a lookup failure
+        print(f"could not read feed: {e}")
+        return set()
+    slugs = set()
+    for item in feed:
+        link = item["post"]["record"].get("embed", {}).get("external", {}).get("uri", "")
+        if link.startswith(SITE):
+            slugs.add(link[len(SITE):].strip("/"))
+    return slugs
+
+
 def save_state(posted):
     STATE.write_text(json.dumps(sorted(set(posted)), indent=1) + "\n", encoding="utf-8")
 
@@ -87,6 +104,7 @@ def main():
     dry = "--dry-run" in sys.argv
     mode, paths = (args[0] if args else "daily"), args[1:]
     posted = load_state()
+    posted += sorted(already_on_bluesky(os.environ.get("BLUESKY_HANDLE", "whatalgomissed.bsky.social")) - set(posted))
     if mode == "new":
         todo = [film(Path(p)) for p in paths if Path(p).exists()]
     else:
