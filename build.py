@@ -358,7 +358,7 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
     <div>
       <div class="foot-logo">What Algo Missed</div>
       <p class="foot-note">A personal map of world cinema. The write-ups are my own; the ratings are the ones I give on <a href="{LETTERBOXD}">Letterboxd</a>.</p>
-      <p class="foot-note"><ahref="mailto:contact@whatalgomissed.com">contact@whatalgomissed.com</a></p>
+      <p class="foot-note"><a href="mailto:contact@whatalgomissed.com">contact@whatalgomissed.com</a></p>
     </div>
     <nav class="foot-nav">{nav}<a href="{LETTERBOXD}">Letterboxd</a></nav>
   </div>
