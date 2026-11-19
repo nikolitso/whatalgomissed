@@ -507,7 +507,8 @@ def build_home():
 </section>"""
     ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE_NAME, "url": SITE_URL + "/",
            "description": "A personal map of world cinema: curated lists with a write-up and a trailer for every film.",
-           "inLanguage": "en", "author": {"@type": "Person", "name": "Antonis Nikolitsopoulos"},
+           "inLanguage": "en", "isAccessibleForFree": True,
+           "author": {"@type": "Person", "name": "Antonis Nikolitsopoulos"},
            "publisher": {"@id": SITE_URL + "/#org"}},
           {"@context": "https://schema.org", "@type": "Organization", "@id": SITE_URL + "/#org", "name": SITE_NAME,
            "url": SITE_URL + "/", "logo": SITE_URL + "/assets/logo-512.png",
