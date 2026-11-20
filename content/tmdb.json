@@ -743,6 +743,18 @@
       "Roman Luknár"
     ]
   },
+  "father": {
+    "id": 1516518,
+    "title": "Father",
+    "year": "2025",
+    "cast": [
+      "Milan Ondrík",
+      "Dominika Morávková-Zeleníková",
+      "Anna Geislerová"
+    ],
+    "backdrop": "/assets/backdrops/father.jpg",
+    "poster": "/assets/posters/father.jpg"
+  },
   "fireworks-wednesday": {
     "id": 43766,
     "title": "Fireworks Wednesday",

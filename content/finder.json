@@ -4416,5 +4416,23 @@
    "woman",
    "ensemble"
   ]
+ },
+ {
+  "film": "father",
+  "mood": [
+   "devastating"
+  ],
+  "theme": [
+   "family"
+  ],
+  "intensity": [
+   "hard"
+  ],
+  "pace": [
+   "slow"
+  ],
+  "protagonist": [
+   "man"
+  ]
  }
 ]
