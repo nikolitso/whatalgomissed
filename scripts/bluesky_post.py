@@ -40,6 +40,24 @@ def load_state():
     return json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else []
 
 
+def hours_since_last_post(handle):
+    """Hours since the account last posted (None if unknown). Lets backup schedule slots skip
+    when the main slot already ran, since GitHub sometimes drops or delays scheduled runs."""
+    url = f"https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor={handle}&limit=1"
+    try:
+        with urllib.request.urlopen(url, timeout=30) as r:
+            feed = json.loads(r.read())["feed"]
+        stamp = feed[0]["post"]["record"]["createdAt"].replace("Z", "+00:00")
+        stamp = re.sub(r"(\.\d{1,6})\d*", r"\1", stamp)  # at most microseconds
+        last = datetime.fromisoformat(stamp)
+        if last.tzinfo is None:
+            last = last.replace(tzinfo=timezone.utc)
+        return (datetime.now(timezone.utc) - last).total_seconds() / 3600
+    except Exception as e:
+        print(f"could not read last post time: {e}")
+        return None
+
+
 def already_on_bluesky(handle):
     """Slugs of films linked in the account's recent posts, so a re-run of an old job never posts twice."""
     url = f"https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor={handle}&limit=100"
@@ -104,14 +122,18 @@ def publish(f, session, dry):
 
 
 def main():
-    args = [a for a in sys.argv[1:] if a != "--dry-run"]
-    dry = "--dry-run" in sys.argv
+    args = [a for a in sys.argv[1:] if a not in ("--dry-run", "--force")]
+    dry, force = "--dry-run" in sys.argv, "--force" in sys.argv
     mode, paths = (args[0] if args else "daily"), args[1:]
     posted = load_state()
     posted += sorted(already_on_bluesky(os.environ.get("BLUESKY_HANDLE", "whatalgomissed.bsky.social")) - set(posted))
     if mode == "new":
         todo = [film(Path(p)) for p in paths if Path(p).exists()]
     else:
+        gap = None if force else hours_since_last_post(os.environ.get("BLUESKY_HANDLE", "whatalgomissed.bsky.social"))
+        if gap is not None and gap < 4:
+            print(f"last post was {gap:.1f}h ago; this slot already ran")
+            return
         films = [film(p) for p in sorted(FILMS.glob("*.md"))]
         backlog = [f for f in films if f["slug"] not in posted]
         backlog.sort(key=lambda f: (-(f["rating"] >= 4.5), -f["rating"], f["title"]))

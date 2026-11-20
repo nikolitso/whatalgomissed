@@ -6,8 +6,16 @@ on:
     paths:
       - "content/films/*.md"
   schedule:
-    - cron: "17 14 * * *"  # older films twice a day, timed for Europe + the US (times in UTC):
-    - cron: "17 0 * * *"   # 14:17 = UK afternoon / US East morning; 00:17 = US evening
+    # Older films twice a day, timed for Europe + the US (times in UTC):
+    # ~14:17 = UK afternoon / US East morning; ~00:17 = US evening.
+    # GitHub sometimes drops scheduled runs, so each slot has two backups an hour apart;
+    # a backup only posts if nothing went out in the last 4 hours.
+    - cron: "17 14 * * *"
+    - cron: "17 15 * * *"
+    - cron: "17 16 * * *"
+    - cron: "17 0 * * *"
+    - cron: "17 1 * * *"
+    - cron: "17 2 * * *"
   workflow_dispatch:       # "Run workflow" button: posts the next film from the backlog
 
 permissions:
@@ -39,6 +47,8 @@ jobs:
             if [ -z "$NEW" ]; then echo "no new films"; exit 0; fi
             sleep 150   # let Cloudflare publish the page so the link card has its image
             python scripts/bluesky_post.py new $NEW
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python scripts/bluesky_post.py daily --force   # the button always posts
           else
             python scripts/bluesky_post.py daily
           fi
