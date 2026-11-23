@@ -349,7 +349,7 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
   <div class="wrap head-inner">
     <a class="logo" href="/"><svg class="logo-mark" viewBox="0 0 64 64" width="30" height="30" aria-hidden="true" focusable="false"><rect width="64" height="64" rx="10" fill="#0e0d0b"/><g fill="#ece4d4" opacity=".35"><circle cx="18" cy="18" r="4"/><circle cx="32" cy="18" r="4"/><circle cx="46" cy="18" r="4"/><circle cx="18" cy="32" r="4"/><circle cx="32" cy="32" r="4"/><circle cx="46" cy="32" r="4"/><circle cx="18" cy="46" r="4"/><circle cx="32" cy="46" r="4"/></g><circle cx="49" cy="49" r="5.5" fill="#d4ad4a"/></svg><span>What Algo <em>Missed</em></span></a>
     <button class="menu-btn" aria-label="Menu" onclick="document.body.classList.toggle('menu-open')"><span></span><span></span></button>
-    <nav class="nav">{nav}</nav>
+    <nav class="nav">{nav}<a class="nav-ig" href="{INSTAGRAM}" rel="me" title="Follow on Instagram" aria-label="Instagram"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true" focusable="false"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1.1" fill="currentColor" stroke="none"/></svg><span>Instagram</span></a></nav>
   </div>
 </header>
 <main>

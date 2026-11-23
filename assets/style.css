@@ -316,3 +316,8 @@ img.own,.card:hover .card-img img.own,.list-card:hover .list-img img.own,.still 
 .ig-tile:hover img{transform:translateY(-2px)}
 .ig-cap{display:block;margin-top:8px;font-family:var(--mono);font-size:12px;letter-spacing:.06em;color:var(--muted)}
 .ig-more{display:flex;flex-wrap:wrap;gap:12px;margin-top:36px}
+
+/* Instagram link in the header: icon on desktop, icon + label in the mobile menu */
+.nav a.nav-ig{display:inline-flex;align-items:center;gap:8px}
+.nav-ig span{display:none}
+@media (max-width:900px){.nav-ig span{display:inline}}

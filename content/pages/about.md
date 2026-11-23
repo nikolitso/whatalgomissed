@@ -15,6 +15,8 @@ If you discover something here that stays with you too, that's what this is for.
 
 Suggestions, corrections or a film you think belongs here? Write to me at [contact@whatalgomissed.com](mailto:contact@whatalgomissed.com).
 
+New films appear on [Instagram](https://www.instagram.com/whatalgomissed/) and [Bluesky](https://bsky.app/profile/whatalgomissed.bsky.social) too.
+
 ## Questions
 
 ### How are the films chosen?

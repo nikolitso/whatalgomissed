@@ -10,6 +10,7 @@ Instagram fetches the image from a public URL, so the card is rendered to assets
 committed and pushed, and the script waits until Cloudflare has published it before posting.
 Films with `share: false` are never posted. Posted films are recorded in content/instagram_posted.json.
 """
+import hashlib
 import json
 import os
 import subprocess
@@ -110,6 +111,8 @@ def post_one(user_id, slug, caption):
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     dry, force = "--dry-run" in sys.argv, "--force" in sys.argv
+    count = next((int(a.split("=", 1)[1]) for a in sys.argv if a.startswith("--count=")), 1)
+    count = max(1, min(count, 25))  # Instagram allows ~100 API posts a day; stay well under
     mode, paths = (args[0] if args else "daily"), args[1:]
     posted = load_state()
 
@@ -118,8 +121,10 @@ def main():
     else:
         films = [film(p) for p in sorted(FILMS.glob("*.md"))]
         backlog = [f for f in films if f["slug"] not in posted]
-        backlog.sort(key=lambda f: (-(f["rating"] >= 4.5), -f["rating"], f["title"]))
-        todo = backlog[:1]
+        # best rated first; within a rating, a fixed shuffle (not A-Z) so a batch mixes countries and titles
+        backlog.sort(key=lambda f: (-(f["rating"] >= 4.5), -f["rating"], hashlib.md5(f["slug"].encode()).hexdigest()))
+        # Post a batch in reverse, so the best film of the batch ends up newest (top of the profile grid)
+        todo = list(reversed(backlog[:count]))
     todo = [f for f in todo if f["share"] and f["slug"] not in posted
             and (ROOT / "assets" / "backdrops" / f"{f['slug']}.jpg").exists()]
     if not todo:
@@ -146,7 +151,9 @@ def main():
             print(f"--- {s}\n{c}\n")
         return
     publish_images(list(captions))
-    for s, c in captions.items():
+    for i, (s, c) in enumerate(captions.items()):
+        if i:
+            time.sleep(90)  # space out a batch so a new account doesn't look like a spam burst
         post_one(user_id, s, c)
         posted.append(s)
         save_state(posted)

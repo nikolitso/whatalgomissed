@@ -12,7 +12,11 @@ on:
     - cron: "17 14 * * 1,3,5"
     - cron: "17 15 * * 1,3,5"
     - cron: "17 16 * * 1,3,5"
-  workflow_dispatch:       # "Run workflow" button: posts the next film from the backlog now
+  workflow_dispatch:       # "Run workflow" button: posts the next film(s) from the backlog now
+    inputs:
+      count:
+        description: "How many films to post (1-25, spaced 90 seconds apart)"
+        default: "1"
 
 permissions:
   contents: write
@@ -46,7 +50,7 @@ jobs:
             if [ -z "$NEW" ]; then echo "no new films"; exit 0; fi
             python scripts/instagram_post.py new $NEW
           elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            python scripts/instagram_post.py daily --force
+            python scripts/instagram_post.py daily --force --count="${{ github.event.inputs.count || '1' }}"
           else
             python scripts/instagram_post.py daily
           fi
