@@ -5,3 +5,4 @@ __pycache__/
 # local secrets
 tmdb_key.txt
 .tmdb_key
+instagram/
