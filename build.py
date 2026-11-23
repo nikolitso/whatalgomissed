@@ -23,6 +23,8 @@ CSS_V = _h.md5(open(__import__("os").path.join(__import__("os").path.dirname(__i
 SITE_NAME = "What Algo Missed"
 CF_BEACON = "02d54d6d37374701a4b0e12e45d52850"  # Cloudflare Web Analytics (cookieless)
 LETTERBOXD = "https://letterboxd.com/nikolitso/"
+INSTAGRAM = "https://www.instagram.com/whatalgomissed/"
+BLUESKY = "https://bsky.app/profile/whatalgomissed.bsky.social"
 
 # ───────────────────────── helpers ─────────────────────────
 
@@ -358,7 +360,7 @@ def layout(title, body, path, desc="", image=None, extra_head="", dark_hero=Fals
     <div>
       <div class="foot-logo">What Algo Missed</div>
       <p class="foot-note">A personal map of world cinema. The write-ups are my own; the ratings are the ones I give on <a href="{LETTERBOXD}">Letterboxd</a>.</p>
-      <p class="foot-note"><a href="mailto:contact@whatalgomissed.com">contact@whatalgomissed.com</a></p>
+      <p class="foot-note"><a href="mailto:contact@whatalgomissed.com">contact@whatalgomissed.com</a> · <a href="{INSTAGRAM}" rel="me">Instagram</a> · <a href="{BLUESKY}" rel="me">Bluesky</a></p>
     </div>
     <nav class="foot-nav">{nav}<a href="{LETTERBOXD}">Letterboxd</a></nav>
   </div>
@@ -513,7 +515,7 @@ def build_home():
           {"@context": "https://schema.org", "@type": "Organization", "@id": SITE_URL + "/#org", "name": SITE_NAME,
            "url": SITE_URL + "/", "logo": SITE_URL + "/assets/logo-512.png",
            "founder": {"@type": "Person", "name": "Antonis Nikolitsopoulos", "url": SITE_URL + "/about/"},
-           "email": "contact@whatalgomissed.com", "sameAs": ["https://letterboxd.com/nikolitso/"]},
+           "email": "contact@whatalgomissed.com", "sameAs": [LETTERBOXD, INSTAGRAM, BLUESKY]},
           {"@context": "https://schema.org", "@type": "ItemList", "name": "Recently added",
            "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": SITE_URL + f["url"], "name": f["title"]}
                                for i, f in enumerate(recent)]}]
