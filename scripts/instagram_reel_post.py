@@ -22,7 +22,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from bluesky_post import film  # noqa: E402
 from instagram_card import NATIONAL, stars  # noqa: E402
 from instagram_post import API, TOKEN, USER_ID, call  # noqa: E402
-from instagram_reel import reel  # noqa: E402
+from instagram_reel import SHOT, reel  # noqa: E402
 from share_on_x import field, slugify  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -69,7 +69,8 @@ def caption(f):
     rating = float(field(fm, "rating") or 0)
     tag = NATIONAL.get(slugify(country.split(",")[0]).replace("-", ""), slugify(country.split(",")[0]).replace("-", ""))
     web = f"whatalgomissed.com/films/{f['slug']}/"
-    return (f"{field(fm, 'x_post')}\n\n{title} ({year})\nDirected by {director} · {country}\n"
+    # The first line works as the Reel's title (it's what shows under the video)
+    return (f"{title} ({year}) · {country}\n\n{field(fm, 'x_post')}\n\nDirected by {director}\n"
             f"My rating: {stars(rating)} ({rating:g}/5)\n\nFull review and trailer: link in bio\n{web}\n\n"
             f"#worldcinema #filmrecommendations #cinephile #arthousefilm #{tag}cinema #moviereels")
 
@@ -86,7 +87,9 @@ def hours_since_last_reel(user_id):
 def upload_reel(user_id, video, cap):
     """Resumable upload: create the container, send the bytes, wait for processing, publish."""
     created = call(f"{user_id}/media", {"media_type": "REELS", "upload_type": "resumable",
-                                        "caption": cap, "share_to_feed": "true"}, post=True)
+                                        "caption": cap, "share_to_feed": "true",
+                                        # cover = the title card (film title + stars), so the grid shows the title
+                                        "thumb_offset": str(round((3 * SHOT + 1.6) * 1000))}, post=True)
     data = Path(video).read_bytes()
     req = urllib.request.Request(created["uri"], data=data, method="POST", headers={
         "Authorization": "OAuth " + TOKEN, "offset": "0", "file_size": str(len(data))})
