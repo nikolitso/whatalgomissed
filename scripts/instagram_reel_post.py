@@ -47,19 +47,39 @@ def tmdb(path):
         return json.loads(r.read())
 
 
-def stills_for(slug, folder):
-    """Download up to 4 stills without title text (TMDB marks those with no language)."""
+def looks_like_artwork(path):
+    """Promotional artwork (posterised two-tone graphics) rather than a scene from the film:
+    most of the image's bright area is just one or two colours. Shadows are ignored, so dark
+    scenes pass. Measured: artwork 0.63-0.94, real stills up to 0.55."""
+    from collections import Counter
+    from PIL import Image
+    im = Image.open(path).convert("RGB").resize((160, 90))
+    data = im.get_flattened_data() if hasattr(im, "get_flattened_data") else im.getdata()
+    px = [(r >> 5, g >> 5, b >> 5) for r, g, b in data if (r + g + b) / 3 > 45]
+    if len(px) < 500:
+        return False
+    return sum(v for _, v in Counter(px).most_common(2)) / len(px) > 0.6
+
+
+def stills_for(slug, folder, want=4):
+    """Download up to `want` real stills: no title text (TMDB marks those with no language)
+    and no promotional artwork."""
     tid = (TMDB.get(slug) or {}).get("id")
     if not tid:
         return []
     backs = tmdb(f"movie/{tid}/images?include_image_language=null")["backdrops"]
-    paths = [b["file_path"] for b in backs if b.get("iso_639_1") is None and b.get("width", 0) >= 1280][:4]
+    paths = [b["file_path"] for b in backs if b.get("iso_639_1") is None and b.get("width", 0) >= 1280][:12]
     files = []
     for i, p in enumerate(paths):
         f = Path(folder) / f"{i}.jpg"
         with urllib.request.urlopen("https://image.tmdb.org/t/p/w1280" + p, timeout=60) as r:
             f.write_bytes(r.read())
+        if looks_like_artwork(f):
+            print(f"skipping artwork still {p}")
+            continue
         files.append(str(f))
+        if len(files) == want:
+            break
     return files
 
 

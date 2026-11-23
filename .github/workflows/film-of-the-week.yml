@@ -1,0 +1,52 @@
+name: Film of the Week (Instagram)
+
+on:
+  schedule:
+    # Saturday night: ~22:17 Greek time (21:17 UK, 15:17 US East). Two backups an hour apart;
+    # a backup skips if this week's Film of the Week already went out.
+    - cron: "17 20 * * 6"
+    - cron: "17 21 * * 6"
+    - cron: "17 22 * * 6"
+  workflow_dispatch:       # "Run workflow" button: posts a Film of the Week now
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram-fotw
+  cancel-in-progress: false
+
+jobs:
+  fotw:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install -q pillow
+      - name: Post Film of the Week
+        env:
+          INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
+          INSTAGRAM_USER_ID: "17841433673760498"   # @whatalgomissed (public ID, not a secret)
+          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
+        run: |
+          if [ -z "$INSTAGRAM_TOKEN" ] || [ -z "$TMDB_TOKEN" ]; then echo "secrets not set"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python scripts/instagram_fotw.py --force
+          else
+            python scripts/instagram_fotw.py
+          fi
+      - name: Remember what was posted
+        if: always()
+        run: |
+          git add content/film_of_the_week.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Film of the Week: record [skip ci]"
+            git pull --rebase -q && git push -q
+          fi
