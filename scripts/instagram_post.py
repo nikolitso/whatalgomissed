@@ -80,9 +80,10 @@ def publish_images(slugs):
         git("push", "-q")
     for s in slugs:
         url = PUBLIC + s + ".jpg"
+        # Cloudflare blocks the default Python user agent, so the check names itself.
         for _ in range(60):  # up to 10 minutes for Cloudflare to deploy
             try:
-                with urllib.request.urlopen(urllib.request.Request(url, method="HEAD"), timeout=20) as r:
+                with urllib.request.urlopen(urllib.request.Request(url, method="HEAD", headers={"User-Agent": "whatalgomissed-bot/1.0 (+https://whatalgomissed.com)"}), timeout=20) as r:
                     if r.status == 200 and r.headers.get("Content-Type", "").startswith("image/"):
                         break
             except urllib.error.URLError:
