@@ -130,6 +130,32 @@ def end_card(fm, slug):
     return img
 
 
+MUSIC = ROOT / "brand" / "music"
+# film country -> music folder (brand/music/<folder>/)
+REGIONS = {
+    "italy": "italy",
+    "denmark": "nordic", "iceland": "nordic", "sweden": "nordic", "norway": "nordic", "finland": "nordic",
+    "greece": "greece", "cyprus": "greece",
+    "israel": "middle-east", "iran": "middle-east", "palestine": "middle-east", "lebanon": "middle-east",
+    "turkey": "middle-east", "tunisia": "middle-east", "morocco": "middle-east", "egypt": "middle-east",
+    "spain": "latin", "argentina": "latin", "brazil": "latin", "mexico": "latin", "chile": "latin",
+    "panama": "latin", "colombia": "latin",
+    "france": "france", "belgium": "france", "netherlands": "france",
+    "japan": "asia", "south-korea": "asia", "taiwan": "asia", "philippines": "asia", "india": "asia", "china": "asia",
+}
+
+
+def music_for(country):
+    """Tracks for the film's first country's region, else the general folder."""
+    first = slugify(re.split(r"[,/]", country or "")[0].strip())
+    audio = (".mp3", ".m4a", ".wav")
+    for folder in (REGIONS.get(first, "europe"), "general"):
+        tracks = sorted(p for p in (MUSIC / folder).glob("*") if p.suffix.lower() in audio)
+        if tracks:
+            return tracks
+    return sorted(p for p in MUSIC.glob("*") if p.suffix.lower() in audio)
+
+
 def summary_parts(fm):
     """Split the summary into three short captions."""
     text = field(fm, "x_post") or field(fm, "logline")
@@ -156,8 +182,9 @@ def reel(slug, stills, out):
 
     total = 4 * SHOT + END
     n = round(total * FPS)
-    # Music: royalty-free tracks in brand/music/ (mp3/m4a), one picked per film; silent if the folder is empty
-    tracks = sorted(p for p in (ROOT / "brand" / "music").glob("*") if p.suffix.lower() in (".mp3", ".m4a", ".wav"))
+    # Music: royalty-free tracks in brand/music/<region>/ matching the film's country,
+    # falling back to brand/music/general/; silent if nothing is there.
+    tracks = music_for(field(fm, "country"))
     if tracks:
         track = tracks[int(hashlib.sha1(slug.encode()).hexdigest(), 16) % len(tracks)]
         audio_in = ["-stream_loop", "-1", "-i", str(track)]
