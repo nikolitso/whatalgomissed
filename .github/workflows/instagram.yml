@@ -36,6 +36,7 @@ jobs:
       - name: Post
         env:
           INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
+          INSTAGRAM_USER_ID: "17841433673760498"   # @whatalgomissed (public ID, not a secret)
         run: |
           if [ -z "$INSTAGRAM_TOKEN" ]; then echo "INSTAGRAM_TOKEN secret is not set"; exit 0; fi
           git config user.name "github-actions[bot]"

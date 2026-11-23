@@ -30,12 +30,17 @@ FILMS = ROOT / "content" / "films"
 STATE = ROOT / "content" / "instagram_posted.json"
 IMAGES = ROOT / "assets" / "instagram"
 PUBLIC = "https://whatalgomissed.com/assets/instagram/"
-API = "https://graph.instagram.com/v23.0"
+TOKEN = os.environ.get("INSTAGRAM_TOKEN", "").strip().strip('"').strip()
+# Tokens from "Continue with Instagram" start with IG and use graph.instagram.com;
+# Facebook-style tokens (EAA...) from Meta's unified login use graph.facebook.com.
+IG_STYLE = TOKEN.startswith("IG")
+API = "https://graph.instagram.com/v23.0" if IG_STYLE else "https://graph.facebook.com/v23.0"
+USER_ID = os.environ.get("INSTAGRAM_USER_ID", "").strip()
 MIN_GAP_HOURS = 20  # backup schedule slots skip if a post went out within this window
 
 
 def call(path, params=None, post=False, base=API):
-    params = dict(params or {}, access_token=os.environ["INSTAGRAM_TOKEN"])
+    params = dict(params or {}, access_token=TOKEN)
     data = urllib.parse.urlencode(params).encode()
     url = f"{base}/{path}" if post else f"{base}/{path}?{data.decode()}"
     req = urllib.request.Request(url, data=data if post else None, method="POST" if post else "GET")
@@ -121,10 +126,12 @@ def main():
 
     user_id = None
     if not dry:
-        # Refresh keeps the long-lived token valid for another 60 days from now.
-        refreshed = call("refresh_access_token", {"grant_type": "ig_refresh_token"}, base="https://graph.instagram.com")
-        print(f"token valid for {refreshed.get('expires_in', 0) // 86400} more days")
-        user_id = call("me", {"fields": "user_id,username"})["user_id"]
+        print(f"token type: {'Instagram' if IG_STYLE else 'Facebook'} ({len(TOKEN)} characters)")
+        if IG_STYLE:  # refresh keeps a long-lived Instagram token valid for another 60 days
+            refreshed = call("refresh_access_token", {"grant_type": "ig_refresh_token"}, base="https://graph.instagram.com")
+            print(f"token valid for {refreshed.get('expires_in', 0) // 86400} more days")
+        user_id = USER_ID or call("me", {"fields": "user_id,username"})["user_id"]
+        print("posting as", call(user_id, {"fields": "username"}).get("username"))
         if mode == "daily" and not force:
             gap = hours_since_last_post(user_id)
             if gap is not None and gap < MIN_GAP_HOURS:
