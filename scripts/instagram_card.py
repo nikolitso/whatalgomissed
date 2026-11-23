@@ -82,7 +82,7 @@ def stars(r):
     return "★" * int(r) + ("½" if r % 1 else "")
 
 
-def card(slug):
+def card(slug, out=None):
     fm = (ROOT / "content" / "films" / f"{slug}.md").read_text(encoding="utf-8").replace("\r\n", "\n").split("\n---", 1)[0]
     title, year, director = field(fm, "title"), field(fm, "year"), field(fm, "director")
     country, rating = field(fm, "country"), float(field(fm, "rating") or 0)
@@ -124,8 +124,9 @@ def card(slug):
     d.text((132 + d.textlength("What Algo ", font=brand), base), "Missed", font=font("PlayfairDisplay-Italic[wght].ttf", 30, 400), fill=GOLD, anchor="ls")
     d.text((W - 72, base), "whatalgomissed.com", font=font("IBMPlexMono-Medium.ttf", 22), fill=MUTED, anchor="rs")
 
-    OUT.mkdir(exist_ok=True)
-    img.save(OUT / f"{slug}.jpg", quality=92)
+    out = Path(out) if out else OUT
+    out.mkdir(parents=True, exist_ok=True)
+    img.save(out / f"{slug}.jpg", quality=90)
 
     summary = field(fm, "x_post")
     tag = re.sub(r"[^a-z]", "", country.lower().split(",")[0])
@@ -133,8 +134,10 @@ def card(slug):
     caption = (f"{summary}\n\n{title} ({year})\nDirected by {director} · {country}\nMy rating: {stars(rating)} ({rating:g}/5)\n\n"
                f"Full review and trailer: link in bio\n\n"
                f"#worldcinema #filmrecommendations #cinephile #arthousefilm #{tag}cinema #{tag}film")
-    (OUT / f"{slug}.txt").write_text(caption + "\n", encoding="utf-8")
+    if out == OUT:
+        (out / f"{slug}.txt").write_text(caption + "\n", encoding="utf-8")
     print(f"{slug}: ok")
+    return caption
 
 
 if __name__ == "__main__":
