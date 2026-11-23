@@ -7,6 +7,7 @@ title / director / country / rating, then an end card sends people to the review
 Each still pans slowly and zooms; shots cross-fade. A silent audio track is included
 (Instagram's music library can only be added in the app).
 """
+import hashlib
 import os
 import re
 import subprocess
@@ -155,10 +156,19 @@ def reel(slug, stills, out):
 
     total = 4 * SHOT + END
     n = round(total * FPS)
+    # Music: royalty-free tracks in brand/music/ (mp3/m4a), one picked per film; silent if the folder is empty
+    tracks = sorted(p for p in (ROOT / "brand" / "music").glob("*") if p.suffix.lower() in (".mp3", ".m4a", ".wav"))
+    if tracks:
+        track = tracks[int(hashlib.sha1(slug.encode()).hexdigest(), 16) % len(tracks)]
+        audio_in = ["-stream_loop", "-1", "-i", str(track)]
+        audio_fx = ["-af", f"afade=t=in:d=0.8,afade=t=out:st={total - 1.8:.2f}:d=1.8,volume=0.85"]
+        print("music:", track.name)
+    else:
+        audio_in, audio_fx = ["-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo"], []
     cmd = [ffmpeg_exe(), "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
-           "-r", str(FPS), "-i", "-", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo",
-           "-shortest", "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p",
-           "-c:a", "aac", "-b:a", "96k", "-movflags", "+faststart", str(out)]
+           "-r", str(FPS), "-i", "-", *audio_in, "-map", "0:v", "-map", "1:a", *audio_fx,
+           "-t", f"{total:.2f}", "-c:v", "libx264", "-preset", "medium", "-crf", "21", "-pix_fmt", "yuv420p",
+           "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", str(out)]
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
 
     def scene(i, t_abs):
