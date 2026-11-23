@@ -10,7 +10,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from share_on_x import field  # noqa: E402
+from share_on_x import field, slugify  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 FONTS = ROOT / "brand" / "fonts"
@@ -129,10 +129,11 @@ def card(slug, out=None):
     img.save(out / f"{slug}.jpg", quality=90)
 
     summary = field(fm, "x_post")
-    tag = re.sub(r"[^a-z]", "", country.lower().split(",")[0])
+    web = f"whatalgomissed.com/films/{slugify(field(fm, 'slug') or slug)}/"
+    tag =re.sub(r"[^a-z]", "", country.lower().split(",")[0])
     tag = NATIONAL.get(tag, tag)
     caption = (f"{summary}\n\n{title} ({year})\nDirected by {director} · {country}\nMy rating: {stars(rating)} ({rating:g}/5)\n\n"
-               f"Full review and trailer: link in bio\n\n"
+               f"Full review and trailer: link in bio\n{web}\n\n"
                f"#worldcinema #filmrecommendations #cinephile #arthousefilm #{tag}cinema #{tag}film")
     if out == OUT:
         (out / f"{slug}.txt").write_text(caption + "\n", encoding="utf-8")

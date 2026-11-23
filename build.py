@@ -736,6 +736,29 @@ def build_browse():
 </div></section>"""
     write("/browse/", layout("Browse", body, "/browse/"))
 
+def build_instagram():
+    """/ig/: the link-in-bio page. Films posted on Instagram, newest first, each linking to its review."""
+    p = os.path.join(ROOT, "content", "instagram_posted.json")
+    posted = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else []
+    by_slug = {f["slug"]: f for f in FILMS}
+    films = [by_slug[s] for s in reversed(posted)
+             if s in by_slug and os.path.exists(os.path.join(ROOT, "assets", "instagram", s + ".jpg"))]
+    tiles = "".join(
+        f'<a class="ig-tile" href="{f["url"]}"><img src="/assets/instagram/{f["slug"]}.jpg" '
+        f'alt="{esc(f["title"])} ({f["year"]}), directed by {esc(str(f.get("director") or ""))}" width="1080" height="1350" '
+        f'loading="{"eager" if i < 6 else "lazy"}" decoding="async"><span class="ig-cap">{esc(f["title"])} →</span></a>'
+        for i, f in enumerate(films))
+    empty = '<p class="ph-sub">The first films are on their way. Meanwhile, start with the <a href="/must-see/">Must See</a> list.</p>'
+    body = page_head("From Instagram", "Tap a film to read the review",
+                     "Every film posted on @whatalgomissed, newest first, with the full write-up and trailer one tap away.") + f"""
+<section class="section"><div class="wrap">
+  {f'<div class="ig-grid">{tiles}</div>' if films else empty}
+  <p class="ig-more"><a class="btn" href="/">Explore all {len(FILMS)} films</a>
+  <a class="btn" href="{INSTAGRAM}" rel="me">Follow @whatalgomissed</a></p>
+</div></section>"""
+    write("/ig/", layout("From Instagram", body, "/ig/",
+                         "Films posted on Instagram by @whatalgomissed, each linking to the full review and trailer."))
+
 def build_all_films():
     lists_opts = "".join(f'<option value="{l["slug"]}">{esc(l["title"])}</option>' for l in LISTS if l["films"])
     c_opts = "".join(f'<option value="{slugify(c)}">{esc(c)} ({len(fs)})</option>' for c, fs in sorted(COUNTRIES.items()))
@@ -861,7 +884,7 @@ def main():
         shutil.rmtree(OUT)
     os.makedirs(OUT)
     build_home(); build_all_films(); build_lists(); build_taxonomies(); build_browse()
-    build_by_year(); build_finder(); build_pages(); build_404(); build_awards()
+    build_by_year(); build_finder(); build_pages(); build_404(); build_awards(); build_instagram()
     for f in FILMS:
         build_film(f)
     for path, content in pages.items():

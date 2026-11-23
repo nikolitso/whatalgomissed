@@ -56,7 +56,8 @@ def load_state():
 
 
 def save_state(posted):
-    STATE.write_text(json.dumps(sorted(set(posted)), indent=1) + "\n", encoding="utf-8")
+    # keep posting order (oldest first): the /ig/ page on the site shows newest first
+    STATE.write_text(json.dumps(list(dict.fromkeys(posted)), indent=1) + "\n", encoding="utf-8")
 
 
 def hours_since_last_post(user_id):

@@ -308,3 +308,11 @@ img.own,.card:hover .card-img img.own,.list-card:hover .list-img img.own,.still 
 .faq-item[open] summary::after{transform:rotate(45deg)}
 .faq-item .prose{padding:0 0 18px;font-size:18px;color:var(--muted)}
 .faq-item .prose p{margin:0}
+
+/* /ig/ link-in-bio page */
+.ig-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px}
+.ig-tile{display:block;text-decoration:none;color:inherit}
+.ig-tile img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;border-radius:4px;transition:transform .2s}
+.ig-tile:hover img{transform:translateY(-2px)}
+.ig-cap{display:block;margin-top:8px;font-family:var(--mono);font-size:12px;letter-spacing:.06em;color:var(--muted)}
+.ig-more{display:flex;flex-wrap:wrap;gap:12px;margin-top:36px}
