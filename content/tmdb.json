@@ -471,13 +471,14 @@
     "id": 3875,
     "title": "Brothers",
     "year": "2004",
-    "backdrop": "/assets/backdrops/brothers.jpg",
-    "poster": "/assets/posters/brothers.jpg",
     "cast": [
       "Connie Nielsen",
       "Ulrich Thomsen",
       "Nikolaj Lie Kaas"
-    ]
+    ],
+    "backdrop": "/assets/backdrops/brothers.jpg",
+    "poster": "/assets/posters/brothers.jpg",
+    "pin": "/7Vq8FDnmkw75QRipA5zLkTsTgdU.jpg"
   },
   "calle-malaga": {
     "id": 1399462,
