@@ -82,6 +82,46 @@ def stars(r):
     return "★" * int(r) + ("½" if r % 1 else "")
 
 
+ISO = {"italy": "IT", "denmark": "DK", "greece": "GR", "israel": "IL", "iceland": "IS", "spain": "ES", "iran": "IR",
+       "germany": "DE", "france": "FR", "unitedkingdom": "GB", "sweden": "SE", "norway": "NO", "lebanon": "LB",
+       "brazil": "BR", "belgium": "BE", "morocco": "MA", "croatia": "HR", "argentina": "AR", "usa": "US", "turkey": "TR",
+       "tunisia": "TN", "mexico": "MX", "ukraine": "UA", "southkorea": "KR", "slovakia": "SK", "serbia": "RS",
+       "russia": "RU", "philippines": "PH", "panama": "PA", "netherlands": "NL", "japan": "JP", "india": "IN",
+       "hungary": "HU", "georgia": "GE", "czechrepublic": "CZ", "cyprus": "CY", "chile": "CL", "poland": "PL",
+       "finland": "FI", "portugal": "PT", "austria": "AT", "romania": "RO", "palestine": "PS", "taiwan": "TW"}
+
+# Closing lines that invite a comment (one per film, picked by slug so it never changes)
+QUESTIONS = ["Have you seen it? What did you think of the ending?",
+             "Have you seen it? Tell me in the comments.",
+             "Seen it already, or is it going on your watchlist?",
+             "Which film by this director should I review next?",
+             "Did this one ever reach your streaming feed?",
+             "Have you seen it? Save this for your next film night."]
+
+
+def flag(country):
+    """Flag emoji for the first country, or '' if unknown."""
+    code = ISO.get(re.sub(r"[^a-z]", "", re.split(r"[,/]", country)[0].lower()), "")
+    return "".join(chr(0x1F1E6 + ord(c) - 65) for c in code)
+
+
+def question(slug):
+    return QUESTIONS[sum(map(ord, slug)) % len(QUESTIONS)]
+
+
+def name_tags(title, director):
+    """#TheHunt #ThomasVinterberg: hashtags people actually search for the film and director."""
+    def tag(s):
+        import unicodedata
+        s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
+        return "#" + "".join(w[:1].upper() + w[1:] for w in re.findall(r"[A-Za-z0-9]+", s))
+    names = [d.strip() for d in re.split(r",| and | & ", director) if d.strip()][:2]
+    if len(names) == 2 and " " not in names[0]:  # "Jean-Pierre & Luc Dardenne": share the surname
+        names[0] += " " + names[1].split()[-1]
+    tags = [tag(title)] + [tag(d) for d in names]
+    return " ".join(t for t in tags if len(t) > 2)
+
+
 def card(slug, out=None):
     fm = (ROOT / "content" / "films" / f"{slug}.md").read_text(encoding="utf-8").replace("\r\n", "\n").split("\n---", 1)[0]
     title, year, director = field(fm, "title"), field(fm, "year"), field(fm, "director")
@@ -132,9 +172,9 @@ def card(slug, out=None):
     web = f"whatalgomissed.com/films/{slugify(field(fm, 'slug') or slug)}/"
     tag =re.sub(r"[^a-z]", "", country.lower().split(",")[0])
     tag = NATIONAL.get(tag, tag)
-    caption = (f"{summary}\n\n{title} ({year})\nDirected by {director} · {country}\nMy rating: {stars(rating)} ({rating:g}/5)\n\n"
-               f"Full review and trailer: link in bio\n{web}\n\n"
-               f"#worldcinema #filmrecommendations #cinephile #arthousefilm #{tag}cinema #{tag}film")
+    caption = (f"{summary}\n\n{title} ({year}) {flag(country)}\nDirected by {director} · {country}\nMy rating: {stars(rating)} ({rating:g}/5)\n\n"
+               f"{question(slug)}\n\nFull review and trailer: link in bio\n{web}\n\n"
+               f"{name_tags(title, director)} #worldcinema #filmrecommendations #cinephile #arthousefilm #{tag}cinema")
     if out == OUT:
         (out / f"{slug}.txt").write_text(caption + "\n", encoding="utf-8")
     print(f"{slug}: ok")

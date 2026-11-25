@@ -20,7 +20,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from bluesky_post import film  # noqa: E402
-from instagram_card import NATIONAL, stars  # noqa: E402
+from instagram_card import NATIONAL, flag, name_tags, question, stars  # noqa: E402
 from instagram_post import API, TOKEN, USER_ID, call  # noqa: E402
 from instagram_reel import SHOT, reel  # noqa: E402
 from share_on_x import field, slugify  # noqa: E402
@@ -90,9 +90,9 @@ def caption(f):
     tag = NATIONAL.get(slugify(country.split(",")[0]).replace("-", ""), slugify(country.split(",")[0]).replace("-", ""))
     web = f"whatalgomissed.com/films/{f['slug']}/"
     # The first line works as the Reel's title (it's what shows under the video)
-    return (f"{title} ({year}) · {country}\n\n{field(fm, 'x_post')}\n\nDirected by {director}\n"
-            f"My rating: {stars(rating)} ({rating:g}/5)\n\nFull review and trailer: link in bio\n{web}\n\n"
-            f"#worldcinema #filmrecommendations #cinephile #arthousefilm #{tag}cinema #moviereels")
+    return (f"{title} ({year}) {flag(country)} · {country}\n\n{field(fm, 'x_post')}\n\nDirected by {director}\n"
+            f"My rating: {stars(rating)} ({rating:g}/5)\n\n{question(f['slug'])}\n\nFull review and trailer: link in bio\n{web}\n\n"
+            f"{name_tags(title, director)} #worldcinema #filmrecommendations #cinephile #{tag}cinema #moviereels")
 
 
 def hours_since_last_reel(user_id):

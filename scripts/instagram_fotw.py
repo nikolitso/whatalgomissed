@@ -26,7 +26,7 @@ from PIL import Image, ImageDraw
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from bluesky_post import film  # noqa: E402
-from instagram_card import (CREAM, DARK, GOLD, MUTED, NATIONAL, W, H, draw_stars, font,  # noqa: E402
+from instagram_card import (flag, name_tags, question, CREAM, DARK, GOLD, MUTED, NATIONAL, W, H, draw_stars, font,  # noqa: E402
                             mark, stars, wrap)
 from instagram_post import USER_ID, call, git  # noqa: E402
 from instagram_reel_post import stills_for  # noqa: E402
@@ -191,11 +191,11 @@ def caption(f):
     tag = slugify(re.split(r"[,/]", country)[0]).replace("-", "")
     tag = NATIONAL.get(tag, tag)
     rating = float(field(fm, "rating") or 0)
-    return (f"FILM OF THE WEEK · {field(fm, 'title')} ({field(fm, 'year')}) · {country}\n\n"
+    return (f"FILM OF THE WEEK · {field(fm, 'title')} ({field(fm, 'year')}) {flag(country)} · {country}\n\n"
             f"{extract}\n\n“{quote_from(f)}”\n\n"
             f"Directed by {field(fm, 'director')}\nMy rating: {stars(rating)} ({rating:g}/5)\n\n"
-            f"Full review and trailer: link in bio\nwhatalgomissed.com/films/{f['slug']}/\n\n"
-            f"#filmoftheweek #worldcinema #filmrecommendations #cinephile #arthousefilm #{tag}cinema")
+            f"{question(f['slug'])}\n\nFull review and trailer: link in bio\nwhatalgomissed.com/films/{f['slug']}/\n\n"
+            f"#filmoftheweek {name_tags(field(fm, 'title'), field(fm, 'director'))} #worldcinema #filmrecommendations #cinephile #{tag}cinema")
 
 
 # Seasonal relevance: words in the review / summary that tie a film to a time of year
